@@ -1,0 +1,149 @@
+=======================
+= End-of-Shift report =
+=======================
+
+Timeframe:   Donnerstag 31-12-2015 18:00 − Montag 04-01-2016 18:00
+Handler:     Stephan Richter
+Co-Handler:  n/a
+
+
+
+
+*** Identische SSH-Schlüssel auf Hetzner-Servern ***
+---------------------------------------------
+Aufgrund identischer SSH-Schlüssel können Angreifer verschlüsselte Verbindungen von Servern von Hetzner belauschen.
+---------------------------------------------
+http://heise.de/-3057777
+
+
+
+
+*** Difficult to block JavaScript-based ransomware can hit all operating systems ***
+---------------------------------------------
+A new type of ransomware that still goes undetected by the great majority of AV solutions has been spotted and analyzed by Emsisoft researchers (via Google Translate). Ransom32 is delivered on the ...
+---------------------------------------------
+http://www.net-security.org/malware_news.php?id=3184
+http://blog.emsisoft.com/de/2016/01/01/meet-ransom32-the-first-javascript-ransomware/
+
+
+
+
+*** Apple had more CVEs than any single MS product in 2015, but it doesnt really matter ***
+---------------------------------------------
+Meaningless league table sparks silly schadenfreude A count of the number of CVEs issues on different platforms in 2015 has concluded that Apple was the most-advisoried operating system of the year, leading to gloating headlines that OS X is the "most vulnerable" of the lot.
+---------------------------------------------
+http://go.theregister.com/feed/www.theregister.co.uk/2016/01/04/apple_had_more_cves_than_any_single_ms_product_in_2015_but_it_doesnt_really_matter/
+
+
+
+
+*** Cisco Jabbers in the clear due to STARTTLS bug ***
+---------------------------------------------
+Sysadmins get a belated Christmas present Twas the night before Christmas, when sysadmins probably werent watching their advisory feeds, that Cisco announced a vulnerability in its Jabber for Windows.
+---------------------------------------------
+http://go.theregister.com/feed/www.theregister.co.uk/2016/01/04/cisco_jabbers_in_the_clear_due_to_starttls_bug/
+
+
+
+
+*** BlackEnergy cyberespionage group adds disk wiper and SSH backdoor to its arsenal ***
+---------------------------------------------
+A cyberespionage group focused on companies and organizations in the energy sector has recently updated its arsenal with a destructive data-wiping component and a backdoored SSH server.The group is known in the security community as Sandworm or BlackEnergy, after its primary malware tool, and has been active for several years. It has primarily targeted companies that operate industrial control systems, especially in the energy sector, but has also gone after high-level government organizations,...
+---------------------------------------------
+http://www.cio.com/article/3018790/blackenergy-cyberespionage-group-adds-disk-wiper-and-ssh-backdoor-to-its-arsenal.html#tk.rss_security
+
+
+
+
+*** The current state of boot security ***
+---------------------------------------------
+I gave a presentation at 32C3 this week. One of the things I said was "If any of you are doing seriously confidential work on Apple laptops, stop. For the love of god, please stop." I didnt really have time to go into the details of that at the time, but right now Im sitting on a plane with a ridiculous sinus headache and the pseudoephedrine hasnt kicked in yet so here we go.The basic premise of my presentation was that its very difficult to determine whether your system is in a...
+---------------------------------------------
+http://mjg59.dreamwidth.org/39339.html
+
+
+
+
+*** A Tip For The Analysis Of MIME Files, (Sat, Jan 2nd) ***
+---------------------------------------------
+Ive written a diary entry about malicious MS Office documents stored as MIME files. A few days ago a reader contacted me for a problem he had analyzing such a maldoc MIME file. When he used emldump to analyze his sample (f67aa5a3ede3d31c5a68494c0678e2ee), it was not a multipart:  $ ./emldump.py f67aa5a3ede3d31c5a68494c0678e2ee.vir 1: boundary=----=_NextPart_Jm9Ovypy.uUh6MCk charset=us-ascii $  You can make emldump skip this first line with option -H:  $ ./emldump.py -H...
+---------------------------------------------
+https://isc.sans.edu/diary.html?storyid=20561&rss
+
+
+
+
+*** More Internet of Things irony: a security alarm with alarming security ***
+---------------------------------------------
+Imagine that a crook could change the text ALARM STATUS RED in your intruder alarm alerts to say ALARM STATUS GREEN...
+---------------------------------------------
+https://nakedsecurity.sophos.com/2016/01/03/more-internet-of-things-irony-a-security-alarm-with-alarming-security/
+
+
+
+
+*** DFN-CERT-2016-0001: Mozilla Firefox, Network Security Services: Eine Schwachstelle ermöglicht das Umgehen von Sicherheitsvorkehrungen ***
+---------------------------------------------
+Bitte beachten Sie: Zur Behebung der hier genannten Schwachstelle hat Mozilla am 28. Dezember 2015 das Security Advisory MFSA2015-150 veröffentlicht, dieses aber kurze Zeit später, ohne Angaben von Gründen, wieder zurückgezogen. Zeitgleich wurde die Firefox Version 43.0.3 bereitgestellt. Ob die hier genannte Schwachstelle in der Version also tatsächlich behoben ist, ist unklar. In den Release Notes zur Firefox Version 43.0.3 wird die Schwachstelle nicht genannt. 
+---------------------------------------------
+https://portal.cert.dfn.de/adv/DFN-CERT-2016-0001/
+
+
+
+
+*** Mozilla Firefox MD5 Signature Support in TLS ServerKeyExchange Messages Exposes Users to Hash Collision Forgery Attacks ***
+---------------------------------------------
+http://www.securitytracker.com/id/1034541
+
+
+
+
+*** DFN-CERT-2016-0004: Mozilla Thunderbird: Mehrere Schwachstellen ermöglichen u.a. das Ausführen beliebigen Programmcodes ***
+---------------------------------------------
+https://portal.cert.dfn.de/adv/DFN-CERT-2016-0004/
+
+
+
+
+*** Bugtraq: OSS-2016-03: Insufficient Integrity Protection in Winkhaus Bluesmart locking systems using Hitag S ***
+---------------------------------------------
+http://www.securityfocus.com/archive/1/537223
+
+
+
+
+*** Bugtraq: OSS-2016-02: Weak authentication in NXP Hitag S transponder allows an attacker to read, write and clone any tag ***
+---------------------------------------------
+http://www.securityfocus.com/archive/1/537224
+
+
+
+
+*** Bugtraq: Confluence Vulnerabilities ***
+---------------------------------------------
+http://www.securityfocus.com/archive/1/537232
+
+
+
+
+*** DSA-3433 samba - security update ***
+---------------------------------------------
+Several vulnerabilities have been discovered in Samba, a SMB/CIFS file,print, and login server for Unix. The Common Vulnerabilities andExposures project identifies the following issues:
+---------------------------------------------
+https://www.debian.org/security/2016/dsa-3433
+
+
+
+
+*** PCRE Heap Overflow in pcre_compile2() in Processing Certain Regex Patterns May Let Remote Users Execute Arbitrary Code ***
+---------------------------------------------
+http://www.securitytracker.com/id/1034555
+
+
+
+
+*** #2015-012 Ganeti multiple issues ***
+---------------------------------------------
+Ganeti, an open source virtualization manager, suffers from multiple issues in its RESTful control interface (RAPI).
+---------------------------------------------
+http://www.ocert.org/advisories/ocert-2015-012.html
