@@ -1,0 +1,743 @@
+ADTipsTricks
+
+        How to properly delegate tasks in #ActiveDirectory
+
+ChrisJohnRiley
+
+        ... and so the beginning of the end begins!https://twitter.com/digininja/status/817311728170127360 ... 
+
+Dinosn
+
+        The Plone community claims the FBI hack is a fake, it's a mysteryhttp://securityaffairs.co/wordpress/55096/cyber-crime/cyberzeist-fbi-hack.html ... 
+        New MM Core APT Malware Strains Discoveredhttp://bestsecuritysearch.com/new-mm-core-apt-malware-strains-discovered/ ... 
+        Inside the 74181 ALU chip: die photos and reverse engineering http://www.righto.com/2017/01/die-photos-and-reverse-engineering.html ... 
+        Analyzing a variant of the GM Bot Android malwarehttp://securityaffairs.co/wordpress/55125/malware/gm-bot-android-malware.html ... 
+        Bypassing AntiVirus with Golang https://averagesecurityguy.github.io/2017/01/06/bypassing-av-with-golang/ ... 
+        Exitmap -- Tor Exit Relay Scannerhttp://www.darknet.org.uk/2017/01/exitmap-tor-exit-relay-scanner/ ... 
+        Cybersecurity Expert Links Taiwan And Europe ATM Hackshttp://www.darkreading.com/threat-intelligence/cybersecurity-expert-links-taiwan-and-europe-atm-hacks/d/d-id/1327843 ... 
+        Ultrasound Tracking Could Be Used To Deanonymize Tor Users  https://science.slashdot.org/story/17/01/05/2159219/ultrasound-tracking-could-be-used-to-deanonymize-tor-users ... 
+        How to get into IoT Hardware Hacking (Introductory Guide)https://blog.securityevaluators.com/the-introductory-iot-hardware-hacking-tool-box-389c4605329f ... 
+        CVE-2016-7200 & CVE-2016-7201 (Edge) and Exploit Kits http://malware.dontneedcoffee.com/2017/01/CVE-2016-7200-7201.html ... 
+        Lateral Movement using the MMC20.Application COM Objecthttps://enigma0x3.net/2017/01/05/lateral-movement-using-the-mmc20-application-com-object/ ... 
+        The curious case of a Sundown EK variant dropping a Cryptocurrency Miner https://blog.malwarebytes.com/cybercrime/2017/01/the-curious-case-of-a-sundown-ek-variant-dropping-a-cryptocurrency-miner/ ... 
+        Notes on iOS 10.1.1 exploit https://translate.google.com/translate?sl=auto&tl=en&js=y&prev=_t&hl=en&ie=UTF-8&u=http%3A%2F%2Fblog.pangu.io%2Fmach-portal-details%2F&edit-text= ... 
+        My 1980s IBM Typewriter/Teletype hackhttps://www.youtube.com/watch?v=Awxbu8y5cv8 ... 
+        President Putin ordered cyber attacks and propaganda to influence US Electionhttp://securityaffairs.co/wordpress/55130/reports/putin-cyber-attacks.html ... 
+        Malware Uses DoS Attack In Attempt To Crash Macs http://www.zdnet.com/article/malware-uses-denial-of-service-attack-in-attempt-to-crash-macs/ ... 
+        Arbitrary Kernel Memory Reads on Illumos http://benmmurphy.github.com/blog/2017/01/06/arbitrary-kernel-memory-reads-on-illumos/ ... 
+        @rhymebyter @Dinosn /dev/mem and /dev/kmem allow arbitrary physical and kernel memory reads too. ps on some platforms used /dev/kmem
+
+JasonLeopold
+
+        FBI confirms suspect in Ft. Lauderdale airport shooting is Anchorage resident, wont comment on past contact w himhttps://www.buzzfeed.com/buzzfeednews/fort-lauderdale-airport?utm_term=.rx0YqVvVKv#.ql2QDBpBXp ... 
+        This is a good time to re-read @AdrianChen's incredible investigation into the Russian troll operation.http://www.nytimes.com/2015/06/07/magazine/the-agency.html ... 
+        The #FBI quietly released another 465 pages of Muhammad Ali's file - you can all the released pages here https://archive.org/details/MuhammadAliFBI ...  #FOIA
+        FBI releases file on rap producer Jerry Heller http://bit.ly/2hZBEDE  #FOIA
+        NEWLY RELEASED on @FBIRecordsVault: Tattoo Recognition Database. Which amounts to a single page https://vault.fbi.gov/tattoo-recognition-database/tattoo-recognition-database-part-01-of-01/view ...  #FOIA
+        Thanks to #FOIA, we now know that the source of the FBI's iPhone exploit is not an accused or recently-convicted fraudster.pic.twitter.com/WnOQUPY2AG
+        Hey look, we just got the FBI's contract for the mystery exploit it used to unlock the San Bernardino gunman's iPhone. #FOIApic.twitter.com/pCFMMlcrVZ
+        Among the many things the FBI is not disclosing: Its nondisclosure agreement with the mystery party that supplied its iPhone exploit.pic.twitter.com/mksiEGuEtD
+        As some have pointed out, the NYT has completely reworked the story at this link, including headline.https://twitter.com/nyt_diff/status/817482927009394689 ... 
+
+        BREAKING: Trump tells AP he 'learned a lot' from intel briefing, declines to say if he accepts Russia's role in election meddling
+        "White House says it did not leak material used in NBC report" -http://www.reuters.com/article/idUSKBN14Q26A ... 
+        "Anarchists threaten to disrupt Trump inauguration, police say ready" -http://www.reuters.com/article/idUSKBN14Q2BG ... 
+        SCOOP: the day after Obama announced Russia sanctions, ~someone~ tried to hack the DNC. Again.https://www.buzzfeed.com/alimwatkins/hackers-tried-to-break-into-dnc-computers-right-before-new-y ... 
+        The declassified US intel report on Russian hacking is full of bombshells like "RT is controlled by the Kremlin." https://www.dni.gov/files/documents/ICA_2017_01.pdf ... 
+        Thousands of Marines fought in southern Afghanistan. Now, the service is going back.http://wapo.st/2jcUqIB 
+        Trump Nominees' Filings Threaten to Overwhelm Federal Ethics Office http://nyti.ms/2i2pixX  @EricLiptonNYT
+        "Someone is lying their ass off." - US intelligence official on FBI-DNC spat over hacked servers:https://www.buzzfeed.com/alimwatkins/dnc-that-fight-with-fbi-over-hacked-servers-was-all-a-misund?utm_term=.oo7R1NN32#.yoZXoJJlD ... 
+        Hollywood producer Arnon Milchan tied to corruption inquiry of Israel's prime ministerhttp://lat.ms/2ilMHbi 
+        TRUMP,  when will you understand that I am not paying for that fucken wall. Be clear with US tax payers. They will pay for it.
+        FBI seeks suspect after US consular official shot in Mexicohttps://www.theguardian.com/world/2017/jan/07/us-consular-official-shot-mexico?CMP=Share_AndroidApp_Tweet ... 
+
+Kurt_Vonnegut
+
+        If you want to really hurt your parents, and you don't have the nerve to be gay, the least you can do is go into the arts.
+        Live by the harmless untruths that make you brave and kind and healthy and happy.
+        I can have oodles of charm when I want to.
+
+Myriachan
+
+        And the depression sets in now: I'm sad that I didn't get to go to AGDQ due to my registration failure.
+        Cute sleepy kitty #catspic.twitter.com/sch9jVOVLk
+        Work on my Rockman X1 practice ROM's options menu. Got rendering to work! @domalix @TokyoDC2 @defparam @_Edobean @Walrus_Prime @TrogdorSRLpic.twitter.com/oqUJ3EACob
+
+PhysicalDrive0
+
+        #Unit42 research reveals updates made to the Shifu banking Trojan in 2016. Get the full report http://oak.ctx.ly/r/5cjbl 
+
+Pinboard
+
+        Final reminder, Bay Area Tech Solidarity event TONIGHT in San Francisco, 7 PM. Email or signal me for details.  
+        Venue request: I'm looking for a venue for 1/12 in Chicago, and 1/16 in DC, 7PM. Must fit ~150, not require ID, reachable by public transit.
+        For people who remember the 1980's, it's extra bizarre to see the Republican Party not go apeshit over Russia violating the Monroe Doctrine
+        We invaded GRENADA over Russian interference. Operation Urgent Fury! https://en.wikipedia.org/wiki/Invasion_of_Grenada ... 
+        Operation Fury Time Permitting has not been conducted yet
+        IT PUTS THE LOTION ON ITS SKIN (thanks @lemonodor!)https://twitter.com/thejenlife/status/817103618578923520 ... 
+
+        Call for sponsors: the Committee on American-Islamic Relations (CAIR) in NYC needs 3-4 windows 10 laptops. Contact me if you want to donate
+        I just wanted some water...pic.twitter.com/gdhXKvbNbz
+        If you were at @TechSolidarity tonight and want to join the #AbortionAccessHackathon DM me or find us at: https://www.facebook.com/events/557619991100688??ti=ia ... 
+        @TechSolidarity seeking volunteers, sponsors for , in-kind software and dev support for the event, infosec advisors to keep the ship tight.
+        Really cheered by @pinboard and @heathr and all the speakers at @TechSolidarity. Go when it's in your city.
+
+RichFelker
+
+        Facebook needs an army of bots to post spoilers in the comments on clickbait and snopes in the comments on fake news.
+        If you're a Black person involved in open source software, then I highly recommend applying to attend! http://sourceroadsummit.com/ 
+        Defuse the impulse of curiosity before ppl click and watch ad revenue from these deceptive techniques plummet.
+        Bots just need to follow all the biggest sources of spammy content & reply in a manner that doesn't look too bot-like.
+        But then even if they do get caught as bots, FB is put in the position of looking like they're treating a good deed as a banable offense.
+        Wiki leaks falsely ID's someone while trying to demonstrate why a mass dox list isn't a terrible waste of their time.pic.twitter.com/bgU8bEof8V
+        Pro tip: you can be anti-censorship and also anti- giving lucrative book deals to nazis.
+        Intangible thing they don't tell you about getting into serious threat actor and malware research - there are places you can never go again.
+
+ScienceTip
+
+        Where the term "sound barrier" came from and what it took to conquer it.
+
+SecurityTube
+
+        [Video] Malware's Most Wanted The Evilbunny Malware http://bit.ly/2bTS6DE pic.twitter.com/Q17E6IdnhK
+        [Video] Bsideslv 2016 - There Is No Security Without Privacy - Craig Cunningham http://bit.ly/2bOrTXS pic.twitter.com/K7DgWZQMgp
+        [Video] Bsideslv 2016 - Domains Of Grays - Eric Rand http://bit.ly/2bOqQqR pic.twitter.com/OptJhRXOu2
+        [Video] Bsideslv 2016 - You Don't See Me - Abusing Whitelists To Hide And Run Malware - Michael Spaling http://bit.ly/2bOrRze pic.twitter.com/lfNb3QNKlN
+        [Video] Bsideslv 2016 - Automated Dorking For Fun And Pr^Wsalary - Filip Reesalu http://bit.ly/2bOqSim pic.twitter.com/IRN3tCNS1o
+
+Sh1bumi
+
+        Did you know cats' little bean toes look like teddy bears if you put a bear face on them? Now you do.pic.twitter.com/fe3RVXlziJ
+        Great idea @WLTaskForce can we get a dox on all @Wikileaks, @WikiLeaksParty, @CommunityWL, @WikiLeaksShop employees? https://twitter.com/WLTaskForce/status/817431533183238144 ... 
+        wikileaks complains about people leaking secret informations.https://twitter.com/wikileaks/status/817322050297745408 ... 
+        Remote Command Execution #infosecpic.twitter.com/SpOofQ2ckF
+        Wikileaks: "We're gonna make a network diagram of people and relationships"
+        Erinnert das Design euch auch irgendwie an das Chaos Communication camp 2015 design nur in blau?! oOhttps://twitter.com/InfluxDB/status/809965464918994945 ... 
+        The young Russian programmer sanctioned by Obama denies she is the US election hacker 'I never work with douchebags' https://www.theguardian.com/world/2017/jan/06/russian-hacker-putin-election-alisa-shevchenko?CMP=share_btn_tw ... pic.twitter.com/L6QVB9tsZc
+        https://www.youtube.com/watch?v=Jb4prVsXkZU ... 
+
+SteveBellovin
+
+        @SteveBellovin @coryaltheide @fugueish @cigitalgem devs also have their own Dancing Pigs, e.g. hot new prog langs, methodologies, frameworks
+        Also internet-drafts and white papers. And contract proposals.https://twitter.com/AcademicBatgirl/status/817419505508950017 ... 
+        Declassified Intelligence Community Assessment of Russian Activities and Intentions in Recent U.S. Elections:https://icontherecord.tumblr.com/post/155494946443/odni-statement-on-declassified-intelligence ... 
+        As I argue in my forthcoming article in @HarvardJOLT, we should be very worried about non-governmental surveillance https://papers.ssrn.com/sol3/papers.cfm?abstract_id=2863343 ...  https://twitter.com/WLTaskForce/status/817431533183238144 ... 
+        Just reported this Tweet as threatening. Fingers crossed that @Twitter & @jack agree.pic.twitter.com/qKTY92AYgI
+        What this reveals is that this judgment was based on our spying capabilities, and not our technical capabilities.pic.twitter.com/7geAL3vQHc
+        Who started the anti-pattern that you can't paste into a password field? I have a few angry words to share ...
+        They're the women for the job. See @TheRealTaraji, @JanelleMonae and @OctaviaSpencer in #HiddenFigures, now playing in theaters today.pic.twitter.com/KWdVa24K2a
+        @coryaltheide maybe we're disconnecting cuz 140 but we/infosec serve ppl & aren't the end to the means @cigitalgem @SteveBellovin @fugueish
+        My thoughts on the declassified IC report on Russian attacks on our election.https://medium.com/@dwallach/the-intelligence-community-assessment-of-russian-activities-in-us-elections-and-what-it-means-for-6a792708f919 ... 
+        A fascinating story, and be sure to click through to the Huffington Post article, which has more technical details.https://twitter.com/arstechnica/status/817511151936348160 ... 
+        Was today's briefing to Trump in a SCIF? Contrast http://kwbe.com/abc_politics/what-is-a-scif-inside-the-room-used-for-intelligence-briefings-abcid35840212/ ...  with this WSJ text -- unclear to me if they're consistent.pic.twitter.com/Pz2uGKnV3u
+        But it's not because Russia opposes natural gas it's a play to stifle competitionhttps://twitter.com/amyaharder/status/817492423945449472 ... 
+        I found this pamphlet in a box of old photos.  Dated Dec. 1961.  A full copy is available here: http://www.dahp.wa.gov/sites/default/files/Fallout%20Protection%20What%20to%20Know%20and%20Do.pdf ... pic.twitter.com/7kQmkfc9M2
+        Astronomy #PicoftheDay: New York Harbor Moonset via NASA http://ift.tt/2iPtdiH pic.twitter.com/D9bAoOW19Z
+        OMG, it's great!https://twitter.com/BioDataGanache/status/817568068117245952 ... 
+        "TV anchor says live on-air 'Alexa, order me a dollhouse'": http://www.theregister.co.uk/2017/01/07/tv_anchor_says_alexa_buy_me_a_dollhouse_and_she_does/ ...  (HT: @laurenweinstein)
+        7 janvier 1943 DecÃ¨s de l'inventeur Nikola Tesla #techno #science http://goo.gl/ola8J pic.twitter.com/J0mAZRBeyZ
+        This raises a very good point.  There are two important facets of #attribution.  Convincing leaders in private _and_ convincing the public.https://twitter.com/HackingDave/status/817506320479764481 ... 
+        This is a blatant lie. The report explicitly states that they did not make an assessment on that.https://twitter.com/realdonaldtrump/status/817701436096126977 ... 
+
+SwiftOnSecurity
+
+        NO GODhttps://vine.co/v/iHWPhgZweaZ 
+        This stuff is garbage
+        When you remember your car has heated seatspic.twitter.com/THHZ6TVdy2
+        I would go back in and ask for my money back but it's cold and I don't want to get out of my car
+        Why couldn't the company fall in love with a John Grisham novel?
+        
+        
+        If pasteurization works, why do I have to refrigerate stuff after opening it? I thought all the bacteria were dead? Checkmate, scientists.
+        Focusing on 0days before you have an inventory of your network and patch assurancehttps://vine.co/v/59UHzvJWZDv 
+        Fun fact: Whale furries are called "cetafurs" -- short for Cetacea, which whales and dolphins are a member of.
+        I wonder how other @CES presenters feel having their WiFi products called cancer-causing at the booth next door. This is malpractice.https://twitter.com/internetofshit/status/817517672917151744 ... 
+        Welt.
+        The only kind of "radiation" your balls have to worry about is thermal, you wooden Luddite dildos.https://twitter.com/internetofshit/status/817517672917151744 ... 
+        If you actually think WiFi causes cancer, WHY ARE YOU AT CES?
+        Making you happy makes me happy.
+        Scientists: "We should investigate the effects of carbon emissions on cancer rates."
+        "Khajiit used to be a STALKER like you, then Khajiit took a plutonium arrow to the knee."pic.twitter.com/TiIAdEI1rg
+        @SwiftOnSecurity Khajiit has artifacts if you have coin
+        Here, I think you need this: 
+        If you actually think WiFi causes cancer, WHY ARE YOU AT CES?
+
+TheColonial
+
+        They shall pry away my IRC over my twitching cyborg shell: https://xkcd.com/1782/ pic.twitter.com/t3QzMzasVR
+        [ 2013 ]
+        Dear Members of Congress,
+        Submitted without commentpic.twitter.com/KzbxNUCjW4
+        Egypt keeps trying to block Signal, inadvertently blocking all of Google, and having to stop as a result. We'll also expand domain fronts.https://twitter.com/YoussraSelim/status/816916195664424961 ... 
+        We have openings for exploit mitigation developers.  DM Me for more info!!
+
+ToolsWatch
+
+        Mobile Security Framework (MobSF) v0.9.3
+        WiFi Bruteforcer v1.0 - Android Mobile Application
+        Yasuo v2.3 Ruby Web Application Assessment Tool
+
+Unitfact
+
+        A fortnight is two weeks. It is a contraction of 'fourteen nights.'
+
+UnixToolTip
+
+        TIL in OS X, "SetFile -a e" at the command line will set a file's extension to show in Finder. Use 'E' to hide the extension.
+
+WeldPond
+
+        Trump's team will issue a report in 90 days on protecting US from cyberattack but apparently it will be secret. https://www.washingtonpost.com/world/national-security/intelligence-chiefs-expected-in-new-york-to-brief-trump-on-russian-hacking/2017/01/06/5f591416-d41a-11e6-9cb0-54ab630851e8_story.html ... pic.twitter.com/Nt9BOEVxzg
+        US Energy Dept says electricity system "faces imminent danger" from cyber-attacks https://www.bloomberg.com/news/articles/2017-01-06/grid-in-imminent-danger-from-cyber-threats-energy-report-says ...  Report: https://energy.gov/sites/prod/files/2017/01/f34/Transforming%20the%20Nation%27s%20Electricity%20System-The%20Second%20Installment%20of%20the%20Quadrennial%20Energy%20Review--%20Full%20Report.pdf ... 
+        I get it now.  We are getting hacked so badly because Obama put his cybersecurity executive orders right there out in the open!
+        Election infrastructure is now critical infrastructure. Not sure how I feel about that. https://democrats-homeland.house.gov/sites/democrats.homeland.house.gov/files/documents/Fact%20Sheet-%20Election%20Infrastructure.pdf ... 
+        Trump NSA pick with Putin.https://twitter.com/jesselehrich/status/817532974602272768 ... 
+        #CES2017pic.twitter.com/jDcYlOjTkv
+        New business idea, firewalls for voice enabled devices.http://www.theregister.co.uk/2017/01/07/tv_anchor_says_alexa_buy_me_a_dollhouse_and_she_does/ ... 
+
+_rshapiro
+
+        The total number of public servants purged since the military coup attempt in Turkey rises to 135,000 with today's dismissals.
+        The FBI says the date on which it got the green light to buy its iPhone exploit is classified.pic.twitter.com/JLo7yt1jTi
+        With this done, I can switch focus to the surveillance episode of the podcast - followed by the inauguration special w/ @_rshapiro on Op45!https://twitter.com/natsecgeek/status/817478591113990146 ... 
+        best part of DNI report: "alleged wall street greed" @JordanFreimanpic.twitter.com/9h3elJ9JdB
+        Another VA PD looking to charge me $530 for the records of a single PD employee covering about 10 work days.pic.twitter.com/D9TAC0FazE
+
+_wirepair
+
+        this looks interestinghttps://twitter.com/frontlinepbs/status/817502258757849091 ... 
+
+        TIL: There is a Monkey Island near where I live. I was excited. 
+        https://en.wikipedia.org/wiki/Sarushima 
+        phew, sure is lucky so many if you infosec pros turned out to be intelligence experts. what would we have done otherwise.
+        This is disturbingly clever. You get sent to a text/html data URI! Not testing any further but, blimey, talk about using power for evil.pic.twitter.com/TamVn7DBfW
+
+adulau
+
+        "Unlikely" is only used in the estimative language description in   https://www.dni.gov/files/documents/ICA_2017_01.pdf ...  "the Russian activities report in US elections".
+        "Criteria for assessing security of OSINT tools" is a nifty list when selecting software or services to do/support OSINT gathering/mining.pic.twitter.com/rfsFkwvA6l
+        One of my favourite song of @paraoner  https://soundcloud.com/para-one/para-one-finale-1 ...  dark and positive at the same time. #electronicmusic
+
+anantshri
+
+        Ahahaha, just found a Windows 10 install ISO on BitTorrent which includes a scheduled task to download and run ransomware exe after 90 days.
+        The latest Hackers and Geeks Weekly! http://paper.li/anantshri/1324827154?edition_id=1503e480-d48e-11e6-8c0f-0cc47a0d1605 ...  #ss7map #31c3
+        Sharing: "Merge pull request" Considered Harmful via /r/programminghttps://www.reddit.com/r/programming/comments/5mh6ut/merge_pull_request_considered_harmful/?utm_source=ifttt ... 
+        If you aren't having fun creating content, you're doing it wrong.- Ann Handley #quote
+        Oh.. Myhttps://twitter.com/josephfcox/status/817725359357628416 ... 
+
+angealbertini
+
+        Started a PS4 overlay for Gentoo, to make it easier to install the patched packages and firmware:https://github.com/fail0verflow/ps4-overlay ... 
+        The new pcA command renders out the current block in a format compatible with GAS with disassembly commentspic.twitter.com/BQxcczX1hR
+        Exciting news: I am now part of Unknown Realm creating original C64 music for it (for the first time since 1991)! :) https://www.kickstarter.com/projects/stirringdragongames/unknown-realm-an-8bit-rpg-for-pc-and-commodore-64/posts/1778894 ... 
+        Luckily, there is no standard vector image file format...https://twitter.com/tomscott/status/812265182646927361 ... 
+        New Arybo release available! Featuring expression identification & assembling (thanks to LLVM), and IDA patching :)! http://pythonhosted.org/arybo/setup.html ... pic.twitter.com/plSneDLxXK
+        with notes from Yuzo Koshiro from 2016https://twitter.com/kingmonkey25/status/817498557955485696 ... 
+        Who created a classic game entirely (gfx+sound+dev) : Garriot, Mechner, Chahi, ... ?
+
+barryeisler
+
+        If only no one had talked about how the Clintons took $150 million from Wall Street for private speeches, Hillary would be president.https://twitter.com/peterdaou/status/817398494721966083 ... 
+        In fact, now that I'm thinking about it, I realize Bernie made HRC give all those speeches and take all that money. Damn you @BernieSanders!
+        You can tell Russia is aggressive because they put their country so close to our military exerciseshttps://twitter.com/BenjaminNorton/status/817418434812248065 ... 
+        BREAKING: video of @BernieSanders hatefully savaging Hillary Clinton's characterhttp://bit.ly/2iNk3k4 
+
+berendjanwever
+
+        IoT security:
+
+binitamshah
+
+        Sometimes I wish weekends never end....ahhh the lazy me :(
+        exitmap : A fast and modular scanner for Tor exit relays : https://github.com/NullHypothesis/exitmap ...  , More : http://www.cs.kau.se/philwint/spoiled_onions/ ... 
+        Switching System 7 (SS7) Security flaws :https://steemit.com/hacking/@jdcrunchman/switching-system-7-ss7-security-flaws ... 
+        Modern Windows Exploit Development : https://drive.google.com/file/d/0B8sHjc3kJKQrUTYxSkpldy01ZWs/view ... 
+        Bypassing AntiVirus with Golang : https://averagesecurityguy.github.io/2017/01/06/bypassing-av-with-golang/ ...  , Github : https://github.com/averagesecurityguy/scripts/blob/master/stealth.go ...  cc @averagesecguy
+        WikiLeaks proposes tracking verified Twitter users' homes, families and finances : https://www.washingtonpost.com/news/the-switch/wp/2017/01/06/wikileaks-proposes-tracking-verified-twitter-users-homes-families-and-finances/ ...  > ftw,I'm leaving for Mars
+        PowerShellArsenal : A PowerShell Module Dedicated to Reverse Engineering : https://github.com/mattifestation/PowerShellArsenal ...  cc @mattifestation  (rpt*)
+        Cellpot : A Concept for Next Generation Cellular Network Honeypots : http://www.internetsociety.org/sites/default/files/02_1-paper_0.pdf ...  (pdf)
+        For anybody who loves jalapeno's/Ghost pepper ask them to have "Assam's Bhut Jolokia chilli challenge" --> https://www.youtube.com/watch?v=Mta2SVoXHNU ...  #culinary
+        GitHub Enterprise SQL Injection : http://blog.orange.tw/2017/01/bug-bounty-github-enterprise-sql-injection.html ... 
+        Build your PiZero Swarm with OTG networking :  http://blog.alexellis.io/pizero-otg-swarm/ ... pic.twitter.com/YBA9kkp4MA
+        OWASP TOP10 : Security Misconfiguration #5 -- CORS Vuln' & Patch : http://blog.securelayer7.net/owasp-top-10-security-misconfiguration-5-cors-vulnerability-patch/ ...  cc @SandeepL337 @garage4hackers @SaurabhBanawar
+        Writing Your Own HTTP/2 Server : https://python-hyper.org/projects/h2/en/stable/basic-usage.html ... 
+        WinDbg (Everything you ever wanted to know) :http://expdev-kiuhnm.rhcloud.com/2015/05/17/windbg/ ... 
+
+bobmcmillan
+
+        The @ODNIgov has released the declassified report on "Russian activities and intentions in recent U.S. elections" http://bit.ly/2ikQG7M 
+        Most interesting thing in the report, IMO.https://twitter.com/pwnallthethings/status/817474968325935104 ... 
+        The saddest Super Toys machine in the world is at Kennedy's in North Beach.pic.twitter.com/Ld0E8fF4bq
+        Facebook isn't the only one with a fake news problem. This @washingtonpost ad leads to a fake story about this: http://www.snopes.com/dwayne-johnson-arresting-for-importing-hgh/ ... pic.twitter.com/pP0cPl76uL
+        My new chrome book crashes and crashes and crashes , but only when someone is logged in. Works fine in guest mode. Anyone else had this?
+
+briankrebs
+
+        Trump's team will issue a report in 90 days on protecting US from cyberattack but apparently it will be secret. https://www.washingtonpost.com/world/national-security/intelligence-chiefs-expected-in-new-york-to-brief-trump-on-russian-hacking/2017/01/06/5f591416-d41a-11e6-9cb0-54ab630851e8_story.html ... pic.twitter.com/Nt9BOEVxzg
+        BREAKING: Obama administration releases declassified version of hacking report:https://icontherecord.tumblr.com/post/155494946443/odni-statement-on-declassified-intelligence ... 
+        DNI: Putin ordered online propaganda machine to promote candidate most likely to share RU's interests; new normal in elections #shocker
+        What this reveals is that this judgment was based on our spying capabilities, and not our technical capabilities.pic.twitter.com/7geAL3vQHc
+        I guess I am not at all surprised by anything in the DNI report. None of it. This is exactly what I would expect the Kremlin to be doing.
+        I wonder how many of the Kremlin's twitter bots are responding to @wikileaksreposting of DNI reporthttps://twitter.com/wikileaks/status/817491923627819010 ... 
+        The annex in the DNI report on RT (Russia Today) news network as Kremlin mouthpiece based in US. Reminds me of VOA https://en.wikipedia.org/wiki/Voice_of_America ... 
+        I'm guessing the Germans already have a word for when your TV news channel accidentally orders you stuff on Amazonhttp://www.theregister.co.uk/2017/01/07/tv_anchor_says_alexa_buy_me_a_dollhouse_and_she_does/ ... 
+
+carnal0wnage
+
+        I'm just gonna leave this herepic.twitter.com/IIATwtt3TN
+        @carnal0wnage If you smell BBQ, you're holding it wrong
+
+cynicalsecurity
+
+        Our #1 #BestOf2016 was close so we decided to share both pics. Speaking of sharing, thanks @CIA and @usairforce for making these #1 in '16!pic.twitter.com/K6QKVmHLjW
+        More news on the (non-)quasipolynomial complexity of lattice based crypto on a quantum computer http://people.cs.uchicago.edu/~laci/update.html ...  #quantum #crypto
+        Version 0.3 of the Applied Cryptography book by Dan Boneh and Victor Shoup: 180 new pages of public key chapters! http://toc.cryptobook.us/ pic.twitter.com/OBmbcQRRgD
+        Anyway, if you're curious about what the US Information Agency actually did, USIA ca. 1999 is archived here : http://dosfan.lib.uic.edu/usia/ 
+        An eloquent demonstration of a reason why the B61 has Insensitive High Explosives.
+        hashcat v3.30 released: https://hashcat.net/forum/thread-6187.html ... pic.twitter.com/nGUHJDeFER
+        The ducks are setting up a doxxing op against the cats but misidentified one as a dog and are now being disowned by the pigs.
+
+damienmiller
+
+        Significant deaths of 2016/7: Satire, irony, foundations of democracy, my sanity.https://twitter.com/thehill/status/817433816977510400 ... 
+        i.e., "If you're ever mean to us we'll be happy to doxx you and put your deets out there so adolescent shitlords can swat you for kicks." https://twitter.com/WLTaskForce/status/817431533183238144 ... 
+        Wiki leaks falsely ID's someone while trying to demonstrate why a mass dox list isn't a terrible waste of their time.pic.twitter.com/bgU8bEof8V
+        Awful to see @mmasnick & @techdirt's excellent journalism on tech & IP targeted by Peter Thiel's pet lawyer:http://www.hollywoodreporter.com/thr-esq/proclaimed-inventor-email-files-defamation-lawsuit-techdirts-michael-masnick-961008 ... 
+
+danslimmon
+
+        People keep saying Leia should be an official Disney Princess. But she should also be an official Disney General. Like General Shang, and...  ?
+
+daveaitel
+
+        If, in order to have a discussion, a group of people need to utilise analogy then at least one participant is out of their depth.
+        Shen Yi, dep dir of Cyberspace Governance Research Center Fudan, lays out difference in US-China cyber strategies http://buff.ly/2hXYRuA 
+        Probably stunning. But based on amount in public domain, the only game changing fact would be evidence of collusion/US person involvement.https://twitter.com/thehill/status/817471565063475205 ... 
+        The unclassified report is underwhelming at best. There is essentially no new information for those who have been paying attention.
+        The report serves a few limited purposes, namely setting forth the areas of factual agreement between the agencies.
+        1. The big one. Did any US Person, connected or unconnected with Trump campaign, have knowledge of, procure or participate in the operation?
+        2. If the answer to the question above is anything other than "We have found no evidence of that" is there an ongoing investigation?
+        Here are the questions it could have answered but didn't, which the American people need to know:
+        The young Russian programmer sanctioned by Obama denies she is the US election hacker 'I never work with douchebags' https://www.theguardian.com/world/2017/jan/06/russian-hacker-putin-election-alisa-shevchenko?CMP=share_btn_tw ... pic.twitter.com/L6QVB9tsZc
+        http://www.polygon.com/2016/12/22/14046204/watch-dogs-2-race ... 
+        I get how crazy this sounds. But it's the question everyone is thinking. Why not just put it to rest?https://twitter.com/NoahShachtman/status/817525373063852032 ... 
+        CIA staffers can't speak publicly, so they let their alumni speak for them. Fierce words here from an ex-CIA chief.http://nyti.ms/2i1hKv0 
+
+davidsirota
+
+        Lol at @washingtonpost allowing a lobbyist to use his column to heap praise on incoming WH staff his firm will lobbyhttps://www.washingtonpost.com/blogs/post-partisan/wp/2017/01/04/three-trump-white-house-staffers-to-watch/?utm_term=.aee2fe627df2 ... 
+        Newsflash on Rust Belt voters: not angry about health care, afraid they can't afford it. http://tinyurl.com/zuqdl8j  #ACA #Medicaid #COHealthpic.twitter.com/dSGntw2C56
+        Libertarian hellscape: forprofit DC area road operator charges $30 for lane (if you drive & don't pay fees shoot up)http://www.fox5dc.com/news/local-news/227343072-story ... 
+        Facebook's new head of news partnerships, Campbell Brown, has deep ties to Trump nominee https://interc.pt/2ikuuuu  by @ZaidJilani
+        This = so important. I too have struggled with climate despair especially since becoming a dad. Look at kids: denying this crisis dooms themhttps://twitter.com/EricHolthaus/status/817503888500633600 ... 
+        Agree or disagree: If the average lifespan of a human being was 1,000 years old, humans would care a lot more about climate change
+        Obama told me why he reversed his support for single player - he said the reason was his concern for insurance jobs https://www.thenation.com/article/mr-obama-goes-washington/ ... pic.twitter.com/p7T9vHmnV8
+        Yes, I personally inteviewed Obama, who campaigned for Senate in support of single payer. And yes, that's what he told me about his reversalhttps://twitter.com/davidsirota/status/817581879838863361 ... 
+        At the end of Obama's presidency, read this interview of him from right before his presidency and see what you thinkhttps://www.thenation.com/article/mr-obama-goes-washington/ ... 
+        A populist uprising elected a 1980s icon who is leading a corporate takeover of government. Don't say my books didn't warn of exactly that.pic.twitter.com/5Ftrm23AcE
+        This is centrism if u define "centrism" as "stuff most people support" rather than "stuff DC pundits & pols support"https://www.washingtonpost.com/news/the-fix/wp/2016/05/16/most-americans-want-to-replace-obamacare-with-a-single-payer-system-including-a-lot-of-republicans/?utm_term=.8d5e16f4c003 ... 
+        While Republicans want to cut Social Security, Tillerson just got a retirement package of $180 million. That's what oligarchy looks like.https://twitter.com/WSJ/status/816622464549711873 ... 
+        Important report from @mattcunninghamc on how finance policy intersects with the war in Yemenhttp://www.nakedcapitalism.com/2017/01/matthew-cunningham-cook-finance-starving-yemen.html ... 
+        Better to keep safety records secret? Not.https://twitter.com/lydiadepillis/status/817754366207754246 ... 
+        If youre a state or local politician, you must love the media's 100% focus on Trump & D.C. - it means even less journalistic scrutiny of you
+        A generation of news consumers is basically being inculcated to believe that important politics/public policy matters only happen in D.C.https://twitter.com/davidsirota/status/817770479805140993 ... 
+        Kushner is being repped by a former Schumer staffer and his lawyer is ex Clinton Justice Departmenthttp://www.nytimes.com/2017/01/07/us/politics/jared-kushner-trump-business.html?smprod=nytcore-iphone&smid=nytcore-iphone-share ... 
+        Irony alert: this criticism is coming from @davidfrum, a Bush admin architect of the Iraq War that became a rallying point for terroristshttps://twitter.com/davidfrum/status/817490464077189122 ... 
+
+devttyS0
+
+        If I ever write a virus, I'm gonna call it Browncoat. It's Mal-wear.pic.twitter.com/zL9KQOeoZb
+
+dragosr
+
+        Load games into NESclassic via USB http://goo.gl/I0drGp  (Note downloads of dropbox, github, tool bins fail in chrome [?!])
+
+evgenymorozov
+
+        Let's just say the FT got the timing (2015) wrong on this one https://www.ft.com/content/7bbd83c0-ece1-11e4-b82f-00144feab7de ... pic.twitter.com/iIm7jsaQ6z
+        I've translated this chart of the Davos's crowd 5 priorities for 2017 into human languagepic.twitter.com/EbWWVjqZdE
+
+gentilkiwi
+
+        Saw buzz titles like 'How to Bypass Anti-Virus to Run Mimikatz'
+
+gkeizer
+
+        Microsoft's OS supremacy over Apple to end in 2017. http://www.computerworld.com/article/3155369/windows-pcs/microsofts-os-supremacy-over-apple-to-end-in-2017.html ... pic.twitter.com/qpoz7l0piw
+
+halvarflake
+
+        TIL: "zizanie"
+        Let me be clear this is not a partisan issue. Both parties were hacked. American democracy was attacked. And my admin will not stand for it.https://twitter.com/realdonaldtrump/status/817579925771341825 ... 
+        In 2 weeks I take the solemn oath of the presidency. So much to do to fulfill the promises I made. Expect fewer tweets as we transition.https://twitter.com/realdonaldtrump/status/817350726800306177 ... 
+        Watching Twitter and the Trump/Putin/Dems/Wikileaks thing is a bizarre game of fascinating Go. Stones/Accounts that were on the border ....
+        ... of a position have been surrounded into "live" (in the Go sense) structures, new stones take structure further.
+        The only thing that consistently messes with my enjoyment of watching things unfold is the fact that I live in this world.
+        Ein Highlight vom #RussiaHacking Report: Putin mag #Trump weil der wie #SchrÃ¶der eigene GeschÃ¤ftsinteressen hat.
+        Perhaps i should get drunk & read this for amusement: (found while unpacking boxes)pic.twitter.com/bMbrQZX7hi
+        Mathematics: Not even once.pic.twitter.com/qJKLowTwmV
+        Schoar zeroes in on financial advice/management as a problematic industry, citing this paper: http://www.nber.org/papers/w17929 
+        Schoar: Only 10% of financial advisers even MENTION that index funds exist. Steer clients toward high-fee active management.
+
+harmj0y
+
+        Updated this post to include an additional mitigation: Enable the Windows Firewall.https://enigma0x3.net/2017/01/05/lateral-movement-using-the-mmc20-application-com-object/ ... 
+        Couldn't agree morehttps://twitter.com/attrc/status/817571534504128513 ... 
+
+haroonmeer
+
+        Both the DNC & RNC didn't know they were hacked till it was too late
+
+i0n1c
+
+        OH: "Does the EFF still support Wikileaks?"https://www.eff.org/wikileaks 
+        One of my teachers once said: intelligent people don't know everything but they know where to find answer. To be fair that was before Google
+        The worst part of @realDonaldTrump being president will be that when the aliens arrive in 2018 he will speak for all of mankind.
+        One of my teachers once said: intelligent people don't know everything but they know where to find answer. To be fair that was before Google
+
+internetarchive
+
+        Join us tmrw: White House Data Hackathon--8 years of Obama social media and .gov data--all yours for creative reuse. http://blog.archive.org/2017/01/02/join-us-for-a-white-house-social-media-and-gov-data-hackathon/ ... pic.twitter.com/p4BE25Wocz
+        Some come for Trump...others for knitting. Happy to make @slate
+        Obama & Trump data, now in one place: we're happy to host the White House and Trump Archives for your use.http://arstechnica.com/tech-policy/2017/01/trumps-campaign-obamas-social-media-force-both-memorialized-in-online-archives/ ... 
+        "There's no hope of having a US politics based on rationality and reality if we stop paying attn to facts"@doctorowhttps://boingboing.net/2017/01/06/the-internet-archives-trump.html ... 
+        @internetarchive @Slate But the most loyal of the people come for the Grateful Dead. Although some of them knit. Not many for Trump though.
+        "The Internet Archive's New Donald Trump And White House Archives: Transparency And History As Data" via Forbeshttp://www.forbes.com/sites/kalevleetaru/2017/01/06/the-internet-archives-new-donald-trump-and-white-house-archives-transparency-and-history-as-data/#7a1509337d98 ... 
+
+jedisct1
+
+        Great: Open source collaboration across agencies to improve HTTPS deploymenthttps://18f.gsa.gov/2017/01/06/open-source-collaboration-across-agencies-to-improve-https-deployment/ ... 
+        Bypassing AV with Golang: https://averagesecurityguy.github.io/2017/01/06/bypassing-av-with-golang/ ... 
+        https://github.com/matryer/bitbar  is nice, it's basically i3status for macpic.twitter.com/iTb77VzW80
+        Just released Angular 2.4.2!  All bug fixes for your enjoyment.
+        Excited to go back to San Francisco next week!
+        The first @software_daily meetup is next Wednesday. An event not to be missed if you love that show as much as I do!https://www.meetup.com/Software-Engineering-Daily/events/235771765/ ... 
+        ECB mode isn't the only bad crypto that lets you see penguins. Order Revealing Encryption does too: https://eprint.iacr.org/2016/786.pdf pic.twitter.com/1h1O9vEfyG
+        A new shiny MISP import module to import emails metadata directly into @MISPProject  https://github.com/MISP/misp-modules/ ...  big thanks to @seamustuohy
+        LibreSSL 2.4.5 is about to be released.
+        Dans quelle nouvelle ville en France, Ovh devrait s'installer ?
+        Get your name in the relayd-bookhttp://blather.michaelwlucas.com/archives/2832 
+        Pour nos besoins de recrutement en France, nous cherchons de nouveaux bureaux Ã  Paris, dans le centre, de 3000m2 Ã  5000m2. DM/RT :) Merci !
+        RT @binitamshah: GitHub Enterprise SQL Injection : http://blog.orange.tw/2017/01/bug-bounty-github-enterprise-sql-injection.html ... 
+        This is what it looked like to get a computer virus in 1995http://ti.me/2hYPjL3 
+        What? Are you kidding me, San Francisco?pic.twitter.com/a30b6jLckB
+        Voice command injection is a thinghttps://twitter.com/jeremiahg/status/817505478632554496 ... 
+
+        Bluetooth 5 is here https://www.bluetooth.com 
+        Seems they are now ripping #firejail apart after @steaIth started it :) http://www.openwall.com/lists/oss-security/2017/01/04/1 ... 
+        This has been one of my main projects at Fastly, proud to see it grow so much. If you need OSS help, give me a shout.  https://twitter.com/fastly/status/817411754900783104 ... 
+
+        Please, let this message https://marc.info/?l=openbsd-misc&m=148379044403035&w=2 ...  put an end to all #OpenBSD and non-free firmware discussions, pretty please (via @Vigdis_)
+
+m3g9tr0n
+
+        Modern Windows Exploit Development : https://drive.google.com/file/d/0B8sHjc3kJKQrUTYxSkpldy01ZWs/view ... 
+        Project for finding vunerabilities in mass (PHP) http://buff.ly/2jbUjgB  #infosec #security
+        awesome-cyber-skills
+        #ProTip: Easiest way to run your hosts against the #Docker Bench for Security is by running our pre-built container: http://dockr.ly/2jdZAnP pic.twitter.com/LnNyWLK2BO
+
+ma1
+
+        Finally MS killed UTF-7 in Edge? No, it's alive in text/xml :D
+
+matthewstoller
+
+        According to Tim Geithner, "the United States [is] even less prepared to deal with a crisis than it was in 2008."https://www.foreignaffairs.com/articles/united-states/2016-12-12/are-we-safe-yet?sp_mid=53136208&sp_rid=c3RvbGxlckBnbWFpbC5jb20S1&spMailingID=53136208&spUserID=NTY5ODY2OTc2NTMS1&spJobID=1080889708&spReportId=MTA4MDg4OTcwOAS2&t=1483739050 ... 
+        If only Tim Geithner had been in some sort of policymaking role...
+        It's such a weird trend for policymakers and ex-policymakers to talk as if they are observers with no power or track record.
+        @matthewstoller Didn't finish it, looks like he is driving towards we need public debt reduction & tight money, and F that.
+        This is an excellent post on what authoritarian rule looks like, as opposed to the cartoonish version we often hear about. Highly recommend.https://twitter.com/TomPepinsky/status/817315496672587777 ... 
+        Russia is a threat, but for fuck sake people, let's not pretend that GOP has LONG engaged in same behavior of own accord.
+        Obama told me why he reversed his support for single player - he said the reason was his concern for insurance jobs https://www.thenation.com/article/mr-obama-goes-washington/ ... pic.twitter.com/p7T9vHmnV8
+        The ultimate troll of liberals would be if Trump's DOJ actually indicted a bank executive.
+        Probably, yeah.https://twitter.com/toonout/status/817761229984759809 ... 
+        One of the by-products of monopolization is that business is becoming concentrated in a few cities, mainly along the coast.
+
+mattiasgeniar
+
+        Thank you all for your kind words! 
+        If you're verified on Twitter, can you get un-verified? As in, per your own choice? 'Cuz this sounds bad.https://twitter.com/newsycombinator/status/817642258795216896 ... 
+        OK sure, WikiLeaks Stasi Force, we'll go first. Here's our address:
+        IE still messing with devs, years later. https://ma.ttias.be/internet-explorer-wont-allow-cookies-subdomains-underscores/ ...  https://ma.ttias.be/internet-explorer-wont-allow-cookies-subdomains-underscores/ ... pic.twitter.com/UipDIyLqDI
+        Someone wants to educate, and created Ocelot Locker.
+        I think his first onesie is (accidentally) very fitting. #tuxpic.twitter.com/f2bNHuQCRW
+        Internet Of Shit.
+        Clever how @CloudFlare prevents DNSSEC NSEC subdomain iterations on their own domain, keeps adding layers of recursion.pic.twitter.com/yb2kAlYIol
+
+mikko
+
+        2017 the #IoT will invade your homes -- this is inevitable and unavoidable @businessinsider:http://bit.ly/CB-NRGD 
+        I just recently got verified, and this is horrifying. Do I need to hire someone to help me protect my information and family?pic.twitter.com/YUtuCDH9SX
+        I was happy to co-operate with TIME for this feature.https://twitter.com/time/status/817415459716943872 ... 
+        Our Game Wizard for Android is in full production #arcade #retrogaming #gamersunite #videogamespic.twitter.com/i4vniDuInT
+        Declassified Intelligence Community Assessment of Russian Activities and Intentions in Recent U.S. Elections:https://icontherecord.tumblr.com/post/155494946443/odni-statement-on-declassified-intelligence ... 
+        I was happy to co-operate with TIME for this feature.https://twitter.com/time/status/817415459716943872 ... 
+        Another reason why it's discussed is that it's a PRETTY BIG DEAL when Russians hack into U.S. political party networks during elections...https://twitter.com/realdonaldtrump/status/817703208567078913 ... 
+        Phishing sites are starting to get more secure than legit sites.pic.twitter.com/Vrll6hjdV0
+        Awesome Games Done Quick starts this Sunday! #AGDQ2017
+        Note: chrome://crash/ will crash Chrome.
+        'The Holy Book of Password' by Aram Bartholl -- http://goo.gl/NaaJp2 , #Design #Idea #Creativepic.twitter.com/C0e4bGDaZD
+        Bitcoin is the worst performing currency this year.
+
+mjg59
+
+        Perhaps some kind of online database of rapists, enablers and apologists and their connections to Wikileaks. https://twitter.com/WLTaskForce/status/817431533183238144 ... 
+        The goal isn't just to protect people from state actors. It's to protect them from organisations like Wikileaks and online hate groups.https://twitter.com/zeynep/status/817456598469713922 ... 
+        Blair and Bush have never been charged with being war criminals, and yet Â¯\_(ãƒ„)_/Â¯https://twitter.com/WLTaskForce/status/817450617807507456 ... 
+        This tweet, except every time it says "Anarchist" it's replaced with "Wikileaks"https://twitter.com/mjg59/status/811695863093493760 ... 
+        So wait Trump's ego means that he'll trash something he holds a position of responsibility over to feel better about himself THIS IS FINEhttps://twitter.com/realDonaldTrump/status/817348644647108609 ... 
+        Final reminder, Bay Area Tech Solidarity event TONIGHT in San Francisco, 7 PM. Email or signal me for details.  
+        Wait. IC On The Record is on *tumblr*?
+        @mjg59 tumblr uses https unlike most gov't sites
+        Today I am dealing with openssl, smartcards and PKCS#11 and this is all going just as well as you'd expect it to
+        hi @WLTaskForce just want to clarify that I am not Thomas Jefferson, the 3rd president of the usa
+        Pretty sure I can just bind every single lightbulb sold by this vendor to my account and control them all at once
+        Yup:https://blog.viktorstanchev.com/2015/12/20/the-many-attacks-on-zengge-wifi-lightbulbs/ ... 
+        Whenever I see this dialog in Slack I end up feeling like I should get to know them better rather than just jumping to a datepic.twitter.com/DuNs2Bm1Fq
+        @mjg59 set them to flash out the morse to "help I'm trapped in a lightbulb factory"
+        Maybe all those CEOs who argued that being  inside the Trump camp gave them more leverage could spend some time arguing for the ACA now?
+        Really looking forward to traffic classification algorithms misflagging apps and forcing people out of business:http://www.bbc.com/news/technology-38415067 ... 
+
+mouring
+
+        What if the Powerpuff Girl show was dark...https://www.artstation.com/artwork/3bYYJ 
+        Team Chat http://xkcd.com/1782/  http://m.xkcd.com/1782/ pic.twitter.com/AFrq81z57y
+        Quick!!  Someone burn this in fire so a fursuiter doesn't get their hands on it!!pic.twitter.com/vozaCzj1lW
+
+mtaibbi
+
+        This would be in my opening statement if I had to prove in court that America is the dumbest country on earth.https://twitter.com/warrenkzola/status/817414186422693888 ... 
+        I love sports and think it's ridiculous.https://twitter.com/pat1072/status/817474421770293252 ... 
+        Come by on 1/19 to work through your inauguration anxiety! @mtaibbi will be here for his book INSANE CLOWN PRESIDENT https://www.facebook.com/events/217301052063357/ ... 
+        I must have missed the part where Mexico agreed to pay for the "Great Wall."https://twitter.com/realdonaldtrump/status/817329823374831617 ... 
+        I considered "Fuckface Von Clownstick Goes To Washington," but that probably wouldn't have flown with bookstores. #InsaneClownPresidenthttps://twitter.com/grsmith8/status/817775259025895427 ... 
+        Yes, name-calling is immature - something our new president would never do!https://twitter.com/thought_criminl/status/817780870715015168 ... 
+
+mubix
+
+        Going to #ShmooCon ? Drop your email address in here: https://shmooslack.herokuapp.com/  and get an auto-invite to the Unofficial ShmooCon Slack
+        This is disturbingly clever. You get sent to a text/html data URI! Not testing any further but, blimey, talk about using power for evil.pic.twitter.com/TamVn7DBfW
+
+openculture
+
+        The publisher is Simon & Schusterhttps://twitter.com/HuffPostArts/status/817508453518340096 ... 
+        WHO'S PAYING FOR THE WALL!?!?!?
+        "All of Bach" is Putting Bach's Complete Works Online: 100 Done, 980 to Come. All free: http://goo.gl/4fCNh5 pic.twitter.com/9JlHE4J5c7
+        Artist Draws 9 Portraits on LSD During 1950s Research Experiment http://goo.gl/L5vQAa pic.twitter.com/Ll7cTDmK79
+        How to Spot Bullshit: A Primer by Princeton Philosopher Harry Frankfurt http://goo.gl/6eaKz9 pic.twitter.com/E07YCJt03B
+        Carrie Fisher's ashes in a porcelain antique Prozac pill from the 50s;  Her "prized possession," brother tells me http://thr.cm/QrqjK4 pic.twitter.com/EmBxzJn90Q
+        Producer Tony Visconti Breaks Down the Making of David Bowie's Classic "Heroes," Track by Track. Great video https://goo.gl/mLYBXY pic.twitter.com/1oV3gQhTgG
+        How to Spot Bullshit: A Primer by Princeton Philosopher Harry Frankfurt http://goo.gl/6eaKz9 https://twitter.com/realDonaldTrump/status/817329823374831617 ... 
+        A little truth from the former president of Mexico.https://twitter.com/VicenteFoxQue/status/817480450285375488 ... 
+        Martin Scorsese Makes a List of 85 Films Every Aspiring Filmmaker Needs to See.  http://goo.gl/INWdb3 pic.twitter.com/xkuflviZpe
+        Watch Star Trek Continues: The Critically-Acclaimed, Fan-Made Sequel to the Original TV Series https://goo.gl/Mu5XXd pic.twitter.com/sWB7fbNqGC
+        Not surprisingly, Paul Klee's notebooks are mind blowing AND beautiful via @openculture http://goo.gl/pmEBTH 
+        This is Your Brain in Love: The Stanford Love Competition Shows What Love Looks Like on an MRI https://goo.gl/WC3ae8 pic.twitter.com/5UwXO5jEJ6
+        If Obama is a Muslim, is Trump a Russian spy?https://www.washingtonpost.com/opinions/if-obama-is-a-muslim-is-trump-a-russian-spy/2017/01/06/26fe7128-d45c-11e6-a783-cd3fa950f2fd_story.html?hpid=hp_no-name_opinion-card-e%3Ahomepage%2Fstory&utm_term=.6bde778a5565 ... 
+        The First Film Adaptation of Alice in Wonderland (1903) https://goo.gl/v9CnKy pic.twitter.com/4XZXlBWnpI
+        What Does "Kafkaesque" Really Mean? A Short Animated Video Explains https://goo.gl/7WtsGd pic.twitter.com/uFcjW0hJ2Z
+        Stream Brian Eno's "Magnificently Peaceful" New Album Reflection: A Thoughtful Way to Start 2017 https://goo.gl/3hFWzD pic.twitter.com/2IaG8wjcEh
+        Watch Moving Short Films of Frida Kahlo and Diego Rivera at the "Blue House" https://goo.gl/1Ys8we pic.twitter.com/sToUdKYGkt
+        What is the Self? Watch Philosophy Animations Narrated by Stephen Fry on Sartre, Descartes & More 
+        Book Readers Live Longer Lives, According to New Study from Yale University https://goo.gl/N2gTvT pic.twitter.com/qnJTpdw6tz
+
+oss_announce
+
+        [apache-announce] [ANNOUNCE] Apache Jackrabbit 2.14.0 releasedhttps://marc.ttias.be/apache-announce/2017-01/msg00008.php ... 
+
+packet_storm
+
+        Intuit QuickBooks Desktop 2017 Credential Disclosure https://packetstormsecurity.com/files/140387  #exploit
+        The Declassified Report On Russia's Election Hacking Says Nothing New https://packetstormsecurity.com/news/view/27379  #news
+        CIA Director AOL Email Hacker Coughs To Crime https://packetstormsecurity.com/news/view/27380  #news
+        Malware Uses DoS Attack In Attempt To Crash Macs https://packetstormsecurity.com/news/view/27381  #news
+        Google Patches Android Custom Boot Mode Vulnerability https://packetstormsecurity.com/news/view/27382  #news
+
+passingthehash
+
+        I know folks from bomb squads who say "If you see me running, don't ask, try to keep up"
+        I am not sure people understand how much of a unicorn 3 IC agencies publicly agreeing on something of this magnitude is
+        Please excuse my language, but this is where I am:
+        there are no mitigations able to resist a sufficiently bored attacker
+
+paulg
+
+        Your occasional reminder that Hannah Arendt knew it all and warned us all but we didn't listen because history's the bit that's done with.pic.twitter.com/bbRjkZmlhE
+        Animation of the medieval sluice that made Rotterdam possible:http://goo.gl/BUq4lZ 
+        No. Declassified report makes clear Russia had RNC bits, too. They simply chose not to use them. They were clearly pushing for Trump.https://twitter.com/realdonaldtrump/status/817579925771341825 ... 
+        Thanks to Ninjago etc, our 4 yo doesn't make up stories. He makes up combined TV shows and video games.
+        Presenting the worst breakfast cereal in the world, at 56% sugar by weight: Kellogg's Honey Smacks.pic.twitter.com/QyFWrDxHzi
+
+prohack
+
+        Wow pic.twitter.com/JiiIwcpEqY
+
+rootkovska
+
+        I just wanted some water...pic.twitter.com/gdhXKvbNbz
+
+rootsecdev
+
+        Making the FSB great againhttp://www.cnn.com/2017/01/06/politics/trump-russia-intelligence-briefing/index.html ... 
+        Intel report: Putin directly ordered effort to influence electionhttp://www.cnn.com/2017/01/06/politics/intelligence-report-putin-election/index.html ... 
+        I just published "Assessing Russian Activities and Intentions in Recent US Election"https://medium.com/p/assessing-russian-activities-and-intentions-in-recent-us-election-b6c9bd26a711 ... 
+        TRUMP,  when will you understand that I am not paying for that fucken wall. Be clear with US tax payers. They will pay for it.
+        Hey @safety seems like a violation of you TOS https://twitter.com/wltaskforce/status/817431533183238144 ... 
+        The U.S. probably isn't ready to send a burn notice to who or what is providing the Intel on Russian hacking. So yes worse than JAR file
+        If I die... please don't put me in a Prozac pill.https://www.google.com/amp/s/amp.etonline.com/news/206655_carrie_fisher_giant_prozac_pill_urn_explained_by_brother_todd_after_debbie_reynold_funeral/ampdoc.html ... 
+        For the record my home ISP gets scanned by Russian and Chinese IP's every day. Don't sex up hacking attempts.https://www.buzzfeed.com/alimwatkins/hackers-tried-to-break-into-dnc-computers-right-before-new-y?utm_term=.lvenov4EZ#.ieJ1lMG4a ... 
+        I don't believe for a second that the RNC wasn't hacked to. #infosecpic.twitter.com/BlR1BPxmSh
+        This sums up my thoughts on the released Russian attribution so far. Night kids. And @krypt3iapic.twitter.com/Xl5Xi1yN3y
+        Alec Baldwin mocks Trump in Russian MAGA hat
+        Started watching OA on Netflix but then had to immediately turn off.... wasn't expecting to be full frontal banging out of nowhere lol
+        Kremlin propaganda always attacks US intel services. The difference now is that Trump is eagerly helping Putin destroy US credibility.
+        Historic reminder--influence ops: a Soviet invention designed to amplify an adversary's internal political divisionshttps://twitter.com/RidT/status/816605093852315648 ... 
+        Cats in Squirtle Costumespic.twitter.com/A0P6XqgdYS
+        2 coffees down...1 monster energy almost down.
+
+ryanlcooper
+
+        @ryanlcooper USA: let's build a cross-continental high speed rail
+        .@surfbordt's review of westworld is goodhttps://curiouscat.me/surfbordt/post/70253679?t=1483730622 ... 
+        why do you think many people feel so entrenched wit... -- Partisanship and candidate homerism is a very stron...https://curiouscat.me/ryanlcooper/post/70237471?t=1483733500 ... 
+        Any journalist or pundit who believed any Republicans ever cared about federalism should retire to a monastery.http://thehill.com/homenews/campaign/312766-gop-aims-to-rein-in-liberal-cities ... 
+        riding the feelings rollercoaster 
+        there is only one solution to this...gameing
+        thinking today might be kitty day
+        DMC is so incredibly stupid, my god
+        it's great
+        oh and there's an adoption event today! it's all coming together folks
+        Detroit is gonna hear both sides babyhttps://twitter.com/gdebenedetti/status/817767985054093312 ... 
+        well, scratch that part at leastpic.twitter.com/R3tPdK2Xqg
+        I won't be defeated though. time to trudge up to yon shelter
+        The ultimate troll of liberals would be if Trump's DOJ actually indicted a bank executive.
+        gonna give it like half an hourhttps://twitter.com/capitalweather/status/817777889886294020 ... 
+        "What Bush era suppression of dissent? Then, as now, it's just that you're with us or your newspaper is literally with the terrorists."https://twitter.com/davidfrum/status/817753131622789121 ... 
+
+sambowne
+
+        Intel Chiefs Say Trump's Twitter Account Was Hacked by Four-Year-Oldhttp://www.newyorker.com/humor/borowitz-report/intel-chiefs-say-trumps-twitter-account-was-hacked-by-four-year-old ... 
+        Statement from President-elect Donald Trump on Friday meeting with Intelligence Community leaderspic.twitter.com/x7yfKCuD3k
+        WikiLeaks proposes tracking verified Twitter users' homes, families and finances http://dlvr.it/N3Dctn 
+        Now that's a president with cajones.https://twitter.com/VicenteFoxQue/statuses/817480450285375488 ... 
+        ty @patriciasbowne FTC lawsuit against D-Link for shoddy security practiceshttps://qz.com/879852/ftc-lawsuit-against-d-link-is-good-news-for-the-internet-of-things/ ... 
+        FTC action sets a precedent: storing passwords in the clear on mobile devices may be illegal now https://www.ftc.gov/news-events/press-releases/2017/01/ftc-charges-d-link-put-consumers-privacy-risk-due-inadequate ... 
+        The 11 most important lines from the new intelligence report on Russia's hackinghttps://www.washingtonpost.com/news/the-fix/wp/2017/01/06/the-most-important-lines-from-the-new-intelligence-report-on-russias-hacking/?tid=pm_politics_pop ... 
+        Trump's bogus claim that intelligence report says Russia didn't impact the 2016 election outcome https://www.washingtonpost.com/news/the-fix/wp/2017/01/07/trumps-bogus-claim-that-intelligence-says-russia-didnt-impact-the-2016-election-outcome/?tid=pm_politics_pop ... pic.twitter.com/akcJsI0PTR
+        WikiLeaks wants to create a database of verified Twitter users and who they interact withhttp://www.recode.net/2017/1/7/14195522/wikileaks-twitter-database-verified-users-assange-trump-media ... 
+        The crack in this Antarctic ice shelf just grew by 11 miles. A dramatic break could be imminent. https://www.washingtonpost.com/news/energy-environment/wp/2017/01/06/the-crack-in-this-antarctic-ice-shelf-just-grew-by-11-miles-a-break-could-be-imminent/ ... pic.twitter.com/wcOA5ikLBJ
+        MIT Researchers Develop Porous, 3D Graphene 10 Times Stronger Than Steel But Lighterhttp://www.techtimes.com/articles/191674/20170107/mit-researchers-develop-porous-3d-graphene-10-times-stronger-than-steel-but-lighter.htm ... 
+        SpaceX confirms Monday launch attempt from Californiahttp://www.floridatoday.com/story/tech/science/space/2017/01/06/spacex-confirms-monday-launch-attempt-california/96254830/ ... 
+        Companies punished for the OWASP Top Ten Mobile Risks https://samsclass.info/android/#OWASP  <--I'll be sending this with vuln reports
+
+savpbot
+
+        cross-site scripting xss vulnerability exists jquery ui dialog function due execute arbitrary code unauthenticated CVE-2016-7103 #security
+        windows journal memory corruption vulnerability execute arbitrary code remote attackers file jnt aka 1 1511 CVE-2016-0182 #patch #security
+        conduct xml external entity properly initialize context-dependent attackers crafted pdf apache pdfbox CVE-2016-2175 #patch #infosec
+        crafted indexed database array key conversion getter side effects google chrome aka indexeddb api calls CVE-2016-5170 #patch #infosec
+        crafted javascript code remote attackers google chrome constructor calls prevent unspecified denial service CVE-2016-5171 #patch #infosec
+        obtain sensitive information arbitrary memory locations crafted javascript code google v8 mishandles CVE-2016-5172 #patch #vulnerability
+        trigger unintended javascript function calls indirect interception attack properly restrict access CVE-2016-5173 #patch #infosec
+        process fullscreen toggle requests crafted web site google chrome remote attackers unsuppressed popup CVE-2016-5174 #patch #security
+        multiple unspecified vulnerabilities google chrome unknown vectors impact denial service attackers possibly CVE-2016-5175 #patch #infosec
+        backend cpu consumption remote attackers long qname aka pdns authoritative server powerdns denial CVE-2016-5426 #patch #cybersecurity
+        backend cpu consumption crafted dns query inside labels properly handle remote attackers aka pdns CVE-2016-5427 #patch #vulnerability
+        remote primary dns servers authoritative server ixfr response memory exhaustion aka pdns powerdns large CVE-2016-6172 #patch #security
+        user options page cross-site request forgery remote attackers arbitrary users gnu mailman 2 gaining access CVE-2016-6893 #vulnerability
+        red hat jboss enterprise application platform default buffer sizes disk consumption remote attackers CVE-2016-7046 #patch #vulnerability
+        bypass intended access list restrictions http connection open mirroring mode remote servers race condition CVE-2016-7098 #exploit #infosec
+        uninitialized memory access crafted graphics data application crash google chrome chopmonoaty calls CVE-2016-7395 #patch #vulnerability
+        obtain sensitive information crafted image file integer overflow issue affecting context-dependent CVE-2016-9189 #patch #security
+        execute arbitrary python code remote attackers apport reads crashdb field begins py discovered evaluates CVE-2016-9949 #exploit #security
+        execute arbitrary python files apport crash file path traversal issue /usr/share/apport/package-hooks/ CVE-2016-9950 #exploit #infosec
+        malicious apport crash file `proccmdline` fields opened directly relaunch button local systems user CVE-2016-9951 #exploit #security
+
+securityerrata
+
+        That Wikileaks proximity graph project/idea is going about as well as expected.pic.twitter.com/niay2OggJg
+        Cyber experts report 'chasing ghosts' after US warning -http://apne.ws/2i07IXR 
+
+securitystreak
+
+        "Industrial #espionage rampant among startups" (unofficial headline) http://www.fbamastery.com/textbook-money-hacked-zen-arbitrage-got-punked/ ...  #CyberSecurity #ZenArbitrage vs #TextbookMoney
+        An overview of what Let's Encrypt accomplished in 2016! @letsencrypt https://letsencrypt.org/2017/01/06/le-2016-in-review.html ...  #opensource #Security #letsencrypt = #progress
+
+solardiz
+
+        The zstd compression algorithm looks like a winner over xz, bzip2, and zlib! https://clearlinux.org/blogs/linux-os-data-compression-options-comparing-behavior ...  (table at end) HT @Cyan4973pic.twitter.com/XyhbzUOsJE
+        Seems they are now ripping #firejail apart after @steaIth started it :) http://www.openwall.com/lists/oss-security/2017/01/04/1 ... 
+
+sparrowmedia
+
+        6 days building up to a press statement on hacking that tells us nothing more than Trump does not know what the acronym DNC stands for?pic.twitter.com/VaSlhUlnrM
+        The unclassified report is underwhelming at best. There is essentially no new information for those who have been paying attention.
+        -2/3rds of this anemic ODNI Russian hackers report is spent vilifying constitutionally protected speech activities https://www.dni.gov/files/documents/ICA_2017_01.pdf ... 
+        That they filled *half* the report with old, public-source information about RT shows how flimsy at least this version of the report is.https://twitter.com/Chemzes/status/817509367394238464 ... 
+
+thepacketrat
+
+        Here's how @WLTaskForce and @wikileaks plan to suppress free expression: doxxing anyone they don't like. https://twitter.com/WLTaskForce/status/817431533183238144 ... 
+        Wikileaks teases mass doxing wave of verified Twitter accountshttp://arstechnica.com/?post_type=post&p=1019045 ... 
+        Trump declares hacks had no impact on election (again) after intelligence reporthttp://arstechnica.com/?post_type=post&p=1019143 ... 
+        I like WikiLeakSShttps://twitter.com/ingeniarius08/status/817471229108121603 ... 
+        The unclassified IC report on Russia's "influence operation" is here: https://www.dni.gov/files/documents/ICA_2017_01.pdf ...   Brief story up shortly, more to come.
+        A lot of people are going to look at the IC report on Russian propaganda and say, "but that stuff is all true..."
+        The ShmooCon schedule is now available for mobile devices and calendar apps! Check it out at http://KhanFu.com .
+        Rumor has it the individual responsible for Russian hacking of the Clinton campaign was identified as Yuri Sonovabich.
+        Intelligence report: Russia used hacks, propaganda, and RT to help elect Trumphttp://arstechnica.com/tech-policy/2017/01/intelligence-report-russia-used-hacked-data-propaganda-and-rt-in-effort-to-elect-trump/ ... 
+        Congrats to @wikileaks on the NSA/CIA/FBI seal of approval.https://twitter.com/wikileaks/status/817526570298572800 ... 
+        Woot @Annaleenhttps://twitter.com/annaleen/status/817526966219927552 ... 
+        [ 2013 ]
+        Intel report describes Putin-directed smear campaign to elect Trump http://arstechnica.com/tech-policy/2017/01/intelligence-report-russia-used-hacked-data-propaganda-and-rt-in-effort-to-elect-trump/ ...  by @thepacketrat
+        "cyber hacking".  God just killed another kitten.https://twitter.com/reuterstech/status/817538756509106177 ... 
+        I'm considering a database of everyone who retweets @WLTaskForce, including phone and living arrangements. Oh wait, that would be creepy.
+        It's official: US election systems designated as critical http://arstechnica.com/?post_type=post&p=1019363 ...  by my esteemed colleague @dangoodin001
+        Lulzhttps://twitter.com/theatlantic/status/817580612500459520 ... 
+        This is big: CIA, NSA & FBI publish perhaps the most high-profile intelligence community assessment in US history https://www.dni.gov/files/documents/ICA_2017_01.pdf ... pic.twitter.com/mcf90UA9hE
+        friend: "Are you creeping your ex's new boyfriend on Instagram?"
+
+thierryzoller
+
+        Major security flaws in Signaling System 7 (SS7)https://medium.com/@jdcrunchman/major-security-flaws-in-signaling-system-7-ss7-abab4eeeed9d ... 
+        As someone who lives in the South, I can confirm that this chart is correct . #snowpocalypsepic.twitter.com/zsw0pcKCKz
+        Version 0.3 of the Applied Cryptography book by Dan Boneh and Victor Shoup: 180 new pages of public key chapters! http://toc.cryptobook.us/ pic.twitter.com/OBmbcQRRgD
+        Remote Command Execution #infosecpic.twitter.com/SpOofQ2ckF
+        Rupture. Framework for easily conducting BREACH & other compression-based attacks
+
+thorsheim
+
+        Yes, the US has interfered with a staggering number of elections abroad. Yes, it still matters if Russia interfered with the US election.
+        In a way it feels correct to wear this t-shirt, while at the same time it doesn't make much sense....pic.twitter.com/Q1soPzpttD
+
+tinyrevolution
+
+        How do you dismantle a 90-Ton whale?http://www.wsj.com/articles/how-do-you-dismantle-a-90-ton-whale-start-with-a-strong-stomach-and-a-machete-1483380824 ... 
+
+tqbf
+
+        Or: "why the docs say be super careful about trying to build concurrency around simple CAS ops" https://go-review.googlesource.com/#/c/34835/ 
+        Guys, WikiLeaks is VERY CONCERNED classified information is being leaked.https://twitter.com/wikileaks/status/817322050297745408 ... 
+        Solaris people: is it possible /dev/random on Solaris reads RAW ENTROPY BYTES directly from a kernel buffer? http://src.illumos.org/source/xref/illumos-gate/usr/src/uts/common/crypto/api/kcf_random.c#1090 ... 
+        Follow kcf_rnd_get_bytes to rnd_get_bytes, first if-condition, rndc_getbytes. 
+        For instance: here's raw timer information being passed to rndc_addbytes, which just XORs it into the rndbuf. http://src.illumos.org/source/xref/illumos-gate/usr/src/uts/common/crypto/api/kcf_random.c#151 ... 
+        I'm trying to find where the mixing function would be here.
+        Again, reporters quoting Jeffrey Carr as if an equally credible source. /cc @emptywheel 
+        Maybe he should be quoted! But his background in the field should be interrogated, because experts I ask about him respond: "!?!?!?!?"
+        Is the deal that each indirected entropy "provider" outside the RNG source does its own mixing?
+        Facebook's new head of news has close ties to conservative politics, Trump cabinet pick https://www.buzzfeed.com/mollyhensleyclancy/facebooks-head-of-news-has-close-ties-to-conservative-politi?utm_term=.bwXzzrexX8 ...  via @mollyhc
+        "What Else Is Revealed By Order-Revealing Encryption" by @cdavidcash at #realworldcrypto nicely visualizes leakage https://eprint.iacr.org/2016/786.pdf pic.twitter.com/XmpAzqRgOd
+        Wiki leaks falsely ID's someone while trying to demonstrate why a mass dox list isn't a terrible waste of their time.pic.twitter.com/bgU8bEof8V
+        WHAT DID YOU THINK HE THOUGHThttps://twitter.com/JMLudes/status/817473903245361152 ... 
+        *puts flashlight under chin* but all along the hacktivist dude squad was mostly just pissed they didn't have root on the panopticon wooooooo
+        Heyyyy http://jepsen.io  is now built & deployed via http://skyliner.io , thanks to @marcprecipice and @coda's help.
+        A lot of my friends have been discussing the morality of Foghorn Leghorn lately so I thought I'd put the  whole thing to bed.pic.twitter.com/YQejLwibva
+        This sexist accidentally made feminism sound way more amazing.pic.twitter.com/cPNnn6I8sD
+        incidentally this would make the best reefer-madness type film ever
+        Arnold Schwarzenegger, the former governor of California, is subtweeting President-elect Donald Trump. Explain that sentence to 1985.
+        Um please don't solder in bars, nerds.https://twitter.com/k8em0/status/817776501378584576 ... 
+
+wirecutterdeals
+
+        Our previous budget pick for best budget soundbar, the Vizio SB3821-C6, is down to $115 (from $160)http://amzn.to/2gzQ6pf 
