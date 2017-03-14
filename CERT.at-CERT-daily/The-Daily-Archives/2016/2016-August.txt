@@ -1,0 +1,3359 @@
+From team at cert.at  Mon Aug  1 18:03:50 2016
+From: team at cert.at (Daily end-of-shift report)
+Date: Mon, 1 Aug 2016 18:03:50 +0200
+Subject: [CERT-daily] Tageszusammenfassung - Montag 1-08-2016
+Message-ID: <20160801_160350_058553.team@cert.at>
+
+=======================
+= End-of-Shift report =
+=======================
+
+Timeframe:   Freitag 29-07-2016 18:00 ? Montag 01-08-2016 18:00
+Handler:     Alexander Riepl
+Co-Handler:  n/a
+
+
+*** Fake FreeDNS Used to Redirect Traffic to Malicious Sites ***
+---------------------------------------------
+During the last couple of days we performed a few similar cleanup requests where sites occasionally redirected visitors to malicious sites that displayed ads, spam and malicious downloads. One of our security analysts, Andrey Kucherov, ..
+---------------------------------------------
+https://blog.sucuri.net/2016/07/fake-freedns-used-to-redirect-traffic-to-malicious-sites.html
+
+
+
+
+*** SwiftKey zeigt Vorschl?ge fremder Nutzer ***
+---------------------------------------------
+Nutzer des alternativen Smartphone-Keyboards SwiftKey haben Wortvorschl?ge fremder Nutzer erhalten. Neben W?rtern in anderen Sprachen sollen auch fremde E-Mail-Adressen darunter gewesen sein.
+---------------------------------------------
+http://heise.de/-3282177
+
+
+
+
+*** DSA-3636 collectd - security update ***
+---------------------------------------------
+Emilien Gaspar discovered that collectd, a statistics collection andmonitoring daemon, incorrectly processed incoming networkpackets. This resulted in a heap overflow, allowing a remote attackerto either cause a DoS via application crash, or potentially executearbitrary code.
+---------------------------------------------
+https://www.debian.org/security/2016/dsa-3636
+
+
+
+
+*** HTML-Injection-L?cke erlaubte Zertifikatsklau bei Comodo ***
+---------------------------------------------
+Eine L?cke im Zertifikats-Bestellsystem der Certification Authority Comodo erlaubte es Angreifern, sich SSL-Zertifikate f?r fremde Websites ausstellen zu lassen, was Man-in-the-middle-Lauschangriffe auf deren Traffic erm?glicht.
+---------------------------------------------
+http://heise.de/-3282183
+
+
+
+
+*** Xen Vulnerability Allows Hackers To Escape Qubes OS VM And Own the Host ***
+---------------------------------------------
+Slashdot reader Noryungi writes: Qubes OS certainly has an intriguing approach to security, but a newly discovered Xen vulnerability allows a hacker to escape a VM and own the host. If you are running Qubes, make sure you update ..
+---------------------------------------------
+https://tech.slashdot.org/story/16/07/30/1552244/xen-vulnerability-allows-hackers-to-escape-qubes-os-vm-and-own-the-host
+
+
+
+
+*** DSA-3634 redis - security update ***
+---------------------------------------------
+It was discovered that redis, a persistent key-value database, did notproperly protect redis-cli history files: they were created by defaultwith world-readable permissions.
+---------------------------------------------
+https://www.debian.org/security/2016/dsa-3634
+
+
+
+
+*** Are you getting I-CANNED? ***
+---------------------------------------------
+One year ago, I already covered the impact that ICANNs latest money grab was having on security, see https://isc.sans.edu/forums/diary/httpsyourfakebanksupport+TLD+confusion+starts/18651/. ICANN is the organization that ..
+---------------------------------------------
+https://isc.sans.edu/diary.html?storyid=21323
+
+
+
+
+*** Booking Calendar <= 6.2 - SQL Injection ***
+---------------------------------------------
+https://wpvulndb.com/vulnerabilities/8576
+
+
+
+
+*** Booking Calendar <= 6.2 - Reflected Cross-Site Scripting (XSS) ***
+---------------------------------------------
+https://wpvulndb.com/vulnerabilities/8575
+
+
+
+
+*** Pok?mon GO Creators Twitter Account Hacked ? Pika, Pikaaaa! ***
+---------------------------------------------
+Twitter account of another high-profile CEO has been hacked! This time, its Niantic CEO John Hanke, the developer behind the worlds most popular game Pok?mon GO. And it ..
+---------------------------------------------
+https://thehackernews.com/2016/07/pokemon-go-hack.html
+
+
+
+
+*** Kaspersky DDoS Intelligence Report for Q2 2016 ***
+---------------------------------------------
+In Q2 2016, the geography of DDoS attacks narrowed to 70 countries, with China accounting for 77.4% of attacks. In fact, 97.3% of the targeted resources were located in ..
+---------------------------------------------
+http://securelist.com/analysis/quarterly-malware-reports/75513/kaspersky-ddos-intelligence-report-for-q2-2016/
+
+
+
+
+*** INTERPOL Arrests Business Email Compromise Scam Mastermind ***
+---------------------------------------------
+Business Email Compromise (BEC) attacks have proven to be an effective tactic, with criminals stealing large amounts of money from various businesses. From 2013 to 2015, BEC-related damages were estimated at US$ 2.3 billion. Targeting ..
+---------------------------------------------
+http://blog.trendmicro.com/trendlabs-security-intelligence/interpol-arrests-business-email-compromise-scam-mastermind/
+
+
+
+
+*** Sicherheitsl?cke: Millionen Daten von Flugreisenden jahrelang im Internet ***
+---------------------------------------------
+Rechnungen, Namen und teilweise sogar die Bankdaten von Flugreisenden waren jahrelang ohne technische H?rden offen im Netz verf?gbar - ohne, dass es jemandem aufgefallen w?re. Auch Kriminelle haben die Daten nach aktuellem Stand ?bersehen.
+---------------------------------------------
+http://www.golem.de/news/sicherheitsluecke-millionen-daten-von-flugreisenden-jahrelang-im-internet-1608-122453.html
+
+From team at cert.at  Tue Aug  2 18:03:47 2016
+From: team at cert.at (Daily end-of-shift report)
+Date: Tue, 2 Aug 2016 18:03:47 +0200
+Subject: [CERT-daily] Tageszusammenfassung - Dienstag 2-08-2016
+Message-ID: <20160802_160347_027527.team@cert.at>
+
+=======================
+= End-of-Shift report =
+=======================
+
+Timeframe:   Montag 01-08-2016 18:00 ? Dienstag 02-08-2016 18:00
+Handler:     Alexander Riepl
+Co-Handler:  n/a
+
+
+*** Android Security Bulletin August 2016 ***
+---------------------------------------------
+https://source.android.com/security/bulletin/2016-08-01.html
+
+
+
+
+*** Google Domain Enables HSTS Protection ***
+---------------------------------------------
+Google ensures HTTPS connections to its domains with support for HTTP Strict Transport Security, or HSTS.
+---------------------------------------------
+http://threatpost.com/google-domain-enables-hsts-protection/119597/
+
+
+
+
+*** DSA-3637 chromium-browser - security update ***
+---------------------------------------------
+https://www.debian.org/security/2016/dsa-3637
+
+
+
+
+*** Slinging Hash: Speeding Cyber Threat Hunting Methodologies via Hash-Based Searching ***
+---------------------------------------------
+Introduction The term "hash" is thrown around in casual IT conversation quite a bit nowadays, ..
+---------------------------------------------
+https://www.trustwave.com/Resources/SpiderLabs-Blog/Slinging-Hash--Speeding-Cyber-Threat-Hunting-Methodologies-via-Hash-Based-Searching/
+
+
+
+
+*** 36000 SAP systems exposed online, most open to attacks ***
+---------------------------------------------
+ERPScan released the first comprehensive SAP Cybersecurity Threat Report, which covers three main angles: Product Security, Implementation Security, and Security Awareness. The company used its own scanning method to gather ..
+---------------------------------------------
+https://www.helpnetsecurity.com/2016/08/02/sap-cybersecurity-report/
+
+
+
+
+*** Im Darknet werden 200 Millionen Yahoo-Accounts verkauft ***
+---------------------------------------------
+Login-Informationen zu rund 200 Millionen Yahoo-Accounts werden zum Verkauf angeboten. Und Yahoo wei? dar?ber Bescheid.
+---------------------------------------------
+http://futurezone.at/digital-life/im-darknet-werden-200-millionen-yahoo-accounts-verkauft/213.257.439
+
+
+
+
+*** FireEye admits filtering out legitimate emails in sniffer snafu ***
+---------------------------------------------
+Benign messages frogmarched into quarantine FireEye has admitted that a snafu involving its email filtering technology meant harmless messages were shuffled off to quarantine for no good reason.
+---------------------------------------------
+www.theregister.co.uk/2016/08/02/fireeye_filtering_snafu/
+
+
+
+
+*** Kasperskys Herz f?r Hacker: 50.000 US-Dollar f?r gemeldete Bugs ***
+---------------------------------------------
+Als zweiter AV-Hersteller f?hren die Russen ein Bug-Bounty-Programm ein. Sicherheitsforscher sollen nun Geld daf?r bekommen, Schwachstellen in Kaspersky-Produkten zu finden.
+---------------------------------------------
+http://heise.de/-3284172
+
+
+
+
+*** Introducing the p0f BPF compiler ***
+---------------------------------------------
+Two years ago we blogged about our love of BPF (BSD packet filter) bytecode.CC BY 2.0 image by jim simonsonThen we published a set of utilities we are using to generate the BPF ..
+---------------------------------------------
+https://blog.cloudflare.com/introducing-the-p0f-bpf-compiler/
+
+
+
+
+*** Timing Attacks in the Modern Web ***
+---------------------------------------------
+Before you explore all the details of these browser-based timing attacks, head over to my laboratories to play around with these attacks yourself!
+---------------------------------------------
+https://tom.vg/2016/08/browser-based-timing-attacks/
+
+From team at cert.at  Wed Aug  3 18:15:41 2016
+From: team at cert.at (Daily end-of-shift report)
+Date: Wed, 3 Aug 2016 18:15:41 +0200
+Subject: [CERT-daily] Tageszusammenfassung - Mittwoch 3-08-2016
+Message-ID: <20160803_161541_034328.team@cert.at>
+
+=======================
+= End-of-Shift report =
+=======================
+
+Timeframe:   Dienstag 02-08-2016 18:00 ? Mittwoch 03-08-2016 18:00
+Handler:     Alexander Riepl
+Co-Handler:  Stephan Richter
+
+
+
+
+*** MICROSOFT LIVE ACCOUNT CREDENTIALS LEAKING FROM WINDOWS 8 AND ABOVE ***
+---------------------------------------------
+Discovered in 1997 by Aaron Spangler and never fixed, the WinNT/Win95 Automatic Authentication Vulnerability (IE Bug #4) is certainly an excellent vintage. In Windows 8 and 10, the same bug has now been found to potentially leak the user's Microsoft Live account login and (hashed) password information, which is also used to access OneDrive, Outlook, Office, Mobile, Bing, Xbox Live, MSN and Skype (if used with a Microsoft account).
+---------------------------------------------
+https://hackaday.com/2016/08/02/microsoft-live-account-credentials-leaking-from-windows-8-and-above/
+
+
+
+
+*** Internet-Telefonie: Datensch?tzer raten zu Perfect Forward Secrecy ***
+---------------------------------------------
+Die Internationale Arbeitsgruppe zum Datenschutz in der Telekommunikation empfiehlt den Einsatz von sicherer Verschl?sselung bei Apps f?r VoIP oder Chats. Anbieter sollten m?glichst wenig personenbezogene Informationen speichern.
+---------------------------------------------
+http://heise.de/-3285356
+
+
+
+
+*** SAP ASE file creation vulnerability (CVE-2016-6196) ***
+---------------------------------------------
+Recently SAP released a patch for an Adaptive Server Enterprise vulnerability that allows legitimate database users to create files on disk where the server process can write to. This is useful when doing a chained database attack - first create...
+---------------------------------------------
+https://www.trustwave.com/Resources/SpiderLabs-Blog/SAP-ASE-file-creation-vulnerability-(CVE-2016-6196)/
+
+
+
+
+*** The Dark Side of Certificate Transparency, (Wed, Aug 3rd) ***
+---------------------------------------------
+I am a big fan of the idea behind Certificate Transparency [1]. The real problem with SSL (and TLS... it really doesnt matter for this discussion) is not the weak ciphers or subtle issues with algorithms (yes, you should still fix it), but the certificate authority trust model. It has been too easy in the past to obtain a fraudulent certificate [2]. There was little accountability when it came to certificate authorities issuing test certificates, or just messing up, and validating the wrong...
+---------------------------------------------
+https://isc.sans.edu/diary.html?storyid=21329&rss
+
+
+
+
+*** Windows 10 Anniversary Update fordert signierte Treiber sch?rfer ein ***
+---------------------------------------------
+Seit der 64-Bit-Version von Windows Vista verlangt Microsoft digital signierte Treiber f?r PC-Komponenten; die j?ngste Windows-10-Version 1607 (Redstone) schraubt die Anforderungen h?her.
+---------------------------------------------
+http://heise.de/-3285419
+
+
+
+
+*** Unsichere SMS-Authentifizierung: Telegram-Accounts in Iran offenbar gehackt ***
+---------------------------------------------
+Der Messengerdienst Telegram gilt vielen als sichere Alternative zu Whatsapp. Doch es ist durchaus m?glich, Sicherheitsvorkehrungen auszuhebeln und an Accounts zu gelangen.
+---------------------------------------------
+http://www.golem.de/news/unsichere-sms-authentifizierung-telegram-accounts-in-iran-offenbar-gehackt-1608-122489-rss.html
+
+
+
+
+*** FossHub kompromittiert: Software-Installer mit Malware infiziert ***
+---------------------------------------------
+Die Download-Plattform FossHub ist gehackt worden. Die Hacker haben die Installer von verbreiteten Open-Source-Programmen mit Malware infiziert die den Bootloader ?berschreibt.
+---------------------------------------------
+http://heise.de/-3286347
+
+
+
+
+*** A brief introduction to Forensic Readiness ***
+---------------------------------------------
+Introduction As defined in the RFC 2350 (Expectations for Computer Security Incident Response), the security incident is any adverse event which compromises some aspect of computer or network security. The definition of an incident may vary between organizations but generally is related to the compromise of confidentiality (i.e. document theft), integrity (i.e. alteration of the...
+---------------------------------------------
+http://resources.infosecinstitute.com/a-brief-introduction-to-forensic-readiness/
+
+
+
+
+*** Finding and Enumerating Processes within Memory-Part 1 ***
+---------------------------------------------
+In this article series, we will learn about how processes reside in memory and various ways to find and enumerate them. I will be using Volatility plugins to find processes in memory. Once we know how to find processes within memory, in Part 2 we will see how to enumerate through them. Note: The scope...
+---------------------------------------------
+http://resources.infosecinstitute.com/finding-and-enumerating-processes-within-memory-part-1/
+
+
+
+
+*** Social Engineering: Wie man anderen mit Schokolade das Passwort entlocken kann ***
+---------------------------------------------
+Wissenschafter belegen erschreckend leichtfertigen Umgang mit vertraulichen Daten
+---------------------------------------------
+http://derstandard.at/2000042272093-406
+
+
+
+
+*** Four high-profile vulnerabilities in HTTP/2 revealed ***
+---------------------------------------------
+Imperva released a new report at Black Hat USA 2016, which documents four high-profile vulnerabilities researchers at the Imperva Defense Center found in HTTP/2, the new version of the HTTP protocol that serves as one of the main building blocks of the Worldwide Web. HTTP/2 introduces new mechanisms that effectively increase the attack surface of business critical web infrastructure which then becomes vulnerable to new types of attacks. Imperva researchers took an in-depth look at...
+---------------------------------------------
+https://www.helpnetsecurity.com/2016/08/03/vulnerable-http2/
+
+
+
+
+*** Stealing payment card data and PINs from POS systems is dead easy ***
+---------------------------------------------
+Many of the large payment card breaches that hit retail and hospitality businesses in recent years were the result of attackers infecting point-of-sale systems with memory-scraping malware. But there are easier ways to steal this sort of data, due to a lack of authentication and encryption between card readers and the POS payment applications.POS systems are specialized computers. They typically run Windows and have peripherals like keyboards, touch screens, barcode scanners and card readers...
+---------------------------------------------
+http://www.cio.com/article/3102922/stealing-payment-card-data-and-pins-from-pos-systems-is-dead-easy.html#tk.rss_security
+
+
+
+
+*** Nagios Core Access Control Flaw Lets Remote Users Conduct Cross-Site Request Forgery Attacks ***
+---------------------------------------------
+http://www.securitytracker.com/id/1036513
+
+
+
+
+*** Moxa SoftCMS SQL Injection Vulnerability ***
+---------------------------------------------
+This advisory contains mitigation details for a SQL injection vulnerability in Moxas SoftCMS.
+---------------------------------------------
+https://ics-cert.us-cert.gov/advisories/ICSA-16-215-01
+
+
+
+
+*** Siemens SINEMA Server Privilege Escalation Vulnerability ***
+---------------------------------------------
+This advisory contains mitigation details for a privilege escalation vulnerability in the Siemens SINEMA Server.
+---------------------------------------------
+https://ics-cert.us-cert.gov/advisories/ICSA-16-215-02
+
+From team at cert.at  Thu Aug  4 18:05:48 2016
+From: team at cert.at (Daily end-of-shift report)
+Date: Thu, 4 Aug 2016 18:05:48 +0200
+Subject: [CERT-daily] Tageszusammenfassung - Donnerstag 4-08-2016
+Message-ID: <20160804_160548_088697.team@cert.at>
+
+=======================
+= End-of-Shift report =
+=======================
+
+Timeframe:   Mittwoch 03-08-2016 18:00 ? Donnerstag 04-08-2016 18:00
+Handler:     Alexander Riepl
+Co-Handler:  n/a
+
+
+*** Cisco TelePresence Video Communication Server Expressway Command Injection Vulnerability ***
+---------------------------------------------
+A vulnerability in the administrative web interface of Cisco TelePresence Video Communication Server Expressway could allow an authenticated, remote attacker to execute arbitrary commands on the affected system.The ..
+---------------------------------------------
+http://tools.cisco.com/security/center/content/CiscoSecurityAdvisory/cisco-sa-20160803-vcse
+
+
+
+
+*** Cisco RV180 VPN and RV180W Wireless-N Multifunction VPN Routers Remote Code Execution Vulnerability ***
+---------------------------------------------
+A vulnerability in the web interface of the Cisco RV180 VPN Router and Cisco RV180W Wireless-N Multifunction VPN Router could allow an authenticated, remote ..
+---------------------------------------------
+http://tools.cisco.com/security/center/content/CiscoSecurityAdvisory/cisco-sa-20160803-rv180_2
+
+
+
+
+*** Cisco RV110W, RV130W, and RV215W Routers Command Shell Injection Vulnerability ***
+---------------------------------------------
+A vulnerability in the command-line interface (CLI) command parser of the Cisco RV110W Wireless-N VPN Firewall, Cisco RV130W Wireless-N Multifunction VPN Router, and Cisco RV215W Wireless-N VPN Router&nbsp;could allow an ..
+---------------------------------------------
+http://tools.cisco.com/security/center/content/CiscoSecurityAdvisory/cisco-sa-20160803-rv110_130w1
+
+
+
+
+*** Administration Views - Critical - Access bypass - SA-CONTRIB-2016-041 ***
+---------------------------------------------
+https://www.drupal.org/node/2778501
+
+
+
+
+*** Snitches get stitches: Little Snitch bugs were a blessing for malware ***
+---------------------------------------------
+Now-patched kernel-level flaw in OS X app firewall will be revealed this week DEF CON Vulnerabilities in popular OS X security tool Little Snitch potentially granted malicious applications extra powers, undermining the protection offered by the software.
+---------------------------------------------
+www.theregister.co.uk/2016/08/03/mac_firewall_littlesnitch/
+
+
+
+
+*** A look into Neutrino EK?s jQueryGate ***
+---------------------------------------------
+In the cybercrime landscape, Exploit Kits (EKs) are the tools of choice to infect endpoints by exploiting software vulnerabilities. However, a critical component EKs ..
+---------------------------------------------
+https://blog.malwarebytes.com/threat-analysis/exploits-threat-analysis/2016/08/a-look-into-neutrinos-jquerygate/
+
+
+
+
+*** [20160802] - Core - XSS Vulnerability ***
+---------------------------------------------
+https://developer.joomla.org/security-centre/653-20160802-core-xss-vulnerability.html
+
+
+
+
+*** [20160801] - Core - ACL Violation ***
+---------------------------------------------
+https://developer.joomla.org/security-centre/652-20160801-core-core-acl-violations.html
+
+
+
+
+*** [20160803] - Core - CSRF ***
+---------------------------------------------
+https://developer.joomla.org/security-centre/654-20160803-core-csrf.html
+
+
+
+
+*** XML External Entity Injection Opens Door to Attacks, Theft ***
+---------------------------------------------
+XML is a popular language for web developers, partially due to its software and hardware independence. Recently, however, XML security is under threat from XML external ..
+---------------------------------------------
+https://blogs.mcafee.com/mcafee-labs/xml-external-entity-injection-opens-door-attacks-theft/
+
+
+
+
+*** A Plugin?s Expired Domain Poses a Security Threat to Websites ***
+---------------------------------------------
+Do you keep all your website software (including all third-party themes, plugins and components) up-to-date? You should! We always recommend this to our ..
+---------------------------------------------
+https://blog.sucuri.net/2016/08/plugin-expired-domain-security-threat.html
+
+
+
+
+*** DSA-3639 wordpress - security update ***
+---------------------------------------------
+https://www.debian.org/security/2016/dsa-3639
+
+
+
+
+*** Activity Log <= 2.3.2 - Cross-Site Scripting (XSS) ***
+---------------------------------------------
+https://wpvulndb.com/vulnerabilities/8584
+
+
+
+
+*** HEIST: Timing- und Kompressionsangriff auf TLS ***
+---------------------------------------------
+Durch die geschickte Kombination eines Timing-Angriffs in Javascript und der bereits bekannten BREACH-Attacke ist es m?glich, Geheimnisse in TLS-Verbindungen zu entschl?sseln. Anders als fr?her ist daf?r kein Man-in-the-Middle-Angriff n?tig.
+---------------------------------------------
+http://www.golem.de/news/heist-timing-und-kompressionsangriff-auf-tls-1608-122508.html
+
+
+
+
+*** Activity Log <= 2.3.2 - Cross-Site Scripting (XSS) in page ***
+---------------------------------------------
+https://wpvulndb.com/vulnerabilities/8585
+
+
+
+
+*** Phishing-Studie: Neugier siegt ?ber Sicherheitsbedenken ***
+---------------------------------------------
+Allen Warnungen und Sicherheitsvorkehrungen zum Trotz: Nutzer lassen sich sehr leicht auf eine Webseite locken, wenn die Phishing-Mail verf?hrerisch genug klingt. Das sollte Auswirkungen auf die Sicherheitsarchitektur haben, fordern Forscher.
+---------------------------------------------
+http://www.golem.de/news/phishing-studie-neugier-siegt-ueber-sicherheitsbedenken-1608-122524.html
+
+
+
+
+*** Social Engineering: Jeder zweite f?llt auf USB-Sticks und Facebook-Nachrichten rein ***
+---------------------------------------------
+W?rden Sie einen gerade gefundenen USB-Stick anschlie?en? W?rden Sie auf den Link in einer Facebook-Nachricht einer Ihnen unbekannten Person klicken? Laut zwei Studien beantworten dies viele mit nein ? tun es aber trotzdem.
+---------------------------------------------
+http://heise.de/-3287818
+
+
+
+
+*** DSA-3640 firefox-esr - security update ***
+---------------------------------------------
+https://www.debian.org/security/2016/dsa-3640
+
+
+
+
+*** DSA-3638 curl - security update ***
+----------------------------------------------
+https://www.debian.org/security/2016/dsa-3638
+
+From team at cert.at  Fri Aug  5 18:05:23 2016
+From: team at cert.at (Daily end-of-shift report)
+Date: Fri, 5 Aug 2016 18:05:23 +0200
+Subject: [CERT-daily] Tageszusammenfassung - Freitag 5-08-2016
+Message-ID: <20160805_160523_072856.team@cert.at>
+
+=======================
+= End-of-Shift report =
+=======================
+
+Timeframe:   Donnerstag 04-08-2016 18:00 ? Freitag 05-08-2016 18:00
+Handler:     Alexander Riepl
+Co-Handler:  n/a
+
+
+*** iPhone: Nach Diebstahl auf gezieltes Phishing achten ***
+---------------------------------------------
+Diebe setzen auf nachgestellte Apple-Anschreiben, um Beklaute zur Eingabe der Zugangsdaten zu bewegen. Damit k?nnen sie die Aktivierungssperre aufheben und das gestohlene iPhone voll funktionsf?hig verkaufen.
+---------------------------------------------
+http://heise.de/-3288554
+
+
+
+
+*** Microsoft Bounty Programs Expansion ? Microsoft Edge Remote Code Execution (RCE) Bounty ***
+---------------------------------------------
+I?m very happy to announce another addition to the Microsoft Bounty Programs. Microsoft will be hosting a ..
+---------------------------------------------
+https://blogs.technet.microsoft.com/msrc/2016/08/04/microsoft-bounty-programs-expansion-microsoft-edge-remote-code-execution-rce-bounty/
+
+
+
+
+*** Pwnie Awards 2016: Die Oscars der Security-Szene gehen an ? ***
+---------------------------------------------
+Die s??en goldenen Pwnies gingen unter anderem an Tavis Ormandy, Charlie Miller, Juniper und Western Digital. Nicht ..
+---------------------------------------------
+http://heise.de/-3288420
+
+
+
+
+*** To Obfuscate, or not to Obfuscate ***
+---------------------------------------------
+Introduction Malwares goal is to bypass computer defenses, infect a target, and often remain on the system as long as possible. A variety of techniques are used to accomplish ..
+---------------------------------------------
+https://www.trustwave.com/Resources/SpiderLabs-Blog/To-Obfuscate,-or-not-to-Obfuscate/
+
+
+
+
+*** Apple will Hackern 200.000 Dollar f?r Bug-Entdeckung zahlen ***
+---------------------------------------------
+W?hrend Microsoft, Google und Co schon l?nger Bug Bounty-Programme betreiben, hielt sich Apple bislang zur?ck
+---------------------------------------------
+http://derstandard.at/2000042391260
+
+
+
+
+*** Cyber Grand Challenge: IT-Security k?nnte sich radikal ?ndern ***
+---------------------------------------------
+Wenn Computer v?llig autonom Sicherheitsl?cken suchen, finden und dann entweder stopfen oder ausnutzen, bleibt ..
+---------------------------------------------
+http://heise.de/-3288820
+
+
+
+
+*** WPAD: 20 Jahre altes Protokoll bringt Millionen Nutzer in Gefahr ***
+---------------------------------------------
+Das Protokoll WPAD dient zum automatischen Konfigurieren von Proxies und stellt eine lange bekannte ..
+---------------------------------------------
+http://heise.de/-3288801
+
+
+
+
+*** Odd Packet: Any ideas where this comes from?, (Fri, Aug 5th) ***
+---------------------------------------------
+Out reader submitted to us severalodd packets. Of course, I cant resist to figure out what is exactly going on here: The packets appearto include a lengthy pre-ample, but I ..
+---------------------------------------------
+https://isc.sans.edu/diary.html?storyid=21343
+
+
+
+
+*** Frequent Password Changes is a Bad Security Idea ***
+---------------------------------------------
+Ive been saying for years that its bad security advice, that it encourages poor passwords. Lorrie Cranor, now the FTCs chief technologist, agrees:By studying the data, the researchers identified common techniques ..
+---------------------------------------------
+https://www.schneier.com/blog/archives/2016/08/frequent_passwo.html
+
+
+
+
+*** Nach Bitcoin-Hack: Bitfinex-Diebe wollen jetzt spenden ***
+---------------------------------------------
+Nachdem Angreifer bei Bitfinex Bitcoin im Wert von rund 72 Millionen US-Dollar entwendet haben, wollen sie offenbar einen Teil davon spenden. Insgesamt 1.000 Bitcoin ..
+---------------------------------------------
+http://www.golem.de/news/nach-bitcoin-hack-bitfinex-diebe-wollen-jetzt-spenden-1608-122541.html
+
+From team at cert.at  Mon Aug  8 18:31:00 2016
+From: team at cert.at (Daily end-of-shift report)
+Date: Mon, 8 Aug 2016 18:31:00 +0200
+Subject: [CERT-daily] Tageszusammenfassung - Montag 8-08-2016
+Message-ID: <20160808_163100_099680.team@cert.at>
+
+=======================
+= End-of-Shift report =
+=======================
+
+Timeframe:   Freitag 05-08-2016 18:00 ? Montag 08-08-2016 18:00
+Handler:     Stephan Richter
+Co-Handler:  n/a
+
+
+
+
+*** F5 Security Advisory: glibc vulnerability CVE-2016-3706 ***
+---------------------------------------------
+https://support.f5.com:443/kb/en-us/solutions/public/k/06/sol06493172.html?ref=rss
+
+
+
+
+*** Smoke Loader - downloader with a smokescreen still alive ***
+---------------------------------------------
+This time we will have a look at another payload from recent RIG EK campaign. It is Smoke Loader (also known as Dofoil), a bot created several years ago. One of its early versions was advertised on the black marker in 2011.Categories:  Malware Threat analysisTags: DofoildownloaderRIG EKsmoke loader(Read more...)
+---------------------------------------------
+https://blog.malwarebytes.com/threat-analysis/2016/08/smoke-loader-downloader-with-a-smokescreen-still-alive/
+
+
+
+
+*** Docker Unspecified Flaw Lets Remote Authenticated Users Deny Service on the Target Swarm Cluster ***
+---------------------------------------------
+http://www.securitytracker.com/id/1036548
+
+
+
+
+*** Apple iOS Memory Corruption Error in IOMobileFrameBuffer Lets Applications Gain Elevated Privileges on the Target System ***
+---------------------------------------------
+http://www.securitytracker.com/id/1036546
+
+
+
+
+*** FortiAnalyzer & FortiManager - Client Side Cross Site Scripting Web Vulnerability ***
+---------------------------------------------
+https://cxsecurity.com/issue/WLB-2016080052
+
+
+
+
+*** This PC monitor hack can manipulate pixels for malicious effect ***
+---------------------------------------------
+Don't believe everything you see. It turns out even your computer monitor can be hacked.On Friday, researchers at DEF CON presented a way to manipulate the tiny pixels found on a computer display.Ang Cui and Jatin Kataria of Red Balloon Security were curious how Dell monitors worked and ended up reverse-engineering one.They picked apart a Dell U2410 monitor and found that the display controller inside can be used to change and log the pixels across the screen.During their DEF CON...
+---------------------------------------------
+http://www.cio.com/article/3104974/this-pc-monitor-hack-can-manipulate-pixels-for-malicious-effect.html#tk.rss_security
+
+
+
+
+*** Angriff auf Geldautomaten mit Fernsteuerung ***
+---------------------------------------------
+Ein Sicherheitsforscher hat auf der Blackhat-Konferenz demonstriert, wie sich trotz PIN-Absicherung Bargeld von fremden Konten ziehen l?sst. Angeblich l?sst sich dabei auch an modernen Geldautomaten die PIN abgreifen, ohne Spuren zu hinterlassen.
+---------------------------------------------
+http://heise.de/-3289469
+
+
+
+
+*** Externe Festplatten mit Verschl?sselung knackbar ***
+---------------------------------------------
+Viele USB-Festplatten mit Vollverschl?sselung und PIN-Tastatur lassen sich vermutlich entschl?sseln, wenn man die Firmware des USB-SATA-Bridge-Chips austauscht.
+---------------------------------------------
+http://heise.de/-3289530
+
+
+
+
+*** Video surveillance recorders RIDDLED with 0-days ***
+---------------------------------------------
+Kit from NUUO, Netgear has face-palm grade stoopid There are multiple Web interface vulnerabilities in a network video recorder under Netgears ReadyNAS brand and various devices by video recording company NUUO.
+---------------------------------------------
+http://go.theregister.com/feed/www.theregister.co.uk/2016/08/07/nuuo_netgear_surveillance_recorders_riddled_with_0days/
+
+
+
+
+*** Strider: Cyberespionage group turns eye of Sauron on targets ***
+---------------------------------------------
+Low-profile group uses Remsec malware to spy on targets in Russia, China, and Europe.      Twitter Card Style:  summary_large_image  A previously unknown group called Strider has been conducting cyberespionage-style attacks against selected targets in Russia, China, Sweden, and Belgium. The group uses an advanced piece of malware known as Remsec (Backdoor.Remsec) to conduct its attacks.read more
+---------------------------------------------
+http://www.symantec.com/connect/blogs/strider-cyberespionage-group-turns-eye-sauron-targets
+
+
+
+
+*** Week in review: Black Hat USA 2016 coverage, QRLJacking, exposed SAP systems ***
+---------------------------------------------
+Here's an overview of some of last week's most interesting news and articles: Black Hat USA 2016 Want to learn the news from Black Hat USA 2016? Get is all from our dedicated coverage page. QRLJacking: A new attack vector for hijacking online accounts We all know that scanning random QR codes is a risky proposition, but a newly detailed social engineering attack vector dubbed QRLJacking adds another risk layer to their use. 36000 SAP...
+---------------------------------------------
+https://www.helpnetsecurity.com/2016/08/08/week-review-black-hat-usa-2016-coverage-qrljacking-exposed-sap-systems/
+
+
+
+
+*** Bugtraq: vBulletin <= 5.2.2 Preauth Server Side Request Forgery (SSRF) ***
+---------------------------------------------
+http://www.securityfocus.com/archive/1/539149
+
+
+
+
+*** VMware product updates address multiple important security issues ***
+---------------------------------------------
+VMware product updates address a DLL hijacking issue in Windows-based VMware Tools and an HTTP Header injection issue in vCenter Server and ESXi. 
+Relevant Products: VMware vCenter Server VMware vSphere Hypervisor (ESXi) VMware Workstation Pro VMware Workstation Player VMware Fusion VMware Tools
+---------------------------------------------
+https://www.vmware.com/security/advisories/VMSA-2016-0010.html
+
+
+
+
+*** Remote Butler attack: APT groups' dream come true ***
+---------------------------------------------
+Microsoft security researchers have come up with an extension of the "Evil Maid" attack that allows attackers to bypass local Windows authentication to defeat full disk encryption: "Remote Butler". Demonstrated at Black Hat USA 2016 by researchers Tal Be'ery and Chaim Hoch, the Remote Butler attack has one crucial improvement over Evil Maid: it can be effected by attackers who do not have physical access to the target Windows computer that has, at one time,...
+---------------------------------------------
+https://www.helpnetsecurity.com/2016/08/08/remote-butler-attack/
+
+
+
+
+*** IBM Security Bulletin: Multiple vulnerabilities may affect IBM WebSphere Real Time ***
+---------------------------------------------
+Java SE issues disclosed in the Oracle July 2016 Critical Patch Update CVE(s): CVE-2016-3598, CVE-2016-3511, CVE-2016-3485 Affected product(s) and affected version(s): These vulnerabilities affect IBM WebSphere Real Time Version 3 Service Refresh 9 Fix Pack 40 and earlier releases Refer to the following reference URLs for remediation and additional vulnerability details:Source Bulletin: https://www-01.ibm.com/support/docview.wss?uid=swg21987762X-Force Database:...
+---------------------------------------------
+https://www-01.ibm.com/support/docview.wss?uid=swg21987762
+
+
+
+
+*** IBM Security Bulletin: Multiple vulnerabilities may affect IBM SDK, Java Technology Edition ***
+---------------------------------------------
+Java SE issues disclosed in the Oracle July 2016 Critical Patch Update CVE(s): CVE-2016-3610, CVE-2016-3598, CVE-2016-3606, CVE-2016-3587, CVE-2016-3511, CVE-2016-3550, CVE-2016-3485 Affected product(s) and affected version(s): These vulnerabilities affect IBM SDK, Java Technology Edition, Version 6 Service Refresh 16 Fix Pack 26 and earlier releases These vulnerabilities affect IBM SDK, Java Technology Edition, Version 6R1 Service...
+---------------------------------------------
+https://www-01.ibm.com/support/docview.wss?uid=swg21986642
+
+
+
+
+*** IBM Security Bulletin: OpenStack vulnerabilities affect IBM SmartCloud Entry(CVE-2015-7548, CVE-2015-8749 CVE-2015-1850) ***
+---------------------------------------------
+IBM SmartClound Entry is vulnerable to several Openstack Nova vulerabilities, which could allow a local authenticated attacker or a remote attacker to obtain sensitive information CVE(s): CVE-2015-8749, CVE-2015-7548, CVE-2015-1850 Affected product(s) and affected version(s): IBM SmartCloud Entry 3.2 through Appliance fix pack 21 IBM SmartCloud Entry 3.1 through Appliance fix pack 21 Refer to the...
+---------------------------------------------
+http://www.ibm.com/support/docview.wss?uid=isg3T1023865
+
+
+
+
+*** VU#735416: UltraVNC repeater does not restrict IP addresses or ports by default ***
+---------------------------------------------
+Vulnerability Note VU#735416 UltraVNC repeater does not restrict IP addresses or ports by default Original Release date: 08 Aug 2016 | Last revised: 08 Aug 2016   Overview UltraVNC repeater versions prior to ultravnc_repeater_1300 do not restrict usage by IP address by default and cannot restrict by ports, which may be leveraged to induce connections to arbitrary hosts using any port.  Description CWE-16: Configuration - CVE-2016-5673UltraVNC repeater acts as a proxy to route remote desktop VNC...
+---------------------------------------------
+http://www.kb.cert.org/vuls/id/735416
+
+
+
+
+*** Neuer auftretender Verschl?sselungs-Trojaner (Ransomware) machen Daten unwiederbringlich unbrauchbar ***
+---------------------------------------------
+[...] Die derzeit auftretenden Varianten der Ransomware benennen sich Vegclass at aol.com, Salazar-Slytherin10 at yahoo.com, usw., der eigentliche Schadcode d?rfte dabei jedoch auf die aus Russland stammende Ransomware "Troldesh" zur?ck zu f?hren sein.
+---------------------------------------------
+http://www.bmi.gv.at/cms/bmi/_news/bmi.aspx?id=524B7A526E703148456D553D&page=0&view=1
+
+
+
+
+*** Malware mit Barcodes und Excel in abgeschottete Netze einschleusen ***
+---------------------------------------------
+Ein Hacker bringt Malware auf einem Umweg in Netzwerke, bei denen weder USB noch optische Laufwerke oder Netzwerktransfers funktionieren. Er verwandelt die Software in 2D-Barcodes, die er dann mit Excel wieder in ausf?hrbaren Code verwandelt.
+---------------------------------------------
+http://heise.de/-3290119
+
+
+
+
+*** Qualcomm-powered Android devices plagued by four rooting flaws ***
+---------------------------------------------
+Hundreds of millions of Android devices based on Qualcomm chipsets are likely exposed to at least one of four critical vulnerabilities that allow non-privileged apps to take them over.The four flaws were presented by security researcher Adam Donenfeld from Check Point Software Technologies on Sunday at the DEF CON security conference in Las Vegas. They were reported to Qualcomm between February and April, and the chipset maker has since released fixes for the vulnerabilities after classifying...
+---------------------------------------------
+http://www.cio.com/article/3104896/qualcomm-powered-android-devices-plagued-by-four-rooting-flaws.html#tk.rss_security
+
+
+
+
+*** Data Breach At Oracle's MICROS Point-of-Sale Division ***
+---------------------------------------------
+A Russian organized cybercrime group known for hacking into banks and retailers appears to have breached more than 700 computer systems at software giant Oracle Corp., KrebsOnSecurity has learned. More alarmingly, the attackers appear to have compromised a customer support portal for companies using Oracles MICROS point-of-sale credit card payment systems.
+---------------------------------------------
+http://krebsonsecurity.com/?p=35752
+
+From team at cert.at  Tue Aug  9 18:22:54 2016
+From: team at cert.at (Daily end-of-shift report)
+Date: Tue, 9 Aug 2016 18:22:54 +0200
+Subject: [CERT-daily] Tageszusammenfassung - Dienstag 9-08-2016
+Message-ID: <20160809_162254_090325.team@cert.at>
+
+=======================
+= End-of-Shift report =
+=======================
+
+Timeframe:   Montag 08-08-2016 18:00 ? Dienstag 09-08-2016 18:00
+Handler:     Stephan Richter
+Co-Handler:  n/a
+
+
+
+
+*** "Cat-Loving" Mobile Ransomware Operates With Control Panel ***
+---------------------------------------------
+Recently the McAfee Labs Mobile Malware Research team found a sample of ransomware for Android with botnet capabilities and a web-based control panel service. The malware is running on compromised legitimate servers. The payload of this malware can encrypt a victim's files, steal SMS messages, and block access to the device. In this variant the...
+---------------------------------------------
+https://blogs.mcafee.com/mcafee-labs/cat-loving-mobile-ransomware-operates-control-panel/
+
+
+
+
+*** Researcher warns of flaws in Samsung Pay tokenization and mag stripe features ***
+---------------------------------------------
+A researcher claims to have found vulnerabilities in Samsung Pays tokenization mechanism and its magnetic secure transmission (MST) technology that could allow hackers to steal users tokens and make fraudulent purchases.
+---------------------------------------------
+http://www.scmagazine.com/researcher-warns-of-flaws-in-samsung-pay-tokenization-and-mag-stripe-features/article/514732/
+
+
+
+
+*** Samsung Calls Reports of Samsung Pay Security Flaw "Inaccurate" ***
+---------------------------------------------
+Researcher finds a way to make fraudulent transactions via Samsung Pay, but Samsung denies any issues
+---------------------------------------------
+http://news.softpedia.com/news/samsung-calls-reports-of-samsung-pay-security-flaw-as-inaccurate-507098.shtml
+
+
+
+
+*** Anonymes Dokument: Angriffe auf den FreeBSD-Update-Prozess ***
+---------------------------------------------
+Ein anonymes Dokument beschreibt detailliert Sicherheitsl?cken im FreeBSD-Update-System. Betroffen sind Portsnap, Libarchive und Bspatch. Fixes gibt es bislang nur f?r wenige der Bugs. M?glicherweise existieren ?hnliche Angriffe auch auf Linux-Systemen.
+---------------------------------------------
+http://www.golem.de/news/anonymes-dokument-angriffe-auf-den-freebsd-update-prozess-1608-122581-rss.html
+
+
+
+
+*** Sicherheit: Hacker knacken 12 von 16 Smartlocks ***
+---------------------------------------------
+Zwei Hacker haben drei Viertel der von ihnen untersuchten Bluetooth-Smartlocks knacken k?nnen - mit stellenweise haarstr?ubend einfachen Mitteln. Die Reaktion der Hersteller zeugt nicht von gro?em Interesse, an den Problemen etwas ?ndern zu wollen.
+---------------------------------------------
+http://www.golem.de/news/sicherheit-hacker-knacken-12-von-16-smartlocks-1608-122589-rss.html
+
+
+
+
+*** DFRWS EU/IMF 2017 ***
+---------------------------------------------
+DFRWS EU 2017 will be held in ?berlingen, Lake Constance, Germany. This year brings together two premier research conferences in Europe, the DFRWS digital forensics conference (DFRWS EU 2017) and the International Conference on IT Security Incident Management & IT Forensics (IMF 2017). Established in 2001, DFRWS has become the premier digital forensics conference, dedicated to solving real world challenges, and pushing the envelope of what is currently possible in digital forensics.
+---------------------------------------------
+http://www.dfrws.org/conferences/dfrws-eu-2017
+
+
+
+
+*** Unechte PayLife-Nachricht: Ihre Kreditkarte wird vorl?ufig eingeschr?nkt ***
+---------------------------------------------
+In einer E-Mail behaupten Kriminelle, dass PayLife-Kund/innen ihre pers?nlichen Daten best?tigen m?ssen. Tun sie das nicht, m?ssen sie angeblich 89,95 Euro bezahlen. Empf?nger/innen, die der Aufforderung nachkommen, ?bermitteln sensible Kreditkarteninformationen an Verbrecher/innen.
+---------------------------------------------
+https://www.watchlist-internet.at/phishing/unechte-paylife-nachricht-ihre-kreditkarte-wird-vorlaeufig-eingeschraenkt/
+
+
+
+
+*** Windows 10 Anniversary Update is infested with bugs ***
+---------------------------------------------
+Last month, I warned readers that Microsofts Windows 10 Anniversary Update would likely be somewhat buggy and suggested consumers should wait awhile before installing it. Unfortunately, my advice proved valid.Windows 10 Anniversary Update infestationThere are widespread reports of significant bugs in the update, and theyre causing systems to freeze, browsers to misbehave, and peripherals - including Xbox One controllers - to malfunction. Two major antivirus companies also warn that...
+---------------------------------------------
+http://www.cio.com/article/3104774/windows-security/windows-10-anniversary-update-is-infested-with-bugs.html#tk.rss_security
+
+
+
+
+*** QuadRooter vulnerability: 5 things to know about this Android security scare ***
+---------------------------------------------
+Once again, its Android security scare season. This morning news broke of the latest collection of vulnerabilities, discovered by security firm Check Point and grouped together under the catchy monicker "QuadRooter." As usual, most of the reporting has focused on worst-case scenarios and a shockingly huge number of potentially vulnerable devices - in this case, an estimated 900 million. Were going to break down exactly whats going on, and just how vulnerable youre likely to be.
+---------------------------------------------
+http://www.androidcentral.com/quadrooter-5-things-know-about-latest-android-security-scare
+
+
+
+
+*** IPv6 router bug: Juniper spins out hotfix to thwart DDoS attacks ***
+---------------------------------------------
+Vulnerability common to devices routing IPv6; Cisco offered partial fix in July.
+---------------------------------------------
+http://arstechnica.com/security/2016/08/ipv6-router-bug-juniper-cisco-ddos-attacks/
+
+
+
+
+*** Security Bulletin Posted for Adobe Experience Manager (APSB16-27) ***
+---------------------------------------------
+Adobe has published a Security Bulletin for Adobe Experience Manager(APSB16-27). Adobe recommends users apply the relevant hotfix to their product installation using the instructions referenced in the security bulletin. Adobe is not planning to issue a security update for Flash Player this...
+---------------------------------------------
+https://blogs.adobe.com/psirt/?p=1385
+
+
+
+
+*** Cisco IOS and IOS XE Software Crafted Network Time Protocol Packets Denial of Service Vulnerability ***
+---------------------------------------------
+A vulnerability in the processing of Network Time Protocol (NTP) packets by Cisco IOS and Cisco IOS XE could allow an unauthenticated, remote attacker to cause an interface wedge and an eventual denial of service (DoS) condition on the affected device.The vulnerability is due to insufficient checks on clearing the invalid NTP packets from the interface queue. An attacker could exploit this vulnerability by sending a number of crafted NTP packets to be processed by an affected device. An exploit...
+---------------------------------------------
+http://tools.cisco.com/security/center/content/CiscoSecurityAdvisory/cisco-sa-20160804-wedge
+
+
+
+
+*** Foxit Reader Multiple Flaws Let Remote Users Obtain Potentially Sensitive Information, Deny Service, and Execute Arbitrary Code ***
+---------------------------------------------
+http://www.securitytracker.com/id/1036558
+
+
+
+
+*** Vuln: OpenSSH CVE-2016-6515 Denial of Service Vulnerability ***
+---------------------------------------------
+http://www.securityfocus.com/bid/92212
+
+
+
+
+*** Bugtraq: ESA-2016-070: RSA Authentication Manager Prime SelfService Insecure Direct Object Reference Vulnerability ***
+---------------------------------------------
+http://www.securityfocus.com/archive/1/539157
+
+
+
+
+*** Bugtraq: [CVE-2016-6600/1/2/3]: Multiple vulnerabilities (RCE, file download, etc) in WebNMS Framework 5.2 / 5.2 SP1 ***
+---------------------------------------------
+http://www.securityfocus.com/archive/1/539159
+
+
+
+
+*** Trend Micro Control Manager (TMCM) Multiple Vulnerabilities ***
+---------------------------------------------
+https://esupport.trendmicro.com/solution/en-US/1114749.aspx
+
+
+*** Trend Micro InterScan Messaging Security Virtual Appliance (IMSVA) Multiple Vulnerabilities ***
+---------------------------------------------
+https://esupport.trendmicro.com/solution/en-US/1114746.aspx
+
+
+*** Trend Micro Smart Protection Server (Standalone) Multiple Vulnerabilities ***
+---------------------------------------------
+https://esupport.trendmicro.com/solution/en-US/1114913.aspx
+
+
+
+
+*** IBM Security Bulletins ***
+---------------------------------------------
+*** IBM Security Bulletin: AppScan Source vulnerable to denial of service caused by an XML External Entity (CVE-2016-3033) ***
+http://www.ibm.com/support/docview.wss?uid=swg21987326
+---------------------------------------------
+*** IBM Security Bulletin: IBM Tivoli Monitoring Buffer Overflow (CVE-2016-2946 ) ***
+http://www.ibm.com/support/docview.wss?uid=swg21984578
+---------------------------------------------
+*** IBM Security Bulletin: Lotus Protector for Mail Security affected by Cross Site Scripting (CVE-2016-2991) ***
+http://www-01.ibm.com/support/docview.wss?uid=swg21985280
+---------------------------------------------
+*** IBM Security Bulletin:Open Source Apache Xerces-C XML parser Vulnerabilities (CVE-2016-0729 CVE-2016-4463) ***
+http://www.ibm.com/support/docview.wss?uid=swg21987267
+---------------------------------------------
+*** IBM Security Bulletin: OpenStack vulnerabilities affect IBM Cloud Manager with Openstack (CVE-2015-7548, CVE-2015-8749 CVE-2015-1850) ***
+http://www-01.ibm.com/support/docview.wss?uid=isg3T1024106
+---------------------------------------------
+
+From team at cert.at  Wed Aug 10 18:11:56 2016
+From: team at cert.at (Daily end-of-shift report)
+Date: Wed, 10 Aug 2016 18:11:56 +0200
+Subject: [CERT-daily] Tageszusammenfassung - Mittwoch 10-08-2016
+Message-ID: <20160810_161156_004508.team@cert.at>
+
+=======================
+= End-of-Shift report =
+=======================
+
+Timeframe:   Dienstag 09-08-2016 18:00 ? Mittwoch 10-08-2016 18:00
+Handler:     Stephan Richter
+Co-Handler:  n/a
+
+
+
+
+*** Fixing an Internet Security Threat ***
+---------------------------------------------
+A weakness in the Transmission Control Protocol (TCP) of all Linux operating systems since late 2012 enables attackers to hijack users' Internet communications completely remotely, researchers said.
+---------------------------------------------
+http://www.isssource.com/fixing-an-internet-security-threat/
+
+
+
+
+*** August 2016 security update release ***
+---------------------------------------------
+Today we released security updates to provide additional protections against malicious attackers. As a best practice, we encourage customers to apply security updates as soon as they are released. More information about this month's security updates and advisories can be found in the Security TechNet Library.
+---------------------------------------------
+https://blogs.technet.microsoft.com/msrc/2016/08/09/august-2016-security-update-release/
+
+
+
+
+*** Microsoft Patch Tuesday, August 2016, (Tue, Aug 9th) ***
+---------------------------------------------
+Today, Microsoft released a total of 9 security bulletins. 5 of the bulletins are rated critical, the rest are rated important. You can find our usual summary here: https://isc.sans.edu/mspatchdays.html?viewday=2016-08-09(or via the API in various parsable formats) Some of the highlights: MS16-095/096: The usual Internet Explorer and Edge patches. Microsoft addresses nine vulnerabilities for Internet Explorer, and 8 for Edge. Note that there is a lot of overlap. Kind of makes you wonder how...
+---------------------------------------------
+https://isc.sans.edu/diary.html?storyid=21357&rss
+
+
+
+
+*** MSRT August 2016 release adds Neobar detection ***
+---------------------------------------------
+As part of our ongoing effort to provide better malware protection, the August 2016 release of the Microsoft Malicious Software Removal Tool (MSRT) includes detections for BrowserModifier: Win32/Neobar, unwanted software, and Win32/Rovnix, a trojan malware family. This blog discusses BrowserModifier:Win32/Neobar and its inclusion in MSRT supports our unwanted software family detections in Windows Defender, along...
+---------------------------------------------
+https://blogs.technet.microsoft.com/mmpc/2016/08/09/msrt-august-2016-release-adds-neobar-detection/
+
+
+
+
+*** Kardinalfehler: Microsoft setzt aus Versehen Secure Boot Schachmatt ***
+---------------------------------------------
+Durch eine vergessene Debug-Funktion hat Microsoft jedem Administrator die M?glichkeit gegeben, Secure Boot auch aus der Ferne abzuschalten. Damit aber nicht genug der Peinlichkeiten: Zwei Versuche, die L?cke zu stopfen, scheiterten bereits.
+---------------------------------------------
+http://heise.de/-3291946
+
+
+
+
+*** Google Chrome will beat Flash to death with a shovel: Why... wont... you... just... die! ***
+---------------------------------------------
+Adobe plugin completely snubbed for HTML5 By the end of the year, Google Chrome will block virtually all Flash content and make whatevers left click-to-play by default.
+---------------------------------------------
+http://go.theregister.com/feed/www.theregister.co.uk/2016/08/09/google_chrome_55_flash/
+
+
+
+
+*** Factsheet Use virtualisation wisely ***
+---------------------------------------------
+Virtualisation of ICT services ensures more efficient and flexible use of hardware. This factsheet is about specific risks that arise when you use virtual servers to outsource ICT services. Your virtual server has an unknown number of virtual neighbours on the host. By using the newly discovered Flip Feng Shui attack method, an attacker can penetrate a virtual neighbour or have it install malware. To date, an attacker could only eavesdrop on the activity of virtual neighbours. The success...
+---------------------------------------------
+https://www.ncsc.nl/english/current-topics/factsheets/factsheet-use-virtualisation-wisely.html
+
+
+
+
+*** Research team presents Flip Feng Shui attack method at Usenix Security Symposium 2016 ***
+---------------------------------------------
+Researchers of the Vrije Universiteit Amsterdam and the Katholieke Universteit Leuven discovered a new attack method, known as Flip Feng Shui. This is the first attack method that enables an attacker to change the contents of the memory of another virtual server. In this way, he can directly attack the virtual server. Previously discovered attack methods, so-called side channels, aim to eavesdrop on a virtual server on the same host, and gain access to confidential information. On August the
+---------------------------------------------
+https://www.ncsc.nl/english/current-topics/news/researchteam-presents-flip-feng-shui-attack-method-at-usenix-security-symposium-2016.html
+
+
+
+
+*** Verschl?sselung: Microsofts Edge und Internet Explorer 11 werfen RC4 ?ber Bord ***
+---------------------------------------------
+Ab sofort ?ffnen die Webbrowser Edge und Internet Explorer 11 keine Webseiten mehr, die auf das RC4-Verschl?sselungsverfahren setzen. Das daf?r n?tige Update verteilt Microsoft aktuell.
+---------------------------------------------
+http://heise.de/-3291361
+
+
+
+
+*** Verflixte Primzahlen: Eine subtile Hintert?r im Diffie-Hellman-Schl?sselaustausch ***
+---------------------------------------------
+Benutzt der Diffie-Hellman-Schl?sselaustausch an der richtigen Stelle die falschen Primzahlen, kann ein Angreifer unter Umst?nden an die geheimen Schl?ssel kommen. Das w?rde ihm erlauben etwa SSL-Verbindungen aufzubrechen.
+---------------------------------------------
+http://heise.de/-3289764
+
+
+
+
+*** Determining the real economic impact of cyber-incidents: A mission (almost) impossible ***
+---------------------------------------------
+Today ENISA publishes a systematic review of studies on the economic impact of cyber-security incidents on critical information infrastructures (CII).
+---------------------------------------------
+https://www.enisa.europa.eu/news/enisa-news/determining-the-real-economic-impact-of-cyber-incidents-a-mission-almost-impossible
+
+
+
+
+*** IDG Contributor Network: Reach em and teach em--educating developers on application security ***
+---------------------------------------------
+How are developers supposed to build security throughout the development lifecycle if they are not taught security at any stage of their education? Vulnerabilities exist because products made by developers who have close to no knowledge of security are hitting the market. Rather than accept the idea that software will never be 100 percent secure, academia and industry leaders can be more proactive and teach developers how to think about application security.In a white paper, "App-Sec...
+---------------------------------------------
+http://www.csoonline.com/article/3105503/application-development/reach-em-and-teach-em-educating-developers-on-application-security.html#tk.rss_applicationsecurity
+
+
+
+
+*** Security Advisory - A Security Vulnerability of Using Insecure Random Numbers to Generate Self-signed Certificates in Huawei Products ***
+---------------------------------------------
+http://www.huawei.com/en/psirt/security-advisories/2016/huawei-sa-20160810-01-certificate-en
+
+
+
+
+*** Security Advisory - Buffer Overflow Vulnerability in Huawei USG Products ***
+---------------------------------------------
+http://www.huawei.com/en/psirt/security-advisories/2016/huawei-sa-20160810-01-usg-en
+
+
+
+
+*** IBM Security Bulletin: XXE and XmlBomb vulnerability in FileNet Workplace (CVE-2016-3055) ***
+---------------------------------------------
+FileNet Workplace is susceptible to the XXE and XmlBomb vulnerability. CVE(s): CVE-2016-3055 Affected product(s) and affected version(s): FileNet Workplace 4.0.2 Refer to the following reference URLs for remediation and additional vulnerability details:Source Bulletin: http://www.ibm.com/support/docview.wss?uid=swg21987128X-Force Database:...
+---------------------------------------------
+http://www.ibm.com/support/docview.wss?uid=swg21987128
+
+
+
+
+*** IBM Security Bulletin: IBM Forms Experience Builder vulnerable to CSRF when configured with non default settings (CVE-2016-2884) ***
+---------------------------------------------
+A cross-site request forgery attack is possible when configured with non default settings, caused by improper validation of user-supplied input. CVE(s): CVE-2016-2884 Affected product(s) and affected version(s): IBM Forms Experience Builder 8.5 IBM Forms Experience Builder 8.5.1 IBM Forms Experience Builder 8.6.x Refer to the following reference URLs for remediation and additional vulnerability details:Source Bulletin:...
+---------------------------------------------
+http://www-01.ibm.com/support/docview.wss?uid=swg21987252
+
+
+
+
+*** IBM Security Bulletin: Multiple vulnerabilities in IBM Java SDK affect Rational Service Tester (CVE-2016-3426) ***
+---------------------------------------------
+There are multiple vulnerabilities in IBM SDK Java Technology Edition, Version 7 and Version 8. These issues were disclosed as part of the IBM Java SDK updates in April 2016. Rational Service Tester is only affected by one of these vulnerabilities. CVE(s): CVE-2016-3426 Affected product(s) and affected version(s): Rational Service Tester versions 8.3, 8.5, 8.6,...
+---------------------------------------------
+http://www.ibm.com/support/docview.wss?uid=swg21988456
+
+
+
+
+*** IBM Security Bulletin: A security vulnerability in IBM Java Runtime affects IBM Cognos Planning (CVE-2016-3427) ***
+---------------------------------------------
+There are multiple vulnerabilities in IBM Runtime Environment Java Version 6 that is used by IBM Cognos Planning. These issues were disclosed as part of the IBM Java SDK updates in April 2016. CVE(s): CVE-2016-3427 Affected product(s) and affected version(s): IBM Cognos Planning 10.1 IBM Cognos Planning 10.1.1 Refer to the following reference URLs for...
+---------------------------------------------
+http://www-01.ibm.com/support/docview.wss?uid=swg21975745
+
+From team at cert.at  Thu Aug 11 18:12:16 2016
+From: team at cert.at (Daily end-of-shift report)
+Date: Thu, 11 Aug 2016 18:12:16 +0200
+Subject: [CERT-daily] Tageszusammenfassung - Donnerstag 11-08-2016
+Message-ID: <20160811_161216_001732.team@cert.at>
+
+=======================
+= End-of-Shift report =
+=======================
+
+Timeframe:   Mittwoch 10-08-2016 18:00 ? Donnerstag 11-08-2016 18:00
+Handler:     Stephan Richter
+Co-Handler:  n/a
+
+
+
+
+*** Sicherheitsforscher kapern HTTP-Verbindungen von Linux ***
+---------------------------------------------
+Eine Schwachstelle im Linux-Kernel gef?hrdet TCP-Verbindungen. Unter bestimmten Voraussetzungen konnten sich Sicherheitsforscher in Verbindungen einklinken und diese etwa lahmlegen und sogar manipulieren.
+---------------------------------------------
+http://heise.de/-3292257
+
+
+
+
+*** Bing.VC Hijacks Browsers Using Legitimate Applications ***
+---------------------------------------------
+Browser hijackers are a type of malware that modifies a web browser's settings without the user's permission. Generally a browser hijacker injects unwanted advertising into the browser. It replaces the home page or search page with its own. It also steals cookies and can install a keylogger to fetch other sensitive information. McAfee Labs has recently...
+---------------------------------------------
+https://blogs.mcafee.com/mcafee-labs/bing-vc-hijacks-browser-using-legitimate-applications/
+
+
+
+
+*** Profiling SSL Clients with tshark, (Wed, Aug 10th) ***
+---------------------------------------------
+Cisco recently published a paper showing how malicious SSL traffic sometimes uses very specific SSL options. Once you know what set of SSL options to look for, you will then be able to identify individual pieces of malware without having to decrypt the SSL traffic. (and before anybody complains: SSL does include TLS. I am just old fashioned that way) I wanted to see how well this applies to HTTPS traffic hitting the ISC website. I collected about 100 MB of traffic, which covered client hello...
+---------------------------------------------
+https://isc.sans.edu/diary.html?storyid=21361&rss
+
+
+
+
+*** Python-based TLS tester tool ***
+---------------------------------------------
+We at Oulu University Secure Programming Group, OUSPG for short, have been developing a neat little gadget called TryTLS. It is a systematic tester tool that checks the safety of TLS libraries. We think we have something of value here, as certificate handling is a very complex and overlooked issue. The tool and info on how to get started can be found here: https://github.com/ouspg/trytls We would really value your input if you could think of some good backends, tests or other resources that...
+---------------------------------------------
+http://www.reddit.com/r/netsec/comments/4x1z36/pythonbased_tls_tester_tool/
+
+
+
+
+*** Linux Trojan Mines For Cryptocurrency Using Misconfigured Redis Servers ***
+---------------------------------------------
+An anonymous reader writes: In another installment of "Linux has malware too," security researchers have discovered a new trojan that targets Linux servers running Redis, where the trojan installs a cryptocurrency miner. The odd fact about this trojan is that it includes a wormable feature that allows it to spread on its own. The trojan, named Linux.Lady, will look for Redis servers that dont have an admin account password, access the database, and then download itself on the new...
+---------------------------------------------
+http://rss.slashdot.org/~r/Slashdot/slashdot/~3/WKFxUVtVPG0/linux-trojan-mines-for-cryptocurrency-using-misconfigured-redis-servers
+
+
+
+
+*** CRIME, TIME, BREACH and HEIST: A brief history of compression oracle attacks on HTTPS ***
+---------------------------------------------
+The HEIST vulnerability was presented at Black Hat USA 2016 by Mathy Vanhoef and Tom Van Goethem. In this presentation, new techniques were presented that enhanced previously presented padding oracle attacks on HTTPS, making them more practical. In a padding oracle attack, the attacker has partial control of part of a message that contains secret information, and is compressed, then encrypted before being sent over the network. An example of this is a web page...
+---------------------------------------------
+https://www.helpnetsecurity.com/2016/08/11/compression-oracle-attacks-https/
+
+
+
+
+*** Volkswagen-Hack: Mit dem Arduino 100 Millionen Autos ?ffnen ***
+---------------------------------------------
+Mit einem Arduino und Hardware im Wert von 40 US-Dollar lassen sich fast alle Modelle der VW-Gruppe aus den vergangenen 15 Jahren ?ffnen - sagen Sicherheitsforscher. Das Unternehmen hat die L?cke einger?umt. 14 weitere Autohersteller sind betroffen.
+---------------------------------------------
+http://www.golem.de/news/hack-mit-dem-arduino-100-millionen-autos-oeffnen-1608-122641-rss.html
+
+
+
+
+*** Road Warriors: Beware of "Video Jacking" ***
+---------------------------------------------
+A little-known feature of many modern smartphones is their ability to duplicate video on the devices screen so that it also shows up on a much larger display -- like a TV. However, new research shows that this feature may quietly expose users to a simple and cheap new form of digital eavesdropping. Dubbed "video jacking" by its masterminds, the attack uses custom electronics hidden inside what appears to be a USB charging station. As soon as you connect a vulnerable phone to the...
+---------------------------------------------
+http://krebsonsecurity.com/2016/08/road-warriors-beware-of-video-jacking/
+
+
+
+
+*** EyeLock nano NXT 3.5 Remote Root Exploit ***
+---------------------------------------------
+EyeLocks nano NXT firmware latest version 3.5 (released 25.07.2016) suffers from multiple unauthenticated command injection vulnerabilities. The issue lies within the rpc.php script located in the /scripts directory and can be triggered when user supplied input is not correctly sanitized while updating the local time for the device and/or get info from remote time server. The vulnerable script has two REQUEST parameters timeserver and localtime that are called within a shell_exec() function for...
+---------------------------------------------
+http://www.zeroscience.mk/en/vulnerabilities/ZSL-2016-5357.php
+
+
+
+
+*** EyeLock nano NXT 3.5 Local File Disclosure Vulnerability ***
+---------------------------------------------
+nano NXT suffers from a file disclosure vulnerability when input passed thru the path parameter to logdownload.php script is not properly verified before being used to read files. This can be exploited to disclose contents of files from local resources.
+---------------------------------------------
+http://www.zeroscience.mk/en/vulnerabilities/ZSL-2016-5356.php
+
+
+
+
+*** EyeLock Myris 3.3.2 SDK Service Unquoted Service Path Privilege Escalation ***
+---------------------------------------------
+The application suffers from an unquoted search path issue impacting the service MyrisService for Windows deployed as part of Myris solution. This could potentially allow an authorized but non-privileged local user to execute arbitrary code with elevated privileges on the system. A successful attempt would require the local user to be able to insert their code in the system root path undetected by the OS or other security applications where it could potentially be executed during application...
+---------------------------------------------
+http://www.zeroscience.mk/en/vulnerabilities/ZSL-2016-5355.php
+
+
+
+
+*** Bugtraq: [CORE-2016-0006] - SAP CAR Multiple Vulnerabilities ***
+---------------------------------------------
+http://www.securityfocus.com/archive/1/539180
+
+
+
+
+*** SSA-378531 (Last Update 2016-08-11): Vulnerabilities in SIMATIC WinCC, PCS 7 and WinCC Runtime Professional ***
+---------------------------------------------
+https://www.siemens.com/cert/pool/cert/siemens_security_advisory_ssa-378531.pdf
+
+
+
+
+*** Security Advisory: BIG-IP file validation vulnerability CVE-2015-8022 ***
+---------------------------------------------
+https://support.f5.com:443/kb/en-us/solutions/public/k/12/sol12401251.html?ref=rss
+
+
+
+
+*** Security Advisory: BIG-IP IPsec IKE peer listener vulnerability CVE-2016-5736 ***
+---------------------------------------------
+https://support.f5.com:443/kb/en-us/solutions/public/k/10/sol10133477.html?ref=rss
+
+
+
+
+*** Cisco IOS XR Software for Cisco ASR 9001 Aggregation Services Routers Fragmented Packet Denial of Service Vulnerability ***
+---------------------------------------------
+A vulnerability in the driver processing functions of Cisco&nbsp;IOS XR Software for Cisco&nbsp;ASR 9001 Aggregation Services Routers could allow an unauthenticated, remote attacker to cause a memory leak on the route processor&nbsp;(RP) of an affected device, which could cause the device to drop all control-plane protocols and lead to a denial of service condition&nbsp;(DoS) on a targeted system.The vulnerability is due to improper handling of crafted, fragmented packets that
+---------------------------------------------
+http://tools.cisco.com/security/center/content/CiscoSecurityAdvisory/cisco-sa-20160810-iosxr
+
+
+
+
+*** Cisco IP Phone 8800 Series Cross-Site Scripting Vulnerability ***
+---------------------------------------------
+A vulnerability in the web application of the Cisco IP Phone 8800 Series could allow an authenticated, remote attacker to perform a stored, cross-site scripting (XSS) attack.The vulnerability is due to insufficient sanitization of parameter values. An attacker could exploit this vulnerability by storing malicious code on a device and waiting for a user to access a web page that triggers execution of the code. An exploit could allow the attacker to execute arbitrary script code in the context of
+---------------------------------------------
+http://tools.cisco.com/security/center/content/CiscoSecurityAdvisory/cisco-sa-20160810-ip-phone-8800
+
+
+
+
+*** Cisco Connected Streaming Analytics Unauthorized Access Vulnerability ***
+---------------------------------------------
+A vulnerability in the administrative web interface of Cisco Connected Streaming Analytics could allow an authenticated, remote attacker to obtain sensitive information.The vulnerability is due to the inclusion of sensitive information in a server response when certain pages of the administrative web interface are accessed. An authenticated attacker who can view the affected configuration page of an affected system could obtain a service password used for event and report notification. This
+---------------------------------------------
+http://tools.cisco.com/security/center/content/CiscoSecurityAdvisory/cisco-sa-20160810-csa
+
+
+
+
+*** IBM Security Bulletins ***
+---------------------------------------------
+*** IBM Security Bulletin: Redirect HTTP traffic vulnerability may affect IBM HTTP Server (CVE-2016-5387) ***
+http://www-01.ibm.com/support/docview.wss?uid=swg21988019
+---------------------------------------------
+*** IBM Security Bulletin: IBM API Connect server credentials used for a specific restricted scenario may have been exposed (CVE-2016-3012) ***
+http://www-01.ibm.com/support/docview.wss?uid=swg21988212
+---------------------------------------------
+*** IBM Security Bulletin: IBM Tivoli Common Reporting (TCR) 2016Q2 Security Updater : IBM Tivoli Common Reporting is affected by multiple vulnerabilities ***
+http://www-01.ibm.com/support/docview.wss?uid=swg21986669
+---------------------------------------------
+*** IBM Security Bulletin: Security Bulletin: IBM Connections Security Refresh for CVE-2016-0310 ***
+http://www.ibm.com/support/docview.wss?uid=swg21988338
+---------------------------------------------
+*** IBM Security Bulletin: IBM Connections Security Refresh for CVE-2016-0305, CVE-2016-0307,CVE-2016-0308 ***
+http://www.ibm.com/support/docview.wss?uid=swg21986770
+---------------------------------------------
+*** IBM Security Bulletin: Flexara InstallShield vulnerability affects IBM Mobile Connect (CVE-2016-2542) ***
+http://www.ibm.com/support/docview.wss?uid=swg21986258
+---------------------------------------------
+*** IBM Security Bulletin: IBM Active Content Filtering Vunerability impacts IBM Docs (CVE-2016-0243 ) ***
+http://www.ibm.com/support/docview.wss?uid=swg21986626
+---------------------------------------------
+
+From team at cert.at  Fri Aug 12 18:14:59 2016
+From: team at cert.at (Daily end-of-shift report)
+Date: Fri, 12 Aug 2016 18:14:59 +0200
+Subject: [CERT-daily] Tageszusammenfassung - Freitag 12-08-2016
+Message-ID: <20160812_161459_066188.team@cert.at>
+
+=======================
+= End-of-Shift report =
+=======================
+
+Timeframe:   Donnerstag 11-08-2016 18:00 ? Freitag 12-08-2016 18:00
+Handler:     Stephan Richter
+Co-Handler:  n/a
+
+
+
+
+*** An ATM hack and a PIN-pad hack show chip cards aren't impervious to fraud ***
+---------------------------------------------
+The good news? Hacks are limited for now. The bad news? Hackers will get better.
+---------------------------------------------
+http://arstechnica.com/security/2016/08/an-atm-hack-and-a-pin-pad-hack-show-chip-cards-arent-impervious-to-fraud/
+
+
+
+
+*** Four free tools for handling Amazon Web Services security incident response ***
+---------------------------------------------
+Responding to security incidents that involve deployments within Amazon Web Services is a lot different from responding to incidents that happen on corporate-owned gear, and two researchers have come up with free tools to make that process easier.Obtaining forensic evidence is different, primarily because security pros can't obtain physical access to the machines on which their AWS instances are running.+More on Network World: Black Hat: 9 free security tools for defense...
+---------------------------------------------
+http://www.cio.com/article/3106302/security/four-free-tools-for-handling-amazon-web-services-security-incident-response.html#tk.rss_security
+
+
+
+
+*** Looking for the insider: Forensic Artifacts on iOS Messaging App, (Thu, Aug 11th) ***
+---------------------------------------------
+Most of the times we care about and focus on external threats, looking for actors that may attack us via phishing emails, vulnerable web services, misconfigured network devices, etc. However, sometimes the threat may come from the inside. In fact, it is not so uncommon to have disloyal/disgruntled employees exfiltrating information from the company (e.g. Intellectual Property to competitors, confidential information to the press, etc.). In such situations, a full forensics analysis of the...
+---------------------------------------------
+https://isc.sans.edu/diary.html?storyid=21363&rss
+
+
+
+
+*** Decrypting Chimera ransomware ***
+---------------------------------------------
+We take a technical look at validating the leaked Chimera ransomware keys as well as if we can decrypt files with these keys.
+---------------------------------------------
+https://blog.malwarebytes.com/cybercrime/2016/08/decrypting-chimera-ransomware/
+
+
+
+
+*** Ransomware Decryption Tools ***
+---------------------------------------------
+IMPORTANT! Before downloading and starting the solution, read the how-to guide. Make sure you remove the malware from your system first, otherwise it will repeatedly lock your system or encrypt files.
+---------------------------------------------
+https://www.nomoreransom.org/decryption-tools.html
+
+
+
+
+*** Analyzing and Cleaning Hijacked Google SEO Spam Results ***
+---------------------------------------------
+Blackhat SEO spam comes in many forms, and one of the most nefarious is hijacked search results. This happens when search engines crawl and display unwanted content in the title and description of infected web pages. The negative impact to the infected website cannot be understated. This harms the website's reputation with visitors and will...
+---------------------------------------------
+https://blog.sucuri.net/2016/08/cleaning-hijacked-google-seo-spam-results.html
+
+
+
+
+*** Microsofts compromised Secure Boot implementation ***
+---------------------------------------------
+Theres been a bunch of coverage of this attack on Microsofts Secure Boot implementation, a lot of which has been somewhat confused or misleading. Heres my understanding of the situation.Windows RT devices were shipped without the ability to disable Secure Boot. Secure Boot is the root of trust for Microsofts User Mode Code Integrity (UMCI) feature, which is what restricts Windows RT devices to running applications signed by Microsoft. This restriction is somewhat inconvenient for developers, so...
+---------------------------------------------
+http://mjg59.dreamwidth.org/44223.html
+
+
+
+
+*** Security-Fixes f?r Ruby on Rails verf?gbar ***
+---------------------------------------------
+Die Updates verhindern Cross-Site-Scritping-Attacken ?ber html_safe in den Hauptversionen 3, 4 und 5 sowie die M?glichkeit, Queries in Rails 4.2.x zu manipulieren.
+---------------------------------------------
+http://heise.de/-3293426
+
+
+
+
+*** This is strictly a violation of the TCP specification ***
+---------------------------------------------
+I was asked to debug another weird issue on our network. Apparently every now and then a connection going through CloudFlare would time out with 522 HTTP error. 522 error on CloudFlare indicates a connection issue between our edge server and the...
+---------------------------------------------
+https://blog.cloudflare.com/this-is-strictly-a-violation-of-the-tcp-specification/
+
+
+
+
+*** Finding and Enumerating Processes within Memory: Memory and Volatility ***
+---------------------------------------------
+In this article series, we will learn about how processes reside in memory and various ways to find and enumerate them. I will be using Volatility plugins to find processes in memory. Once we know how to find processes within memory, in Part 2 we will see how to enumerate through them. Note: The scope...
+---------------------------------------------
+http://resources.infosecinstitute.com/finding-and-enumerating-processes-within-memory-part-1/
+
+
+
+
+*** VU#301735: ZModo ZP-NE14-S DVR and ZP-IBH-13W cameras contain hard-coded credentials ***
+---------------------------------------------
+Vulnerability Note VU#301735 ZModo ZP-NE14-S DVR and ZP-IBH-13W cameras contain hard-coded credentials Original Release date: 12 Aug 2016 | Last revised: 12 Aug 2016   Overview The ZModo ZP-NE14-S DVR and ZP-IBH-13W cameras contain hard-coded credentials and run telnet by default.  Description CWE-798: Use of Hard-coded Credentials - CVE-2016-5081According to the reporter, the Zmodo ZP-NE14-S DVR and ZP-IBH-13W cameras contain undocumented credentials for accessing the device via telnet.
+---------------------------------------------
+http://www.kb.cert.org/vuls/id/301735
+
+
+
+
+*** HPSBHF03440 rev.1 - HPE iLO 3 using JQuery, Remote Cross-Site Scripting (XSS) ***
+---------------------------------------------
+A potential security vulnerability in JQuery was addressed by HPE Integrated Lights-Out 3. The vulnerability could be remotely exploited to allow Cross-Site Scripting (XSS).
+---------------------------------------------
+https://h20564.www2.hpe.com/hpsc/doc/public/display?docId=emr_na-c05232730
+
+
+
+
+*** HPSBGN03630 rev.2 - HP Operations Manager for Unix, Solaris, and Linux using Apache Commons Collections (ACC), Remote Code Execution ***
+---------------------------------------------
+A vulnerability in Apache Commons Collections (ACC) for handling Java object deserialization was addressed in the AdminUI of HP Operations Manager for Unix, Solaris and Linux. The vulnerability could be exploited remotely to allow remote code execution.
+---------------------------------------------
+https://h20564.www2.hpe.com/portal/site/hpsc/public/kb/docDisplay?docId=emr_na-c05206507
+
+
+
+
+*** IDM 4.5 SOAP Driver Version 4.0.0.4 ***
+---------------------------------------------
+Abstract: Patch update for the Novell Identity Manager SOAP driver. The patch will take the driver version to 4.0.0.4. You must have IDM 4.0.2 or later to use this driver.  Document ID: 5251690Security Alert: YesDistribution Type: Field Test FileEntitlement Required: NoFiles:IDM45_SOAP_4004.zip (161.66 kB)Products:Identity Manager 4.5Superceded Patches:IDM 4.5 SOAP Driver Version 4.0.0.3
+---------------------------------------------
+https://download.novell.com/Download?buildid=95cHErCKIOQ~
+
+
+
+
+*** F5 Security Advisory: libssh2 vulnerability CVE-2016-0787 ***
+---------------------------------------------
+https://support.f5.com:443/kb/en-us/solutions/public/k/21/sol21531693.html?ref=rss
+
+
+
+
+*** F5 Security Advisory: TMM vulnerability CVE-2016-5023 ***
+---------------------------------------------
+https://support.f5.com:443/kb/en-us/solutions/public/k/19/sol19784568.html?ref=rss
+
+
+
+
+*** VU#332115: D-Link routers contain buffer overflow vulnerability ***
+---------------------------------------------
+Vulnerability Note VU#332115 D-Link routers contain buffer overflow vulnerability Original Release date: 11 Aug 2016 | Last revised: 11 Aug 2016   Overview D-Link DIR routers contain a stack-based buffer overflow vulnerability, which may allow a remote attack to execute arbitrary code.  Description CWE-121: Stack-based Buffer Overflow - CVE-2016-5681A stack-based buffer overflow occurs in the function within the cgibin binary which validates the session cookie.This function is used by a service...
+---------------------------------------------
+http://www.kb.cert.org/vuls/id/332115
+
+
+
+
+*** Rockwell Automation MicroLogix 1400 SNMP Credentials Vulnerability ***
+---------------------------------------------
+This advisory contains mitigation details for a privileged simple network management protocol vulnerability in Rockwell Automation's MicroLogix 1400 programmable logic controllers.
+---------------------------------------------
+https://ics-cert.us-cert.gov/advisories/ICSA-16-224-01
+
+
+
+
+*** DSA-3646 postgresql-9.4 - security update ***
+---------------------------------------------
+Several vulnerabilities have been found in PostgreSQL-9.4, a SQLdatabase system.
+---------------------------------------------
+https://www.debian.org/security/2016/dsa-3646
+
+
+
+
+*** FortiVoice 5.0 Filter Bypass & Persistent Web Vulnerabilities ***
+---------------------------------------------
+A vulnerablity in FortiVoice 5.0 web-application could allow malicious script being injected in the affected module; this potentially enables XSS attacks.
+---------------------------------------------
+http://fortiguard.com/advisory/fortivoice-5-0-filter-bypass-persistent-web-vulnerabilities
+
+
+
+
+*** Cisco Aironet 1800, 2800, and 3800 Series Access Point Platforms ARP Request Handling Denial of Service Vulnerability ***
+---------------------------------------------
+A vulnerability exists in Cisco Access Point (AP) platforms when processing Address Resolution Protocol (ARP) packets that could allow an unauthenticated, adjacent attacker to inject crafted entries into the ARP table and eventually cause a reload of the affected device.The vulnerability is due to improper processing of illegal ARP packets. An attacker could exploit this vulnerability by sending crafted ARP packets to be processed by an affected device. An exploit could allow the attacker to...
+---------------------------------------------
+http://tools.cisco.com/security/center/content/CiscoSecurityAdvisory/cisco-sa-20160608-aironet
+
+
+
+
+*** IBM Security Bulletins ***
+---------------------------------------------
+*** IBM Security Bulletin: IBM Security Access Manager for Web is affected by vulnerabilities in OpenSSL ***
+http://www.ibm.com/support/docview.wss?uid=swg21987903
+---------------------------------------------
+*** IBM Security Bulletin: Vulnerabilities in OpenSSL affects IBM Tivoli Netcool System Service Monitors/Application Service Monitors (CVE-2016-2105, CVE-2016-2106, CVE-2016-2107, CVE-2016-2109, CVE-2016-2176). ***
+http://www-01.ibm.com/support/docview.wss?uid=swg21988350
+---------------------------------------------
+*** IBM Security Bulletin: Multiple security vulnerabilities have been identified in WebSphere Application Server and bundling products shipped with IBM Cloud Orchestrator (CVE-2016-3426, CVE-2016-3427) ***
+http://www-01.ibm.com/support/docview.wss?uid=swg2C1000178
+---------------------------------------------
+*** IBM Security Bulletin: IBM Security Access Manager for Mobile is affected by vulnerabilities in OpenSSH (CVE-2016-3115, CVE-2016-1908) ***
+http://www.ibm.com/support/docview.wss?uid=swg21987636
+---------------------------------------------
+*** IBM Security Bulletin: IBM Security Access Manager for Web is affected by vulnerabilities in OpenSSH (CVE-2016-3115, CVE-2016-1908) ***
+http://www.ibm.com/support/docview.wss?uid=swg21987638
+---------------------------------------------
+*** IBM Security Bulletin: IBM Netezza SQL Extensions is vulnerable to an OpenSource PCRE Vulnerability (CVE-2016-1283, CVE-2016-3191) ***
+http://www-01.ibm.com/support/docview.wss?uid=swg21985982
+---------------------------------------------
+
+
+
+
+Next End-of-Shift report: 2016-08-16
+
+From team at cert.at  Tue Aug 16 18:11:41 2016
+From: team at cert.at (Daily end-of-shift report)
+Date: Tue, 16 Aug 2016 18:11:41 +0200
+Subject: [CERT-daily] Tageszusammenfassung - Dienstag 16-08-2016
+Message-ID: <20160816_161141_016824.team@cert.at>
+
+=======================
+= End-of-Shift report =
+=======================
+
+Timeframe:   Freitag 12-08-2016 18:00 ? Dienstag 16-08-2016 18:00
+Handler:     Alexander Riepl
+Co-Handler:  n/a
+
+
+
+*** Hacker ver?ffentlichte weitere Unterlagen der US-Demokraten ***
+---------------------------------------------
+Darunter pers?nliche Handynummern und E-Mail-Adressen von fast 200 Parlamentariern
+---------------------------------------------
+http://derstandard.at/2000042820320
+
+
+
+
+*** Olympia: Hacker-Angriff auf Doping-Informantin Stepanowa ***
+---------------------------------------------
+http://derstandard.at/2000042830707
+
+
+
+
+*** CVE-2016-5696 and its effects on Tor ***
+---------------------------------------------
+tl;dr: This vulnerability is quite serious, but it doesn't effect the Tor network any more than it effects the rest of the internet. In particular, the Tor-specific attacks mentioned in the paper will not work as described.
+---------------------------------------------
+https://blog.patternsinthevoid.net/cve-2016-5696-and-its-effects-on-tor.html
+
+
+
+
+*** Forensik-Tool: Forscher stellen Inhalte von Whatsapp und Signal wieder her ***
+---------------------------------------------
+Mit Hilfe einer App sollen Strafverfolgungsbeh?rden Inhalte von Messenger-Apps ..
+---------------------------------------------
+http://www.golem.de/news/forensik-tool-forscher-stellen-inhalte-von-whatsapp-und-signal-wieder-her-1608-122693.html
+
+
+
+
+*** Pokemon Go-Ransomware verschl?sselt, erpresst und schn?ffelt ***
+---------------------------------------------
+Hinter einer gefakten Version des Smartphone-Spiels PokemonGo f?r PCs steckt ein Erpressungs-Trojaner, der es auf Daten von Nutzern abgesehen hat.
+---------------------------------------------
+http://heise.de/-3294543
+
+
+
+
+*** Nutzer bringt Windows-Betr?ger dazu, Ransomware zu installieren ***
+---------------------------------------------
+User dreht den Spiess um und sorgt f?r Abschreckung bei Support-Fakern
+---------------------------------------------
+http://derstandard.at/2000042856802
+
+
+
+
+*** Verschl?sselung: Mails zu Veracrypt-Audit verschwinden spurlos ***
+---------------------------------------------
+Ein Audit soll pr?fen, ob der Truecrypt-Nachfolger Veracrypt Sicherheitsl?cken hat. Die Macher der Initiative berichten, dass der Versuch sabotiert werde - E-Mails w?rden unauffindbar verschwinden.
+---------------------------------------------
+http://www.golem.de/news/geplanter-audit-mails-zu-veracrypt-audit-verschwinden-spurlos-1608-122703.html
+
+
+
+
+*** Exploit kit shakedown: RIG EK grabs Neutrino EK campaigns ***
+---------------------------------------------
+Something unusual happened in the exploit kit ecosystem. Two well-known malware distribution campaigns switched from Neutrino EK to RIG EK. A temporary ..
+---------------------------------------------
+https://blog.malwarebytes.com/threat-analysis/exploits-threat-analysis/2016/08/exploit-kit-shakedown-rig-ek-grabs-neutrino-ek-campaigns/
+
+
+
+
+*** Hacker behaupten, Spionagetools der NSA gestohlen zu haben ***
+---------------------------------------------
+Sicherheitsforscher gehen von einer Echtheit des Leaks aus, Hacker k?ndigen "Versteigerung" an
+---------------------------------------------
+http://derstandard.at/2000042884275
+
+
+
+
+*** BlackBerry stopft auch die vierte Quadrooter-Schwachstelle ***
+---------------------------------------------
+Drei der auf der BlackHat USA bekannt gewordenen Schwachstellen waren bereits mit dem monatlichen Sicherheitsupdate repariert. Die vierte schliesst BlackBerry nun mit einem Hotfix.
+---------------------------------------------
+http://heise.de/-3295312
+
+
+
+
+*** The Shadow Brokers: Lifting the Shadows of the NSA's Equation Group? ***
+---------------------------------------------
+This week a hacker group going by the name The Shadow Brokers has surfaced and appears to be auctioning off computer exploits it claims are stolen from the Equation ..
+---------------------------------------------
+https://www.riskbasedsecurity.com/2016/08/the-shadow-brokers-lifting-the-shadows-of-the-nsas-equation-group/
+
+
+
+
+*** Shade: not by encryption alone ***
+---------------------------------------------
+Malefactors continue to expand the features of ransomware as they try to extract maximum benefit from the compromise of infected computers. We recently found an interesting example of such an 'upgrade': a new logic in the latest ..
+---------------------------------------------
+https://securelist.com/blog/research/75645/shade-not-by-encryption-alone/
+
+
+
+
+*** Bewerbungen verbreiten Schadsoftware ***
+---------------------------------------------
+Mit vermeintlichen Bewerbungsschreiben treten Kriminelle an Firmen heran und ersuchen die ..
+---------------------------------------------
+https://www.watchlist-internet.at/schadsoftware/bewerbungen-verbreiten-schadsoftware/
+
+
+
+
+*** Secunia Research: Mit schlechten Statistiken zum falschen Sicherheitseindruck ***
+---------------------------------------------
+Secunia Research schaute sich an, wie gut Anwender ihre Systeme pflegen. Die gute Nachricht: Windows wird in der Regel aktualisiert. Die schlechte: Bei ..
+---------------------------------------------
+http://www.golem.de/news/secunia-research-mit-schlechten-statistiken-zum-falschen-sicherheitseindruck-1608-122671.html
+
+
+
+
+*** Microsoft stellt Patchsystem f?r ?ltere Windows-Versionen um ***
+---------------------------------------------
+In Zukunft sollen Patch-Pakete einmal im Monat erscheinen und auch ?ltere Fixes enthalten
+---------------------------------------------
+http://derstandard.at/2000042906045
+
+
+
+
+*** Detection and Prevention of DNS Anomalies ***
+---------------------------------------------
+Malware and Botnets have been a threat to systems and networks for several years. The usual methods of detecting a virus with a local virus scanner or their spreading with intrusion detection system (IDS) will not mitigate the ..
+---------------------------------------------
+http://resources.infosecinstitute.com/detection-prevention-dns-anomalies/
+
+
+
+
+*** P at 55w0rd5 - Blessing or curse? ***
+---------------------------------------------
+By now, everybody has passwords for something, just like keys to different doors. The more doors you have to unlock, the bigger your keychain is going to be. This in turn ..
+---------------------------------------------
+https://blog.gdatasoftware.com/2016/28917-p-55w0rd5-blessing-or-curse
+
+
+
+
+*** Das Schnurren einer Festplatte verr?t Geheimnisse ***
+---------------------------------------------
+Indem Sicherheitsforscher die Ger?usche der Zugriffe auf eine Festplatte auswerten, lesen sie Daten von einem Computer aus, auf den sie keinen direkten Zugriff haben.
+---------------------------------------------
+http://heise.de/-3295965
+
+
+
+
+*** Cerber ransomware earns $2.3mil with 0.3% response rate ***
+---------------------------------------------
+The fast-growing Cerber ransomware earned nearly $200,000 in July despite a payment rate of just 0.3 percent as a result of its affiliate distribution model, according to a new report by Check Point and IntSights Cyber ..
+---------------------------------------------
+http://www.cio.com/article/3108368/cyber-attacks-espionage/cerber-ransomware-earns-2-3mil-with-0-3-response-rate.html#tk.rss_security
+
+
+
+
+*** Microsoft Authenticator: Zweiwege-Authentifizierungs-App kommt f?r Android und iOS ***
+---------------------------------------------
+Microsoft hat seine neue Autorisierungs-App Authenticator auch f?r Android und iOS ver?ffentlicht. Damit k?nnen Nutzer Anmeldungen auf einem PC zus?tzlich absichern. Praktischerweise k?nnen mehrere Konten verwendet werden, auch von Diensten, die Microsoft nicht selbst anbietet. 
+---------------------------------------------
+http://www.golem.de/news/microsoft-authenticator-zweiwege-authentifizierungs-app-kommt-fuer-android-und-ios-1608-122726.html
+
+
+
+
+*** CEO Fraud: Deutscher Autozulieferer Leoni um Millionensumme betrogen ***
+---------------------------------------------
+Der deutsche Autozulieferer Leoni ist Opfer eines millionenschweren Betrugs geworden. Die bisher unbekannten T?ter ..
+---------------------------------------------
+http://derstandard.at/2000042922341-406
+
+
+
+
+
+From team at cert.at  Wed Aug 17 18:01:05 2016
+From: team at cert.at (Daily end-of-shift report)
+Date: Wed, 17 Aug 2016 18:01:05 +0200
+Subject: [CERT-daily] Tageszusammenfassung - Mittwoch 17-08-2016
+Message-ID: <20160817_160105_094990.team@cert.at>
+
+=======================
+= End-of-Shift report =
+=======================
+
+Timeframe:   Dienstag 16-08-2016 18:00 ? Mittwoch 17-08-2016 18:00
+Handler:     Alexander Riepl
+Co-Handler:  n/a
+
+
+
+*** SQL Injection Vulnerability in Ninja Forms ***
+---------------------------------------------
+As part of our regular research audits for our Sucuri Firewall, we discovered an SQL Injection vulnerability affecting the Ninja Forms plugin for WordPress, currently installed on 600,000+ websites.
+---------------------------------------------
+https://blog.sucuri.net/2016/08/sql-injection-vulnerability-ninja-forms.html
+
+
+
+
+*** PMASA-2016-38 ***
+---------------------------------------------
+https://www.phpmyadmin.net/security/PMASA-2016-38/
+
+
+
+
+*** PMASA-2016-34 ***
+---------------------------------------------
+https://www.phpmyadmin.net/security/PMASA-2016-34/
+
+
+
+
+*** PMASA-2016-39 ***
+---------------------------------------------
+https://www.phpmyadmin.net/security/PMASA-2016-39/
+
+
+
+
+*** PMASA-2016-43 ***
+---------------------------------------------
+https://www.phpmyadmin.net/security/PMASA-2016-43/
+
+
+
+
+*** PMASA-2016-54 ***
+---------------------------------------------
+https://www.phpmyadmin.net/security/PMASA-2016-54/
+
+
+
+
+*** PGP admins: Kill short keys now, or Alice will become Chuck ***
+---------------------------------------------
+Someones impersonating the likes of Linus Torvalds with attacks via keyservers The issue of short ..
+---------------------------------------------
+www.theregister.co.uk/2016/08/17/pgp_admins_kill_short_keys_now_or_alice_will_become_chuck/
+
+
+
+
+*** Snowden: NSA-Leak von Hackern ist "russische Botschaft" an USA ***
+---------------------------------------------
+Der NSA-Whistleblower insinuiert, dass russische Hacker damit die Reaktion auf den Einbruch bei den Demokraten abmildern wollen
+---------------------------------------------
+http://derstandard.at/2000042924155
+
+
+
+
+*** Wartungsarbeiten Donnerstag, 18. 8. 2016, nachmittags ***
+---------------------------------------------
+Am Donnerstag, 18. August 2016, nachmittags, m?ssen wir dringende Wartungsarbeiten an unserer Infrastruktur vornehmen. Dies wird zu kurzen Ausf?llen der extern erreichbaren Services (zB Email, Webserver, Mailinglisten) f?hren - es gehen dabei keine Daten (zb Emails) verloren, die ..
+---------------------------------------------
+http://www.cert.at/services/blog/20160817111811-1777.html
+
+
+
+
+*** VxWorks: Execute My Packets ***
+---------------------------------------------
+Earlier this year we reported 3 vulnerabilities in VxWorks to Wind River. Each of these vulnerabilities can be exploited by anonymous remote attackers on the same ..
+---------------------------------------------
+https://blog.exodusintel.com/2016/08/09/vxworks-execute-my-packets/
+
+
+
+
+*** Sicherheitsbedenken: Provider und Aktivisten vereint gegen Router-Lockdown ***
+---------------------------------------------
+Auch in ?sterreich soll Routerfirmware k?nftig reguliert werden. Aktivisten und ISPs kritisieren die geplanten Regelungen. Diese gingen davon aus, dass es keine Sicherheitsl?cken bei Routern geben w?rde.
+---------------------------------------------
+http://www.golem.de/news/sicherheitsbedenken-provider-und-aktivisten-vereint-gegen-routerbeschraenkungen-1608-122750.html
+
+
+
+
+*** New wave of targeted attacks focus on industrial organizations ***
+---------------------------------------------
+Kaspersky Lab researchers discovered a new wave of targeted attacks against the industrial and engineering sectors in 30 countries around the world. Dubbed Operation ..
+---------------------------------------------
+https://www.helpnetsecurity.com/2016/08/17/operation-ghoul/
+
+From team at cert.at  Thu Aug 18 18:06:05 2016
+From: team at cert.at (Daily end-of-shift report)
+Date: Thu, 18 Aug 2016 18:06:05 +0200
+Subject: [CERT-daily] Tageszusammenfassung - Donnerstag 18-08-2016
+Message-ID: <20160818_160605_065363.team@cert.at>
+
+=======================
+= End-of-Shift report =
+=======================
+
+Timeframe:   Mittwoch 17-08-2016 18:00 ? Donnerstag 18-08-2016 18:00
+Handler:     Alexander Riepl
+Co-Handler:  n/a
+
+
+*** Cisco Firepower Management Center Remote Command Execution Vulnerability ***
+---------------------------------------------
+A vulnerability in the web-based GUI of Cisco Firepower Management Center and Cisco Adaptive Security Appliance (ASA) 5500-X Series with FirePOWER Services could allow an authenticated, remote attacker to perform unauthorized remote command execution on the affected device.
+---------------------------------------------
+http://tools.cisco.com/security/center/content/CiscoSecurityAdvisory/cisco-sa-20160817-fmc
+
+
+
+
+*** Cisco Application Policy Infrastructure Controller Enterprise Module Remote Code Execution Vulnerability ***
+---------------------------------------------
+A vulnerability in the Grapevine update process of the Cisco Application Policy Infrastructure Controller Enterprise Module (APIC-EM) could allow an authenticated, remote attacker to execute arbitrary commands on the underlying operating system with the privileges of the root user.
+---------------------------------------------
+http://tools.cisco.com/security/center/content/CiscoSecurityAdvisory/cisco-sa-20160817-apic
+
+
+
+
+*** Security Afterworks ? Best of Summer of Security Conferences ***
+---------------------------------------------
+https://www.sba-research.org/events/security-afterworks-best-of-summer-of-security-conferences/
+
+
+
+
+*** Cookie Parser Buffer Overflow Vulnerability ***
+---------------------------------------------
+FortiGate firmware (FOS) released before Aug 2012 has a cookie parser buffer overflow vulnerability. This vulnerability, when exploited by a crafted HTTP request, can result ..
+---------------------------------------------
+http://fortiguard.com/advisory/cookie-parser-buffer-overflow-vulnerability
+
+
+
+
+*** Browser Address Bar Spoofing Vulnerability Disclosed ***
+---------------------------------------------
+Chrome, Firefox and likely other major browsers are afflicted by a vulnerability that allows attackers to spoof URLs in the address bar.
+---------------------------------------------
+http://threatpost.com/browser-address-bar-spoofing-vulnerability-disclosed/119951/
+
+
+
+
+*** Panelizer - Moderately Critical - Access Bypass - SA-CONTRIB-2016-048 ***
+---------------------------------------------
+https://www.drupal.org/node/2785687
+
+
+
+
+*** Panels - Critical - Multiple Vulnerabilities - SA-CONTRIB-2016-047 ***
+---------------------------------------------
+https://www.drupal.org/node/2785631
+
+
+
+
+*** Hosting - Less Critical - Access bypass - SA-CONTRIB-2016-046 ***
+---------------------------------------------
+https://www.drupal.org/node/2785531
+
+
+
+
+*** Cisco Adaptive Security Appliance SNMP Remote Code Execution Vulnerability ***
+---------------------------------------------
+A vulnerability in the Simple Network Management Protocol (SNMP) code of Cisco Adaptive Security Appliance (ASA) Software could allow an unauthenticated, remote attacker to cause a reload of the affected system or to remotely execute code.
+---------------------------------------------
+http://tools.cisco.com/security/center/content/CiscoSecurityAdvisory/cisco-sa-20160817-asa-snmp
+
+
+
+
+*** Cisco Adaptive Security Appliance CLI Remote Code Execution Vulnerability ***
+---------------------------------------------
+A vulnerability in the command-line interface (CLI) parser of Cisco Adaptive Security Appliance (ASA) Software could allow an authenticated, local attacker to create a denial of service (DoS) condition or potentially ..
+---------------------------------------------
+http://tools.cisco.com/security/center/content/CiscoSecurityAdvisory/cisco-sa-20160817-asa-cli
+
+
+
+
+*** Cisco Patches ASA Zero Days Exposed by ShadowBrokers ***
+---------------------------------------------
+Cisco today patched two vulnerabilities in its Adaptive Security Appliance that were leaked in the ShadowBrokers data dump of Equation Group exploits.
+---------------------------------------------
+http://threatpost.com/cisco-patches-asa-zero-days-exposed-by-shadowbrokers/119965/
+
+
+
+
+*** 1 compromised site - 2 campaigns, (Thu, Aug 18th) ***
+---------------------------------------------
+Earlier today, I ran across a compromised website with injected script from both the pseudo-Darkleech campaign and the EITest campaign. This is similar to another compromised site I reported back in June ..
+---------------------------------------------
+https://isc.sans.edu/diary.html?storyid=21381
+
+
+
+
+*** DSA-3649 gnupg - security update ***
+---------------------------------------------
+Felix Doerre and Vladimir Klebanov from the Karlsruhe Institute ofTechnology discovered a flaw in the mixing functions of GnuPGs randomnumber generator. An attacker who obtains 4640 bits from the RNG cantrivially predict the next 160 bits of output.
+---------------------------------------------
+https://www.debian.org/security/2016/dsa-3649
+
+
+
+
+*** Bitcoin targeted by state sponsored attackers says Bitcoin.org ***
+---------------------------------------------
+Bitcoin Core devs dont know about threat, advise usual signatures and hash checks Update Bitcoin.org is warning that the Bitcoin Core, the as-close-to-official-as-it-gets version of ..
+---------------------------------------------
+www.theregister.co.uk/2016/08/18/bitcoin_targeted_by_state_sponsored_attackers_say_bitcoin_devs/
+
+
+
+
+*** PayPal patches 2FA portal bug ***
+---------------------------------------------
+Attacker could log in to account without triggering confirmation text PayPal has patched a two-factor authentication (2FA) bug that could have let an attacker bypass its login processes.
+---------------------------------------------
+www.theregister.co.uk/2016/08/18/paypal_patches_2fa_portal_bug/
+
+
+
+
+*** If this headline was a security warning 90% of you would ignore it ***
+---------------------------------------------
+Boffins find interrupting users with pop-ups in the middle of things just doesnt work Developers, advertisers, and scammers be warned; boffins say your pop ups will be almost universally ignored if they interrupt users.
+---------------------------------------------
+www.theregister.co.uk/2016/08/18/coding_pop_ups_hit_em_when_theyre_idling_university_boffins_say/
+
+
+
+
+*** Gef?lschte Software: Bitcoin f?hlt sich durch Staaten angegriffen ***
+---------------------------------------------
+Manipulierte Bitcoin-Software? Davon geht das Projekt offenbar aus. In einem Blogpost warnen die Macher vor staatlichen Angriffen auf das kommende Release. Das Projekt gibt auch Hinweise an die Nutzer.
+---------------------------------------------
+http://www.golem.de/news/gefaelschte-software-bitcoin-fuehlt-sich-durch-staaten-angegriffen-1608-122771.html
+
+
+
+
+*** Lets Encrypt ups rate limits ***
+---------------------------------------------
+20 is plenty Lets Encrypt has revised its rate limits to make life easier for large organisations and hosting providers who use its services.
+---------------------------------------------
+www.theregister.co.uk/2016/08/18/lets_encrypt_clarifies_rate_limit_rules/
+
+
+
+
+*** The Shadow Brokers EPICBANANAS and EXTRABACON Exploits ***
+---------------------------------------------
+On August 15th, 2016, Cisco was alerted to information posted online by the ?Shadow Brokers?, which claimed to possess disclosures from the Equation Group. The files included exploit code that can be used against multi-vendor devices, including the Cisco ASA and legacy Cisco PIX firewalls.
+---------------------------------------------
+https://blogs.cisco.com/security/shadow-brokers
+
+
+
+
+*** Locky Targets Hospitals In Massive Wave Of Ransomware Attacks ***
+---------------------------------------------
+A massive wave of Locky ransomware delivered via DOCM attachments is targeting the healthcare sector this month.
+---------------------------------------------
+http://threatpost.com/locky-targets-hospitals-in-massive-wave-of-ransomware-attacks/119981/
+
+From team at cert.at  Fri Aug 19 18:04:37 2016
+From: team at cert.at (Daily end-of-shift report)
+Date: Fri, 19 Aug 2016 18:04:37 +0200
+Subject: [CERT-daily] Tageszusammenfassung - Freitag 19-08-2016
+Message-ID: <20160819_160437_036617.team@cert.at>
+
+=======================
+= End-of-Shift report =
+=======================
+
+Timeframe:   Donnerstag 18-08-2016 18:00 ? Freitag 19-08-2016 18:00
+Handler:     Robert Waldner
+Co-Handler:  Stephan Richter
+
+
+
+
+*** 18 Jahre lang vorhersehbare Zufallszahlen bei GnuPG ***
+---------------------------------------------
+Lange Zeit schlummerte eine Sicherheitsl?cke in Libgcrypt, der Krypto-Bibliothek des GnuPG-Projektes. Gl?cklicherweise scheint es so, als ob Nutzern ein gro?fl?chiger Austausch von PGP-Schl?sseln erspart bleiben wird.
+---------------------------------------------
+http://heise.de/-3300159
+
+
+
+
+*** Neues von Locky: Der Erpressungstrojaner greift jetzt massenhaft Krankenh?user an ***
+---------------------------------------------
+Die Drahtzieher hinter Locky verlegen sich von X-beliebigen Internetnutzern auf Firmen. Vor allem Krankenh?user haben sich als lukratives Ziel erwiesen.
+---------------------------------------------
+http://heise.de/-3300555
+
+
+
+
+*** Doctor Web discovers self-spreading Linux Trojan that can create P2P botnets ***
+---------------------------------------------
+August 19, 2016 The Linux operating system remains a major target for virus makers. Doctor Web's security researchers have examined yet another Trojan for Linux written in the Go programming language. This malware program attacks web servers that use various CMS, performs DDoS attacks, sends out spam messages, and distributes itself over networks. The new Trojan, named Linux.Rex.1, was first spotted by Kernelmode forum users who referred to this malware as "Drupal ransomware"...
+---------------------------------------------
+http://news.drweb.com/show/?i=10157&lng=en&c=9
+
+
+
+
+*** Erpressungs-Trojaner Cerber r?stet sich gegen Entschl?sselungs-Tools ***
+---------------------------------------------
+Check Points und Trend Micros kostenlose Dechiffrierungs-Tools k?nnen Daten nicht mehr aus den F?ngen der aktuellen Version des Verschl?sselungs-Trojaners Cerber befreien.
+---------------------------------------------
+http://heise.de/-3300589
+
+
+
+
+*** Schwerwiegende L?cke im Teamspeak-Server offengelegt ***
+---------------------------------------------
+Angreifer k?nnen ?ber die aktuelle Version des Teamspeak-Servers Schadcode einschleusen und auf dem Server ausf?hren. Da der Sicherheitsforscher, der die L?cke entdeckte, die Entwickler nicht vorher informiert hat, gibt es momentan keinen Patch.
+---------------------------------------------
+http://heise.de/-3300608
+
+
+
+
+*** Pixpocket: So h?tte die NSA VPNs ausspionieren k?nnen ***
+---------------------------------------------
+Der Shadow-Brokers-Datensatz liefert m?glicherweise Informationen dar?ber, wie die NSA in der Lage war, VPN-Verbindungen abzuh?ren. Die Schwachstelle hat ?hnlichkeiten mit Heartbleed.
+---------------------------------------------
+http://www.golem.de/news/pixpocket-so-haette-die-nsa-vpns-ausspionieren-koennen-1608-122807-rss.html
+
+
+
+
+*** DFN-CERT-2016-1359: PHP: Mehrere Schwachstellen erm?glichen u.a. die Ausf?hrung beliebigen Programmcodes ***
+---------------------------------------------
+https://portal.cert.dfn.de/adv/DFN-CERT-2016-1359/
+
+
+
+
+*** Bugtraq: Horizontal Privilege Escalation/Code Injection in ownCloud's Windows Client ***
+---------------------------------------------
+http://www.securityfocus.com/archive/1/539269
+
+
+
+
+*** Cisco IOS and Cisco IOS XE Software OpenSSH TCP Denial of Service Vulnerability ***
+---------------------------------------------
+A vulnerability in the handling of Secure Shell (SSH) TCP packets in the Cisco IOS and Cisco IOS XE Software could allow an unauthenticated, remote attacker to cause a partial denial of service (DoS) condition due to low memory on the device.The vulnerability is due to the handling of out-of-order, or otherwise invalid, TCP packets on an SSH connection to the device. An attacker could exploit this vulnerability by connecting via SSH to the device and then crafting TCP packets which are out of
+---------------------------------------------
+http://tools.cisco.com/security/center/content/CiscoSecurityAdvisory/cisco-sa-20160620-isr
+
+
+
+
+*** Navis WebAccess SQL Injection Vulnerability ***
+---------------------------------------------
+NCCIC/ICS-CERT is aware of a public report of an SQL Injection vulnerability with proof-of-concept (PoC) exploit code affecting Navis WebAccess application. This report was released by "bRpsd" without coordination with either the vendor or ICS-CERT. ICS-CERT has reached out to the affected vendor to validate the report. ICS-CERT is issuing this alert to provide notice of the report and to identify baseline mitigations for reducing risks to this and other cybersecurity attacks.
+---------------------------------------------
+https://ics-cert.us-cert.gov/alerts/ICS-ALERT-16-230-01
+
+
+
+
+*** IBM Security Bulletin: IBM Connections Security Update ***
+---------------------------------------------
+IBM Connections Security Update for multiple CVEs. There are multiple vulnerabilities in IBM Connections, see details below for remediation information. CVE(s): CVE-2016-2995, CVE-2016-2997, CVE-2016-2998, CVE-2016-3005, CVE-2016-3010 Affected product(s) and affected version(s): The following versions of IBM Connections are impacted: IBM Connections 5.5 IBM Connections 5.0 IBM Connections 4.5 IBM Connections 4.0 Refer to the following...
+---------------------------------------------
+http://www.ibm.com/support/docview.wss?uid=swg21988991
+
+
+
+
+*** IBM Security Bulletin: The IBM BigFix Platform has a Cross-Site Scripting vulnerability (CVE-2016-0293 ) ***
+---------------------------------------------
+A .beswrpt can be injected/modified to contain malicious JavaScript CVE(s): CVE-2016-0293 Affected product(s) and affected version(s): 9.0, 9.1, 9.2 Refer to the following reference URLs for remediation and additional vulnerability details:Source Bulletin: http://www.ibm.com/support/docview.wss?uid=swg21985743X-Force Database:...
+---------------------------------------------
+http://www.ibm.com/support/docview.wss?uid=swg21985743
+
+From team at cert.at  Mon Aug 22 18:19:17 2016
+From: team at cert.at (Daily end-of-shift report)
+Date: Mon, 22 Aug 2016 18:19:17 +0200
+Subject: [CERT-daily] Tageszusammenfassung - Montag 22-08-2016
+Message-ID: <20160822_161917_088926.team@cert.at>
+
+=======================
+= End-of-Shift report =
+=======================
+
+Timeframe:   Freitag 19-08-2016 18:00 ? Montag 22-08-2016 18:00
+Handler:     Stephan Richter
+Co-Handler:  n/a
+
+
+
+
+*** Shadow Brokers Release of Hacking Code ***
+---------------------------------------------
+Juniper responds to hacking code released by The Shadow Brokers.
+---------------------------------------------
+https://forums.juniper.net/t5/Security-Incident-Response/Shadow-Brokers-Release-of-Hacking-Code/ba-p/296128
+
+
+
+
+*** Cisco ASA SNMP Remote Code Execution Vulnerability, (Sun, Aug 21st) ***
+---------------------------------------------
+Looking back through all the vulnerabilities announced this week, one caught my eye. CVE-2016-6366 is a vulnerability in the Cisco ASA products which could allow a remote attacker to remotely execute code. This vulnerability is part of the Equation Group disclosures and was not previously known by Cisco.The vulnerability is in the SNMP code on the ASA and would allow an attacker with knowledge of the SNMP community stringto send craftedIPv4SNMP traffic which could be used to reload the system...
+---------------------------------------------
+https://isc.sans.edu/diary.html?storyid=21389&rss
+
+
+
+
+*** I got the power - over your IoT power-point ***
+---------------------------------------------
+It never gets better, does it? The latest "your IoT security is rubbish" takes the world one step closer to "burn it all and try again": a "smart" electrical outlet thats actually a whole-of-network attack vector.
+---------------------------------------------
+http://go.theregister.com/feed/www.theregister.co.uk/2016/08/22/i_got_the_power_over_your_iot_powerpoint/
+
+
+
+
+*** How to get your network and security teams working together ***
+---------------------------------------------
+Its not surprising that network and security teams arent always on the same page. After all, networks need to be fast and efficient, while security is about slowing things down and implementing extra steps to help meet security measures. While both teams are a part of the IT department, and need to work together in the event of a breach, each group has its own objectives and expectations. But when a data breach or security threat strikes, businesses need both teams working together to help get...
+---------------------------------------------
+http://www.cio.com/article/3110264/careers-staffing/how-to-get-your-network-and-security-teams-working-together.html#tk.rss_security
+
+
+
+
+*** Threat intelligence report for the telecommunications industry ***
+---------------------------------------------
+The telecoms sector is under fire on all sides - hit by direct attacks on organizations and networks, indirect attacks in search of subscribers, and collateral damage from unrelated, targeted campaigns. This report reveals the many layers of vulnerability.
+---------------------------------------------
+http://securelist.com/analysis/publications/75846/threat-intelligence-report-for-the-telecommunications-industry/
+
+
+
+
+*** Open sourced: Cyber reasoning system that won third place in DARPA's Cyber Grand Challenge ***
+---------------------------------------------
+Earlier this month, the DARPA-backed Cyber Grand Challenge (CGC) has shown that a future in which computer systems will (wholly or partially) replace bug hunters and patchers looms near. Now, the team that has won third place in the contest - Shellphish of Santa Barbara, California - has open sourced many of the components of its winning Mechanical Phish cyber reasoning system. But individuals and teams interested in testing and advancing the system will have...
+---------------------------------------------
+https://www.helpnetsecurity.com/2016/08/22/cyber-reasoning-system/
+
+
+
+
+*** Finding and Enumerating Processes within Memory-Part 3 ***
+---------------------------------------------
+Continuing with the series, in this article, we will learn about enumeration of important structures like heaps, environment variables, DLLs pointed by main PEB. Just to recap in the previous two articles, we have looked at the way of finding the processes within memory and then enumerated structures like Page Tables, VADs, and PEB. Dynamic...
+---------------------------------------------
+http://resources.infosecinstitute.com/finding-enumerating-processes-within-memory-part-3/
+
+
+
+
+*** Announcing the Heimdal Cyber Security Glossary ***
+---------------------------------------------
+Not too long ago, I was a total newbie in the cyber security field. Although I understood some of the basics, there was an entire universe for me to explore, from concepts to how they translate into action. What I found most baffling in the beginning were some of the technical terms. Of course I...
+---------------------------------------------
+https://heimdalsecurity.com/blog/heimdal-cyber-security-glossary/
+
+
+
+
+*** Young European white hat hackers meet for the 2nd Cyber Security Challenge competition ***
+---------------------------------------------
+On the 7th of November, young European white hat hackers will meet at D?sseldorf to measure their skills in attacking and defending computer systems.
+---------------------------------------------
+https://www.enisa.europa.eu/news/enisa-news/young-european-white-hat-hackers-meet-for-the-2nd-cyber-security-challenge-competition
+
+
+
+
+*** Bugtraq: [security bulletin] HPSBNS03635 rev.1 - HPE NonStop Servers OSS Script Languages running Perl and PHP, Multiple Local and Remote Vulnerabilities ***
+---------------------------------------------
+http://www.securityfocus.com/archive/1/539280
+
+
+
+
+*** Vuln: MatrixSSL Multiple Information Disclosure Vulnerabilities ***
+---------------------------------------------
+http://www.securityfocus.com/bid/91488
+
+
+
+
+*** ZDI-16-487: AVG Internet Security avgtdix.sys Kernel Driver Untrusted Pointer Dereference Privilege Escalation Vulnerability ***
+---------------------------------------------
+This vulnerability allows local attackers to escalate privileges on vulnerable installations of AVG Internet Security. User interaction is required to exploit this vulnerability in that the target must visit a malicious page or open a malicious file.
+---------------------------------------------
+http://www.zerodayinitiative.com/advisories/ZDI-16-487/
+
+
+
+
+*** Security Advisory: Linux file utility vulnerabilities CVE-2014-8116 and CVE-2014-8117 ***
+---------------------------------------------
+https://support.f5.com:443/kb/en-us/solutions/public/16000/300/sol16347.html?ref=rss
+
+
+
+
+*** Self Service Password Reset 3.3.1.6 ***
+---------------------------------------------
+Abstract: These files contain all updates made to SSPR 3.3.1 since the release of SSPR 3.3.1. This is a complete build of SSPR. SSPR 3.3.1 Patch 6 includes several new fixes. It also includes a security fix which was originally included in SSPR 3.3.1 HF2. Without this fix SSPR is vulnerable to a cross-site-scripting (XSS) attack (CVE-2016-1599, reported by Tom Ravenscroft of Datacom TSS). For more details see TID # 7017399 at https://www.netiq.com/support/kb/doc.php?id=7017399. It is mandatory...
+---------------------------------------------
+https://download.novell.com/Download?buildid=AYDcXUSlNzI~
+
+
+
+
+*** WordPress 4.5.3 - Authenticated Denial of Service (DoS) ***
+---------------------------------------------
+https://wpvulndb.com/vulnerabilities/8606
+
+
+
+
+*** Newtec Satellite Modem MDM6000 2.2.5 Cross-Site Scripting Vulnerability ***
+---------------------------------------------
+Newtec Satellite Modem MDM6000 suffers from multiple reflected cross-site scripting vulnerabilities when input passed via several parameters to several scripts is not properly sanitized before being returned to the user. This can be exploited to execute arbitrary HTML and script code in a users browser session in context of an affected site.
+---------------------------------------------
+http://www.zeroscience.mk/en/vulnerabilities/ZSL-2016-5359.php
+
+
+
+
+*** Sakai 10.7 Multiple Vulnerabilities ***
+---------------------------------------------
+Sakai suffers from multiple reflected cross-site scripting vulnerabilities when input passed via several parameters to several scripts is not properly sanitized before being returned to the user. This can be exploited to execute arbitrary HTML and script code in a users browser session in context of an affected site. Also there is a file disclosure vulnerability when calling custom tool script. It is not properly verified before being used to read files. This can be exploited to disclose...
+---------------------------------------------
+http://www.zeroscience.mk/en/vulnerabilities/ZSL-2016-5358.php
+
+
+
+
+*** tcPbX - (tcpbx_lang) Local File Inclusion ***
+---------------------------------------------
+Topic: tcPbX - (tcpbx_lang) Local File Inclusion Risk: Medium Text:Vulnerable hardware : tcpbx voip distro Vendor : www.tcpbx.org Author : Ahmed sultan (@0x4148) Email : 0x4148 at gmail.com ...
+---------------------------------------------
+https://cxsecurity.com/issue/WLB-2016080196
+
+
+
+
+*** ZYCOO IP Phone System - Remote Command Execution ***
+---------------------------------------------
+Topic: ZYCOO IP Phone System - Remote Command Execution Risk: High Text:Vulnerable hardware : ZYCOO IP phone system Vendor : zycoo.com Author : Ahmed sultan (@0x4148) Email : 0x4148 at gmail.com ...
+---------------------------------------------
+https://cxsecurity.com/issue/WLB-2016080195
+
+
+
+
+*** C2S DVR Management Remote Credentials Disclosure & Authentication Bypass ***
+---------------------------------------------
+Topic: C2S DVR Management Remote Credentials Disclosure & Authentication Bypass Risk: High Text:1. Advisory Information = Title : C2S DVR Management Remote Credentials Disclosure & Authentic...
+---------------------------------------------
+https://cxsecurity.com/issue/WLB-2016080192
+
+
+
+
+*** IP-Camera Vulnerabilities ***
+---------------------------------------------
+*** MESSOA NIC990 IP-Camera auth bypass configuration download ***
+https://cxsecurity.com/issue/WLB-2016080194
+---------------------------------------------
+*** TOSHIBA IK-WP41A IP-Camera auth bypass configuration download ***
+https://cxsecurity.com/issue/WLB-2016080193
+---------------------------------------------
+*** JVC IP-Camera (VN-T216VPRU) Remote Credentials Disclosure ***
+https://cxsecurity.com/issue/WLB-2016080191
+---------------------------------------------
+*** Vanderbilt IP-Camera (CCPW3025-IR + CVMW3025-IR) Remote Credentials Disclosure ***
+https://cxsecurity.com/issue/WLB-2016080190
+---------------------------------------------
+
+From team at cert.at  Tue Aug 23 18:03:36 2016
+From: team at cert.at (Daily end-of-shift report)
+Date: Tue, 23 Aug 2016 18:03:36 +0200
+Subject: [CERT-daily] Tageszusammenfassung - Dienstag 23-08-2016
+Message-ID: <20160823_160336_054060.team@cert.at>
+
+=======================
+= End-of-Shift report =
+=======================
+
+Timeframe:   Montag 22-08-2016 18:00 ? Dienstag 23-08-2016 18:00
+Handler:     Robert Waldner
+Co-Handler:  Alexander Riepl
+
+
+
+*** Vuln: WordPress CVE-2016-6897 Cross Site Request Forgery Vulnerability ***
+---------------------------------------------
+http://www.securityfocus.com/bid/92572
+
+
+
+
+*** Juniper Acknowledges Equation Group Targeted ScreenOS ***
+---------------------------------------------
+Juniper Networks on Friday acknowledged that implants contained in the ShadowBrokers data dump target NetScreen firewalls running ScreenOS.
+---------------------------------------------
+http://threatpost.com/juniper-acknowledges-equation-group-exploits-target-screenos/120042/
+
+
+
+
+*** Obihai Patches Memory Corruption, DoS, CSRF Vulnerabilities in IP Phones ***
+---------------------------------------------
+Obihai Technology recently patched a slew of issues in its ObiPhone IP phone products that could have led to memory corruption, a buffer overflow, and denial of service conditions, among other outcomes.
+---------------------------------------------
+http://threatpost.com/obihai-patches-memory-corruption-dos-csrf-vulnerabilities-in-ip-phones/120061/
+
+
+
+
+*** Vuln: PHP php_quot_print_encode() Function Integer Overflow Vulnerability ***
+---------------------------------------------
+http://www.securityfocus.com/bid/92588
+
+
+
+
+*** shellray. a php webshell detector ***
+---------------------------------------------
+nimbusec shellray ist ein kostenloser Online Webshell Detector f?r .php-Dateien. 
+---------------------------------------------
+https://shellray.com/de/
+
+
+
+
+*** Voice Message Notifications Deliver Ransomware ***
+---------------------------------------------
+Bad guys need to constantly find new ways to lure their victims. If billing notifications were very common for a while, not all people in a company are working ..
+---------------------------------------------
+https://isc.sans.edu/diary.html?storyid=21397
+
+
+
+
+*** Security Notice - Statement About Toolkit Released by Shadow Brokers ***
+---------------------------------------------
+http://www.huawei.com/en/psirt/security-notices/2016/huawei-sn-20160823-01-shadowbrokers-en
+
+
+
+
+*** 'Sicherheits-Check' bei Bank Austria-Kunden ***
+---------------------------------------------
+Eine falsche Bank Austria-Mail ist im Umlauf. Darin behaupten Kriminelle, dass Kund/innen einen Sicherheits-Check durchf?hren m?ssen. Aus diesem ..
+---------------------------------------------
+https://www.watchlist-internet.at/phishing/sicherheits-check-bei-bank-austria-kunden/
+
+
+
+
+*** Sandscout: Angriff auf Apples Sandkasten ***
+---------------------------------------------
+Im Sicherheitsvergleich mit Android schneidet iOS meist besser ab. In einem aktuellen Versuch gelang es Forschern aber, einen erfolgreichen Angriff auf die Sandboxing-Funktion von iOS-Apps durchzuf?hren.
+---------------------------------------------
+http://www.golem.de/news/sandscout-angriff-auf-apples-sandkasten-1608-122856.html
+
+
+
+
+*** Timing of Browser-Based Security Alerts Could Be Better ***
+---------------------------------------------
+New academic research shows that security warnings should be better timed to pop up when computers users are less likely to be multitasking.
+---------------------------------------------
+http://threatpost.com/timing-of-browser-based-security-alerts-could-be-better/120070/
+
+From team at cert.at  Wed Aug 24 18:14:49 2016
+From: team at cert.at (Daily end-of-shift report)
+Date: Wed, 24 Aug 2016 18:14:49 +0200
+Subject: [CERT-daily] Tageszusammenfassung - Mittwoch 24-08-2016
+Message-ID: <20160824_161449_039270.team@cert.at>
+
+=======================
+= End-of-Shift report =
+=======================
+
+Timeframe:   Dienstag 23-08-2016 18:00 ? Mittwoch 24-08-2016 18:00
+Handler:     Robert Waldner
+Co-Handler:  Stephan Richter
+
+
+
+
+*** The SWEET32 Issue, CVE-2016-2183 ***
+---------------------------------------------
+Today, Karthik Bhargavan and Gaetan Leurent from Inria have unveiled a new attack on Triple-DES, SWEET32, Birthday attacks on 64-bit block ciphers in TLS and OpenVPN. It has been assigned CVE-2016-2183. This post gives a bit of background and describes what OpenSSL is doing. For more details, see their website.
+---------------------------------------------
+https://www.openssl.org/blog/blog/2016/08/24/sweet32/
+
+
+
+
+*** "Wildfire" Ransomware Extinguished by Tool From NoMoreRansom; Unlock Files for Free ***
+---------------------------------------------
+Intel Security and Kaspersky Lab, partners in the project NoMoreRansom, are pleased to announce today the availability of a decryption tool for victims of the Wildfire variant of ransomware. This tool is available following successful collaboration with the Dutch police and the European Cybercrime Centre. This strong public-private partnership has led to the seizure of...
+---------------------------------------------
+https://blogs.mcafee.com/mcafee-labs/wildfire-ransomware-extinguished-tool-nomoreransom-unlock-files-free/
+
+
+
+
+*** BSI ver?ffentlicht Update zu den Top 10 Bedrohungen f?r Industrial Control Systems ***
+---------------------------------------------
+Das Bundesamt f?r Sicherheit in der Informationstechnik (BSI) beobachtet die Bedrohungslage f?r Industrial Control Systems deshalb kontinuierlich. Die schwerwiegendsten Gefahren sowie passende Gegenma?nahmen fasst das BSI seit 2012 im Dokument "Industrial Control System Security - Top 10 Bedrohungen und Gegenma?nahmen" zusammen. F?r das Jahr 2016 hat das Bundesamt nun ein Update des Papiers herausgegeben.
+---------------------------------------------
+https://www.allianz-fuer-cybersicherheit.de/ACS/DE/_/infos/20160823_Update_ICS_Top10.html
+
+
+
+
+*** NSA-Exploit ExtraBacon soll deutlich mehr Cisco-Firewalls bedrohen ***
+---------------------------------------------
+Untersuchungen von Sicherheitsforschern legen nahe, dass auch neuere Version der Cisco Adaptive Security Appliance (ASA) angreifbar sind.
+---------------------------------------------
+http://heise.de/-3303629
+
+
+
+
+*** Privilege Escalation on Linux with Live examples ***
+---------------------------------------------
+Introduction One of the most important phase during penetration testing or vulnerability assessment is Privilege Escalation. During that step, hackers and security researchers attempt to find out a way (exploit, bug, misconfiguration) to escalate between the system accounts. Of course, vertical privilege escalation is the ultimate goal. For many security researchers, this is a fascinating...
+---------------------------------------------
+http://resources.infosecinstitute.com/privilege-escalation-linux-live-examples/
+
+
+
+
+*** Forscher sehen L?cher in Apples iOS-Sandbox ***
+---------------------------------------------
+Die iOS-Sandbox weist Wissenschaftlern zufolge "bedenkliche Sicherheitsl?cken" auf, die Apps den eigentlich verwehrten Zugriff auf Nutzerdaten erm?glichen - und Eingriff ins System. Apple will die Schwachstellen offenbar mit iOS 10 schlie?en.
+---------------------------------------------
+http://heise.de/-3304068
+
+
+
+
+*** VMSA-2016-0013 ***
+---------------------------------------------
+VMware Identity Manager and vRealize Automation updates address multiple security issues
+---------------------------------------------
+https://www.vmware.com/security/advisories/VMSA-2016-0013.html
+
+
+
+
+*** Moxa OnCell Vulnerabilities ***
+---------------------------------------------
+This advisory contains mitigation details for several vulnerabilities in Moxa's OnCell products.
+---------------------------------------------
+https://ics-cert.us-cert.gov/advisories/ICSA-16-236-01
+
+
+
+
+*** Huawei Security Advisories ***
+---------------------------------------------
+*** Security Advisory - IPv6 Neighbor Discovery Crafted Packet Denial of Service Vulnerability ***
+http://www.huawei.com/en/psirt/security-advisories/2016/huawei-sa-20160824-01-ipv6-en
+---------------------------------------------
+*** Security Advisory - Weak Encryption Algorithm Vulnerability in Huawei Servers ***
+http://www.huawei.com/en/psirt/security-advisories/2016/huawei-sa-20160824-02-server-en
+---------------------------------------------
+*** Security Advisory - XXE Vulnerability in the E9000 ***
+http://www.huawei.com/en/psirt/security-advisories/2016/huawei-sa-20160824-01-e9000-en
+---------------------------------------------
+*** Security Advisory - Uncontrolled Format String Vulnerability on Multiple Products ***
+http://www.huawei.com/en/psirt/security-advisories/2016/huawei-sa-20160824-01-vrp-en
+---------------------------------------------
+*** Security Advisory - Reset Password and Information Leak Vulnerabilities in Huawei UMA ***
+http://www.huawei.com/en/psirt/security-advisories/2016/huawei-sa-20160824-02-uma-en
+---------------------------------------------
+*** Security Advisory - Two Command Injection Vulnerabilities in Huawei UMA ***
+http://www.huawei.com/en/psirt/security-advisories/2016/huawei-sa-20160824-01-uma-en
+---------------------------------------------
+*** Security Advisory - Information Leak Vulnerability in Huawei FusionSphere Product ***
+http://www.huawei.com/en/psirt/security-advisories/2016/huawei-sa-20160824-01-xenstore-en
+---------------------------------------------
+
+From team at cert.at  Thu Aug 25 18:08:38 2016
+From: team at cert.at (Daily end-of-shift report)
+Date: Thu, 25 Aug 2016 18:08:38 +0200
+Subject: [CERT-daily] Tageszusammenfassung - Donnerstag 25-08-2016
+Message-ID: <20160825_160838_074798.team@cert.at>
+
+=======================
+= End-of-Shift report =
+=======================
+
+Timeframe:   Mittwoch 24-08-2016 18:00 ? Donnerstag 25-08-2016 18:00
+Handler:     Stephan Richter
+Co-Handler:  Alexander Riepl
+
+
+*** Cisco AnyConnect Secure Mobility Client Local Privilege Escalation Vulnerability ***
+---------------------------------------------
+A vulnerability in Cisco AnyConnect Secure Mobility Client for Windows could allow an authenticated, local attacker to install and execute an arbitrary executable file with privileges equivalent .. ---------------------------------------------
+http://tools.cisco.com/security/center/content/CiscoSecurityAdvisory/cisco-sa-20160824-anyconnect
+
+
+
+
+*** IBM Security Bulletin: Multiple vulnerabilities in IBM Financial Transaction Manager for ACH Services, Check Services, Corporate Payment Services (CVE-2016-5920, CVE-2016-1181, CVE-2016-1182, CVE-2016-3060) ***
+---------------------------------------------
+http://www.ibm.com/support/docview.wss?uid=swg21989060
+
+
+
+
+*** IBM Security Bulletin: IBM Tivoli Storage Manager FastBack Demo package on the Web Potential DLL Loading Code Execution Vulnerability (CVE-2016-5934 ) ***
+---------------------------------------------
+IBM Tivoli Storage Manager FastBack Demo package on the Web contains a DLL hijacking vulnerability that could allow an unauthenticated, remote attacker to execute ..
+---------------------------------------------
+http://www.ibm.com/support/docview.wss?uid=swg21988908
+
+
+
+
+*** IBM Security Bulletin: IBM Security Access Manager for Mobile is affected by vulnerabilities in OpenSSL ***
+---------------------------------------------
+Vulnerabilities have been identified in OpenSSL. IBM Security Access Manager for Mobile uses OpenSSL and is affected by these vulnerabilities. CVE(s): CVE-2016-0799, CVE-2016-2105, CVE-2016-2106, CVE-2016-2107, CVE-2016-2108, ..
+---------------------------------------------
+http://www.ibm.com/support/docview.wss?uid=swg21988189
+
+
+
+
+*** Hacked Email: Why Cyber Criminals Want to Get Into Your Inbox ***
+---------------------------------------------
+?I don?t care about getting hacked, there?s nothing valuable in my email? If I got a nickel ..
+---------------------------------------------
+https://heimdalsecurity.com/blog/hacked-email-why-cyber-criminals-want-inbox/
+
+
+
+
+*** Example of Targeted Attack Through a Proxy PAC File, (Wed, Aug 24th) ***
+---------------------------------------------
+Yesterday, I discovered a nice example of targeted attack against a Brazilian bank. It started with an email sample like this:  This message was sent to a ..
+---------------------------------------------
+https://isc.sans.edu/diary.html?storyid=21405
+
+
+
+
+*** Bugtraq: WebKitGTK+ Security Advisory WSA-2016-0005 ***
+---------------------------------------------
+http://www.securityfocus.com/archive/1/539295
+
+
+
+
+*** [2016-08-25] Multiple vulnerabilities in Micro Focus (Novell) GroupWise ***
+---------------------------------------------
+Micro Focus (Novell) GroupWise 2014 (up to R2 SP1) contains vulnerabilities that allow an attacker to take over user sessions by sending the victim a crafted email, take over administrator accounts or potentially compromise the system (heap based buffer overflow).
+---------------------------------------------
+https://www.sec-consult.com/fxdata/seccons/prod/temedia/advisories_txt/20160825-0_Micro_Focus_GroupWise_Multiple_vulnerabilities_v10.txt
+
+
+
+
+*** SWEET32: Kurze Verschl?sselungsbl?cke sorgen f?r Kollisionen ***
+---------------------------------------------
+Ein neuer Angriff auf TLS- und VPN-Verbindungen betrifft alte Verschl?sselungsalgorithmen wie Triple-DES und Blowfish, die Daten in 64-Bit-Bl?cken verschl?sseln. Der Angriff erfordert das Belauschen vieler Gigabytes an Daten und d?rfte damit nur selten praktikabel sein.
+---------------------------------------------
+http://www.golem.de/news/sweet32-kurze-verschluesselungsbloecke-sorgen-fuer-kollisionen-1608-122887.html
+
+
+
+
+*** Cisco liefert Sicherheits-Patches f?r NSA-Exploit ExtraBacon aus ***
+---------------------------------------------
+Admins m?ssen Firewalls mit der Adaptive-Security-Appliance-Software (ASA) nun nicht mehr mittels eines Workarounds absichern: Cisco stopft die Schwachstelle mit abgesicherten Versionen.
+---------------------------------------------
+http://heise.de/-3304688
+
+
+
+
+*** Falsche Bank Austria-Mail: ?Zahlungsbest?tigung Monatsbeitrag? ***
+---------------------------------------------
+Internet-Nutzer/innen erhalten eine angebliche Benachrichtigung der Bank Austria. In dieser hei?t es, dass der Newsletter und ein Gewinnspiel monatlich EUR 39,99- kosten. Den Gebrauch des Services sollen Kund/innen auf einer Website best?tigen. Empf?nger/innen der E-Mail d?rfen das nicht tun, denn andernfalls ?bermitteln sie Zugangsdaten an Kriminelle.
+---------------------------------------------
+https://www.watchlist-internet.at/phishing/falsche-bank-austria-mail-zahlungsbestaetigung-monatsbeitrag/
+
+
+
+
+*** Security Advisory - Resource Management Vulnerability in Huawei Servers ***
+---------------------------------------------
+http://www.huawei.com/en/psirt/security-advisories/2016/huawei-sa-20160824-01-server-en
+
+
+
+
+*** Stolen devices to blame for many breaches in the financial services sector ***
+---------------------------------------------
+Bitglass performed an analysis of all breaches in the financial services sector since 2006, with data aggregated from public databases and government mandated disclosures. They found that leaks nearly doubled between ..
+---------------------------------------------
+https://www.helpnetsecurity.com/2016/08/25/breaches-financial-services-sector/
+
+
+
+
+*** Falsche Verbund-Rechnung verbreitet Schadsoftware ***
+---------------------------------------------
+Im E-Mailpostfach findet sich eine Rechnung des Stromanbieters Verbund. Kund/innen k?nnen die Zahlungaufforderung auf der Website ?verbund-bill.com? ansehen. Das d?rfen Empf?nger/innen nicht tun, denn andernfalls installieren sie Schadsoftware auf ihrem Computer. Diese macht den PC unbrauchbar. Kriminelle fordern Bitcoins, um das zu ?ndern.
+---------------------------------------------
+https://www.watchlist-internet.at/gefaelschte-rechnungen/falsche-verbund-rechnung-verbreitet-schadsoftware/
+
+
+
+
+*** BMI warnt: Erst Taschendiebstahl von iPhone, dann Phishing ***
+---------------------------------------------
+Es werden vermehrt iPhones in ?sterreich gestohlen. Mit einer Masche wird danach die Fernsperre au?er Kraft gesetzt.
+---------------------------------------------
+http://futurezone.at/digital-life/bmi-warnt-erst-taschendiebstahl-von-iphone-dann-phishing/217.679.673
+
+
+
+
+*** How the Consumer Product Safety Commission is (Inadvertently) Behind the Internet?s Largest DDoS Attacks ***
+---------------------------------------------
+The mission of the United States Governments Consumer Product Safety Commission (CPSC) is to protect consumers from injury by products. Its ironic then that the CPSC ..
+---------------------------------------------
+https://blog.cloudflare.com/how-the-consumer-product-safety-commission-is-inadvertently-behind-the-internets-largest-ddos-attacks/
+
+From team at cert.at  Fri Aug 26 18:08:15 2016
+From: team at cert.at (Daily end-of-shift report)
+Date: Fri, 26 Aug 2016 18:08:15 +0200
+Subject: [CERT-daily] Tageszusammenfassung - Freitag 26-08-2016
+Message-ID: <20160826_160815_043715.team@cert.at>
+
+=======================
+= End-of-Shift report =
+=======================
+
+Timeframe:   Donnerstag 25-08-2016 18:00 ? Freitag 26-08-2016 18:00
+Handler:     Stephan Richter
+Co-Handler:  n/a
+
+
+
+
+*** OpenSSL sch?tzt vor Sweet32-Attacke und tanzt ChaCha20 ***
+---------------------------------------------
+Version 1.1.0 mistet alte, unsichere Krypto-Verfahren aus und unterst?tzt daf?r modernere wie ChaCha20. Das Update stoppt zudem die Sweet32-Attacke auf SSL/TLS und OpenVPN.
+---------------------------------------------
+http://heise.de/-3305647
+
+
+
+
+*** Hintergrund: Die iOS-Spyware Pegasus - eine Bestandsaufnahme ***
+---------------------------------------------
+Die Spionage-Software Pegasus ersch?ttert die iPhone-Welt. Wie kann ich mich sch?tzen? Liegt das iOS-Sicherheitskonzept in Schutt und Asche? Ist das das Ende? Eine Analyse der bekannten Fakten schafft Klarheit.
+---------------------------------------------
+http://heise.de/-3305780
+
+
+
+
+*** What's The Deal With Machine Learning? ***
+---------------------------------------------
+We've recently received quite a few questions regarding the use of machine learning techniques in cyber security. I figured it was time for a blog post. Interestingly, while I was writing this post, we got asked even more questions, so the timing couldn't be better. It seems that there are quite a few companies out...
+---------------------------------------------
+https://labsblog.f-secure.com/2016/08/26/whats-the-deal-with-machine-learning/
+
+
+
+
+*** Floating Domains - Taking Over 20K DigitalOcean Domains via a Lax Domain Import System ***
+---------------------------------------------
+DigitalOcean is a cloud service provider similar to Amazon Web Services or Google Cloud. They offer cloud DNS hosting as one of their product lines - a nice guide on how to set up your domain to use their DNS can be found here. Take a moment to read it over and see if you can spot any potential issues with their domain name set up process.
+---------------------------------------------
+https://thehackerblog.com/floating-domains-taking-over-20k-digitalocean-domains-via-a-lax-domain-import-system/index.html
+
+
+
+
+*** 5 security practices hackers say make their lives harder ***
+---------------------------------------------
+Whether they identify as white hats, black hats or something in-between, a majority of hackers agree that no password is safe from them - or the government for that matter. Regardless of where they sit with respect to the law, hackers mostly agree that five key security measures can make it a lot harder to penetrate enterprise networks.At the Black Hat USA 2016 conference in Las Vegas earlier this month, Thycotic, a specialist in privileged account management (PAM) solutions, surveyed...
+---------------------------------------------
+http://www.cio.com/article/3112740/security/5-security-practices-hackers-say-make-their-lives-harder.html#tk.rss_security
+
+
+
+
+*** iOS 9.3.5 ***
+---------------------------------------------
+This document describes the security content of iOS 9.3.5.
+---------------------------------------------
+https://support.apple.com/en-us/HT207107
+
+
+
+
+*** F-Secure Policy Manager 12.00.67239 - Remote code execution by authenticated user ***
+---------------------------------------------
+The F-Secure Policy Manager client relies on Spring remoting to communicate with the server. Spring remoting uses Java serialization as transfer protocol. Spring internal mechanisms first deserialize before validating the deserialization class is authorized. That behavior leads to remote command execution if we are able to send objects present in the classpath that execute code when they are deserialized.
+---------------------------------------------
+https://remoteawesomethoughts.blogspot.com/2016/08/f-secure-policy-manager-120067239.html
+
+
+
+
+*** PowerDNS Recursor 4.0.2 - Released August 26th 2016 ***
+---------------------------------------------
+This release fixes a regression in 4.x where CNAME records for DNSSEC signed domains were not sorted before the final answers, leading to some clients (notably some versions of Chrome) not being able to extract the required answer from the packet. [...] Further fixes and changes can be found below:...
+---------------------------------------------
+https://doc.powerdns.com/md/changelog/
+
+
+
+
+*** VU#305607: Accellion Kiteworks contains multiple vulnerabilities ***
+---------------------------------------------
+Vulnerability Note VU#305607 Accellion Kiteworks contains multiple vulnerabilities Original Release date: 26 Aug 2016 | Last revised: 26 Aug 2016   Overview The Accellion Kiteworks appliance prior to version kw2016.03.00 contains multiple vulnerabilities.  Description CWE-276: Incorrect Default Permissions - CVE-2016-5662 The `/opt/bin/cli` script has setuid permissions by default, allowing an authenticated KiteWorks users to escalate privileges of commands to root. In practice, the user would...
+---------------------------------------------
+http://www.kb.cert.org/vuls/id/305607
+
+
+
+
+*** AlienVault USM/OSSIM 5.2 conf/reload.php DOM-based XSS ***
+---------------------------------------------
+https://cxsecurity.com/issue/WLB-2016080229
+
+
+
+
+*** FreePBX 13.0.35 Remote command execution ***
+---------------------------------------------
+https://cxsecurity.com/issue/WLB-2016080231
+
+
+
+
+*** Apple libc incomplete fix of Security Update for OS X El Capitan 10.11.2 ***
+---------------------------------------------
+https://cxsecurity.com/issue/WLB-2016080232
+
+
+
+
+*** OpenBSD SMTP Processing Bug in rfc2822_parser_init() May Let Remote Users Bypass Security Restrictions on the Target System ***
+---------------------------------------------
+http://www.securitytracker.com/id/1036691
+
+
+
+
+*** DFN-CERT-2016-1391: OpenSSL: Eine Schwachstelle erm?glicht das Umgehen von Sicherheitsvorkehrungen und Aussp?hen von Informationen ***
+---------------------------------------------
+https://portal.cert.dfn.de/adv/DFN-CERT-2016-1391/
+
+
+
+
+*** OpenVPN Blowfish Cipher Block Collision Weakness Lets Remote Users Decrypt Data in Certain Cases ***
+---------------------------------------------
+http://www.securitytracker.com/id/1036695
+
+
+
+
+*** DSA-3651 rails - security update ***
+---------------------------------------------
+Andrew Carpenter of Critical Juncture discovered a cross-site scriptingvulnerability affecting Action View in rails, a web applicationframework written in Ruby. Text declared as HTML safe will not havequotes escaped when used as attribute values in tag helpers.
+---------------------------------------------
+https://www.debian.org/security/2016/dsa-3651
+
+
+
+
+*** DSA-3654 quagga - security update ***
+---------------------------------------------
+Two vulnerabilities were discovered in quagga, a BGP/OSPF/RIP routingdaemon.
+---------------------------------------------
+https://www.debian.org/security/2016/dsa-3654
+
+
+
+
+*** DSA-3653 flex - security update ***
+---------------------------------------------
+Alexander Sulfrian discovered a buffer overflow in theyy_get_next_buffer() function generated by Flex, which may result indenial of service and potentially the execution of code if operating ondata from untrusted sources.
+---------------------------------------------
+https://www.debian.org/security/2016/dsa-3653
+
+
+
+
+*** DSA-3652 imagemagick - security update ***
+---------------------------------------------
+This updates fixes many vulnerabilities in imagemagick: Various memoryhandling problems and cases of missing or incomplete input sanitisingmay result in denial of service or the execution of arbitrary code ifmalformed TIFF, WPG, RLE, RAW, PSD, Sun, PICT, VIFF, HDR, Meta, Quantum,PDB, DDS, DCM, EXIF, RGF or BMP files are processed.
+---------------------------------------------
+https://www.debian.org/security/2016/dsa-3652
+
+From team at cert.at  Mon Aug 29 18:01:27 2016
+From: team at cert.at (Daily end-of-shift report)
+Date: Mon, 29 Aug 2016 18:01:27 +0200
+Subject: [CERT-daily] Tageszusammenfassung - Montag 29-08-2016
+Message-ID: <20160829_160127_039484.team@cert.at>
+
+=======================
+= End-of-Shift report =
+=======================
+
+Timeframe:   Freitag 26-08-2016 18:00 ? Montag 29-08-2016 18:00
+Handler:     Robert Waldner
+Co-Handler:  Alexander Riepl
+
+
+*** VMSA-2016-0007.2 ***
+---------------------------------------------
+VMware NSX and vCNS product updates address a critical information disclosure vulnerability
+---------------------------------------------
+https://www.vmware.com/security/advisories/VMSA-2016-0007.html
+
+
+
+
+*** Another Day - Another Ransomware Sample ***
+---------------------------------------------
+Catching ransomware is pretty easy these days. I setup a procmail filter that will extract all e-mails with compressed JavaScript attachments. Whatever is ..
+---------------------------------------------
+https://isc.sans.edu/diary.html?storyid=21413
+
+
+
+
+*** QNAP QTS Bugs Let Remote Users Conduct Cross-Site Scripting Attacks, Overwrite Arbitrary Files, and Inject Commands ***
+---------------------------------------------
+http://www.securitytracker.com/id/1036699
+
+
+
+
+*** Tips for Securing SSL Renegotiation ***
+---------------------------------------------
+A number of Internet connections require SSL renegotiation, a Secure Sockets Layer/Transport ..
+---------------------------------------------
+https://blogs.mcafee.com/mcafee-labs/tips-securing-ssl-renegotiation/
+
+
+
+
+*** Amazon: Gehackte H?ndlerkonten locken mit Schn?ppchen ***
+---------------------------------------------
+Bei besonders g?nstigen Artikeln im Amazon Marketplace versuchen die vermeintlichen H?ndler die Kaufabwicklung au?erhalb des Shops vorzunehmen.
+---------------------------------------------
+http://futurezone.at/digital-life/amazon-gehackte-haendlerkonten-locken-mit-schnaeppchen/217.975.079
+
+
+
+
+*** Dropbox setzt Passw?rter aus dem Jahr 2012 und davor zur?ck ***
+---------------------------------------------
+Der Cloud-Speicher-Dienst fordert aktuell einige Nutzer dazu auf, ihr Dropbox-Kennwort zur?ckzusetzen und neu zu vergeben. Hintergrund ist ein Datenleck aus dem Jahr 2012.
+---------------------------------------------
+http://heise.de/-3306240
+
+
+
+
+*** Cybercriminals Select Insiders To Attack Telecom Providers ***
+---------------------------------------------
+An anonymous reader quotes a report from Help Net Security: Cybercriminals are using insiders to gain access to telecommunications networks and subscriber data, according to Kaspersky Lab. In addition, these ..
+---------------------------------------------
+https://tech.slashdot.org/story/16/08/27/0739204/cybercriminals-select-insiders-to-attack-telecom-providers
+
+
+
+
+*** Opera warns Opera Sync users of possible security breach ***
+---------------------------------------------
+The Norwegian company warned the users that the Opera Sync service of a possible security breach that might have exposed their data. On Friday, Opera, published ..
+---------------------------------------------
+http://securityaffairs.co/wordpress/50690/data-breach/opera-sync-security-breach.html
+
+
+
+
+*** Observatory: Mozilla bietet Sicherheitscheck f?r Websites ***
+---------------------------------------------
+Wie sicher ist die eigene Internetseite? Der Test mit einem neuen Tool von Browserhersteller Mozilla k?nnte f?r viele Betreiber ern?chternd sein.
+---------------------------------------------
+http://www.golem.de/news/observatory-mozilla-bietet-sicherheitscheck-fuer-websites-1608-122923.html
+
+
+
+
+*** Ransomware: Trojaner Fantom gaukelt kritisches Windows-Update vor ***
+---------------------------------------------
+Ein Windows-Update wiegt die Nutzer in Sicherheit, haben sich die Hersteller des Erpressungstrojaners Fantom wohl gedacht. In diesem Fall ist jedoch besondere Vorsicht geboten.
+---------------------------------------------
+http://www.golem.de/news/ransomware-trojaner-fantom-gaukelt-kritisches-windows-update-vor-1608-122925.html
+
+
+
+
+*** Exploits: Treiber der Android-Hersteller verursachen Kernel-L?cken ***
+---------------------------------------------
+Die Zahl der Angriffe auf den Linux-Kernel in Android w?chst sehr stark. Der mit Abstand gr??te Teil der bekannten Sicherheitsl?cken findet sich dabei in den Ger?tetreibern der Hersteller, die mit der Kernel-Pflege offenbar ?berfordert sind.
+---------------------------------------------
+http://www.golem.de/news/exploits-treiber-der-android-hersteller-verursachen-kernel-luecken-1608-122936.html
+
+
+
+
+*** Wartungsarbeiten Donnerstag, 1. 9. 2016, nachmittags ***
+---------------------------------------------
+Am Donnerstag, 1. September 2016, werden wir ab etwa 13h notwendige Wartungsarbeiten an unserer Infrastruktur vornehmen. Dies wird zu keinen Ausf?llen der extern ..
+---------------------------------------------
+http://www.cert.at/services/blog/20160829150342-1783.html
+
+
+
+
+*** l+f: Passwort-Safe mit L?chern ***
+---------------------------------------------
+Googles Security Crack Tavis Ormandy nimmt sich nach der Anitviren-Software jetzt Passwort-Safes zur Brust -- mit ?hnlich erschreckenden Resultaten.
+---------------------------------------------
+http://heise.de/-3306993
+
+
+
+
+*** ZDI-16-497: Apple OS X AppleHDA Buffer Overflow Privilege Escalation Vulnerability ***
+---------------------------------------------
+This vulnerability allows local attackers to execute arbitrary code on vulnerable installations of Apple OS X. User interaction is required to exploit this vulnerability in that the target must visit a malicious page or open a malicious file.
+---------------------------------------------
+http://www.zerodayinitiative.com/advisories/ZDI-16-497/
+
+From team at cert.at  Tue Aug 30 18:07:41 2016
+From: team at cert.at (Daily end-of-shift report)
+Date: Tue, 30 Aug 2016 18:07:41 +0200
+Subject: [CERT-daily] Tageszusammenfassung - Dienstag 30-08-2016
+Message-ID: <20160830_160741_003122.team@cert.at>
+
+=======================
+= End-of-Shift report =
+=======================
+
+Timeframe:   Montag 29-08-2016 18:00 ? Dienstag 30-08-2016 18:00
+Handler:     Alexander Riepl
+Co-Handler:  n/a
+
+
+*** Browser-based fingerprinting: implications and mitigations ***
+---------------------------------------------
+This post covers the information disclosure bugs in Internet Explorer and Edge that we sometimes refer to as fingerprinting. We review past ..
+---------------------------------------------
+https://blog.malwarebytes.com/cybercrime/exploits/2016/08/browser-based-fingerprinting-implications-and-mitigations/
+
+
+
+
+*** Double-click me not: Malicious proxy settings in OLE Embedded Script ***
+---------------------------------------------
+Attackers have been using social engineering to avoid the increasing costs of exploitation due to the significant hardening and exploit mitigations investments in ..
+---------------------------------------------
+https://blogs.technet.microsoft.com/mmpc/2016/08/29/double-click-me-not-malicious-proxy-settings-in-ole-embedded-script/
+
+
+
+
+*** Hintergrund: Analysiert: Ransomware meets Info-Stealer - RAA und das diebische Pony ***
+---------------------------------------------
+Im Rahmen unserer Analysiert:-Serie geht es diesmal einem Erpressungs-Trojaner an den Code: Olivia von Westernhagen untersucht den in JavaScript realisierte RAA-Trojaner, der gleich auch noch eine Passwort-Klau-Malware im Gep?ck hat.
+---------------------------------------------
+http://heise.de/-3303113
+
+
+
+
+*** Skurriles Motiv f?r Cyberangriff auf Pr?sidenten-Website in Sri Lanka ***
+---------------------------------------------
+17 Jahre alter Angreifer forderte Verschiebung der Abiturpr?fungen
+---------------------------------------------
+http://derstandard.at/2000043545769
+
+
+
+
+*** Linux-Paketmanager: RPM-Entwicklung verl?uft chaotisch ***
+---------------------------------------------
+Unser Autor hat versucht, potenzielle Sicherheitsl?cken im Paketmanager RPM zu melden, der von Red Hat, Suse und weiteren Linux-Distributionen genutzt wird. Doch das war gar ..
+---------------------------------------------
+http://www.golem.de/news/linux-paketmanager-rpm-entwicklung-verlaeuft-chaotisch-1608-122941.html
+
+
+
+
+*** The Hunt for Lurk ***
+---------------------------------------------
+In June, 2016, the Russian police arrested the alleged members of the criminal group known as Lurk. The police suspected Lurk of stealing nearly three billion rubles. The story of Lurk gives some idea of the amount of work that has to be done to obtain enough evidence to arrest and prosecute suspects.
+---------------------------------------------
+http://securelist.com/analysis/publications/75944/the-hunt-for-lurk/
+
+
+
+
+*** Ripper: Geldautomaten-Malware gibt bis zu 40 Scheine aus ***
+---------------------------------------------
+Sicherheitsforscher haben eine Schadsoftware entdeckt, die Geldautomaten gleich dreier Hersteller infizieren soll. Vieles deutet daraufhin, dass Kriminelle mit Hilfe der Malware in Thailand Geld im Wert von mehr als 300.000 Euro entwenden konnten.
+---------------------------------------------
+http://www.golem.de/news/ripper-geldautomaten-malware-gibt-bis-zu-40-scheine-aus-1608-122952.html
+
+
+
+
+*** Linux servers hit with FairWare ransomware ? or is it just a scam? ***
+---------------------------------------------
+Users posting on Bleeping Computer?s forums have alerted the world to a new threat targeting Linux server admins: the FairWare ransomware. Whether the ransomware actually ..
+---------------------------------------------
+https://www.helpnetsecurity.com/2016/08/30/linux-fairware-ransomware/
+
+
+
+
+*** Sicherheit implantierbarer Medizintechnik: Herzschrittmacher von St. Jude Medical sollen hackbar sein ***
+---------------------------------------------
+Streit mit harten Bandagen: Der US-amerikanische Medizinger?tehersteller St. Jude Medical zofft sich mit dem Sicherheitsspezialisten MedSec und der Investmentfirma Muddy Waters Capital ?ber die Sicherheit von lebenswichtigen Ger?ten.
+---------------------------------------------
+http://heise.de/-3307510
+
+
+
+
+*** 71,000 Minecraft World Map accounts leaked online after hack ***
+---------------------------------------------
+Dumped creds have been exposed since January Some 71,000 user accounts and IP addresses have been leaked from Minecraft fan website Minecraft World Map.
+---------------------------------------------
+www.theregister.co.uk/2016/08/30/71000_minecraft_world_map_accounts_leak/
+
+From team at cert.at  Wed Aug 31 18:03:34 2016
+From: team at cert.at (Daily end-of-shift report)
+Date: Wed, 31 Aug 2016 18:03:34 +0200
+Subject: [CERT-daily] Tageszusammenfassung - Mittwoch 31-08-2016
+Message-ID: <20160831_160334_041520.team@cert.at>
+
+=======================
+= End-of-Shift report =
+=======================
+
+Timeframe:   Dienstag 30-08-2016 18:00 ? Mittwoch 31-08-2016 18:00
+Handler:     Alexander Riepl
+Co-Handler:  n/a
+
+
+*** Security Bulletin Posted for ColdFusion (APSB16-30) ***
+---------------------------------------------
+Adobe has published a Security Bulletin (APSB16-30) announcing the availability of hotfixes for ColdFusion versions 11 and 10. These hotfixes resolve a critical vulnerability ..
+---------------------------------------------
+https://blogs.adobe.com/psirt/?p=1395
+
+
+
+
+*** Inside the Demise of the Angler Exploit Kit ***
+---------------------------------------------
+Researchers at Kaspersky Lab today confirmed that the cybercriminals behind the Lurk Trojan were also responsible for the development and distribution of ..
+---------------------------------------------
+http://threatpost.com/inside-the-demise-of-the-angler-exploit-kit/120222/
+
+
+
+
+*** BASHLITE Family Of Malware Infects 1 Million IoT Devices ***
+---------------------------------------------
+Over 1 million consumer web-connected video cameras and DVRs have have become the slaves to botnet herders that use the devices for DDoS and phishing attacks.
+---------------------------------------------
+http://threatpost.com/bashlite-family-of-malware-infects-1-million-iot-devices/120230/
+
+
+
+
+*** Ask Sucuri: How Modern Web Phishing Works ***
+---------------------------------------------
+Most of us have experienced some kind of phishing attempt in our online lives, and we have seen phishing grow in complexity. Usually, we notice that the login pages are ..
+---------------------------------------------
+https://blog.sucuri.net/2016/08/modern-web-phishing-works.html
+
+
+
+
+*** Ursnif: Deep Technical Dive ***
+---------------------------------------------
+While attack tools around the world are stealthy and stay under the radar, we at Seculert examine many different malicious tools. This is done in order to stay at least one step ahead of the attackers, and improve our advanced analytics technology to detect their artistic evasive techniques.
+---------------------------------------------
+http://www.seculert.com/blogs/ursnif-deep-technical-dive
+
+
+
+
+*** Das Ziel seien Banken: DDoS?Erpresser fordern ?nur? 1 Bitcoin und drohen Verschl?sselung an ***
+---------------------------------------------
+Die aktuelle Gruppe nennt sich ?HACKER TEAM ? Armada Collective?. Die Kriminellen haben laut Link11 mehreren ..
+---------------------------------------------
+http://www.it-finanzmagazin.de/ernstzunehmende-ddos-erpresser-fordern-nur-1-bitcoin-und-drohen-verschluesselung-an-das-ziel-seien-banken-35782/
+
+
+
+
+*** Adobe stopft ColdFusion-L?cken vor dem Patchday ***
+---------------------------------------------
+Gut zwei Wochen vor dem regul?ren Patchday der Firma schlie?t Adobe zwei L?cken im Web-Application-Server ColdFusion. Das deutet darauf hin, dass Admins die Patches schnell einspielen sollten.
+---------------------------------------------
+http://heise.de/-3309658
+
+
+
+
+*** Blockchain-Technologie: Ein Drittel aller Bitcoin-B?rsen wurde gehackt ***
+---------------------------------------------
+Wie sicher sind Bitcoin bei Online-B?rsen? Nicht besonders, wenn man einer aktuellen Studie Glauben schenkt. Demnach ..
+---------------------------------------------
+http://www.golem.de/news/blockchain-technologie-ein-drittel-aller-bitcoin-boersen-wurde-gehackt-1608-122975.html
+
+
+
+
+*** [2016-08-31] Manipulation of pre-boot authentication in CryptWare CryptoPro Secure Disk for Bitlocker ***
+---------------------------------------------
+CryptoPro Secure Disk for Bitlocker contains multiple vulnerabilities which can be used by an attacker to manipulate the PBA (pre-boot authentication). This allows ..
+---------------------------------------------
+https://www.sec-consult.com/fxdata/seccons/prod/temedia/advisories_txt/20160831-0_CryptWare_CryptoPro_Manipulation_of_pre-boot_authentication_v10.txt
+
+
+
+
+*** DSA-3657 libarchive - security update ***
+---------------------------------------------
+Hanno Boeck and Marcin Noga discovered multiple vulnerabilities inlibarchive; processing malformed archives may result in denial ofservice or the execution of arbitrary code.
+---------------------------------------------
+https://www.debian.org/security/2016/dsa-3657
+
+
+
+
+*** Dropbox-Hack: Seit 2012 rund 68 Millionen Passw?rter im Netz ***
+---------------------------------------------
+Datenbank konnte offenbar wegen LinkedIn-Hack gestohlen werden, wo Dropbox-Mitarbeiter gleiches Passwort nutzte
+---------------------------------------------
+http://derstandard.at/2000043625840
+
+
+
+
+*** Swift spricht von weiteren Hackerattacken auf Banken ***
+---------------------------------------------
+http://derstandard.at/2000043626250
+
+
+
+
+*** BitTorrent-Client Transmission brachte erneut Malware auf Macs ***
+---------------------------------------------
+Zum zweiten Mal konnten sich Nutzer durch den Download der popul?ren BitTorrent-App Malware auf ihrem Mac ..
+---------------------------------------------
+http://heise.de/-3310446
+
+
+
+
+*** Sicherheitsl?cken in Defibrillatoren: Investmentfirma spekulierte mit Hersteller-B?rsenkurs ***
+---------------------------------------------
+Ein schwerer Vorwurf: Eine Sicherheitsfirma soll ein potenziell lebensbedrohliche Sicherheitsl?cken aufgebauscht und an eine Investmentfirma verraten haben, um dann an der B?rse Geld zu scheffeln.
+---------------------------------------------
+http://heise.de/-3309906
+
+
+
+
+*** Zertifizierungsstelle: Wosign stellt unberechtigtes Zertifikat f?r Github aus ***
+---------------------------------------------
+Eine ganze Reihe von Vorf?llen bringt die Zertifizierungsstelle Wosign in Erkl?rungsnot. Verschiedene Sicherheitsl?cken erm?glichten die unberechtigte Ausstellung von ..
+---------------------------------------------
+http://www.golem.de/news/zertifizierungsstelle-wosign-stellt-unberechtigtes-zertifikat-fuer-github-aus-1608-122986.html
+
