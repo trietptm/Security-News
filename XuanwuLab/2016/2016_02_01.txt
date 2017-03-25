@@ -1,0 +1,123 @@
+Rene Mayrhofer @rene_mobile
+
+[ Android ]  Details on CVE-2015-6606 (discovered by Michael Roland from our lab) are now online: https://usmile.at/blog/open-mobile-api-implementations-affected-by-code-injection-vulnerability, http://arxiv.org/abs/1601.05833
+
+﻿"Android Open Mobile API 实现存在漏洞，精心构造的 APK 可以实现在 SmartCard 服务中执行任意代码（CVE-2015-6606）: https://t.co/qmQRcM1rw5、 https://t.co/mm1Md167b2"
+
+PHR34K @unpacker
+
+[ Android ]  Android.Trojan.Marcher - Conclusion http://blog.phishlabs.com/android.trojan.marcher-conclusion
+
+﻿"Android 木马 Marcher 的分析， 来自 PhishLabs， Part 3： https://t.co/lD7lVyxNad  Part 2: http://blog.phishlabs.com/android.trojan.marcher-part-two  Part 1:  http://blog.phishlabs.com/analyzing-android.trojan.marcher  "
+
+PHR34K @unpacker
+
+[ Attack ]  Dridex Botnet Resumes Spam Operations After the Holidays http://www.fireeye.com/blog/threat-research/2016/01/dridex_botnet_resume.html
+
+﻿"Dridex 僵尸网络在圣诞节期间短暂休息后，近期又开始活跃起来了， 来自 FireEye 的 Blog： https://t.co/uoAuKMl2Sr"
+
+Giuseppe `N3mes1s` @gN3mes1s
+
+[ Defend ]  very detailed explanation on how Intel Software Guard Extension SGX works - https://eprint.iacr.org/2016/086 - https://eprint.iacr.org/2016/086.pdf by @ pwnall
+
+﻿"详细了解 Intel SGX 是如何工作的， 来自 IACR 的 Paper： https://eprint.iacr.org/2016/086.pdf  "
+
+Daniel Bilar @daniel_bilar
+
+[ Fuzzing ]  C++ sanitizers & fuzzing & hardening http://llvm.org/devmtg/2015-10/slides/SerebryanyCollingbourne-BeyondSanitizers.pdf [ASan, TSan, MSan, UBSan +LLVM libFuzzer, AFL-fuzz +CFI; Fuzzing-as-a-service]
+
+﻿"Beyond Sanitizers - Fuzzing 和代码加固， 来自 2015 年 10 月的 LLVM 开发者会议， Slides：  https://t.co/cSl5mltxRf "
+
+Ptrace Security GmbH @ptracesecurity
+
+[ Linux ]  Linux Kernel Initialization Bug in vivid_fb_ioctl() http://www.securitytracker.com/id/1034893 #linux #kernel #vuln #exploitdev #hacking #infosec
+
+﻿"Linux 内核 vivid_fb_ioctl() 存在 Bug, 允许本地用户查看内核内存信息，来自 SecurityTracker： https://t.co/bkib2TMQAU "
+
+Maciej Pasternacki @mpasternacki
+
+[ Linux ]  Slides from my #FOSDEM2016 presentation about Jetpack, a container runtime for FreeBSD: https://speakerdeck.com/mpasternacki/jetpack-a-container-runtime-for-freebsd-1
+
+﻿"Jetpack - 运行在 FreeBSD 系统的容器: https://t.co/grRtuIgAcG"
+
+Binni Shah @binitamshah
+
+[ Mac OS X ]  OSX Mass Pwning using BetterCap and the Sparkle Updater Vulnerability : https://www.evilsocket.net/2016/01/30/osx-mass-pwning-using-bettercap-and-the-sparkle-updater-vulnerability/ cc: @ evilsocket
+
+﻿"Sparkle 升级器漏洞以及如何通过 BetterCap 批量地中间人攻击 OS X 用户: https://t.co/ku288i4hBP 关于漏洞的细节： https://vulnsec.com/2016/osx-apps-vulnerabilities/ "
+
+PHR34K @unpacker
+
+[ MalwareAnalysis ]  An Analysis on the Principle of CVE-2015-8651 - Antiy Labs http://www.reddit.com/r/ReverseEngineering/comments/43a1i5/an_analysis_on_the_principle_of_cve20158651_antiy/
+
+﻿"暗黑客栈 CVE-2015-8651 漏洞原理分析， 来自安天实验室 Blog， 英文版： https://t.co/V1i86WQB1D  在 Freebuf 上发表的中文版： http://www.freebuf.com/articles/network/93516.html "
+
+☩MalwareMustDie @MalwareMustDie
+
+[ MalwareAnalysis ]  #MalwareMustDie! PicAnalysis: More #ELF #HFS #Waterhole Trap w/PRC-made Custom #RAT #malware http://imgur.com/a/tgaeB https://t.co/rqkPtqeSoY
+
+﻿"ELF HFS 水坑攻击中出现了定制的 RAT： https://t.co/NXS0OQzaFI "
+
+ 
+Ben Nagy @rantyben
+
+[ Mitigation ]  “untrusted font mitigations for Windows 10” https://www.microsoft.com/en-us/download/details.aspx?id=50766&WT.mc_id=rss_windows_allproducts https://t.co/ztE6qlKNyE
+
+﻿"EMET 5.5 漏洞利用缓解工具下载， 增加对 Windows 10 的支持，其中有个新特性 'Untrusted font mitigation for Windows 10'： https://t.co/NemGj4qAN0"
+
+ 
+Binni Shah @binitamshah
+
+[ Network ]  Sensitive information can be revealed from Tor hidden services on Apache : http://www.dailydot.com/politics/apache-server-status-tor/
+
+﻿"由于配置错误，运行在 Apache 上的 Tor 隐藏服务会泄露敏感信息: https://t.co/j4WHlzbSWw"
+
+Daniel Bilar @daniel_bilar
+
+[ Others ]  Research notes on exploiting libstagefright https://www.nccgroup.trust/globalassets/our-research/uk/whitepapers/2016/01/libstagefright-exploit-notespdf/ [http vector, Android 5.x, SELinux sandbox disabling; CVE-2015-3684]
+
+﻿"Android 5.x libstagefright 漏洞利用研究笔记，来自 NCC Group 的 Paper（Http Vector、 禁用 SELinux 沙箱、 CVE-2015-3684）： https://t.co/5INEkT2ZnU "
+
+Nicolas Krassas @Dinosn
+
+[ Pentest ]  Malicious UNC Paths (SMB) / Bad Egress / No-Split VPN http://www.hackwhackandsmack.com/?p=476
+
+﻿"Malicious UNC Paths (SMB) / Bad Egress / No-Split VPN： https://t.co/uboBhqaG0L"
+
+corelanc0d3r @corelanc0d3r
+
+[ Tools ]  EncFSGui – GUI Wrapper around encfs for OSX https://www.corelan.be/?p=10986 https://t.co/NqSRYWWLm9
+
+﻿"EncFSGui — OS X 用户级加密文件系统的 GUI 版本： https://t.co/1Zx1sI5E31 https://t.co/NqSRYWWLm9 "
+
+ 
+Matt Graeber @mattifestation
+
+[ Tools ]  Texus Shell (TShell) is a tool that allows you to interact with a phone via a Windows #PowerShell command prompt. https://sysdev.microsoft.com/en-us/Hardware/oem/docs/Phone_Testing/TShell_overview ?
+
+﻿"TShell - 允许 Windows Phone 和 Windows 系统交互的命令行工具： https://t.co/vAo4KRcHBN?"
+
+Ben Hayak @BenHayak
+
+[ Web Security ]  Warm up: XSS vector in IE8-11 no user interaction: &lt;div onfocus=alert('xx') id=xss style=display:table&gt; (use #xss in url to trigger focus)
+
+﻿"热身: IE8-11 上一个 XSS 向量，参看上面代码"
+
+Răzvan Cernăianu @TinKode
+
+[ Web Security ]  Atlassian Jira 6.0.* <= 6.1.4 DOM XSS [Unauthenticated] . More: http://www.tinkode.com/2016/01/atlassian-jira-60-614-dom-xss.html
+
+﻿"项目与事务管理工具 Atlassian Jira 6.0.* <= 6.1.4 版本 DOM XSS : https://t.co/xhqn71I9HY"
+
+Troy Hunt @troyhunt
+
+[ Web Security ]  Slightly Evil JavaScript for use in XSS pranks: http://codebox.org.uk/pages/monkeyshine-javascript-practical-jokes
+
+﻿"可以在 XSS 时搞恶作剧的几个 JavaScript 代码 Demo: https://t.co/wkwRuxAv8W"
+
+Matt Graeber @mattifestation
+
+[ Windows ]  A handy reference of all available Win32 APIs in Nano Server with their respective "modern" DLL. https://msdn.microsoft.com/en-us/library/mt588480(v=vs.85).aspx
+
+﻿"Nano Server 中可以调用的 DLL 和相关的 API 列表： https://t.co/9QoVkCiKRK  Nano Server 是 Windows Server 2016 的一个精简部署版本"
+
