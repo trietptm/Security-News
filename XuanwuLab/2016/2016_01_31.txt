@@ -1,0 +1,71 @@
+Fabio Assolini @assolini
+
+[ Attack ]  IoT-based botnets and other attacks on our DDoS Intelligence Report for Q4 2015 https://securelist.com/analysis/quarterly-malware-reports/73414/kaspersky-ddos-intelligence-report-for-q4-2015/
+
+﻿"Kaspersky 2015 第 4 季度 DDoS 情报报告， 来自 Kaspersky Blog： https://t.co/qXN8nOwHoD"
+
+Mark Wodrich @markwo
+
+[ Defend ]  Observations on Intel's MPX by @ kayseesee https://github.com/google/sanitizers/wiki/AddressSanitizerIntelMemoryProtectionExtensions (h/t to Skape)
+
+﻿"关于 Intel MPX 适用范围、性能、误报率的讨论， 来自 Google sanitizers 的 Github Wiki： https://t.co/51DHOPlnUG "
+
+Nicolas Krassas @Dinosn
+
+[ Malware ]  Malicious Office files dropping Kasidet and Dridex http://research.zscaler.com/2016/01/malicious-office-files-dropping-kasidet.html
+
+﻿"Zscaler 发现最近内嵌 VBA 宏的恶意 Office 文档，除了释放 Dridex 木马外，还释放了 Kasidet 后门： https://t.co/xYniErqGMp "
+
+Binni Shah @binitamshah
+
+[ NetworkDevice ]  Netgear GS105Ev2 Authentication Bypass / XSS / CSRF : https://packetstormsecurity.com/files/135480/netgearGS105Ev2-xssbypassxsrf.txt
+
+﻿"Netgear GS105Ev2 以太网交换机存在多个漏洞，包括认证绕过、XSS、CSRF: https://t.co/k8ZFWrt80H"
+
+Binni Shah @binitamshah
+
+[ Pentest ]  Empire Case Study : https://enigma0x3.wordpress.com/2016/01/28/an-empire-case-study/ /* Series cont'd
+
+﻿"渗透测试框架 Empire 实战应用一例: https://t.co/eQlE8WIW9c "
+
+Binni Shah @binitamshah
+
+[ Popular Software ]  Exploiting the Oracle Workspace Manager SQL Race Condition : http://www.davidlitchfield.com/ExploitingtheOracleWorkspaceManagerSQLRaceCondition.pdf (pdf)
+
+﻿"Oracle Workspace Manager SQL 竞争条件漏洞的利用， 作者为 David Litchfield， Paper: https://t.co/DNdv5yJBIa "
+
+Robert Rodriguez @RobInfoSecInst
+
+[ Programming ]  XML Secure Coding http://goo.gl/LIH43F #ApplicatonSecurity #SecurityArchitectureDesign #WebAppSecurity
+
+﻿"XML 安全编码规范， 来自 InfoSec Blog： https://t.co/jxrxDlZXKu "
+
+Nicolas Krassas @Dinosn
+
+[ Tools ]  Dynamic IDA Enrichment (aka. DIE) https://www.insinuator.net/2016/01/die/
+
+﻿"DIE - IDA 动态分析增强插件， 使 IDA 在静态分析时可以使用动态运行时的信息： https://t.co/f7kIadaJ7j Github Repo：  https://github.com/ynvb/DIE "
+
+Rob Winch @rob_winch
+
+[ Web Security ]  AngularJS - Escaping the Expression Sandbox for XSS https://spring.io/blog/2016/01/28/angularjs-escaping-the-expression-sandbox-for-xss #javascript #angularjs #security #xss
+
+﻿"AngularJS - 逃逸表达式沙箱： https://t.co/HuuKpOAxsP 这篇 Blog 是对之前《无 HTML 的 XSS - AngularJS 客户端模板注入》 的一个总结。"
+
+Nicolas Krassas @Dinosn
+
+[ Web Security ]  Circumventing XSS filters http://www.sjoerdlangkemper.nl/2016/01/29/circumventing-xss-filters/
+
+﻿"以开源电商系统 Magento 的 Mage_Core_Model_Input_Filter_MaliciousCode 类为例，谈 XSS filters 的绕过问题， 来自 Sjoerd Langkemper Blog： https://t.co/wbfMoW99j5"
+
+Masato Kinugawa @kinugawamasato
+
+[ Web Security ]  Blogged!! XSS using the Google Toolbar's command http://mksben.l0.cm/2016/01/google-toolbar-xss.html (English) http://masatokinugawa.l0.cm/2016/01/google-toolbar-xss.html (日本語)
+
+﻿"Google Toolbar（toolbar.google.com） 的两个 XSS 漏洞分析， 漏洞只能在安装 Google Toolbar 的 IE 上触发： https://t.co/DTUXBpvwYI "
+
+Casey Smith @subTee
+
+[ Windows ]  Here's a weird one... Executes Calc With Powershell Using SendKeys Command To PowerShell https://gist.github.com/subTee/15684bbfbd657c6a3a04 EncodedCommand Avoidance.
+
+﻿"通过发送按键给 Powershell， 让 Powershell 启动 Calc： https://t.co/iZyGM9Dn7m "
