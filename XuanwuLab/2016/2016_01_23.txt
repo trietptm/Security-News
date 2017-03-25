@@ -1,0 +1,90 @@
+TrendLabs @TrendLabs
+
+[ Android ]  New post: Operation Emmental Revisited: Malicious Apps Lock Users Out http://bit.ly/1ZQt91W @ TrendMicro
+
+﻿"Operation Emmental - 恶意 APP 被安装之后，攻击者远程修改手机的锁屏密码，在用户费劲尝试密码的时候，后台劫持银行的短信，实现交易，来自 TrendMicro Blog: https://t.co/g4SRjfgi18  "
+
+Nikolay Elenkov @kapitanpetko
+
+[ Android ]  Apparently Nexus kernel debug cables are also open source: https://android.googlesource.com/device/google/debugcable/+/master
+
+﻿"Android Nexus 内核调试线缆设计文档，包括 PCB/BOM 等等文档: https://t.co/Y1UxFWICZf"
+
+Nicolas Krassas @Dinosn
+
+[ Android ]  Android Spywaller: Firewall-Style Antivirus Blocking http://blog.fortinet.com/post/android-spywaller-firewall-style-antivirus-blocking
+
+﻿"Android Spywaller - 恶意软件利用 DroidWall 防火墙禁用 Qihoo 360 的安全应用，之前推送过 Symantec 关于这个攻击的介绍，这次是 Fortinet Blog 对这个过程的详细技术分析：  https://t.co/CFEBiVWdJj"
+
+TrendLabs @TrendLabs
+
+[ Attack ]  A look at notable incidents involving Operation #PawnStorm: http://bit.ly/1JW0Ojn #targetedattack
+
+﻿"PawnStorm 行动的最新进展，来自 TrendMicro Blog： https://t.co/ezN9hM5Jvy "
+
+McAfee Labs @McAfee_Labs
+
+[ Defend ]  Defending your organization from macro #malware is easier than you think. Learn how: http://intel.ly/20hUJly
+
+﻿"对抗宏恶意软件: https://t.co/YYCdK6uhzy"
+
+Nicolas Krassas @Dinosn
+
+[ Hardware ]  Insecure by design: protocols for encrypted phone calls https://www.benthamsgaze.org/2016/01/19/insecure-by-design-protocols-for-encrypted-phone-calls/
+
+﻿"设计上就不安全：加密电话协议。这篇 Blog 提到英国政府将 MIKEY-SAKKE 作为加密电话协议，然而这个协议本身对安全的考虑就不够完善，可能会导致大规模的无察觉地监视，来自 Bentham's Gaze Blog: https://t.co/XCsnWlXisW "
+
+Evilcry_ @Blackmond_
+
+[ IoTDevice ]  C7824WIP - IP Camera : Security Review - http://www.fontenay-ronan.fr/c7824wip-security-review/
+
+﻿"威视达康（Vstarcam） C7824WIP 网络摄像头安全性综述： https://t.co/f5tfVXMGI8"
+
+Iván @aszy
+
+[ Linux ]  Security Analysis of Linux Kernel Features for Embedded Software Systems in Vehicles https://hal.archives-ouvertes.fr/hal-01193025/document
+
+﻿"车载嵌入式系统中 Linux 内核在保护用户态应用方面的一些安全特性， Paper： https://t.co/4w5QStJeZQ"
+
+Nicolas Krassas @Dinosn
+
+[ Mac OS X ]  ZDI-16-020: Apple OS X IOAcceleratorFamily2 Out-Of-Bounds Indexing Privilege Escalation Vulnerability http://www.zerodayinitiative.com/advisories/ZDI-16-020/
+
+﻿"Apple OS X IOAcceleratorFamily2 数组索引越界访问漏洞，通过这个漏洞可以实现提权，来自 ZDI 公告 ZDI-16-020:  https://t.co/fUHyBIrl7E"
+
+Kimberly @StopMalvertisin
+
+[ Network ]  Cisco Blog | Overcoming the DNS “Blind Spot” http://bit.ly/1ZGQ2Qc
+
+﻿"对 DNS 信息的监控对于发现攻击入侵很有必要，然而现在这么做的公司还比较少，来自 Cisco Blog： https://t.co/wWYnY2RZlU"
+
+AV Comparatives @AV_Comparatives
+
+[ Others ]  The AV-Comparatives Summary Report 2015 is now available! http://www.av-comparatives.org/summary-reports/
+
+﻿"AV-Comparatives 2015 年总结报告， AV-Comparatives 是一家国际性的独立评测结构，专门从事反病毒软件的评测：  https://t.co/hfHfJTaH04"
+
+Frank Denis @jedisct1
+
+[ Others ]  Google free course on deep learning https://www.udacity.com/course/deep-learning--ud730
+
+﻿"Google 的深度学习在线课程： https://t.co/NihZ7voinN"
+
+Binni Shah @binitamshah
+
+[ Pentest ]  backdoorme : powerful auto-backdooring utility : https://github.com/Kkevsterrr/backdoorme
+
+﻿"backdoorme: 功能强大的 Unix 后门实用工具，自动化地创建和部署后门: https://t.co/WrWpg2Uq9f"
+
+Nicolas Krassas @Dinosn
+
+[ Popular Software ]  ZDI-16-023: Oracle GoldenGate Veridata File Upload Remote Code Execution Vulnerability http://www.zerodayinitiative.com/advisories/ZDI-16-023/
+
+﻿"Oracle GoldenGate mgr 进程监听本地 TCP 7809 端口，进程对连接的认证不够完善，可以实现任意文件写，最终实现 SYSTEM 远程代码执行，来自 ZDI 公告 ZDI-16-023： https://t.co/maPwP14pZd"
+
+James Forshaw @tiraniddo
+
+[ Windows ]  Opening the correct file in Windows can be pretty tricky, even for Microsoft devs. https://code.google.com/p/google-security-research/issues/detail?id=589 and https://code.google.com/p/google-security-research/issues/detail?id=573 :-D
+
+﻿"在 Windows 中打开正确的文件是件很棘手的事，甚至对微软开发者也是： Issue 589 <Windows: Sandboxed Mount Reparse Point Creation Mitigation Bypass Redux 2 >： https://t.co/H5igmajfkz  Issue 573 <Windows: Sandboxed Mount Reparse Point Creation Mitigation Bypass Redux >:  https://t.co/9aCzHMPRkT "
+
