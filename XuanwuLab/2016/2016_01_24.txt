@@ -1,0 +1,53 @@
+Chris Rohlf @chrisrohlf
+
+[ Browser ]  I wrote some more stuff on PartitionAlloc http://struct.github.io/partition_alloc.html - Next is adding delayed frees. Not enough time in the day...
+
+﻿"PartitionAlloc 浅析 - PartitionAlloc 是 Chrome 浏览器的默认堆分配器，来自 Chris Rohlf Blog： https://t.co/pcKdh9ARtn "
+
+takeshix @_takeshix
+
+[ Linux ]  My PoC for FreeBSD-SA-16:01.sctp/CVE-2016-1879 #ICMPv6 #SCTP DOS: https://gist.github.com/takeshixx/5bdd15e3d450c1e29b06 https://www.freebsd.org/security/advisories/FreeBSD-SA-16:01.sctp.asc #FreeBSD #IPv6
+
+﻿"FreeBSD SCTP ICMPv6 error message 处理漏洞 (CVE-2016-1879) PoC : https://t.co/BP3nGRys3t   https://t.co/qxrbCTqwqv 另外一篇来自 Positive Research Center 的 Blog 参考： http://blog.ptsecurity.com/2016/01/severe-vulnerabilities-detected-in.html?m=1 "
+
+Binni Shah @binitamshah
+
+[ Mac OS X ]  Reversing Apple’s syslogd bug : https://reverse.put.as/2016/01/22/reversing-apples-syslogd-bug/ cc: @ osxreverser
+
+﻿"Apple syslogd Bug 逆向，来自 osxreverser Blog: https://t.co/WmYTTP7vLF "
+
+yan @bcrypt
+
+[ Others ]  pretty happy that @ brave on iOS will be the first iOS browser to implement @ HTTPSEverywhere. https://github.com/brave/browser-ios/commit/bf6e064d4d52782a8d4f144f59f0184b503d6e58
+
+﻿"Browser-iOS - 开源 iOS 浏览器，项目地址： https://github.com/brave/browser-ios ，现在支持 HTTPS Everywhere 了，官方网站： https://www.brave.com/ "
+
+Nadim Kobeissi @kaepora
+
+[ SecurityProduct ]  The SSH backdoor found in Fortinet's FortiOS now being discovered in other products: http://arstechnica.com/security/2016/01/secret-ssh-backdoor-in-fortinet-hardware-found-in-more-products/
+
+﻿"FortiOS SSH 后门事件后，Fortinet 调查发现在其他产品中也存在该后门: https://t.co/lWySoKsnh5"
+
+Binni Shah @binitamshah
+
+[ Web Security ]  Covert Timing Channels based on HTTP Cache Headers : http://www.slideshare.net/dnkolegov/wh102014 (Slides*)
+
+﻿"基于 HTTP Cache Headers 的隐蔽时间信道: https://t.co/9Ce7TjrdDA "
+
+Evilcry_ @Blackmond_
+
+[ Windows ]  tracking down a hang from user mode to kernel and finding a NIC driver bug - http://blogs.msdn.com/b/ntdebugging/archive/2016/01/22/virtual-machine-managment-hangs-on-windows-server-2012-r2-hyper-v-host.aspx
+
+﻿"虚拟机管理程序挂起 Bug 的调试分析 - https://t.co/ROM8RyRFw9"
+
+Jason Fossen @JasonFossen
+
+[ Windows ]  New #Windows10 security baseline guidance from #Microsoft, including GPOs and ADMX templates: http://blogs.technet.com/b/secguide/archive/2016/01/22/security-baseline-for-windows-10-v1511-quot-threshold-2-quot-final.aspx
+
+﻿"Windows10 Security Baseline Final 版: https://t.co/0NhoI5F4iq"
+
+Casey Smith @subTee
+
+[ Windows ]  Execute a .NET Assembly from the Windows Event Log. [Blog Post] You Can Run And You Can Hide http://subt0x10.blogspot.com/2016/01/you-can-run-and-you-can-hide.html Feedback Welcome.
+
+﻿"安全软件对写入磁盘的文件的检查越来越严格，对于恶意软件来说，还能把文件存在哪呢？ Windows Event Log。这篇 Blog 介绍如何从 Windows Event Log 执行 .NET Assembly，另外还有原型代码，来自 subTee Blog：  https://t.co/xxqXLiwHLX。"
