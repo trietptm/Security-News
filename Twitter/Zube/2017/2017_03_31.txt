@@ -1,0 +1,1008 @@
+ADTipsTricks
+
+        Automation is awesome. But with great power come great mistakes. One of the biggest you can make is automation of errors.
+
+Antic0de
+
+        Detailed dissection of Windows security hole CVE-2017-0005 (priv-elevation) https://blogs.technet.microsoft.com/mmpc/2017/03/27/detecting-and-mitigating-elevation-of-privilege-exploit-for-cve-2017-0005/ ...  -- now patched, exploited in the wild
+
+ChrisJohnRiley
+
+        When ISPs sell your 'web history,' does that mean a list full URLs? If so, that's a big security issue. URLs often contain session creds.
+        And if ISPs seek to profit from selling web history, they're now financially opposed to the adoption of TLS and VPN. That's not good.
+
+DennisThePerrin
+
+        For those on the fence about capitalism. Trump is president. What more do you need?
+
+DidierStevens
+
+        New blog post: "New Hancitor maldocs keep on coming..." #dfir #hancitor #malware #maldoc https://goo.gl/LTF7Qv https://goo.gl/LTF7Qv?utm_source=twitter.com&utm_medium=social&utm_campaign=new-blog-post-new-hancitor-maldocs-kee ... 
+        Huge thanks to @DidierStevens for his excellent #passwordcracking tools & blog that saved me a bunch of time today! https://blog.didierstevens.com/category/encryption/ ... 
+
+Dinosn
+
+        Imperva observed a new variant of the Mirai botnet unleashes 54-Hour DDoS attackhttp://securityaffairs.co/wordpress/57523/malware/mirai-botnet-54hh-ddosa.html ... 
+        Reverse Engineering Malware 101
+        New Hancitor maldocs keep on coming... http://blog.nviso.be/2017/03/30/new-hancitor-maldocs-keep-on-coming ... 
+        Trojanized Adobe Installer used to Install DragonOK's New Custom Backdoor https://blogs.forcepoint.com/security-labs/trojanized-adobe-installer-used-install-dragonok%E2%80%99s-new-custom-backdoor ... 
+        Nuclear Bot source code leaked online, a new threat will rapidly spread in the wildhttp://securityaffairs.co/wordpress/57541/malware/nuclear-bot-source-code.html ... 
+        Black box discovery of memory corruption RCE on http://box.com  http://scarybeastsecurity.blogspot.com/2017/03/black-box-discovery-of-memory.html ... 
+        0patching the "Immortal" CVE-2017-7269 http://0patch.blogspot.com/2017/03/0patching-immortal-cve-2017-7269.html ... 
+        Rogue DVB-T signals used to get remote root access on Smart TVshttps://www.bleepingcomputer.com/news/security/about-90-percent-of-smart-tvs-vulnerable-to-remote-hacking-via-rogue-tv-signals/ ... 
+        Over 8.3 million live websites using IIS 6.0 are affected by a Zero-Dayhttp://securityaffairs.co/wordpress/57513/hacking/iis-6-0-zero-day.html ... 
+        A Qt and C++ GUI for radare2 reverse engineering framework http://www.iaito.re   &&https://github.com/hteso/iaito 
+        Capture VNC Session of Remote PC using SetToolkithttp://www.hackingarticles.in/capture-vnc-session-remote-pc-using-settoolkit/ ... 
+        Dutch Parliament Website Suffers Ransomware Attackhttp://www.darkreading.com/attacks-breaches/dutch-parliament-website-suffers-ransomware-attack/d/d-id/1328508 ... 
+        Tracing Runtime Events in .NET Core on Linux http://blogs.microsoft.co.il/sasha/2017/03/30/tracing-runtime-events-in-net-core-on-linux/ ... 
+        Malware campaign targets open source developers on GitHubhttps://www.welivesecurity.com/2017/03/30/malware-campaign-targets-open-source-developers-github/#new_tab ... 
+
+FiloSottile
+
+        Problem solved, "-ldflags -s" is now tested as part of the CI and release process  (strip(1) is still wild west) https://github.com/golang/go/issues/19753 ... https://twitter.com/davecheney/status/846844080227213312 ... 
+
+Ivanlef0u
+
+        The PR to the msf module for CVE-2017-7269 is at  https://github.com/rapid7/metasploit-framework/pull/8162 ...  for anyone who's interested
+        New blog post: 0patching the "Immortal" CVE-2017-7269 https://0patch.blogspot.com/2017/03/0patching-immortal-cve-2017-7269.html ... 
+        Really love the flash exploit mitigation which killed one of my exps for pwn2own 2017: If an object causes too many uafs, just never free it
+        Windows 10 Redstone 1/2 UAC changes, http://www.kernelmode.info/forum/viewtopic.php?f=11&t=3643&start=130#p30191 ... pic.twitter.com/4jruiEEhvm
+        All available slides and materials from today's #BHASIA Briefings presentations are now posted online here: http://ow.ly/KQhN30aotH6 
+        http://blog.nsfocus.net/windows-server-2003-r2-iis-6-0-vulnerability-protection-scenario/ ... 
+
+JasonLeopold
+
+        Here are 281 pgs (1st release) on Executive Intelligence Review, old #FOIA request I filed w/FBI recently arrivedhttps://www.documentcloud.org/documents/3532421-Leopold-FOIA-Executive-Intel-Review.html ... 
+        State Department employee concealed 'extensive' contacts with Chinese intelligence agents, officials sayhttp://abcn.ws/2oc5xIy 
+        Apple has once again removed @joshbegley's app that tracks US drone strikes: "objectionable" content https://twitter.com/joshbegley/status/846790605296558080 ... https://twitter.com/ggreenwald/status/846739713855836160 ... 
+        Missed this, but important read from @BuzzFeedBen.
+        U.S. War Footprint Grows in Middle East, With No Endgame in Sighthttps://nyti.ms/2oAalTY 
+        .@AramRoston has covered this wrenching story singlehandedly.
+        A blast.
+        Next time anyone says USG arms transfers are well-run, remember this @AramRoston peek at shabby facts-on-ground.https://www.buzzfeed.com/aramroston/the-death-of-a-us-contractor-has-exposed-americas-failures?utm_term=.odnmBWyRv ... 
+        Mexican state attorney general arrested at U.S. border in San Diego on drug trafficking chargeshttp://www.latimes.com/local/lanow/la-me-ln-arrest-border-drug-trafficking-20170329-story.html ... 
+        Pakistan halts extradition of US man accused of terror plot | WTOPhttp://wtop.com/national/2017/03/pakistan-halts-extradition-of-us-man-accused-of-terror-plot/ ... 
+        3/ Urge everyone getting strange FOIA responses to let me and @JasonLeopold know - I mean plainly wrong dilatory or obfuscatory responses!
+        2/ I am disappointed that DOJ/OIP was so customer unfriendly. Actually shocked. Wonder what orders came down to change their attitude?
+        1/ DOJ/OIP FOIA liaison brushed me off so I refiled FOIA @ DOJ/JMD for position descriptions of all people from outside DOJ now in AG office
+        Federal Judge Keeps Trump's Travel And Refugee Ban On Hold Indefinitelyhttps://www.buzzfeed.com/mbvd/hawaii-judge-travel-ban-order?utm_term=.my712OqEky ... 
+        North Carolina Lawmakers Reach Deal to Repeal So-Called Bathroom Billhttps://nyti.ms/2oAKN9l 
+        LISTEN: to the final ever instalment of State of the States with @JasonLeopold, thanks for everything Jason. http://95bfm.com/bcast/final-state-of-the-states ... 
+        Bin Laden Raid Planning Documents Stay Sealed https://www.courthousenews.com/bin-laden-raid-planning-documents-stay-sealed/ ...  #FOIA
+        Terrorist Designations: El Shafee Elsheikh, Anjem Choudary, Sami Bouras, Shane Dominic Crawford, Mark John Taylor https://www.state.gov/r/pa/prs/ps/2017/03/269306.htm#.WN0ubwu6CJo.twitter ... 
+        White House Sends Jared Kushner To Meet With Top Senators On Improving The Criminal Justice Systemhttps://www.buzzfeed.com/emmaloop/white-house-sends-jared-kushner-to-meet-with-top-senators?utm_term=.bqow4AKpaY ... 
+        2 White House Officials Helped Give Nunes Intelligence Reportshttps://nyti.ms/2nEkrFF 
+
+Kurt_Vonnegut
+
+        It is a very mixed blessing to be brought back from the dead.
+        Be patient, Ophelia.  Love, Hamlet
+        Say what you will about the sweet miracle of unquestioning faith, I consider a capacity for it terrifying and absolutely vile!
+
+PhysicalDrive0
+
+        Carbon Paper: Peering into Turla's second stage backdoorhttps://www.welivesecurity.com/2017/03/30/carbon-paper-peering-turlas-second-stage-backdoor/ ... 
+        #NuclearBot source code:https://github.com/aainz/TinyNuke 
+
+Pinboard
+
+        Cool automated project: instrument a browser to load hate sites, do OCR on ads to detect brands, screenshot and forward to marketing depts
+        Bottom line on ad tech: much of the money goes to fraud. Brands would be better off targeting ads to content, without any user surveillance
+        Targeting ads to content worked really well for a long time. It paid for the Batmobile!
+        @slpng_giants is doing a manual version of this via crowdsourcing already. possibly worth talking to them?
+        Anyway, browser nerds, this is a good thing to nerd out on. Document the ads that get shown on the prominent hate and disinformation sites
+        What @slpng_giants is doing is cool, but from what I can tell limited to Breitbart. List of sites to monitor here: http://faculty.washington.edu/kstarbi/Alt_Narratives_ICWSM17-CameraReady.pdf ... 
+        The other thing the paper shows is that it's easy to identify botnets even from outside Twitter. @jack has no excuse http://faculty.washington.edu/kstarbi/Alt_Narratives_ICWSM17-CameraReady.pdf ... 
+        If you work at Twitter and it bothers you that you're helping spread this hatred, organize. Talk to fellow workers, or Signal me: 4156100231
+        We will be expanding in the near future. Join us!
+        http://adstrike.us/  is trying to help make @slpng_giants easier to participate in, which seems interesting.
+        I've been on Twitter on and off since 2008, there's just something about this that makes it a top 30 tweet. The curt grammar is key.https://twitter.com/jacksmithiv/status/635925087640793088 ... 
+        we're working on this at propublica right now!
+        I could throw in some weekend hack time on the ML/CV if someone wants to bang out the server side and ops (python?)
+        This sentence describes the entire world wide web:https://twitter.com/WIRED/status/847330905085534209 ... 
+        Yo @Pinboard here's one to feed your hatehttps://twitter.com/LMARTI/status/847230700717604866 ... 
+        Obama built this and handed it over to Trump to play with:https://www.theguardian.com/world/2017/mar/30/yemen-drone-strikes-trump-escalate ... 
+        Facebook uses "Dad's Knee Surgery Fund" example for their new fundraising tool. Says a lot about our healthcare system.pic.twitter.com/ldUSksmUiG
+        Lots of people emailing me for help because Delicious hasn't had a working export feature in months. The writing was on the wall a long time
+        Startup idea: password shortener
+        Did they not test this new UI at all?
+
+R00tkitSMM
+
+        Project Zero blog: "Project Zero Prize Conclusion" by @natashenka - https://googleprojectzero.blogspot.com/2017/03/project-zero-prize-conclusion.html ... 
+        Really love the flash exploit mitigation which killed one of my exps for pwn2own 2017: If an object causes too many uafs, just never free it
+        One more regex bug found by libFuzzer. This time in ... a Rust implementation!https://www.nibor.org/blog/fuzzing-is-magic---or-how-i-found-a-panic-in-rusts-regex-library/ ... 
+        CVE-2017-7184 Linux kernel privesc demo'ed by @ChaitinTech in #Pwn2Own is now public http://www.openwall.com/lists/oss-security/2017/03/29/2 ... https://twitter.com/thezdi/status/842132539330375684 ... 
+
+        All available slides and materials from today's #BHASIA Briefings presentations are now posted online here: http://ow.ly/KQhN30aotH6 
+        I've published the write-up about exploiting CVE-2017-2636 in the Linux kernel: https://a13xp0p0v.github.io/2017/03/24/CVE-2017-2636.html ... 
+        BlackHat Asia 2017, 'Fried Apples: Jailbreak DIY' slides available here - https://github.com/FriedAppleTeam/BlackHat-Asia-2017/blob/master/Fried-Apples-Jailbreak-DIY.pdf ...  #BHAsia
+
+RegexTip
+
+        In Perl, \A matches the beginning of a string and \z matches the end of a string. Removes ambiguity of lines vs strings.
+
+RichFelker
+
+        Ally pro-tip: When a marginalized person stops asking a question that has gone unanswered, that's your cue to take up the mantle yourself.
+        Today is also a good day for picking up a copy of The Smart Girl's Guide to Privacy by @violetblue if you haven't already.https://twitter.com/theubetchaiam/status/846856557212004352 ... 
+        Demonstrations of robotic-assisted surgery.pic.twitter.com/znvr7cjmfZ
+        We see the #broadbandprivacy repeal as a betrayal of individual rights in favor of corporations: https://ting.com/blog/congress-votes-repeal-broadband-privacy-rules/ ... pic.twitter.com/yhGHGcfdxL
+        Hey all y'all- does Ting offer fiber in your city? If you haven't switched already, now may be the time to sign on w/an ethical ISP.https://twitter.com/tingFTW/status/847207410586521601 ... 
+        ICE raids wrong home, shoots father. Can't/won't say why they were in the home. Let's hold ICE accountable.http://nydn.us/2o4ShFv 
+        you: optimizes code with a "compiler"
+        There's an unwritten story in how China increasingly models new surveillance laws on US legislation to cut criticism off at the knees.https://twitter.com/dvdsndvdsn/status/847109260756570112 ... 
+        Looking over mplayer commits for licensing stuff just reminded me there was a time when C programmers thought "lvalue casts" were a thing...
+        Constraint violation as a shorthand for UB!
+        so with "smart TVs", if you can send a rogue DVB-T signal, you can tell the TV to browse to an arbitrary URL?https://www.bleepingcomputer.com/news/security/about-90-percent-of-smart-tvs-vulnerable-to-remote-hacking-via-rogue-tv-signals/ ... 
+        Tip on surviving Twitter's latest idiotic UX changes.https://twitter.com/edefic/status/847486406658150400 ... 
+
+RobertFaturechi
+
+        Wow. Scroll through this:https://www.nytimes.com/interactive/2017/03/30/world/africa/the-road-to-nowhere-niger.html?hp&action=click&pgtype=Homepage&clickSource=story-heading&module=span-ab-top-region&region=top-news&WT.nav=top-news&_r=0 ... 
+        At White House meeting, president of conservative @JudicialWatch demands response to FOIAs + release of Russia docshttps://www.nytimes.com/2017/03/30/us/politics/freedom-caucus-donald-trump.html?action=Click&contentCollection=BreakingNews&contentID=65098037&pgtype=Multimedia ... 
+        The Trump administration is not responding to inquiries from Congress.https://www.propublica.org/article/how-the-trump-administration-responds-to-democrats-demands-for-information ... 
+
+SecurityTube
+
+        [Video] Grrcon 2016 - Piercing The Air Gap: Network Steganography For Everyone http://bit.ly/2mZ7015 pic.twitter.com/kd29K4oXjn
+        [Video] Grrcon 2016 - So You've Inherited A Security Department, Now What? http://bit.ly/2mZdRaU pic.twitter.com/u4r6J79d2J
+        [Video] Grrcon 2016 - Alignment Of Business And IT Security http://bit.ly/2mZbuoF pic.twitter.com/ca5ZaX575n
+        [Video] Grrcon 2016 - Contracting: Privacy Security And 3rd Party http://bit.ly/2mZjQMT pic.twitter.com/qsAOFiGamb
+
+Sh1bumi
+
+        You know those JavaScript alert boxes that support scammers use? Chrome will stop allowing.https://twitter.com/avidrissman/status/846462502850449408 ... 
+        Guess when I killed Firefox, guess when I additionally killed Thunderbird. Mozilla software is costing serious money in kWh.pic.twitter.com/Kz9fPcgW9S
+        If you just downloaded V8.1, tap the the T on center screen three times
+        Made today on Tesla sketch padpic.twitter.com/Z8dFP2NN41
+        Die Marketing-Abtl. von @thyssenkrupp ist ja lustig. Man nehme alten Kram und vermarkte das als  #UrbanMobility #Buzzwordseverywherehttps://twitter.com/thyssenkrupp/status/847379196921790467 ... 
+        Das ist Ã¼brigens der Grund wieso wir in Deutschland keine schÃ¶nen Dinge haben kÃ¶nnen. Weil es deutschen Firmen an Innovation mangelt.
+        Was meines Erachtens an zu alten FirmenvorstÃ¤nden liegt.
+        Ich verstehe nicht wieso kein deutsches Mal den Versuch wagt und einen Vorstand unter 40 Jahren benennt...
+
+SilentBreakSec
+
+        Typos (probably), misinformation (likely), mistakes/misunderstandings (absolutely). But here's my take on Cylancehttps://gist.github.com/tomsteele/5074b11b2a7e2d7e440ae2971740dba7 ... 
+
+SteveBellovin
+
+        In honor of #Trump scrapping the #CleanPowerPlan, I present 1940's Pittsburg without #pollution controls. What's that in the air? Greatness?pic.twitter.com/rEKZIxb8xW
+        Rare photo of the UK leaving the EU.pic.twitter.com/beA3LsJ8f0
+        Iowa GOP abortion bill will grant parents of unmarried women rights to control adult daughters' bodies http://www.rawstory.com/2017/03/iowa-gop-abortion-bill-will-grant-parents-of-unmarried-women-rights-to-control-adult-daughters-bodies/ ... pic.twitter.com/fKWlnU9zAf
+        Yeah, isn't she dating Frederick Douglass?https://twitter.com/JessicaMCoggins/status/847181867157798912 ... 
+        If somebody hasn't named their cat Fake Mews by now then maybe America isn't worth saving.
+        https://www.amazon.com/Mens-Meows-Political-T-Shirt-Cranberry/dp/B06X94R878 ...  Somebody's way ahead of you.
+        History being made, first woman #IETF Chair @alissacooper & first #IRTF woman chair, @AllisonJMankin about to be appointed #IETF98 plenary!
+        I miss having a smart president.https://twitter.com/rebeccaballhaus/status/847181395751567360 ... 
+        just stumbled across this April 2016 article & if you'll excuse me i'll be laugh/crying @ my desk for next 20 min http://www.politico.com/blogs/2016-gop-primary-live-updates-and-results/2016/04/trump-no-tweeting-president-222408 ... pic.twitter.com/TmNrBfvKGo
+        the highest and best use of the internet remains sharing cat picshttps://twitter.com/marciahofmann/status/846924437291257856 ... 
+        White supremacist who murdered Timothy Caughman in NYC has been charged with terrorism. Say it with me: Radical White Supremacist Terrorist.
+        Newsweek: Comey tried to reveal Russian tampering months before election via op-ed, but Obama admin blocked himhttp://www.newsweek.com/fbi-director-james-comey-russian-tampering-election-576417 ... 
+        Get moose and squirrel!pic.twitter.com/vQjYqthP3B
+        A book accompanied by Tolkien-esque maps of distributed data systems. Fun!http://oreil.ly/2nNli7F 
+        The revolting thing about Pence's no-meals-with-women rule isn't prudishness. It's that he's limiting key professional opportunities to men.
+        My latest Extremist Speech and Compelled Conformity is coming out @NotreDameLawRev file:///Users/daniellecitron/Downloads/SSRN-id2941880.pdf
+        A star cryptanalyst for the US Navy - we celebrate Agnes Meyer Driscoll today for #WomensHistoryMonth  - learn more: http://bit.ly/ncmfWHM pic.twitter.com/BgbcWYueQE
+        Strongly disagree with several of these points - esp the argument that @FCC rule is "radical departure" from @FTC approach to privacyhttps://twitter.com/larrydownes/status/847477781130653699 ... 
+        Making the @ not count against 140 is fine. Visually minimizing who the reply is to IS NOT. I swear, Twitter has little idea of its product.https://twitter.com/bluechoochoo/status/847493510240403457 ... 
+        Learned Hand responds to the repeal of Prohibition.  (From Gerald Gunther's book at 306, via Steve Garland.)pic.twitter.com/zlu0G3ELSY
+
+SwiftOnSecurity
+
+        Today we no longer fear technology. It's no longer a question of assimilation. What remains to be seen is what we are about to become.
+        Your website has security locks
+        Sounds like Mike Pence took the Sandy/Rebecca storyline on The OC to heart.
+        there's a reason Glenn Beck's fox show was wall to wall collectable gold coin ads.
+        If you publish Georgia's state laws, you'll get sued for copyright and lose http://arstechnica.com/tech-policy/2017/03/public-records-activist-violated-copyright-by-publishing-georgia-legal-code-online/ ...  by @joemullin
+        1) Not (c); TM. 2) And not good TM. It's descriptive and probably invalid b/c people don't associate term w/you. If you sue you'll lose.https://twitter.com/tacojohns/status/20180671806 ... 
+
+        Yo Sopan, when do I get sworn in
+
+        Do you ever wonder who are these metalsmiths in medieval lands are who also know how to measure breast size correctly.
+        "Hey Jacob, this breastplate you made for my armor is too small."
+        I just imagine that they're all the badass women Smiths that got left out of the history books for being women.
+        Do you ever think about how if you went back in time with a metal spoon from an IHOP, it would be the purest, strongest metal in the world?
+        I think about this all the time.
+        Did you know they have to reclaim steel from sunken WWII ships because nuclear isotopes contaminate everything now
+        This means that if you went back in time with any metal, and an archaeologist found it, they would know you went back in time.
+        Also same issue with the Lead shielding of particle detectors
+        Is there something wrong with Google Recaptcha? Today the waits for images to load are agonizingly slow.
+        Here's an example of the type of bot-pushed hashtag that Clinton Watts is talking about right now in #SenateIntelligenceCommittee hearing.https://twitter.com/RVAwonk/status/832551506092105728 ... 
+
+        Thank you @Bitly.
+
+TheColonial
+
+        getsystem is pretty unique and sophisticated.
+        This man wins the Internet today. Give him a bucket of cookies!https://twitter.com/tedlieu/status/847178302532018176 ... 
+        Don't underestimate the impact of today's rain, fellow QLD'ers! Stay off the roads if you can.
+        Think it's safe to go back in the water? Think again! A bull shark washed up in Ayr. Stay out of floodwater. #TCDebbie #ifitsfloodedforgetitpic.twitter.com/DpP29Va1JG
+
+ToolsWatch
+
+        Source code analysis open source tool here @BlackHatEvents #BHASIA Arsenal station 2. @soytintorerapic.twitter.com/2TYVRn7Fcd
+        #BHASIA Arsenal Day 1 Schedule Enjoy @BlackHatEvents @rachidharrando @ToolsWatchpic.twitter.com/2MXIWuNUel
+        Drop by to discover or give your feedbacks on one of the best opensource security tool in the Www @BlackHatEvents #BHASIApic.twitter.com/nG36O5KuzN
+        My face is tagged on #BHASIA Arsenal walls  ..i'm that sucker in the middle !!! What a honor !pic.twitter.com/ralEVuFtGX
+        Watching the watchers ! I got my eyes set on you !!!!pic.twitter.com/eB6p4B7jHO
+        Our founder @simonroses to speak today at Black Hat Asia Arsenal on source code intelligence #bhasia
+        Great time at Black Hat Asia Arsenal demo Tintorera :) thanks @BlackHatEvents @ToolsWatch #appsec #bhasia #infosecpic.twitter.com/7uRFPJOlCk
+        Good morning #bhasia today I'm in arsenal :)
+        Don't forget! 10am Singapore time, come over to #BHASIA Arsenal station 6 @faradaysecpic.twitter.com/bRUg7faUyN
+        Hope to see you soon @BlackHatAsiaPac Arsenal #BHASIA @ToolsWatchpic.twitter.com/3DUtgWXyuG
+        Are you in Singapore? Drop by #BHASIA Arsenal station 6 http://ow.ly/gewd30alTZM  Thu-10am!! 
+        Nabillllll where are you?? @ToolsWatchpic.twitter.com/EdUOYZb2Ht
+        #BHAsia Arsenal 2017 with CellAnalysispic.twitter.com/YpWd4B3ZNI
+        #BHAsia Arsenal 2017 with Puma Scanpic.twitter.com/mKcdwFWxzV
+        #BHASIA Arsenal Day 01 E04 with Puma Scan, Locality Sensitive Hashing, CellAnalysis, WiDy, MetasploitHelper, Maltego "Have I been Pwnwd?"
+        AVET, an anti-virus evasion tool, bypass 9 antivirus suites targeting windows machines (Daniel Sauder) #BHASIApic.twitter.com/nzqEaZvOMl
+        #BHAsia Arsenal 2017 with @byt3bl33d3r and CrackMapExec v4 abusing built-in Active Directory features and protocols.pic.twitter.com/3pKybmLvhX
+        pic.twitter.com/B6SHRoYAHp
+        @BlackHatEvents day#1. See you tomorrow! #BHASIA Arsenal!pic.twitter.com/6rj2TnmSzH
+
+UnixToolTip
+
+        Pretty Diff http://prettydiff.com/guide/unrelated_diff.xhtml ... 
+        sed pattern for lines not containing spam: /spam/!
+
+WeldPond
+
+        NSA Best Scientific Cybersecurity Paper Competition http://cps-vo.org/group/sos/papercompetition ... 
+
+_mwc
+
+        How unfortunate that one of my competitors picked UNC-Wilmington to go all the way... or did he?pic.twitter.com/J6TMjOdiT9
+
+_rshapiro
+
+        MA prosecutors set to dismiss 23k+ tainted convictions in "a soup-to-nuts indictment of the war on drugs."http://www.nbcnews.com/news/us-news/stunning-drug-lab-scandal-could-upend-23-000-convictions-n739626 ... 
+        Good #FOIA ruling/FBI is terrible.https://twitter.com/jasonleopold/status/847100330315726848 ... 
+        #nocompromisewiththisvillainousregimehttps://twitter.com/blakehounshell/status/847200211231477761 ... 
+        President Trump just extended the "national emergency" that underpins Obama's cyber sanctions executive order.pic.twitter.com/IPcrUtDBo9
+
+_sinn3r
+
+        Hey thats my exploits/android/browser/samsung_knox_smdm_url module :)
+
+aaronportnoy
+
+        Everything is ready for tomorrow! We are presenting @faradaysec at #BHASIA @BlackHatEvents . Hope to see you there http://ow.ly/Wsmp30anDJs pic.twitter.com/Pq8dD0fwuS
+
+adulau
+
+        but still art :)
+        #oletools: just improved rtfobj to handle malformed RTF files as shown in http://blog.talosintelligence.com/2017/03/how-malformed-rtf-defeats-security.html ...  - How to update: https://github.com/decalage2/oletools/wiki/Install#how-to-install-the-latest-development-version ... pic.twitter.com/PY7TvBQYdT
+        Page 16: An interesting budget overview of the Finnish IC (where does the revenues part come from?) http://www.supo.fi/instancedata/prime_product_julkaisu/intermin/embeds/supowwwstructure/72829_SUPO_2016_ENG.pdf ...  #intel
+        I'm sure (with @MISPProject OSINT) you can correlate the time of publication of AV vendors public reports with security conferences dates.
+
+aionescu
+
+        in 2012 :|
+        isn't it this?https://github.com/ionescu007/HookingNirvana/blob/master/verif.dll/verif.c ... 
+
+alicegoldfuss
+
+        Because humans can have friends of all genders, including the ones they're generally attracted to?https://twitter.com/MattWalshBlog/status/847267661629214721 ... 
+        Well if you're asking my opinion I would say yes, it is. Not sure why you'd need to go out for dinner for this convo, but that's up to youhttps://twitter.com/mattfobrien/status/847273141025914880 ... 
+        A "business dinner" with just you and another woman? Yeah that's disrespect, at a minimum.https://twitter.com/mattfobrien/status/847271476503781379 ... 
+        Mike Pence, an adult who is grown,
+        In the late 1990s I asked my Dad how to write a cover letter for my short fiction submissions. He was glad to help out.pic.twitter.com/BV5x7qbjqf
+        One impact, (the lesser imo) is that if Pence can't even have a business meeting with a woman not his wife then only men can advance w/him
+        If I refused to be alone with men I would have a hard time keeping a job. That men can have decades long careers without women says a lot.
+        As someone who is apparently a homing beacon for lonely partnered men, I don't dine alone with male colleagues if I can help it.
+        This has hurt my career but saved a bit of my sanity.
+        I still dine with married male friends. I might even do that today. But colleagues usually make it weird.
+        In my personal experience, it's always the man ruining a good coworker relationship.
+        So if y'all could stop doing that, I'd love to go back to talking shop over a good meal. As peers.
+        Please don't let Article 50 distract you from the unveiling of the most gloriously awful bust of Cristiano Ronaldo at Madrid airportpic.twitter.com/fcyeFjdVUe
+        It's also sometimes called "history."https://twitter.com/thor_benson/status/847187962013941760 ... 
+        *Opens DMs so people can reach out about jobs*
+        This tweet leaves me with way more questions than answers.https://twitter.com/mcdonalds/status/847437430693052418 ... 
+        pic.twitter.com/xKUiPzxeIw
+        when your messy "get it out of my face" hairstyle looks better than anything you will ever do on purpose
+        move aside, lady directors, we got an expert herehttps://twitter.com/io9/status/847491232292982786 ... 
+        I have removed
+
+anantshri
+
+        It is a truth universally acknowledged, that a software developer in possession of a large codebase, must be in want of a life.
+        .@datasploit demos houseful  @BlackHatEvents #bhasia by @upgoingstarpic.twitter.com/ibWS58ks1w
+        #BHASIA Arsenal Automating Open Source Intelligence with Datasploit (@datasploit)pic.twitter.com/5J0YdtpZVL
+
+angealbertini
+
+        #oletools: just improved rtfobj to handle malformed RTF files as shown in http://blog.talosintelligence.com/2017/03/how-malformed-rtf-defeats-security.html ...  - How to update: https://github.com/decalage2/oletools/wiki/Install#how-to-install-the-latest-development-version ... pic.twitter.com/PY7TvBQYdT
+        Lazy AV evasion worked pic.twitter.com/IgcLuF4hUv
+        Dress for the job you want,
+        Very nice game music metal covershttps://www.youtube.com/channel/UCK9Hl6LXPaooxMTvsOutw3A ... 
+
+avtestorg
+
+        [AV-TEST] The best virus protection for Windows 7: https://www.av-test.org/en/antivirus/home-windows/windows-7/february-2017/ ... pic.twitter.com/qxwQay1DPf
+
+baconmeteor
+
+        It's been a while, but I finished Japanese translation of "The Website Obesity Crisis"!https://clavis.info/wiki/the_website_obesity_crisis ... 
+
+barryeisler
+
+        Another huge drug prohibition success story: US heroin use has increased almost fivefold in a decadehttp://bit.ly/2oz5AtS 
+
+berendjanwever
+
+        Congress is sacrificing the privacy of Americans to protect the profits of major internet companies. Our statement:https://www.aclu.org/news/congress-votes-gut-internet-privacy-protections ... 
+
+billpollock
+
+        Retweeted Philip Ballew (@philipballew):
+        we appreciate you, Bill!
+        The publishing business is tough enough with this crap. I hope Amazon steps up
+        just saw this recently. Mind blown. I've been doing them wrong my entire lifehttps://i.imgur.com/2RisoLR.gifv 
+
+binitamshah
+
+        Security / Binary Transparency for Firefox :  https://wiki.mozilla.org/Security/Binary_Transparency ... 
+        TRS-80 Model III Emulator for Windows - Sharp 80 : http://www.sharp80.com/index.php pic.twitter.com/sGgmAeMiDz
+        The Structure and Performance of Efficient Interpreters :  https://www.jilp.org/vol5/v5paper12.pdf ... 
+        Obfuscate your search history by making some noise! Time to fight for our privacy :  https://slifty.github.io/internet_noise/index.html ... 
+        .@meangrape thx :) Every day somebody pops w/ that question.My sleep goes in slots of 2 or 4 hrs max rest I'm busy with kitchen,R&D,job,home
+        speaking of noise, in Germany we are running this
+        Explain Shell : Write down a command-line to see the help text that matches each argument : http://explainshell.com/ pic.twitter.com/Uu03w6li3B
+        Learn SQL from Scratch : http://www.oraappdata.com/2016/03/sql-introduction.html#.WNyzp3WGOtF ... 
+        0patching the "Immortal" CVE-2017-7269 : https://0patch.blogspot.in/2017/03/0patching-immortal-cve-2017-7269.html ...  cc @mkolsek
+        Somebody suggested to keep "Gratitude Journal"- Indeed an excellent way to pay forward in most empathetic manner by sowing seeds of kindness
+        Taking a break (even from an on-going meeting) - feeling so giddy,nauseating with heavy headache :(
+        ossec-hids : Open Source Host-based Intrusion Detection Sys(log analysis, file integrity, rootkit detection & more):https://github.com/ossec/ossec-hids ... 
+
+blackthorne
+
+        One more regex bug found by libFuzzer. This time in ... a Rust implementation!https://www.nibor.org/blog/fuzzing-is-magic---or-how-i-found-a-panic-in-rusts-regex-library/ ... 
+        (good article) An Analysis Of CVE-2017-5638 -- https://lnkd.in/ei7UVS4  #Exploitation
+
+bofheaded
+
+        Things which gives pain in beginning turns out to be nifty in the end ;)
+        I'll be @opcde in few weeks to present what's new in #mimikatz & #kekeohttps://www.opcde.com/speakers.html#gentilkiwi ... 
+        #HEVD ArbitraryOverwrite on Win10x64 Creators Update - @Blomster81's technique confirmed to work on RS2 :Dpic.twitter.com/MGtbiJT1N9
+        A deep dive into Radare2 by @trufae (Sergio 'pancake' Alvarez) The reverse engineering framework #SUE2017pic.twitter.com/zTWKohf5T4
+
+briankrebs
+
+        @willstrafhttps://twitter.com/JohnLegere/status/842538845384069121 ... 
+        plays well w/ the thrust of today's Senate Intel committee hearings on disinformation campaignshttps://twitter.com/paulvixie/status/847498966673440769 ... 
+
+campuscodi
+
+        The Google Safe Browsing Site Status website has a new look (says Google)(looks the same to me, tbh)pic.twitter.com/5o9i8tNSBc
+        Firefox 55 will change the browser's default fonts #mozilla #design #UIpic.twitter.com/gvObI6nLYc
+        The moment a banking group decides to target almost every bank in Kazakhstan by putting 1880 contacts in the 'To' field forgetting to BCC...pic.twitter.com/ftAuGV0DxD
+        After a spike in activity following Popopret botnet takedown, Mirai infections continue to declining due to aggressive sinkholing.pic.twitter.com/ZSlfoujoJK
+        Although Mirai and Gafygt are struggling against takedowns, other IoT malware families remain untouched.
+        GitHub Users Targeted in Spear-Phishing Campaign Spreading Dimni Trojan https://www.bleepingcomputer.com/news/security/github-users-targeted-with-dimnie-trojan/ ...  #github #opensource #malwarepic.twitter.com/sTAxsi30Pv
+        About 90% of Smart TVs Vulnerable To Remote Hacking Via Rogue TV Signals http://bit.ly/2ozIpjj 
+        New IIS 6.0 Zero-Day Exploited in Live Attacks Since July 2016 https://www.bleepingcomputer.com/news/security/new-iis-6-0-zero-day-exploited-in-live-attacks-since-july-2016/ ...  #server #IIS #zerodaypic.twitter.com/t4q2X3YLV5
+        Microsoft Will Release Windows 10 Creators Update on the Day It Kills Vista https://www.bleepingcomputer.com/news/microsoft/microsoft-will-release-windows-10-creators-update-on-the-day-it-kills-vista/ ...  #windows10 #Microsoft #windowspic.twitter.com/ff4iNpeKsZ
+        Russian Hacker Pleads Guilty for Role in Infamous Linux Ebury Malware https://www.bleepingcomputer.com/news/security/russian-hacker-pleads-guilty-for-role-in-infamous-linux-ebury-malware/ ...  #linux #malware #botnetpic.twitter.com/eevNa2z71N
+        New Mirai Botnet Slams US College with 54-Hour DDoS Attack https://www.bleepingcomputer.com/news/security/new-mirai-botnet-slams-us-college-with-54-hour-ddos-attack/ ...  #DDoS #Mirai #botnetpic.twitter.com/jh01T4F2KQ
+        Google Chrome engineers are planning to change how JS popups work. Tech support scammers are crying in a corner. Meh meh meh!pic.twitter.com/elAjlhrdZi
+        Google Wants to Change JavaScript Popups After Abuse from Tech Support Scammers https://www.bleepingcomputer.com/news/security/google-wants-to-change-javascript-popups-after-abuse-from-tech-support-scammers/ ...  #JavaScript #chrome #securitypic.twitter.com/181S8hqZsD
+        Verizon Android phones to include new bloatware that collects and shares user data. Check out its privacy policy: http://www.verizon.com/about/privacy/appflash-privacy-policy ... pic.twitter.com/ukPeNeaoMK
+        About 90% of Smart TVs Vulnerable to Remote Hacking via Rogue TV Signals https://www.bleepingcomputer.com/news/security/about-90-percent-of-smart-tvs-vulnerable-to-remote-hacking-via-rogue-tv-signals/ ...  #IoT #hacking #smartTVpic.twitter.com/yuEYVoIfzA
+        Dark Web marketplace selling weapons. It wasn't that hard to find it. Apparently it launched (changed URL?) recently.pic.twitter.com/6EhuUlAIhV
+        EU to Propose New Measures for Accessing Encrypted IM Apps https://www.bleepingcomputer.com/news/government/eu-to-propose-new-measures-for-accessing-encrypted-im-apps/ ...  #eu #privacy #europepic.twitter.com/95ZhR7xZkQ
+        Am I the only one who thinks this statement from Google on Android ransomware is irresponsible?pic.twitter.com/aS0YQbjyvn
+        One more ransomware for today, called "AnDROid".
+        "We need a copy of your photoID for this purchase to be completed." I'm good thanks. I will just buy fake internet coins from somewhere else
+
+carnal0wnage
+
+        amen
+        quick blog post on my @1ns0mn1h4ck and @CERN trip http://carnal0wnage.attackresearch.com/2017/03/insomniahack-trip-report.html ... 
+        Sadly, not soon enough. #ANewEarthpic.twitter.com/6CODlDiE9j
+
+cgpgrey
+
+        Including the Scottish thistle was a brave move.
+        @cgpgreypic.twitter.com/iDITAYqVHd
+        I like the idea that the creator didn't bother to automate counting my videos and does it by hand: https://brady-vs-grey.herokuapp.com/ 
+        either that, or Brady released 74 videos in the last few hours. Both options seem possible, frankly.
+        Embarrassing.https://www.youtube.com/watch?v=jeESbGPl_Dw ... 
+        "Sorry Grey, I don't know what "embarrassing" means." - Siri
+        New Video: The Social Security Card Explainedhttps://www.youtube.com/watch?v=Erp8IAUouus ... 
+
+cynicalsecurity
+
+        What I actually said:pic.twitter.com/leKlsZ4r9d
+        @SteveBellovin Record should show bulk of credit to @DoctorWkt, who kept pushing, and Martin Carroll, who charmed the lawyers.
+        in due time systemd will become an EFI module
+        When reading a bug report email late in the evlening and you go "well, of course, it /says/ DoS via update"...  #gotobedpic.twitter.com/zQVFvd4CgE
+        Uh-Oh, the Swiss Time Stamping Authority (http://tsa.pki.admin.ch ) is returning invalid timestamps according to their internal app... 
+        T. Watanabe et al., "A Study on the Vulnerabilities of Mobile Apps associated with Software Modules" https://arxiv.org/abs/1702.03112 
+        S.J. Oh et al., "Adversarial Image Perturbation for Privacy Protection -- A Game Theory Perspective" https://arxiv.org/abs/1703.09471 
+        And here is our live demo + music video! #hellofromtheotherside /cc @Fr333k @cynicalsecurityhttps://twitter.com/misc0110/status/847350892974166020 ... 
+        And of course the music video (w/o live demo) https://www.youtube.com/watch?v=d_TmocWyEDY ...  #hellofromtheotherside #amazonprimeprobe /cc @Fr333k @cynicalsecurity
+        Dear @Wire, where is the setting to prevent client-side fetching of links? Or indeed fetching of any link whatsoever in chat?
+        So, interesting @Wire bug on iOS:
+        3) (cont'd) that you get the 1m timeout,
+        7) your passphrase is actually being sent to the active chat,
+        Tested while chatting with @andleco who know has my super sekret passphrase. Oopsie...
+        Also, smaller buglet in @wire for iOS: the first character of your passphrase does not produce a "*" in the passphrase field...
+
+damienmiller
+
+        want a twitter filter to block "RT if you agree" tweets
+        Erfolgreiche Installation von #Coreboot ohne #IntelME auf einem #Thinkpad X220! @freeyourpccom @coreboot_orgpic.twitter.com/caDk5Ql5Dp
+        Ghost in the Shell (2017)pic.twitter.com/xF23vOWFu0
+        Massive tunnels in South America are likely the work of long-extinct giant mammals: http://bit.ly/2nhVhcx pic.twitter.com/hmcFxSbHVo
+        This is the business model that could save Fairfax, or even News once the old man dies, but their managers are too stupid to tryhttps://twitter.com/jayrosen_nyu/status/847244797886595073 ... 
+        This is literally how I feel about programming in languages that effectively require an IDEhttps://twitter.com/beaucronin/status/846938358592921600 ... 
+        youtube channel where you get drunk and try to read code you wrote five years ago
+        Upping the ante... programs that can write programs which are probably better than those you could write yourself! http://blog.acolyer.org/2017/03/30/stochastic-program-optimization ... pic.twitter.com/FB2peu6iA2
+
+daniel_bilar
+
+        .@StanfordLaw Apr 5 "Gov Hacking: Evidence & court disc of vuls" w @ncweaver http://cyberlaw.stanford.edu/events/government-hacking-evidence-court-disclosure-vulnerabilities ...  [see Rule 41 https://www.youtube.com/watch?v=6IG_hpiZ0Yk ...  ]pic.twitter.com/e6t9Pkw6Cd
+        Positions and apply http://siegetechnologies.com/about/careers/ 
+        Mosquito wings flap 800 times per second! Computational fluid dynamics & particle image velocimetry are for flying:
+        https://blog.brave.com/their-connection-your-data/ ...  from @lukemulks for @brave.
+        #bhasia Cache-based covert channels https://www.blackhat.com/docs/asia-17/materials/asia-17-Schwarz-Hello-From-The-Other-Side-SSH-Over-Robust-Cache-Covert-Channels-In-The-Cloud.pdf ...  [45kb/s; live-streaming music vid btw 2 EC2 https://www.youtube.com/watch?v=yPZmiRi_c-o&feature=youtu.be ...  ] #respectpic.twitter.com/bHf0GAMiab
+        CJAG: FOSS impl comms btw two co-located VMs [6 binary comms channels in 0.87s on AWS; see https://twitter.com/daniel_bilar/status/847430961469898752 ...  ] https://github.com/IAIK/CJAG https://twitter.com/daniel_bilar/status/847430961469898752 ... 
+        The LangSec Hackathon on May 24 http://spw17.langsec.org/hackathon.html  will start with tutorials in Hammer, Nom, and libFuzzer, by their creators. Join us!
+        .@BHEF: "degrees as proxies for skill sets doesn't work w data sci & analytics" https://www.insidehighered.com/news/2017/03/30/report-urges-data-science-course-work-all-undergraduates-close-growing-skills-gap ... 
+
+danslimmon
+
+        im a chef nowpic.twitter.com/51RWhjMXjw
+        That "David After Dentist" video is significantly less cute in light of our current prescription opioid epidemic
+        I still can't get over the name 'pink trombone', but this is the most fun you can have with a vocal tract online: http://dood.al/pinktrombone/ 
+        They should make cat carriers that look like cardboard boxes so that the cats will jump in there voluntarily
+        Holy shit: Deng Xiaoping, leader of China 1978--1989 & one of the most critical figures in ending Mao's ruinous Cultural Revolution, was 5'0"pic.twitter.com/d0bzREhBd7
+        Probability of women who need permission to get medical care, by education and wealth levels
+        Who has two thumbs and doesn't understand how this rhetorical device is supposed to work?
+        when the only lawful good member of your party comes back after missing a sessionpic.twitter.com/p3PsiMf7nd
+        the only woman i will eat a meal alone with is karen pence
+
+daveaitel
+
+        FCC expert group looks at SS7 security. Concludes it's a dumpster fire, recommends end-to-end encryption.  https://www.fcc.gov/file/12153/download ... pic.twitter.com/IzW6Hr0EFB
+        CVE-2017-7184 Linux kernel privesc demo'ed by @ChaitinTech in #Pwn2Own is now public http://www.openwall.com/lists/oss-security/2017/03/29/2 ... https://twitter.com/thezdi/status/842132539330375684 ... 
+        Can a democracy be undermined from outside unless elite's resistance to change & broken social contract & trust have already done the job?
+        HOT OFF THE PRESS: Who is 'Source D'? The man said to be behind the Trump-Russia dossier's most salacious claim.https://www.washingtonpost.com/politics/who-is-source-d-the-man-said-to-be-behind-the-trump-russia-dossiers-most-salacious-claim/2017/03/29/379846a8-0f53-11e7-9d5a-a83e627dc120_story.html?utm_term=.167075e9984f&wpisrc=nl_rainbow&wpmm=1 ... 
+        China hack cost Ottawa 'hundreds of millions': Documentshttp://www.theglobeandmail.com/news/national/federal-documents-say-2014-china-hack-cost-hundreds-of-millions-of-dollars/article34485219/ ... 
+        Hey InfoSec. This is the reporter who did the Vice Series CYBERWAR. I garantee if this doesnt effect you directly, it effects your friends.https://twitter.com/FreedomofPress/status/845316009137487872 ... 
+        I've published the write-up about exploiting CVE-2017-2636 in the Linux kernel: https://a13xp0p0v.github.io/2017/03/24/CVE-2017-2636.html ... 
+        GOP candidate for Pennsylvania governor thinks climate change caused by Earth moving closer to the sun http://www.rawstory.com/2017/03/gop-candidate-for-pennsylvania-governor-thinks-climate-change-caused-by-earth-moving-closer-to-the-sun/ ... pic.twitter.com/uc8lFhhwYc
+        Germany's Army #Bundeswehr to officially establish #cyber-command on April 5th. Press Release (in German)pic.twitter.com/FbIiKtNZ7h
+        pic.twitter.com/VYd3FEHOUm
+        Science needs to stop relying so much on journal publication as the only recognised credential for researchershttp://econ.st/2nCClZu 
+        I had high expectations for @GhostInShell, and the movie exceeded all of them. Would recommend, five stars, will watch again (and again)!
+        Halvar Flake on cyber insurance: lots of shoe-gazing going on with people looking to make a fortune with scarce historical data #BHASIA
+        interesting presentation: https://www.blackhat.com/docs/asia-17/materials/asia-17-Li-Cross-The-Wall-Bypass-All-Modern-Mitigations-Of-Microsoft-Edge.pdf ... 
+        http://rce.party/ps4/  < ps4 4.0x WebKit RCE
+        My latest on the bizarre case of State Dept official's alleged collusion with Chinese spies in exchange for giftshttp://foreignpolicy.com/2017/03/30/state-department-official-took-tens-of-thousands-in-gifts-from-chinese-spies-beijing-espionage-fbi-justice-department/ ... 
+        If you are root/system on an internal box long enough, eventually the credentials you desire will find their way to you
+        http://infiltratecon.com/schedule.html https://twitter.com/mwrinfosecurity/status/847445055501512709 ... 
+        Hentai.pic.twitter.com/Xhpmmqzl6g
+
+davidsirota
+
+        House votes to restrict EPA's use of science http://hill.cm/er73o58 pic.twitter.com/OJUOicshVQ
+        Here's how much Comcast paid members of Congress to sell your browser historyhttp://resistancereport.com/class-war/comcast-congress-browser-history/ ... 
+        Hiking today near Tucson --awesome https://www.instagram.com/p/BSP_N6tBj8R/ 
+        Take away their guarenteed perfect healthcare and see how quickly they change their minds.  | #MedicareForAllhttps://shar.es/1Q2W4y 
+        Senate passes bill to help Wall St lobbyists block states' low-fee retirement savings plans  https://www.google.com/amp/thehill.com/blogs/floor-action/senate/326484-senate-votes-to-eliminate-obama-era-retirement-rule%3Famp ... 
+        Foreign capital is flooding into Chicagohttps://www.bisnow.com/chicago/news/capital-markets/a-tale-of-two-chicagos-70960 ... 
+        Twitter, my Facebook news feed & my email in-box is a never-ending denunciation of Trump. Not saying its not justified, but its overwhelming
+        In theory, non-Trump-related things are happening in the world. But it's harder and harder to detect that... https://twitter.com/davidsirota/status/847482035719491588 ... 
+        A good live shot of American politics & media in the Trump Erapic.twitter.com/6ErNBeCNoO
+        The NYT is now touting the truth & honesty of a magazine that spread lies to push America into the Iraq Warhttps://twitter.com/nytimesbusiness/status/847493794195034112 ... 
+        Oddly unmentioned in @jimrutenberg's story is @StephenFHayes leading the effort to spread the Osama-Saddam mythhttps://twitter.com/davidsirota/status/847494322664505344 ... 
+        Discredited voices that the media has suddenly valorized:
+        Next up will almost certainly be Alex Joneshttps://twitter.com/davidsirota/status/847497664715407362 ... 
+
+devilok
+
+        "Bypassing #Cylance: Part 4 -- #Metasploit Meterpreter & #PowerShell Empire Agent" http://www.blackhillsinfosec.com/?p=5806  <-- Great series.
+
+dragosr
+
+        Lovely. 16 bit authentication key: http://openrrcp.org.ru/wiki/rrcp_protocol ... 
+        Last night drone fw machine stopped working - seems video card firmware has decided to now declare itself the composite master for all USBpic.twitter.com/HIkXkAEjSm
+
+drspringfield
+
+        Imagine that. ACLU and I in the same corner.
+        well I guess there's @radian's BH talk. Regardless, twitter PR doesn't seem like a valid security strategy
+
+erikburgess_
+
+        These regular VMWare Fusion updates are promising.
+
+foss_security
+
+        [oss-security] CVE-2017-7184: kernel: Local privilege escalation in XFRM frameworkhttps://marc.ttias.be/oss-security/2017-03/msg00159.php ... 
+        [nmap-fulldisclosure] [FD] Hidden malicious modules in MS VBA (Visual Basic forApplications)https://marc.ttias.be/nmap-fulldisclosure/2017-03/msg00114.php ... 
+        [nmap-fulldisclosure] [FD] APPLE-SA-2017-03-28-2 Additional information for APPLE-SA-2017-03-22-1 iTunes f ...https://marc.ttias.be/nmap-fulldisclosure/2017-03/msg00116.php ... 
+        [nmap-fulldisclosure] [FD] APPLE-SA-2017-03-28-1 iCloud for Windows 6.2https://marc.ttias.be/nmap-fulldisclosure/2017-03/msg00115.php ... 
+
+foundingfather
+
+        Painful as the task is to describe the dark side of our affairs, it sometimes becomes a matter of indispensable necessity.
+
+gentilkiwi
+
+        #Gainsbar
+        I'll be @opcde in few weeks to present what's new in #mimikatz & #kekeohttps://www.opcde.com/speakers.html#gentilkiwi ... 
+
+gkeizer
+
+        Trump again uses iPhone, backtracking from 2016 pledge.http://www.computerworld.com/article/3185961/apple-ios/trump-again-uses-iphone-to-tweet-backtracking-from-2016-pledge.html ... 
+
+haeminsunim
+
+        ê³¼ê±°ê°€ ë‚˜ë¥¼ ë¶™ìž¡ê³  ìžˆê¸° ë•Œë¬¸ì— ë‚´ê°€ íž˜ë“  ê²ƒì´ ì•„ë‹ˆê³  ë‚´ê°€ ê³¼ê±°ë¥¼ ìžê¾¸ ë– ì˜¬ë¦¬ë©° ë¨¸ë¬¼ê¸° ë•Œë¬¸ì— íž˜ë“  ê²ƒìž…ë‹ˆë‹¤. ê³¼ê±°ë¥¼ ê°€ë§Œížˆ ë‚´ë²„ë ¤ë‘¬ ë³´ì„¸ìš”. ìžê¸°ê°€ ì•Œì•„ì„œ ê°•ì²˜ëŸ¼ íë¥´ë„ë¡. ì§„ì •í•œ ë‚˜ëŠ” ê¸°ì–µì˜ ê°•ì´ ì•„ë‹ˆë¼ íë¦„ì„ ê°• ë°–ì—ì„œ ê³ ìš”ížˆ ë³´ëŠ” ìžìž…ë‹ˆë‹¤.pic.twitter.com/vO1U5g72yf
+        We often want to change others because we don't like ourselves.pic.twitter.com/MIWbNkgtX5
+        You can enter to win this beautiful painting by my artist friend, Young-cheol Lee @grimnamoo if you live in the UK. http://goo.gl/G6DmbR pic.twitter.com/5F6m1mfWqH
+        #ThursdayThoughts with the wonderful @haeminsunim "You are actually stronger than you think you are"  #positivevibespic.twitter.com/wcmadg8yUF
+
+halvarflake
+
+        so with "smart TVs", if you can send a rogue DVB-T signal, you can tell the TV to browse to an arbitrary URL?https://www.bleepingcomputer.com/news/security/about-90-percent-of-smart-tvs-vulnerable-to-remote-hacking-via-rogue-tv-signals/ ... 
+        My friend @hteso just published Iaito: https://github.com/hteso/iaito 
+        FCC expert group looks at SS7 security. Concludes it's a dumpster fire, recommends end-to-end encryption.  https://www.fcc.gov/file/12153/download ... pic.twitter.com/IzW6Hr0EFB
+        I'd like to claim we didn't see this coming, but....https://twitter.com/matthew_d_green/status/846893026836340738 ... 
+        The Marina Sands is definitely a piece of Las Vegas in Singapore, including desks unsuited for actual work.
+        wow, rarely-seen #IIS #0day #exploit in the wild https://github.com/edwardz246003/IIS_exploit ... .
+        One of my favorite European chief economists - great presentation at #imk17https://twitter.com/boeckler_de/status/847469530091630593 ... 
+        #brexit is just not very high on the agenda of German politicians and German people...https://twitter.com/CER_Grant/status/847439720598519808 ... 
+        interesting presentation: https://www.blackhat.com/docs/asia-17/materials/asia-17-Li-Cross-The-Wall-Bypass-All-Modern-Mitigations-Of-Microsoft-Edge.pdf ... 
+        A proper thing to communicate with my FPGA board. 32-bit FIFO, 400MB/s, USB 3.0 -- looks great for PCI-E project http://www.ftdichip.com/Products/Modules/SuperSpeedModules.htm ... pic.twitter.com/SRahe1FAsM
+
+haroonmeer
+
+        hehehehe. I love canary tokens @ThinkstCanarypic.twitter.com/TVC3OT1Ilo
+
+hashcat
+
+        using crunch to create a dictionary and run that through hashcat doesn't make sense and will slow down cracking performance.
+
+hosselot
+
+        Kernel upstream patch for pwn2own ubuntu Kernel local privilege escalation (CVE-2017-7184):
+
+i0n1c
+
+        So JavaScript peeps. What is the recommended way to have 64 bit numbers in JavaScript?
+        I wonder: is there a generic tool takes takes 2 directed graphs in e.g. dot format and shows the differences side by side like bindiff?
+        So apparently @MarriottRewards is completely useless. You ask them A and they answer: sorry we cannot do B (which I didn't ask for)
+        It is raining in Singapore 
+        The mitigator stroke again...
+        Interested in iOS 10 Kernel Exploitation? Join our training in June 2017 in Berlin https://www.antid0te.com 
+        Awesome training, never had such severe brain bleeds in such short timehttps://twitter.com/i0n1c/status/847339934075703297 ... 
+        In case you wondered convert_port_to_locked_task() in iOS 10.3 and MacOS 10.12.4 has been visited by the MitiGatorhttps://twitter.com/halvarflake/status/845946208690585600 ... 
+        The training source code has a license that allows sharing with coworkers just no distribution like uploading to GitHub.https://twitter.com/deycrypt/status/847341557070020613 ... 
+        I was working in my hotelroom for hours and didn't realize that I should have had lunch already.
+        Hey @mitigator any chance you would give up access to your twitter account for a good cause?
+        Had to make slight changes to support MacOS 10.12.4pic.twitter.com/16mTpMLubP
+        Ha! I got recruiter spam claiming to have meet me earlier today in Singapore.
+        LOL my little typo ëª©ì–´ìš” instead of ë¨¹ì–´ìš” makes Bing and Google translate go crazyhttps://twitter.com/lunchdaemon/status/847409344568111106 ... 
+        I wonder how Bing made up back pain out of thin air. My typo was to write neck instead of eat.https://twitter.com/lunchdaemon/status/847409344568111106 ... 
+        https://www.patreon.com/s_bergmann  everybody goes patreon these days. This is the first patreon with honest goal description.
+        Using iOS apps that show ad banners while you ssh as root into a server feels so wrong.
+        I have seen Patreons where people ask for like 1000 USD per *month*. After taxes and stuff there is little left to finance a single day.
+        Thimbleweed Park, a new point-and-click adventure game by the people behind Monkey Island, is well worth your time: http://bit.ly/2ofgoRV pic.twitter.com/Cvpn9Fa1gp
+        The next 3 weeks will be the early bird phase to sign up for the iOS Kernel Exploitation Training in June in Berlin https://www.antid0te.com 
+
+jedisct1
+
+        Reverse Engineering Malware 101 https://securedorg.github.io/RE101/ 
+        RT @punkeel: I've just open-sourced DocBleach.   Sanitizing your documents, one threat at a time.https://github.com/docbleach/DocBleach ... 
+        Place your bets on breaking TLS...
+        Damn, Battle Beast was in concert in Paris a couple days ago, and I missed it :(
+        Cymmetria MazeRunner, a cyber deception platform. Also available for free ("Community Edition") as VM images: https://community.cymmetria.com/ 
+        o_O RT @bascule: Funny what "clever" ways people come up with to describe a self-inflicted MitM attack: http://mctls.org/ 
+        Lazy AV evasion worked pic.twitter.com/IgcLuF4hUv
+        RT @binitamshah: Obfuscate your search history by making some noise! Time to fight for our privacy :  https://slifty.github.io/internet_noise/index.html ... 
+        We created a free micropatch for the "unpatchable" WebDAV RCE issue on Windows Server 2003 (CVE-2017-7269) https://0patch.blogspot.com/2017/03/0patching-immortal-cve-2017-7269.html ... 
+        A note on how to (pre-)compute a ladder - Improving the performance of X25519 and X448 https://eprint.iacr.org/2017/264.pdf 
+        Interesting reflection by @natashenka about Project Zero Prize https://googleprojectzero.blogspot.dk/2017/03/project-zero-prize-conclusion.html ... 
+        New #Mirai Variant Launches 54 Hour #DDoS Attack against US College:https://www.incapsula.com/blog/new-mirai-variant-ddos-us-college.html ... 
+        Decouverte et usage de @rustlang en production Ã  Lille chez @ovh_fr avec @olinkloo et @PopzeLife le 4 avril Ã  18 h https://blog.mozfr.org/post/2017/03/Decouverte-et-usage-de-Rust-en-production-Lille ... pic.twitter.com/gb0eaDmZQ5
+        Woot! RT @bboron86: Fluentd v1 is just around the corner #CloudNativeCon #KubeCon #Fluentdpic.twitter.com/mtUbFfemty
+        Tacotron: A Fully End-to-End Text-To-Speech Synthesis Model https://arxiv.org/abs/1703.10135  Samples: https://google.github.io/tacotron/ 
+        #IPv6 #policyproposal 2016-05 accepted!
+        A DGA we sinkhole uses an algorithm to encrypt the A record so the IP returned isn't the actual IP connected to, not even in the same range.
+        This is hilarious because: 
+        Hey Twitter, je fais mon pot de depart d'OVH ce soir. Si tu lis ce message, que tu es vers Paris 19e et que tu veux venir boire un coup-> DM
+
+jessfraz
+
+        Actually tho he said "generics" and @davecheney appeared... with a very unhappy look... Jk cc @francesc
+        no worriespic.twitter.com/U3DcSyeFoo
+        One of the Easter eggs in the net/http package is going away to fix a bug:
+        do you all hate when you are giving a demo and you type something wrong... @thockin made a script to help!!https://github.com/kubernetes/contrib/blob/master/micro-demos/util.sh ... 
+        There's example usages in that directory as well :)
+        Our talk on securing your k8s cluster is at 11:30! There's a demo! (that I just finished setting up *wipes sweat*)https://cloudnativeeu2017.sched.com/event/9TcL/building-for-trust-how-to-secure-your-kubernetes-cluster-i-alexander-mohr-jess-frazelle-google?iframe=no&w=100%&sidebar=yes&bg=no ... 
+        CVE-2017-7184 Linux kernel privesc demo'ed by @ChaitinTech in #Pwn2Own is now public http://www.openwall.com/lists/oss-security/2017/03/29/2 ... https://twitter.com/thezdi/status/842132539330375684 ... 
+        Introducing HTTP/2 Server Push, new in Go 1.8 #golang
+        bloaty diff my new fav tool, e.g. compare symbols of two #golang binaries to see what's growing or shrinking. https://github.com/google/bloaty pic.twitter.com/u0NU6CD9oe
+        Sheiiiiitttt this is coolhttps://twitter.com/rakyll/status/847143740628058112 ... 
+        "e-mails that attach a booby-trapped Word document. The file contains a malicious macro that uses-PowerShell" but who uses a PC w git jk jkhttps://twitter.com/arstechnica/status/847245784525316097 ... 
+        But for reals I would speculate they are targeting a specific group of people or project if they went that route...
+        This is just super weird like have you tried installing git or using git on Windows because while it's not horrible it's less than ideal
+        Ermahgerd!!!https://twitter.com/ashleymcnamara/status/847438895998537728 ... 
+        mystery solved!pic.twitter.com/BvxIbXqjUN
+        Even the Microsoft contributors I've met that contribute heavily on GitHub use Macs...
+        Gopher 1: "wanna hug"
+        the strokes came up with YOLO don't @ mepic.twitter.com/NrXYfZtXO8
+        PSA: @ashleymcnamara is the besttttt AND unbelievably talented
+        OSSpic.twitter.com/wV5eqWGXYc
+
+k_sOSe
+
+        @fristle because the first classes of overflow took their entire payloads via funcs that terminated upon seeing a NULL byte. Legacy.
+        I think of Wassenaar as "we fucking hate hackingTeam" and then implemented by bureaucrats
+        or the near sighted moral crusade against one single company.   
+        Wassenaar it worth it? They are a bunch of assholes. Thanks to an idiotic crusade, things are now (predictablely) worse
+        by your own statements you're a low quality modern police tool researcher. ;)
+
+lcamtuf
+
+        So many people wrong on the Internet today!
+        Lazy AV evasion worked pic.twitter.com/IgcLuF4hUv
+
+m3g9tr0n
+
+        The PR to the msf module for CVE-2017-7269 is at  https://github.com/rapid7/metasploit-framework/pull/8162 ...  for anyone who's interested
+        MultiRelay 2.0 is out! NTLM Relay pivot, SMB read/write/del/dl, runas, svc, SMB scanner & much more. Happy pwn! :)https://github.com/lgandx/Responder/releases/tag/v2.3.3.6 ... 
+        Learn SQL from Scratch : http://www.oraappdata.com/2016/03/sql-introduction.html#.WNyzp3WGOtF ... 
+        Explain Shell : Write down a command-line to see the help text that matches each argument : http://explainshell.com/ pic.twitter.com/Uu03w6li3B
+        Utilities for automated crash sample processing/analysis, easy afl-fuzz job management and corpus optimizationhttps://github.com/rc0r/afl-utils 
+        CVE-2017-7184 Linux kernel privesc demo'ed by @ChaitinTech in #Pwn2Own is now public http://www.openwall.com/lists/oss-security/2017/03/29/2 ... https://twitter.com/thezdi/status/842132539330375684 ... 
+
+        SQLi News: It's p0pc0rn: Blind SQL Injection in er..I'm not sure what's the DBM...  http://c0rni3sm.blogspot.com/2017/03/blind-sql-injection-in-erim-not-sure.html ... , see more http://tweetedtimes.com/v/1943?s=tnp 
+        DHCPig - DHCP exhaustion script written in python using scapy network library https://goo.gl/KNwDEA pic.twitter.com/pEDZmScKvq
+        It's official... the version 1.8 is out! Check out the changelog :)https://github.com/commixproject/commix/releases/tag/v1.8-20170315 ... 
+        Every time I need to work with Linux SNMP utilities, I have to re-learn some commands: SNMP on Linux http://www.routereflector.com/2017/03/dealing-with-snmp/ ... 
+        "Bypassing #Cylance: Part 4 -- #Metasploit Meterpreter & #PowerShell Empire Agent" http://www.blackhillsinfosec.com/?p=5806  <-- Great series.
+
+mattblaze
+
+        We must become a nation of coal miners if we are ever to defeat our dual enemies: the environment and public health.
+        I guess if government enforced peer review was good enough for Galileo, it should be good enough for America?https://twitter.com/sarahkaplan48/status/847201048045473792 ... 
+
+matteoca
+
+        http://Poopy.life  Lets You Create Free, Unlimited WordPress Test Installshttps://wptavern.com/poopy-life-lets-you-create-free-unlimited-wordpress-test-installs ... 
+        Audit Finds Over a Dozen NTP Vulnerabilities http://www.securityweek.com/audit-finds-over-dozen-ntp-vulnerabilities ... 
+        Nuclear Bot source code leaked online, a new threat will rapidly spread in the wildhttp://securityaffairs.co/wordpress/57541/malware/nuclear-bot-source-code.html ... 
+        Free Nintendo Switch emulators are fakehttps://www.symantec.com/connect/blogs/free-nintendo-switch-emulators-are-fake ... 
+        #Linux Mint May Switch to LightDM Login Screenhttp://www.omgubuntu.co.uk/2017/03/linux-mint-18-2-ship-lightdm-login-screen ... 
+
+mattiasgeniar
+
+        Everybody stand back, I'm doing HTML, CSS & Adobe Illustrator.
+        Does that make me DevOpsDesignFrontenderMarketeer?
+        psick: Puppet Systems Infrastructure Construction Kithttps://github.com/example42/psick?utm_source=cronweekly.com ... 
+        #wiresharkpic.twitter.com/Kj1YQuAEwC
+
+mdowd
+
+        Touched cat poop. I'm like a lab scientist in an outbreak movie who's punctured my suit, panicking and scrubbing my hand, hoping no one saw.
+        CVE-2017-7184 Linux kernel privesc demo'ed by @ChaitinTech in #Pwn2Own is now public http://www.openwall.com/lists/oss-security/2017/03/29/2 ... https://twitter.com/thezdi/status/842132539330375684 ... 
+
+mjg59
+
+        WARNING: This product contains chemicals known to the State of California to kill fascists
+        I swear to fucking god that there is nothing this industry does better than have men cover for abusive men
+        I think we're even better at it than we are at reinventing things poorly
+        So if anyone's keen to hear @snare talking about his CIA-GRADE NATION STATE MAC APT MALWARE from 2012, click here: https://risky.biz/RB251/ 
+        I am running pip on a lightswitch
+        Ok good anybody know of a small C implementation of the EZSP protocol for Zigbee controllers?
+        Because if you don't I'm going to need to write my own serial code and god help me that is not what I want to do
+        Fffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffu
+        RT if participating in open source has made you cry
+        I'm a straight man in a long term relationship. I make friends with women because excluding 50% of people means I know less about the world.https://twitter.com/MattWalshBlog/status/847422559607902208 ... 
+        Literally don't @ me
+        Damnit Twitter
+        Worst possible sideways timeline
+
+mtaibbi
+
+        Yes, he actually said that.https://twitter.com/mattyglesias/status/847126559886659586 ... 
+        And he also said this.https://twitter.com/mattyglesias/status/847127222993522688 ... 
+        Ironically, the Russians would put it best: ÐžÑÑ‚Ð°Ð²Ð¸Ð¼ Ð±ÐµÐ· ÐºÐ¾Ð¼Ð¼Ð°Ð½Ñ‚Ð°Ñ€Ð¸ÐµÐ². Left without commentary.https://twitter.com/mattyglesias/status/847126559886659586 ... 
+        Forget the politics - any journalist who thinks knowingly propagating "unhinged" theories won't be a disaster for the press is delusional.https://twitter.com/seeitcanbeblank/status/847213873727799296 ... 
+        I am - that's exactly he point. We're seeing the same techniques now in the Times, Post, etc. And everyone seems fine with it because Trump.https://twitter.com/wayne_a_lawson/status/847216397818179584 ... 
+        So lying is good?  My mother has a lot of explaining to do.
+        I'm confused, were the Russians behind both the Trump and the Sanders candidacies? I need to get caught up on all this!https://twitter.com/louisemensch/status/847461277681176581 ... 
+        What was the fake news again that caused that widespread, irrational, foreign-influenced support for Sanders? I forget.https://twitter.com/aprilfissell/status/847483218605391872 ... 
+        that inequality is a problem in America
+        they said he supported universal health care
+        Involved in what way? Is Bernie compromised, too?https://twitter.com/louisemensch/status/847494205630853121 ... 
+        I still keep an office on the 12th underground floor beneath Lubyanka. But I'm clean, I swear!https://twitter.com/cullingsongs/status/847495246434902016 ... 
+        That's pretty much the theory.https://twitter.com/factsmacker/status/847499307460640769 ... 
+        They spent years in a Moscow lab perfecting Chafee's blank stare and ineffectual oratory.https://twitter.com/jayhclay/status/847500176772050944 ... 
+        Put a lump of salo on your desk and see if you can resist eating it.https://twitter.com/danwebblc/status/847501131865481221 ... 
+        "Bernie Sanders' links to Putin discredited Bernie Sanders" - Louise Mensch https://mobile.twitter.com/louisemensch/status/824318720554180608?lang=en ...  https://twitter.com/slangjive/status/847502707485057025 ... 
+        That's hilarious. I can't think of two people with less in common than Bernie Sanders and Vladimir Zhirinovsky.https://twitter.com/bernie4people/status/847505891158925312 ... 
+        Zhirinovsky is a lot funnier than Trump, but probably just as awful a person.https://twitter.com/oldgraygeek/status/847506892930678784 ... 
+        Why don't you pass the time by playing a little solitaire?https://twitter.com/gishgali/status/847507395181813760 ... 
+
+mubix
+
+        #metasploit PR incoming pic.twitter.com/Vs5mF0NsGU
+
+objective_see
+
+        BlockBlock, RansomWhere and Oversight from @objective_see are also very cool for security/privacy
+
+openculture
+
+        Kraftwerk's "The Robots" Performed by German 1st Graders in Cute Cardboard Robot Outfits http://goo.gl/URJzX1 pic.twitter.com/D2kEWuoZDv
+        Appreciate that!https://twitter.com/oreillyiam/status/847313639631503362 ... 
+
+        Tom Waits For No One: Watch the Pioneering Animated Tom Waits Music Video from 1979 http://bit.ly/2agu7yo pic.twitter.com/GzoDKbkJQG
+        Captivating GIFs Reveal the Magical Special Effects in Classic Silent Films - @openculture http://bit.ly/2ojbBf1 pic.twitter.com/CqtZgyHQQT
+        The Groundbreaking Silhouette Animations of Lotte Reiniger: Cinderella, Hansel and Gretel, and More http://bit.ly/2aJthxy pic.twitter.com/Dr6lRxujrB
+        RT @openculture: The "Amen Break": The Most Famous 6-Second Drum Loop & How It Spawned a Sampling Revolution http://bit.ly/ZFDomp pic.twitter.com/JXbkbhRUzo
+        Stephen Hawking Auditions Celebrities to Provide His New Voice: Lin-Manuel Miranda, Liam Neeson, Michael Caine &More http://bit.ly/2nw42BD pic.twitter.com/QJ9KszbYJh
+        Great Filmmakers Offer Advice to Young Directors: Tarantino, Herzog, Coppola, Scorsese, Anderson, Fellini & More http://bit.ly/2obm1QY pic.twitter.com/S4QRTcUloW
+        John Cleese on How "Stupid People Have No Idea How Stupid They Are" (a.k.a. the Dunning-Kruger Effect) http://cultr.me/1xguFux pic.twitter.com/Zlm1z7mGwZ
+        The Philosophy & Visual Creativity of "Ghost in the Shell," the Acclaimed Anime Film, Explained in Video Essays http://bit.ly/2obpPSn pic.twitter.com/hOJRIJlQGJ
+        School of Visual Arts Presents 99 Hours of Free Photography Lectures http://bit.ly/2nvSeiJ pic.twitter.com/tEo1MKTDP7
+        Ray Bradbury & Kurt Vonnegut Also Created TV Shows: Discover The Ray Bradbury Theater & Welcome to the Monkey House http://bit.ly/2obeNwd pic.twitter.com/OlaImMRvOR
+        The Origins of Anime: Watch Free Online 64 Animations That Launched the Japanese Anime Tradition http://bit.ly/2oeXRoK pic.twitter.com/yWifiBRtuv
+        Free Online Course: Robert Thurman's Introduction to Tibetan Buddhism (Recorded at Columbia U) https://goo.gl/MGV7h3  via @openculture
+        Hear the Prog-Rock Adaptation of H.G. Wells' War of the Worlds: The 1978 Album That Sold 15 Million Copies Worldwide http://bit.ly/2nzLHDI pic.twitter.com/0OLBHGeHgg
+        A Human Chess Match Gets Played in Leningrad, 1924 http://bit.ly/2nA1jHh pic.twitter.com/iRelXMjIsi
+        See Scorsese as Van Gogh in this short directed by Akira Kurosawa. #VanGogh was born #OTD in 1853. http://www.openculture.com/2016/03/martin-scorsese-plays-vincent-van-gogh-in-a-short-surreal-film-by-akira-kurosawa.html ...  via @openculture
+        Watch the Trippy Screen Projections Used by Pink Floyd During their Dark Side of the Moon Tours http://bit.ly/2ofERX1 pic.twitter.com/DvcITtOrGI
+        Private Snafu: The World War II Propaganda Cartoons Created by Dr. Seuss, Frank Capra & Mel Blanc http://cultr.me/MG2LE3 pic.twitter.com/YucfhlVAL2
+
+oss_announce
+
+        [Libvirt-announce] Availability of libvirt-3.2.0 RC2https://marc.ttias.be/libvirt-announce/2017-03/msg00003.php ... 
+        [rudder-announce] [Release] Rudder 4.1.0 is out!https://marc.ttias.be/varia-announce/2017-03/msg00024.php ... 
+        [FreeBSD-Announce] Google Summer of Code Student Deadlinehttps://marc.ttias.be/varia-announce/2017-03/msg00025.php ... 
+        [mongodb-announce] MongoDB 3.5.5 is releasedhttps://marc.ttias.be/mongodb-announce/2017-03/msg00016.php ... 
+
+packet_storm
+
+        Slackware Security Advisory - mariadb Updates https://packetstormsecurity.com/files/141850  #advisory
+        iPhone Users Fooled By Fake Ransomware https://packetstormsecurity.com/news/view/27635  #news
+        Red Hat Security Advisory 2017-0847-01 https://packetstormsecurity.com/files/141851  #advisory
+        Github Developers Hit With Recruiter Malware https://packetstormsecurity.com/news/view/27636  #news
+        Debian Security Advisory 3798-2 https://packetstormsecurity.com/files/141852  #advisory
+        The 265 Members Of Congress That Sold You Out To The ISPs https://packetstormsecurity.com/news/view/27637  #news
+        Debian Security Advisory 3824-1 https://packetstormsecurity.com/files/141853  #advisory
+        Ubuntu Security Notice USN-3236-1 https://packetstormsecurity.com/files/141854  #advisory
+        Ubuntu Security Notice USN-3249-1 https://packetstormsecurity.com/files/141855  #advisory
+        Ubuntu Security Notice USN-3248-1 https://packetstormsecurity.com/files/141856  #advisory
+        Ubuntu Security Notice USN-3249-2 https://packetstormsecurity.com/files/141857  #advisory
+        Ubuntu Security Notice USN-3250-2 https://packetstormsecurity.com/files/141858  #advisory
+        Ubuntu Security Notice USN-3250-1 https://packetstormsecurity.com/files/141859  #advisory
+        Ubuntu Security Notice USN-3251-1 https://packetstormsecurity.com/files/141860  #advisory
+        Ubuntu Security Notice USN-3251-2 https://packetstormsecurity.com/files/141861  #advisory
+        HP Security Bulletin HPESBUX03725 1 https://packetstormsecurity.com/files/141862  #advisory
+        HP Security Bulletin HPESBHF03723 1 https://packetstormsecurity.com/files/141863  #advisory
+
+patrickwardle
+
+        BlockBlock, RansomWhere and Oversight from @objective_see are also very cool for security/privacy
+        Getting the list of visible apps (think: Force Quit) in macOS via python and pyobjchttps://gist.github.com/pudquick/eebc4d569100c8e3039bf3eae56bee4c ... 
+
+paulg
+
+        Probably the funniest quote from Richard Fletcher's _Moorish Spain_.pic.twitter.com/aLRrh8tz0j
+        They photograph a technician, holding an actual sphere (not a disk), coated in vantablack--(the darkest pigment ever created):pic.twitter.com/JzYwyjQiHy
+        I kept the Google notification of my mom's birthday after she died because now it's a holiday I celebrate with my kids.
+        Roncovian: Pertaining to, or resembling, Ron Conway.
+        Traffic jam without bottleneck - experimental evidencehttps://www.youtube.com/watch?time_continue=55&v=7wm-pZp_mi0 ... 
+
+prohack
+
+        "We already miss you (Britain). There is no reason to pretend this is a happy day."
+        This will not work. Individual obfuscation tools do not work. Humans are terrible at leaving patterns. For the love of bandwidth, no.https://twitter.com/WIRED/status/847226960925270016 ... 
+
+        When ISPs sell your 'web history,' does that mean a list full URLs? If so, that's a big security issue. URLs often contain session creds.
+        Study this PowerShell "dirty word list." It comprises the primitives encompassing a large portion of PS malware. https://github.com/PowerShell/PowerShell/blob/02b5f357a20e6dee9f8e60e3adb9025be3c94490/src/System.Management.Automation/engine/runtime/CompiledScriptBlock.cs#L1612-L1660 ... 
+        How to Make People Click on a Dangerous Links Despite their Security Awarenesshttp://www.ehacking.net/2017/03/how-to-make-people-click-on-dangerous.html ... 
+
+rootkovska
+
+        The new "mass storage" will be the remote data centers.
+        Nah, it's no more brutal to our status quo, than a good exploit is to a buggy software ;)https://twitter.com/gerzic/status/847157361013854208 ... 
+        CVE-2017-7184 Linux kernel privesc demo'ed by @ChaitinTech in #Pwn2Own is now public http://www.openwall.com/lists/oss-security/2017/03/29/2 ... https://twitter.com/thezdi/status/842132539330375684 ... 
+
+rootsecdev
+
+        Even with security baselines applied directly from MS for a server 2016 domain controller. I am still able to dump hashes with responder.
+        Source tells @GloriaBorger Kushner will testify that meeting with Russian bank exec was effort to engage with Russiahttp://snpy.tv/2nBJVn8 
+        Hate has no place in America.https://twitter.com/cnn/status/847264762421313536 ... 
+        I hate windows 10 cumulative updates. So slow
+        Trying to determine if I stumbled onto an SMB flaw completely on accident.  I'm installing latest SMB patch to confirm.. @jepayneMSFT
+        Current statuspic.twitter.com/WFTqLQe5ki
+        A missing man in Indonesia was found dead after being swallowed whole by a pythonpic.twitter.com/mfFu7y3Y9v
+        Intel chairman says Russia hired more than 1000 hackers to create fake, anti-Clinton news in key states, won by Trump. @jeffpeguescbs, nowpic.twitter.com/mmRBcE4qCu
+        House Republicans: We can't release Trump's taxes, we must protect his privacy
+        There's now a metasploit module for IIS 6 vuln which you can use to get a remote shell. (Or VNC etc).pic.twitter.com/AK5Quzqa6k
+        Watch the Senate's open hearing on #Russian election interference todayhttps://techcrunch.com/2017/03/29/how-to-watch-russia-senate-intelligence-hearing-march-2017/?sr_share=twitter ... 
+        I just published "What Microsoft's latest SMB patch doesn't fix"https://medium.com/p/what-microsofts-latest-smb-patch-doesn-t-fix-7f24621ef891 ... 
+        #BREAKING: How Ex-Spy Christopher Steele Compiled His Explosive #TrumpRussia Dossier
+        LIVE now on C-SPAN3:  Senate Intelligence Committee hearing on Russian influence in democratic elections https://www.c-span.org/video/?426227-1/senate-intelligence-committee-examines-russian-interference-capabilites&live ... pic.twitter.com/D3C98F3II6
+        The situation around Nunes remains bizarre. We can say for certain that this is being played very close to the chest, even by the top ranks.
+        "Cards Against Humanity" creator says he wants to buy Congress' browser history and publish it http://cbsn.ws/2nPG9XX pic.twitter.com/t0yC7bNpUG
+        Wtfhttps://twitter.com/washingtonpost/status/847373532543688705 ... 
+        Nunes should resign.
+        The Tom Clancy book has officially derailed. Are these folks really this dumb?https://mobile.nytimes.com/2017/03/30/us/politics/devin-nunes-intelligence-reports.html ... 
+
+ryanlcooper
+
+        Liberals are losing their minds over Trump and Russia http://dlvr.it/Nm24bd pic.twitter.com/MbUvtcUndT
+        new idea: big taxis that could hold ~50 people (think uber pool), would bring down cost for everyone. maybe ppl could even use metrocard.
+        always like starting my morning with a smooth kobra quote tweet
+        trying to maintain a clear head about probable Trump-Russia connections todayhttp://theweek.com/articles/689032/liberals-are-losing-minds-over-trump-russia?utm_source=dlvr.it&utm_medium=twitter ... 
+        As we all talk about robots taking our jobs, US economic productivity is **falling** https://www.bls.gov/news.release/prod3.nr0.htm ... pic.twitter.com/UGz3SaBWaJ
+        listening to crack-brained conspiracy weirdos will make ferreting out the truth about Trump and Russia *harder* http://theweek.com/articles/689032/liberals-are-losing-minds-over-trump-russia?utm_source=dlvr.it&utm_medium=twitter ... pic.twitter.com/qlyXtmvYXw
+        excuse me, misstated that -- study of *pre-ACA* Medicaid expansions found mortality decrease @LOLGOP http://www.nejm.org/doi/full/10.1056/NEJMsa1202099#t=abstract ... pic.twitter.com/sR7a9rHrjr
+        America is getting UK diseasehttps://twitter.com/tinyrevolution/status/847451001208487937 ... 
+        my explanation: monopolization and the welfare gap is slowly strangling our economic productivity http://theweek.com/articles/687569/america-road-economic-backwardness ... pic.twitter.com/ab2L7uKIky
+        "God is an ironist." http://www.interfluidity.com/v2/6823.html 
+        good piece from @sjwrenlewis on why Leave won the Brexit vote https://mainlymacro.blogspot.com/2017/03/lessons-from-brexit.html ... pic.twitter.com/fnHheCjpJK
+        have to admit Rich Lowry (!!!) is making perfect sense herehttp://www.politico.com/magazine/story/2017/03/the-crisis-of-trumpism-214967 ... 
+        this guy is doing his absolute utmost to destroy his state before he gets thrown outhttps://twitter.com/sarahkliff/status/847457320325922817 ... 
+        "a 100-percent green energy economy should become the new demand of the Democratic Party." by @jeffsprosshttp://theweek.com/articles/688827/make-america-great-again-by-finally-making-green ... 
+        "Trump has given us, so far, exactly the trade policy that Hillary Clinton promised."http://www.vox.com/policy-and-politics/2017/3/30/15096270/trump-trade-100-days ... 
+        interestinghttp://www.vox.com/policy-and-politics/2017/3/29/15109214/tax-code-page-count-complexity-simplification-reform-ways-means ... 
+        the robot job-pocalypse is an interesting idea, but the data is going the exact opposite direction http://cepr.net/blogs/beat-the-press/the-generation-of-nonsense-in-the-boston-globe ... pic.twitter.com/6hqP4ZBbOB
+        underrated possibility: Trump's new trade goals will be *anti-worker*https://www.washingtonpost.com/blogs/plum-line/wp/2017/01/13/trump-will-renegotiate-our-trade-deals-will-it-really-be-on-behalf-of-workers/?utm_term=.883e5f25c2d5 ... 
+        this is like firing the whole Army general staff in 1942 https://www.washingtonpost.com/blogs/plum-line/wp/2017/03/30/trump-has-nothing-but-contempt-for-facts-and-reality-based-policy-now-its-backfiring/?utm_term=.d12295e69a78 ... pic.twitter.com/L6tE2wpuNI
+        Humphrey Bogart in his only horror/sci-fi film: The Return of Doctor X (1939) #NationalDoctorsDaypic.twitter.com/Q7G9TKQeHB
+
+sambowne
+
+        New Twitter quote posts don't show up as retweets -- Hootsuite has no intention of fixing thishttps://forum.hootsuite.com/discussion/6615442/new-twitter-quote-posts-dont-show-up-as-retweets ... 
+        Dishwasher has directory traversal bughttp://ift.tt/2n80EMj 
+        Slaying Rogue Access Points With Python And Cheap Hardware : https://blog.gdssecurity.com/labs/2016/8/26/slaying-rogue-access-points-with-python-and-cheap-hardware.html ...  , Sentrygun :https://github.com/s0lst1c3/sentrygun ... 
+        Holy crap, @NCState, do you know you are advertising on Breitbart? Don't spend your money there. They peddle hate. @slpng_giantspic.twitter.com/2azRddS5Yi
+        PII on 40 Percent of Used Devices (doesn't specify iOS v. Android) http://www.naidonline.org/nitl/en/consumer/news/5845.html ... 
+        Bitcoin Unlimited Client Crashes When Reading SegWit Blockchain After Switching Clientshttp://www.newsbtc.com/2017/03/29/bitcoin-unlimited-client-crashes-reading-segwit-blockchain-switching-clients/ ... 
+        Alex Jones Apologizes for 'Pizzagate' Fake Newshttp://www.newsweek.com/alex-jones-apologize-pizzagate-fake-news-574025?utm_source=internal&utm_campaign=most_read&utm_medium=most_read4 ... 
+        Comey Tried to Reveal Russian Plot Before Electionhttp://a.msn.com/01/en-us/BBz1IS3?ocid=st ... 
+        This would be interesting to see! #privacy #FCC #surveillance #lawhttps://twitter.com/PrivacyDigest/status/847257646491082752 ... 
+
+        How the Republicans Sold Your Privacy to Internet Providers - The New York Timeshttps://www.nytimes.com/2017/03/29/opinion/how-the-republicans-sold-your-privacy-to-internet-providers.html?smid=fb-nytimes&smtyp=cur&_r=1 ... 
+        pic.twitter.com/dMFDle3ltX
+        About 90% of Smart TVs Vulnerable to Remote Hacking via Rogue TV Signalshttps://www.bleepingcomputer.com/news/security/about-90-percent-of-smart-tvs-vulnerable-to-remote-hacking-via-rogue-tv-signals/ ... 
+        #secweekupd : Millions of Websites Affected by IIS 6.0 Zero-Day http://ow.ly/DAzL50awcd4 
+        How many NSA spy hubs are scooping up your Internet data? I counted 7 https://arstechnica.com/information-technology/2017/03/internet-surveillance-map-nsa-gchq/ ... pic.twitter.com/b8UwydmoII
+        How climate skeptics are trying to influence 200,000 science teachershttp://www.csmonitor.com/Science/2017/0330/How-climate-skeptics-are-trying-to-influence-200-000-science-teachers ... 
+        Android app industry expected to surpass iOS App Store in terms of revenue this yearhttps://9to5mac.com/2017/03/29/app-store-android-app-market-in-revenue/ ... 
+        Self-driving talent is fleeing Google and Uber to catch the autonomous-driving gold rushhttps://www.recode.net/2017/3/30/15094562/self-driving-talent-retention-uber-google-startups ... 
+        Chase limits ads to preapproved websites to avoid proximity to content like fake news and offensive videoshttps://www.nytimes.com/2017/03/29/business/chase-ads-youtube-fake-news-offensive-videos.html?hpw&rref=business&action=click&pgtype=Homepage&module=well-region&region=bottom-well&WT.nav=bottom-well ... 
+        Trump threatens to 'change libel laws' to go after NY Times http://thehill.com/blogs/ballot-box/326486-trump-threatens-to-change-libel-laws-to-go-after-ny-times ... 
+
+schwartz1375
+
+        This could have saved me time in 2014...AWS Inspector announces support for Proxy environments & CloudWatch Metrics. https://aws.amazon.com/about-aws/whats-new/2017/03/amazon-inspector-announces-support-for-proxy-environments-and-availability-of-cloudwatch-metrics/?sc_channel=sm&sc_campaign=launch_Inspector_23f052c7&sc_publisher=fb_ln&sc_content=Proxy_Environmen_Support_Launch&sc_geo=global&sc_outcome=launches&adbsc=social_launches_20170330_71197556&adbid=UPDATE-c2382910-6253262164170276864&adbpl=li&adbpr=2382910 ... 
+
+securityerrata
+
+        Sorry to rain on everyone's parade about "buying Congress' internet data" but that's... not how it works:https://www.techdirt.com/articles/20170329/13234837037/no-you-cant-buy-congresss-internet-data-anyone-elses.shtml ... 
+
+securitystreak
+
+        Simple @firefox @googlechrome #privacy extension by @vtoubiana &co creates noise & obfuscation in browsing history https://cs.nyu.edu/trackmenot/ 
+        Attack technique for #IoT #SmartTV results in full device compromise via rogue #DVBT2 signals https://www.bleepingcomputer.com/news/security/about-90-percent-of-smart-tvs-vulnerable-to-remote-hacking-via-rogue-tv-signals/ ...  #pentest #Pentesting
+        Bulletproof TLS Newsletter March is out! Latest on Google/Symantec and all the important March news!  https://www.feistyduck.com/bulletproof-tls-newsletter/issue_26_google_plans_to_distrust_all_current_symantec_certificates.html ... 
+        Perfect #defense is impossible. Should we break into enemy #networks to head off and attribute #CyberAttacks?http://www.reuters.com/article/us-usa-cyber-defense-idUSKBN17013U ... 
+        IIS 6.0 #vulnerability patched by 3rd party provider @0patch https://0patch.blogspot.it/2017/03/0patching-immortal-cve-2017-7269.html ... 
+        #APT28? campaign targets @Github @GitHubAPI @TrendingGithub @HackwithGithub @GitHubEng users with Word #exploit https://arstechnica.com/security/2017/03/someone-is-putting-lots-of-work-into-hacking-github-developers/ ...  #git
+
+singe
+
+        in most cases, whether lulzsec or equation group, a single detection can unravel the entire operation.
+
+solardiz
+
+        Rogue DVB-T signals used to get root access on #smartTV w/ "90% of TVs sold in the last years are potential victims"https://www.bleepingcomputer.com/news/security/about-90-percent-of-smart-tvs-vulnerable-to-remote-hacking-via-rogue-tv-signals/ ... 
+        NIST plans to run a new crypto competition to standardize lightweight crypto schemes
+        ROP CFI RAP XNR CPI WTF? -- Navigating the Exploit Mitigation Jungle (@f0rki) - https://bsidesljubljana.si/rop-cfi-rap-xnr-cpi-wtf-navigating-exploit-mitigation-djungle-michael-rodler/ ...  #BSidesLjubljana #video
+        RSA USA 2017 Replay: Fixing the Fixing (@0patch @mkolsek) - https://bsidesljubljana.si/rsa-usa-2017-replay-fixing-fixing-mitja-kolsek-stanka-salamun/ ...  #BSidesLjubljana #video
+        Mozilla are working on Binary Transparency: https://wiki.mozilla.org/Security/Binary_Transparency ... .
+        Lets talk about TLS 1.3 https://access.redhat.com/blogs/766093/posts/2975791 ... 
+        [blog] Black box discovery of memory corruption RCE on http://box.com : https://goo.gl/BPkDNl 
+        Just watched a live demo of SSH over CPU cache covert channels between two Amazon EC2 instances. Amazing work! #BHASIApic.twitter.com/WoNc0LFYBr
+        CVE-2017-7184 Linux kernel privesc demo'ed by @ChaitinTech in #Pwn2Own is now public http://www.openwall.com/lists/oss-security/2017/03/29/2 ... https://twitter.com/thezdi/status/842132539330375684 ... 
+        Upping the ante... programs that can write programs which are probably better than those you could write yourself! http://blog.acolyer.org/2017/03/30/stochastic-program-optimization ... pic.twitter.com/FB2peu6iA2
+        And here is our live demo + music video! #hellofromtheotherside /cc @Fr333k @cynicalsecurityhttps://twitter.com/misc0110/status/847350892974166020 ... 
+        (talking about memory-corrupting bugs) "A segfault is how the memory management gods show mercy"
+
+sparrowmedia
+
+        STEP 1: Kill #EPA data
+
+subtee
+
+        Nice write up!  I added a domain flag to Get-SQLFuzzDomainAccount for you. Now you don't have to update the code on the fly :)
+        Couldn't remember if I shared this or not?
+
+taviso
+
+        so many people are going just to heckle him that we will have a special line at the end of the keynote
+        [blog] Black box discovery of memory corruption RCE on http://box.com : https://goo.gl/BPkDNl 
+
+thepacketrat
+
+        Loving that this image is being used to celebrate #brexitday. The average butterfly is dead within 2 weeks....pic.twitter.com/2csRN0J7KA
+        2014: After a 12 year run, John Cartwright abruptly shut down The Full Disclosure mailing list. It was rebooted by Fyodor 6 days later.pic.twitter.com/Lxr13i4c9E
+        That explains the dropped packets.https://twitter.com/dator5/status/846840424622886912 ... 
+        Lamar Smith, House Science Committee Chair. Anti-science.https://twitter.com/j_timmer/status/847106448974864386 ... 
+        Mother of god.https://twitter.com/j_timmer/status/847169051642253312 ... 
+        .@NickInfoSec what does a network say when a shark attacks it?
+        HOT TIP ON THE TIP LINEpic.twitter.com/fFqxlAlvla
+        Infosec sales meeting vs product deliverypic.twitter.com/ONTz0LmXsu
+        Pizza Rat's arboreal cousin.https://twitter.com/epolcha/status/847186124506370048 ... 
+        It's the eyes...and, let's face it, everything else.https://twitter.com/nytimes/status/847230544190427142 ... 
+        Best phish ever? MAYBE.https://twitter.com/exxulansis/status/846818110501937152 ... 
+        Baltimore. My city.https://twitter.com/baltospectator/status/847231969863778309 ... 
+        It must be spring.  The midnight police helicopter flyovers have returned.
+        They photograph a technician, holding an actual sphere (not a disk), coated in vantablack--(the darkest pigment ever created):pic.twitter.com/JzYwyjQiHy
+        Yep.https://twitter.com/elongreen/status/798713280462286848 ... 
+        Fake news. https://twitter.com/wikileaks/status/847417220405665792 ... 
+        .@Trevokepic.twitter.com/mHPzz8HPUo
+        Goddammit CNNhttps://twitter.com/flyryan/status/847415480054800384 ... 
+        Trump is going to host China's President Xi Jinping at Mar-a-Lago, probably to thank him for that Trump escort service trademark.
+
+thierryzoller
+
+        "APT29 Used Domain Fronting, Tor to Execute Backdoor"https://threatpost.com/apt29-used-domain-fronting-tor-to-execute-backdoor/124582/ ... 
+
+thorsheim
+
+        HTTPS & SSL doesn't mean "trust this." It means "this is private." You may be having a private conversation with Satan.
+        Norway 1 - Tinder 0.
+        Stream? Video? Slides? https://twitter.com/cynoprime/status/847421397278179331 ... 
+        I tweeted about Ashley Madison.
+        Paranoia 2017 - #cybersecurity in Norway!
+        If you are following hundreds of thousands accounts on Twitter you are into mass surveillance - or you don't understand Twitter. imho.
+
+tinyrevolution
+
+        Robert Parry, one of America's best journalists and/or a dirty Russian spy, makes an important point: https://consortiumnews.com/2017/03/29/the-sleazy-origins-of-russia-gate/ ... pic.twitter.com/GjSEkTxU8f
+        As we all talk about robots taking our jobs, US economic productivity is **falling** https://www.bls.gov/news.release/prod3.nr0.htm ... pic.twitter.com/UGz3SaBWaJ
+        It's exciting to think about our coming robot overlords so it's v v irritating to see @DeanBaker13 focus on realityhttp://cepr.net/blogs/beat-the-press/job-loss-in-manufacturing-more-robot-blaming ... 
+        As one Republican Hill staffer said to me, "if we get Gorsuch and avoid a nuclear war, a lot of us will count this as a win." @ezraklein
+        "Hi, here are a bunch of words that I hope will distract you from the fact that I'm killing my constituents"https://twitter.com/govsambrownback/status/847455477327839234 ... 
+        By me:
+        This is the fault of both Republicans & Democrats and it's really bad for everyone https://interc.pt/2njWxMz pic.twitter.com/5GwTU8lDHt
+        Good argument by @tinyrevolution on why a credible investigation of Russia/Trumps claims is in everyone's interesthttps://theintercept.com/2017/03/30/russia-investigation-heading-toward-a-train-wreck-because-republicans-dont-care-what-happened/ ... 
+
+tqbf
+
+        We're hiring a development director to lead our fundraising efforts: https://whispersystems.org/workworkwork/#development ... 
+        Learned last night: "To DNSSEC!" is the correct toast to offer for a round of MalÃ¶rt with IETF/ISC people.
+        There is no way mcTLS is going to happen.
+        Right-click on mcTLS, check Nope, click Details, Negation tab, enable Advanced, change Yes to Not Even Once, click Apply, click OK, reboothttps://twitter.com/tqbf/status/847213954279624704 ... 
+        "Well literally nobody in the TLS WG wants to open it up to middleboxes but maybe if we just add a whole bunch more mechanism to the protoco
+        "It's really a small change that just involves a new set of MAC keys and a new set of encryption keys for each context, where context is de$
+        Compare and contrast:
+        RE-MIN-DER: you've got the weekend to finish up a Black Hat USA 2017 submission, ESPECIALLY CRYPTO ATTACK STUFF. https://www.blackhat.com/us-17/call-for-papers.html ... 
+        Black Hat doesn't need a full paper or slide deck. An outline and an abstract should mostly cover you.
+        Your work would need to be ready to present by July, but most BH talks are works in progress when the CFP closes.
+        Our next event will be in San Francisco on April 5. I'm delighted to announce one of our speakers is Zeynep Tufekci! https://techsolidarity.org/events/sf_april_5.html ... 
+        Fixed the mcTLS logo:pic.twitter.com/R39kNIcOga
+        I have never loved W more.https://twitter.com/politicalwire/status/847262437992681475 ... 
+
+wirecutterdeals
+
+        Our former upgrade action cam pick, GoPro Hero4 Black (Refurbished), is down to $235 http://bit.ly/2obWtmC  Buy:http://ebay.to/2nB4nEB 
+        Our travel towel pick, the Packtowl Personal Towel, down to $9 for the XL Eclipse color http://bit.ly/2nDACDd  Buy:http://amzn.to/2nnp1Wp 
+        Our gaming mechanical keyboard, Razer BlackWidow TE Chroma, is down to $98 (from $120) http://bit.ly/2ocLzNe  Buy:http://amzn.to/2mSUl3f 
+        Our runner-up TV pick, the Sony XBR55X930D 55-Inch 4K, is down to $1290 (from $1500) http://bit.ly/2nDJr03  Buy:http://amzn.to/2nzES4V 
+
+zzcrockett
+
+        For those interested, here is selection of my features on @Longreads:https://longreads.com/picks/authors/zachary-crockett/ ... 
