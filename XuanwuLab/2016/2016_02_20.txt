@@ -1,0 +1,102 @@
+Nicolas Krassas @Dinosn
+
+[ Android ]  ESET paper on Android ransomware http://avien.net/blog/eset-paper-on-android-ransomware/
+
+﻿"来自 ESET 的报告： Android 勒索软件的崛起： https://t.co/uJ1ojTv2Ix"
+
+James Forshaw @tiraniddo
+
+[ Android ]  A "documentation" bug in SElinux which leads to incorrect security context in Android https://code.google.com/p/google-security-research/issues/detail?id=727 Fortunately, non-exploitable.
+
+﻿"当以 ONE_WAY binder Transaction 方式调用 getpidcon 时， getpidcon 返回错误的安全上下文， Project Zero Issue： https://t.co/VNlK9GcYnx  通过这个漏洞可以绕过 SELinux"
+
+Binni Shah @binitamshah
+
+[ Detect ]  Unleashing Yara (Part 2) : http://countuponsecurity.com/2016/02/18/unleashing-yara-part-2/ , Part 1 : http://countuponsecurity.com/2016/02/10/unleashing-yara-part-1/
+
+﻿"解读 Yara， Part 2 Yara 规则的创建: https://t.co/Bv3XI22kjp  Part 1 应急响应处理生命周期中 Yara 规则的使用: https://t.co/mebFAqMUvv"
+
+Nicolas Krassas @Dinosn
+
+[ Detect ]  Threat Detection Techniques – ATM Malware http://blogs.rsa.com/threat-detection-techniques-atm-malware/
+
+﻿"来自 RSA 的 ATM 恶意代码威胁检测技术报告： https://t.co/u6oj0okNLX"
+
+John Villamil @day6reak
+
+[ Fuzzing ]  Fuzzing the Rust Typechecker Using CLP https://www.cs.ucsb.edu/~benh/research/papers/dewey15fuzzing.pdf
+
+﻿"采用约束逻辑编程（CLP） 的方法 Fuzz Rust 的类型检查器， Paper： https://t.co/mEEUjQG8LI"
+
+Binni Shah @binitamshah
+
+[ Fuzzing ]  morph : an open source browser fuzzing framework for fun : https://github.com/walkerfuz/morph
+
+﻿"morph - 一个开源的浏览器 Fuzz 框架， Github Repo: https://t.co/KLsNoQkY0z FreeBuf 上作者发表过一篇介绍这个框架的文章 《从零开始学Fuzzing系列：浏览器挖掘框架Morph诞生记》：  http://www.freebuf.com/tools/89001.html "
+
+Binni Shah @binitamshah
+
+[ Hardware ]  See Through Walls with Wi-Fi : http://people.csail.mit.edu/fadel/papers/wivi-paper.pdf (pdf)
+
+﻿"通过 Wi-Fi 看到墙后面的世界， WiFi 信号不仅可以作为信息传播的载体， 这篇 Paper 研究通过 WiFi 信号识别墙后面的人的数量和移动情况。 Paper: https://t.co/rjISCRoldR "
+
+LifeForm Labs @lifeform_labs
+
+[ iOS ]  [Blog] LLDB Scripting for Remote iOS Debugging http://bit.ly/1QoqLow #mobile #security
+
+﻿" 基于 LLDB Python 脚本扩展的支持， 在远程调试 iOS 应用时， 跟踪 objc_msgSend() 调用的脚本： https://t.co/EdkfC3qdeB "
+
+Binni Shah @binitamshah
+
+[ Mac OS X ]  10 yrs of Mac Malware Infographics : https://www.intego.com/mac-security-blog/10-years-of-mac-malware-how-os-x-threats-have-evolved/ https://t.co/JuVX5p2nUE
+
+﻿"近 10 年， Mac OS X 恶意代码进化史（时间轴）: https://t.co/mfW9KkTfFS https://t.co/JuVX5p2nUE"
+
+ 
+Nicolas Krassas @Dinosn
+
+[ MalwareAnalysis ]  Locky Ransomware - Encrypts Documents, Databases, Code, BitCoin Wallets and More... https://blogs.forcepoint.com/security-labs/locky-ransomware-encrypts-documents-databases-code-bitcoin-wallets-and-more
+
+﻿"ForcePoint 对 Locky 勒索软件的分析报告： https://t.co/HvArp8geGq"
+
+Speckyboy @speckyboy
+
+[ Network ]  http2 Explained - A detailed document explaining and documenting HTTP/2 http://ow.ly/YtXwZ
+
+﻿"http2 Explained - HTTP/2 协议的详细介绍文档， Blog: https://t.co/lh5zrFfreF"
+
+Binni Shah @binitamshah
+
+[ Others ]  Using Node.js Event Loop for Timing Attacks : https://snyk.io/blog/node-js-timing-attack-ccc-ctf/
+
+﻿"Node.js 事件循环可以被用于作为 Timing Attack 过程中的一个信号指示器: https://t.co/pHCO3m7Kdg"
+
+Avram Marius @securityshell
+
+[ Others ]  XML Entity Cheatsheet http://www.silentrobots.com/blog/2015/12/14/xe-cheatsheet-update/
+
+﻿"XML Entity 测试手册， 来自 SilentRobots Blog： https://t.co/fv7QQZsOYX"
+
+Binni Shah @binitamshah
+
+[ Pentest ]  pentestly : Python and Powershell internal penetration testing framework : https://github.com/praetorian-inc/pentestly
+
+﻿"pentestly: 内网渗透测试框架， Python 和 PowerShell 语言编写， Github Repo: https://t.co/z4b8r1qrNm"
+
+Binni Shah @binitamshah
+
+[ Tools ]  fsmon : monitor filesystem on iOS / OS X / Android / FirefoxOS / Linux : https://github.com/nowsecure/fsmon , Details : https://www.nowsecure.com/blog/2016/02/18/filesystem-monitor-tool-for-ios-and-android/
+
+﻿"fsmon - 文件系统事件监控工具， 支持 iOS/OS X/Android/FirefoxOS/Linux， Github Repo: https://t.co/XJvqzBbKqM  Blog : https://t.co/4Utx248GJ4"
+
+Full Disclosure @SecLists
+
+[ Web Security ]  Adobe - Multiple Client Side Cross Site Scripting Web Vulnerabilities http://goo.gl/fb/gsdxG3 #FullDisclosure
+
+﻿"Adobe Web 应用存在多个客户端跨站漏洞， 来自 FullDisclosure 的公告： https://t.co/YenQsUoxeP "
+
+SecureLayer7 @SecureLayer7
+
+[ Web Security ]  Refinery - The Ruby on Rail Open Source CMS Penetration testing report https://securelayer7.net/penetration-testing-reports/Penetration-testing-report--open-source-Ruby-on-rails-Refinery-CMS.pdf by @ cor3sm4sh3r #infosec
+
+﻿"Refinery 框架渗透测试报告， Refinery CMS 是一个 Ruby 语言写的内容管理系统： https://t.co/ciY8t8jfB1"
