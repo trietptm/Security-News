@@ -1,0 +1,229 @@
+Joshua J. Drake @jduck
+
+[ Android ]  CVE-2015-1805 PoC, untested https://twitter.com/idl3r/statuses/711371009874485249
+
+﻿"CVE-2015-1805 PoC, Twitter 上的讨论: https://t.co/JTeiPbFUX0  PoC: https://github.com/idl3r/testcode/blob/master/test2.c "
+
+FireEye @FireEye
+
+[ Attack ]  China-based ad giant serves malicious code through ad slots http://bddy.me/25iHW5J #infosec
+
+﻿"攻击者利用百度广告平台 API 跳转至恶意站点, 下发恶意代码至用户计算机, 来自 FireEye Blog: https://t.co/es2sftmgL3 "
+
+McAfee Labs @McAfee_Labs
+
+[ Attack ]  In our March Threats Report, we uncovered a rise in new #malware in Q4, after 3 quarters of decline: http://intel.ly/1LBYoI1
+
+﻿"McAfee 发布的 3 月份的威胁报告 ︰ https://t.co/W3P7CTCvUT"
+
+Florian Roth @Cyb3rOps
+
+[ Detect ]  YARA Rule To Detect VBE Scripts by @ DidierStevens http://blog.didierstevens.com/2016/03/22/yara-rule-to-detect-vbe-scripts/
+
+﻿"用于检测 VBE 脚本的 YARA 规则: https://t.co/luryO7kcM4"
+
+n3k @kiqueNissim
+
+[ Exploit ]  Slides of CansecWest2016 - Getting Physical: Extreme Abuse of Intel Based Paging Systems: https://github.com/n3k/CansecWest2016_Getting_Physical_Extreme_Abuse_of_Intel_Based_Paging_Systems @ NicoEconomou #CanSecWest
+
+﻿"滥用 Intel 分页系统,瓦解内核的保护机制(Windows/Linux), 来自 CanSecWest 2016 会议的演讲, Github Repo ︰ https://t.co/CbkRB6MWdV "
+
+n3k @kiqueNissim
+
+[ Exploit ]  Slides of Windows SMEP Bypass U=S: https://github.com/n3k/EKOParty2015_Windows_SMEP_Bypass @ NicoEconomou #ekoparty
+
+﻿"Windows SMEP Bypass U=S， U/S 代表页面权限的标志位（U 代表 user， S 代表 supervisor）， 来自 EKOParty 2015 会议的演讲，之前推送过这个视频。 这次作者在 Github 上也放出了 Slides: https://t.co/tSmIangfVm  "
+
+ekoparty @ekoparty
+
+[ Fuzzing ]  Virtualised USB Fuzzing using QEMU and Scapy - Tobias Muller: http://youtu.be/EyljYN22_rU?a via @ YouTube
+
+﻿"基于 QEMU 和 Scapy 的虚拟 USB Fuzz 方案, (Youtube 视频)︰  https://t.co/pumjWoxjT8"
+
+IOActive, Inc @IOActive
+
+[ Hardware ]  New blog post: 'Inside the IOActive #Silicon #Lab: Interpreting Images,' by @ azonenberg of @ IOActive http://ioac.tv/1UhTfIf #infosec
+
+﻿"走进 IOActive 硅实验室 - 通过电路图图片观察和理解电路的实际几何机构: https://t.co/lITV3FDWFp  "
+
+Claud Xiao @claud_xiao
+
+[ iOS ]  In Alibaba's IPO day, Taobao app got crash on just released iOS 8. The bug was fixed via hot patch project https://github.com/alibaba/wax in hours.
+
+﻿"在阿里巴巴上市的当天，淘宝 App 在刚刚发布的 iOS 8 上崩溃了， 这个 Bug 就是通过 Wax Hot Patch 项目修复的, Github Repo: https://t.co/W9AkhtR12v  Claud Xiao 表示这个故事是从知乎上看到的"
+
+Nicolas Krassas @Dinosn
+
+[ IoTDevice ]  Remote Code Execution in CCTV-DVR affecting over 70 different vendors http://www.kerneronsec.com/2016/02/remote-code-execution-in-cctv-dvrs-of.html
+
+﻿"视频监控设备远程代码执行漏洞, 影响 70 个不同供应商, 来自 Kerneron Security Blog: https://t.co/f6Gc214Ir5 "
+
+Ravishankar Borgaonk @raviborgaonkar
+
+[ Linux ]  You can install a GSM network with a single command now - $sudo apt-get install gsm-network - ref: https://tracker.debian.org/news/755641 #osmocom #gsm
+
+﻿"Debian 支持一键安装 openbsc 相关组件了: $sudo apt-get install gsm-network ︰ https://t.co/RH19mQ3peX "
+
+Sebas Guerrero ⚡ @0xroot
+
+[ Linux ]  LibHeap - python library for examining the glibc heap https://github.com/cloudburst/libheap via @ rotlogix
+
+﻿"LibHeap - 用于分析 glibc 堆结构的 GDB 调试脚本, Python 语言编写,可以在 GDB 中直接 Import: https://t.co/PlFTcg8R6A "
+
+Vince Cali @0x56
+
+[ Mac OS X ]  watchOS 2.2 Security Notes: https://support.apple.com/en-us/HT206168 tvOS 9.2 Security Notes: https://support.apple.com/en-us/HT206169
+
+﻿"Apple watchOS 2.2 安全公告︰ https://t.co/xbRIRjOZpi Apple tvOS 9.2 安全公告︰ https://t.co/qqgNfWfkN4"
+
+Ryan @Fuzion24
+
+[ Mac OS X ]  OSX / iOS execve logic error allows arbitrary mem read/write of suid processes leading to kernel code exec: https://googleprojectzero.blogspot.com/2016/03/race-you-to-kernel.html
+
+﻿"OS X/iOS 内核处理 suid 进程 execve 逻辑存在条件竞争漏洞（CVE-2016-1757），成功利用该漏洞可以允许我们加载一个未签名的内核扩展 ， Project Zero Blog:  https://t.co/Urjk3hWEO9  Issue 676: https://bugs.chromium.org/p/project-zero/issues/detail?id=676&redir=1 "
+
+Nicolas Krassas @Dinosn
+
+[ Mac OS X ]  Vulnerability Spotlight: Apple OS X Graphics Kernel Driver Local Privilege Escalation Vulnerability http://blog.talosintel.com/2016/03/apple-gfx-vuln.html
+
+﻿"Apple OS X 内核 Intel HD3000 图形驱动程序本地提权漏洞（CVE-2016-1743）， 通过一个特殊构造的 IOConnectCallMethod 请求可以触发 IOGen575Shared::new_texture 函数的漏洞。 来自 Talos Blog： https://t.co/mQvj9Boc2u"
+
+Andrea Barisani @AndreaBarisani
+
+[ Mac OS X ]  Update OS X to v10.11.4, it patches a vulnerability discovered by Inverse Path using the USB armory (CVE-2016-1734) https://support.apple.com/en-ca/HT206167
+
+﻿"OS X El Capitan 更新 10.11.4， 修复了 Inverse Path 公司研究员用 USB Armory 发现的一个漏洞(CVE-2016-1734), 本次更新详细的漏洞公告: https://t.co/qOVnCU0per "
+
+Ryan Naraine @ryanaraine
+
+[ Malware ]  Flashback: Who is the Joe? https://securelist.com/blog/research/68350/the-syrian-malware-part-2-who-is-the-joe/ #SyrianElectronicArmy #SEA Today: https://www.justice.gov/opa/pr/computer-hacking-conspiracy-charges-unsealed-against-members-syrian-electronic-army
+
+﻿"Kaspersky 2015 年的一篇 Blog: 叙利亚恶意软件 Part 2 - Who is Joe: https://t.co/PlydqxgaXe 关于叙利亚电子军的一篇报道︰ https://t.co/NFiZlKo5ct"
+
+IntrusionSkills @IntrusionSkills
+
+[ Malware ]  Dridex Code Breaking – Modify the Malware to Bypass the VM Bypass http://phishme.com/dridex-code-breaking-modify-the-malware-to-bypass-the-vm-bypass/ #DFIR #malware #infosec
+
+﻿"Dridex 恶意程序在宏代码中添加了一个很长的密码，同时还有检测虚拟机、SandboxIE 的代码。 PhishMe 这篇 Blog  分享如何修改恶意程序，破解它的密码，绕过它的检查：  https://t.co/3EAeI6luqk "
+
+Binni Shah @binitamshah
+
+[ Malware ]  TeslaCrypt 4.0 Released with Bug Fixes and Stops Adding Extensions : http://www.bleepingcomputer.com/news/security/teslacrypt-4-0-released-with-bug-fixes-and-stops-adding-extensions/
+
+﻿"勒索软件 TeslaCrypt 发布 4.0, 修复了一些 Bug, 不再用扩展加密文件 ︰ https://t.co/Nn2LJ0axCx"
+
+Unit 42 @Unit42_Intel
+
+[ Malware ]  #Unit42 examines the campaign evolution of #Darkleech to pseudo-Darkleech http://bit.ly/1T53Q7M #ransomware
+
+﻿"Sucuri 去年发过 Blog 分析 pseudo-Darkleech 攻击行动的一些细节, pseudo-Darkleech 的攻击目标为 WordPress 站点. Palo Alto 这篇文章分析 pseudo-Darkleech 最近的一些变化: https://t.co/npASEubIC9 "
+
+Nicolas Krassas @Dinosn
+
+[ MalwareAnalysis ]  Recovering Files From Brand New Crypt0l0cker http://marcoramilli.blogspot.com/2016/03/recovering-files-from-brand-new.html
+
+﻿"从 Crypt0l0cker 最新版本加密后的数据中还原文件, Blog: https://t.co/KBQdXetQ8z"
+
+Binni Shah @binitamshah
+
+[ Network ]  A Complete Guide on IPv6 Attack and Defense : http://www.sans.org/reading-room/whitepapers/detection/complete-guide-ipv6-attack-defense-33904 (pdf)
+
+﻿"IPv6 攻击与防御完整指南， 来自 SANS 2012 年的一篇 Paper ︰ https://t.co/rCbAL114gv 还有两个相关链接: https://github.com/Teino1978-Corp/Teino1978-Corp-APV6  https://gist.github.com/Teino1978-Corp/c7a855d0c0eaa348273b "
+
+Enno Rey @Enno_Insinuator
+
+[ Network ]  Slides of Gabriel Mueller's #TR16 IPv6 Sec Summit talk "NATTED – A Field Report": https://www.ernw.de/download/NATTED_A_Field_Report_V11.pdf [PDF] https://t.co/hE7K7B23cs
+
+﻿"NATTED — 实测报告, 来自 IPv6 安全峰会上的演讲: https://t.co/GOb3Fc71nG  https://t.co/hE7K7B23cs"
+
+ 
+Binni Shah @binitamshah
+
+[ Network ]  StartSSL Domain validation Vulnerability discovered : http://oalmanna.blogspot.in/2016/03/startssl-domain-validation.html
+
+﻿"StartSSL 域名验证漏洞 ︰ https://t.co/X3qlrHJRgp"
+
+Francisco Ribeiro @blackthorne
+
+[ Others ]  Nice wiki on reverse engineering and other things security (fuzzing, dfir, ctf writeups) #re http://wiki.yobi.be/wiki/Reverse-Engineering http://wiki.yobi.be/wiki/Table_of_contents#Security
+
+﻿"YobiWiki - 一个非常全面的安全类 Wiki 网站, 逆向方向: https://t.co/hAByQGyXSN  内容目录:  https://t.co/iZzqqcDMPR"
+
+Jeff @bluscreenofjeff
+
+[ Others ]  Strengthen Your Phishing with Apache mod_rewrite and Mobile User Redirection https://bluescreenofjeff.com/2016-03-22-strengthen-your-phishing-with-apache-mod_rewrite-and-mobile-user-redirection/
+
+﻿"通过 Apache mod_rewrite 和手机用户重定向提升你的钓鱼技巧: https://t.co/QWPKn7HAEu"
+
+Andrey Karpov @Code_Analysis
+
+[ Others ]  Serious Sam shooter anniversary - finding bugs in #opensource code of the Serious Engine http://www.viva64.com/en/b/0384/ #gamedev #GameProgramming
+
+﻿"用 PVS-Studio 在<英雄萨姆>游戏引擎 v1.10 版本中找 Bug: https://t.co/MwmJwUaPME "
+
+Toni de la Fuente @ToniBlyx
+
+[ Others ]  @ osquery application security assessment by @ NCCsecurityUS https://www.nccgroup.trust/globalassets/our-research/us/whitepapers/security_assessment_2016_01_25pdf/
+
+﻿"osquery 安全评估报告, osquery 是 Facebook 开源的一款基于 SQL 的系统检测工具: https://t.co/epWrmljmZx "
+
+collin @libber
+
+[ Others ]  Ubers bug bounty program is now open to all - http://techcrunch.com/2016/03/22/uber-launches-bug-bounty-program-that-pays-hackers-to-find-security-issues/
+
+﻿"Uber 的 Bug Bounty 项目: https://t.co/Snw3T9SflE"
+
+Mike_Mimoso @Mike_Mimoso
+
+[ Others ]  . @ Google #Submariner Logs Untrusted CAs: https://threatpost.com/google-submariner-logs-untrusted-cas/116935/ via @ threatpost
+
+﻿"Google 推出 Submariner, 用于记录不可信的 CA: https://t.co/0V5WbQK9jd"
+
+Nicolas Krassas @Dinosn
+
+[ Popular Software ]  Adobe Flash Wild Write Crash https://packetstormsecurity.com/files/136338/GS20160322002341.tgz
+
+﻿"Adobe Flash CVE-2015-5575 PoC: https://t.co/5V7adudqvv"
+
+Andrey Karpov @Code_Analysis
+
+[ Programming ]  Detecting Overflows of 32-Bit Variables in Long Loops in 64-Bit Programs. http://www.viva64.com/en/b/0385/ (#cpp #64bit #overflow #programming)
+
+﻿"用 PVS-Studio 工具检测 64 位程序中 32 位变量在长循环中的溢出问题：   https://t.co/sNam4wMMj6 "
+
+Tavis Ormandy @taviso
+
+[ SecurityProduct ]  Comodo antivirus forwards emulated Win32 API calls to the real API during scans. ¯\_(ツ)_/¯ https://bugs.chromium.org/p/project-zero/issues/detail?id=769
+
+﻿"Comodo 反病毒软件内置 x86 模拟器,但是对于一些 Win32 API, 该模拟器仅仅作代理, 参数会直接传递给真实的 API. 而这些 API 可以被滥用, 譬如可以实现将用户计算机的键盘击键记录发送到远程服务器, Project Zero Issue 769: https://t.co/PHOw6vl6X1"
+
+Andreas Smas @andoma
+
+[ Tools ]  My latest hack: an LLVM bitcode interpreter + VM written in C with no external deps. https://github.com/andoma/vmir
+
+﻿"vmir - LLVM bitcode 虚拟机, 可以解释执行 LLVM bitcode, JIT 目前仅在 32 位 ARM 上支持: https://t.co/rQPcVGsE8n"
+
+Binni Shah @binitamshah
+
+[ Tools ]  VolUtility : Web App for Volatility framework : https://github.com/kevthehermit/VolUtility cc: @ kevthehermit
+
+﻿"VolUtility:  Volatility 内存分析框架的 Web 接口︰ https://t.co/oEUIirEtRr "
+
+Binni Shah @binitamshah
+
+[ Tools ]  Hacking Tools with Python (Part 1 - 2) : http://resources.infosecinstitute.com/writing-hacking-tools-with-python-part-1/#article
+
+﻿"用 Python 写黑客工具 Part 1: https://t.co/4qtfn8h2TC  Part 2: http://resources.infosecinstitute.com/hacking-tools-with-python-part-2/#article "
+
+Binni Shah @binitamshah
+
+[ Tools ]  PE format Poster : http://www.openrce.org/reference_library/files/reference/PE%20Format.pdf (pdf)
+
+﻿"一张海报展示 PE 文件格式 ︰ https://t.co/toli1dOzs1 "
+
+Francisco Alonso @revskills
+
+[ Windows ]  On April 12th, 2016 a crucial security bug in Windows and Samba will be disclosed. We call it: Badlock. http://badlock.org/
+
+﻿"下个月 12 号, 微软将会披露一个非常严重的 Windows Samba 漏洞, 我们称它为: Badlock: https://t.co/oxYeRAZ9FN"
+
