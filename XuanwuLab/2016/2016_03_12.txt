@@ -1,0 +1,138 @@
+Collin Mulliner @collinrm
+
+[ Android ]  Mobile Security News Update March 2016 https://www.mulliner.org/blog/blosxom.cgi/security/mobile_security_newsupdate_march2016.html #notmuchhappening
+
+﻿" Collin R. Mulliner 网站总结的 3 月的移动安全动态： https://t.co/yr11mDyoFW "
+
+Nicolas Krassas @Dinosn
+
+[ Android ]  Android Marcher now marching via porn sites http://research.zscaler.com/2016/03/android-marcher-now-marching-via-porn.html
+
+﻿"Android 木马 Marcher 伪装成 Flash 安装包，通过色情网站诱惑用户下载， 来自 Zscaler 的分析：  https://t.co/ROBjenXcas"
+
+Nikolaos Chrysaidos @virqdroid
+
+[ Android ]  CuriousDroid: Automated User Interface Interaction for Android Application Analysis Sandboxes - https://mulliner.org/collin/publications/fc2016curiousdroid.pdf (via @ collinrm)
+
+﻿"CuriousDroid  - Android 应用事件驱动的渲染机制使 Android 自动沙盒分析系统很难有较高的代码覆盖率， 这篇 Paper 提出了 CuriousDroid 自动化分析系统，这个系统会以类用户的行为与应用交互， Paper：  https://t.co/2iiqoz8ORA"
+
+daveaitel @daveaitel
+
+[ Browser ]  Is there a better mobile browser usage list than here: http://caniuse.com/usage-table ?
+
+﻿"CanIUse 网站统计的浏览器市场用户占用率︰ https://t.co/AZD8xny1dP？"
+
+Nicolas Krassas @Dinosn
+
+[ Browser ]  ZDI-16-197: Google Chrome Pdfium JPEG2000 Out-Of-Bounds Write Remote Code Execution Vulnerability http://www.zerodayinitiative.com/advisories/ZDI-16-197/
+
+﻿"Google Chrome Pdfium JPEG2000 越界写漏洞，可以实现任意代码执行， 来自 ZDI-16-197 公告： https://t.co/ITWzCcwEtf"
+
+André Moulu @andremoulu
+
+[ Browser ]  Chrome gpu process sandbox escape due to use of invalid iterator in IPC handler https://code.google.com/p/google-security-research/issues/detail?id=665
+
+﻿"Chrome GPU 进程在处理 IPC Handler 的迭代器时，存在越界访问漏洞（CVE-2016-1642）， 来自 Project Zero Issue 665： https://t.co/I3oWtGVcJm "
+
+SkyLined @berendjanwever
+
+[ Browser ]  #DailyBug Microsoft Edge CDOMTextNode::get_data type confusion http://blog.skylined.nl/20160310001.html
+
+﻿"微软 Edge 浏览器 CDOMTextNode::get_data 类型混淆漏洞， 利用该漏洞可以实现信息泄露。存在漏洞的版本为： Edge 20.10240.16384.0， 来自 SkyLined Blog：  https://t.co/BxVa0cUIlC"
+
+Binni Shah @binitamshah
+
+[ Crypto ]  Sample "Diffie Hellman Key Exchange" usage in Java : https://github.com/codvio/diffie-hellman-helloworld
+
+﻿"diffie-hellman-helloworld - 在 Java 中使用 Diffie Hellman 密钥交换算法的代码示例， Github Repo ︰  https://t.co/k6Qbi77itM"
+
+Dan Guido @dguido
+
+[ Defend ]  "Using Formal Methods to Eliminate Exploitable Bugs" is the most up-to-date summary of this topic and a must watch https://www.usenix.org/conference/usenixsecurity15/technical-sessions/presentation/fisher
+
+﻿""使用形式化的方法消除可以利用的 Bugs， 来自 USENIX 2015 会议的 Paper： https://t.co/0paNINjKJV"
+
+PanguTeam @PanguTeam
+
+[ iOS ]  Pangu9 V1.3.0(Win) V1.1.0(Mac) now support iOS 9.1 for all 64bit devices. Check at http://pangu.io
+
+﻿"Pangu9 越狱工具发布，分别为 Windows 1.3.0 版 和 Mac 1.1.0 版， 开始支持 iOS 9.1 和 64 位设备：  https://t.co/0ksOanTGRF"
+
+shuffle2 @shuffle2
+
+[ Linux ]  "Executing BSD ELFs on Windows"; blog post about the less-explored details of doing it! http://blog.ghettoha.xxx/executing-bsd-elfs-in-windows/
+
+﻿"在 Windows 系统通过环境模拟的方法执行 BSD ELF 文件， Blog：   https://t.co/bl2M3z2dFj"
+
+Kenn White @kennwhite
+
+[ Linux ]  X11Forwarding is enabled by default on AMZ Linux, RH/Cent 6.x, Oracle, some Debian, but exploit needs local auth. https://twitter.com/damienmiller/status/707902149250822144
+
+﻿"Linux OpenSSH 7.2P2 之前版本 xauth 命令注入漏洞，利用这个漏洞可以实现以认证用户身份读取文件、写任意文件、端口探测等： http://www.openssh.com/txt/x11fwd.adv 升级 7.2P2 版本可以修复该漏洞： http://www.openssh.com/txt/release-7.2p2  临时的缓解方法是：配置 OpenSSH sshd_config  X11Forwarding=no "
+
+Casey Smith @subTee
+
+[ Malware ]  Macro-Malware Connecting to GitHub http://labs.bromium.com/2016/03/09/macro-malware-connecting-to-github/ PowerShell + WMI Scripting. #DFIR
+
+﻿" Bromium Labs 最近捕获了一个 Office 样本，这个样本中内嵌的宏代码会从 Github 获取 Payload： https://t.co/5yBwRHOQI1 "
+
+Nicolas Krassas @Dinosn
+
+[ Malware ]  Cerber Ransomware – New, But Mature https://blog.malwarebytes.org/intelligence/2016/03/cerber-ransomware-new-but-mature/
+
+﻿"Cerber 勒索软件分析 - 虽然是个'新手'，但已经很成熟： https://t.co/TCZGKckbs0  微软前两天也有一篇 Blog 分析这个勒索软件： https://blogs.technet.microsoft.com/mmpc/2016/03/09/the-three-heads-of-the-cerberus-like-cerber-ransomware/ "
+
+Unit 42 @Unit42_Intel
+
+[ Malware ]  #Unit42 finds #PowerSniff malware used in macro-based attacks http://bit.ly/1QNjOSu
+
+﻿"PowerSniff - Palo Alto 在最近的垃圾邮件宏文档攻击中发现了无文件型（file-less，只存在内存中）恶意样本：   https://t.co/f4sq0SLVhH "
+
+Binni Shah @binitamshah
+
+[ Malware ]  From Macro to SSL with Shellcode A Detailed Deconstruction : http://community.hpe.com/t5/Security-Research/From-Macro-to-SSL-with-Shellcode-A-Detailed-Deconstruction/ba-p/6839623#.VuIiTHUrKtF
+
+﻿"从宏代码到 Shellcode 实现的伪 SSL 连接 - HP 对一款 Office 样本的分析 ︰ https://t.co/JUlBHkq54l"
+
+Arrigo Triulzi @cynicalsecurity
+
+[ Operating System ]  Beautiful collection of microkernel projects (HT: @ jjermar): “Microkernels - The component-based operating systems” http://microkernel.info/
+
+﻿"几个开源微内核项目列表：  https://t.co/tULGI2ZEIR   包括：Escape、Genode、HelenOS 等"
+
+Binni Shah @binitamshah
+
+[ Others ]  Image Processing 101 : https://codewords.recurse.com/issues/six/image-processing-101
+
+﻿"图像处理技术入门:  https://t.co/Hor7R0YqBs"
+
+Binni Shah @binitamshah
+
+[ Pentest ]  Local Group Enumeration : http://www.harmj0y.net/blog/redteaming/local-group-enumeration/ cc: @ harmj0y
+
+﻿"PowerShellEmpire 工具支持一个 Get-NetLocalGroup 功能，可以枚举远程主机的 Local Group 成员︰ https://t.co/l7MeYIkCfw "
+
+hanno @hanno
+
+[ ThirdParty ]  Several out of bounds reads in ProFTPD https://blog.fuzzing-project.org/40-Several-out-of-bounds-reads-in-ProFTPD.html Ceterum censeo test your C code with ASAN!
+
+﻿"ProFTPD 几个内存越界读漏洞，这些漏洞由 Hanno Böck  通过 Address Sanitizer Fuzz 出来的： https://t.co/M1BJRt22b1 "
+
+Rapid7 @rapid7
+
+[ ThreatIntelligence ]  Part 3 of 3 of #ThreatIntel Foundations with @ PDXbek is live—Intelligence Analysis in Security Operations— https://community.rapid7.com/community/infosec/blog/2016/03/11/threat-intelligence-foundations-crawl-walk-analyze-part-3
+
+﻿"Rapid7 威胁情报系列文章第 3 篇：  https://t.co/ZLylUUfUx2"
+
+Joe Security LLC @joe4security
+
+[ Tools ]  Is this mail malicious or not? Checkout MAIL Analyzer: https://www.mail-analyzer.net/ analyze saved mails for free! https://t.co/Up7C3lphaB
+
+﻿"基于云的恶意邮件检测工具，该工具是基于 Joe Sandbox 实现的， Joe Sandbox 可以对恶意代码、文件进行动态、静态、混合分析 ︰ https://t.co/Mz5AHgIE34   https://t.co/Up7C3lphaB"
+
+ 
+securxcess @securxcess
+
+[ Web Security ]  Web application scanning with Htcap - Help Net Security http://ow.ly/ZkG33
+
+﻿"Web 应用扫描器 Htcap： https://t.co/XckCrebb1d "
