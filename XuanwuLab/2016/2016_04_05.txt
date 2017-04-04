@@ -1,0 +1,179 @@
+Nikolaos Chrysaidos @virqdroid
+
+[ Android ]  Use scheduling feature to detect Android Emulator - http://drops.wooyun.org/mobile/13486 (Chinese) - based on http://www.dexlabs.org/blog/btdetect
+
+﻿"利用任务调度特性检测 Android 模拟器， 来自 Wooyun Drops： https://t.co/1CXPGEcqMI  基于这篇文章： https://t.co/7OZ7zppJx4"
+
+Threatpost @threatpost
+
+[ Android ]  Today's #Android patches include a fix for a vulnerability exploited by a rooting application - http://ow.ly/10hqsA
+
+﻿"本月的 Android 补丁更新中修复了一个 Root 应用中使用的漏洞（CVE-2016-1805）， 来自 ThreatPost 的报道： https://t.co/U7WRwPTEaB  Android 4 月份的漏洞公告： https://source.android.com/security/bulletin/2016-04-02.html "
+
+Binni Shah @binitamshah
+
+[ Android ]  Surreptitious Sharing on Android : https://www.ibr.cs.tu-bs.de/papers/schuermann-sicherheit2016.pdf (pdf)
+
+﻿"Android 上的秘密共享 - 很多应用都会使用 Intent API 实现图片、视频、文档的共享。 这篇 Paper 谈应用在处理 file URI 时的一个安全漏洞，成功利用这个漏洞可以实现提权和数据泄露︰ https://t.co/l1Jw19idj8 "
+
+Palo Alto Networks @PaloAltoNtwks
+
+[ Attack ]  Don’t be an April Fool: Inside a common phone scam http://bit.ly/1ToWagK @ r0bf4lc #Unit42 #AprilFools
+
+﻿"不作 'April Fool' - 剖析一次电话诈骗： https://t.co/5jgffmygPM  "
+
+NCC Group plc @NCCGroupplc
+
+[ Attack ]  New NCC Group blog post: Can breach impact be measured? https://www.nccgroup.trust/uk/about-us/newsroom-and-events/blogs/2016/april/can-breach-impact-be-measured/
+
+﻿"黑客攻击产生的影响可以衡量吗？ 来自 NCC Group Blog： https://t.co/9a1gJADpqx"
+
+Nicolas Krassas @Dinosn
+
+[ Attack ]  Turkey's Entire Citizenship Database May Have Been Leaked https://packetstormsecurity.com/news/view/26497/Turkeys-Entire-Citizenship-Database-May-Have-Been-Leaked.html
+
+﻿"土耳其的公民身份数据库可能已经被泄漏： https://t.co/9lv2lIsjSC"
+
+Iván @aszy
+
+[ Cloud ]  Cloud Forensic Framework For IaaS With Support for Volatile Memory http://trap.ncirl.ie/2068/1/matusbanus.pdf
+
+﻿"云服务环境下的内存取证框架： https://t.co/Sp8hryem1d "
+
+Nicolas Krassas @Dinosn
+
+[ Crypto ]  DROWN – How the deprecated SSLv2 protocol can compromise modern TLS connections. https://truesecdev.wordpress.com/2016/04/04/250/
+
+﻿"DROWN — 被废弃的 SSLv2 协议是如何攻破现代 TLS 连接的：  https://t.co/1WY7X8nsiP"
+
+Microsoft Edge Dev @MSEdgeDev
+
+[ Debug ]  Debug Edge in VS Code, Sublime, or other tools that work with the Chrome Remote Debug Protocol #EdgeWebSummit https://twitter.com/auchenberg/status/717108260709408768
+
+﻿"任何支持 Chrome 远程调试协议的工具（如 VS Code、 Sublime 等）都可以调试 Edge 浏览器： https://t.co/JVllY4LdH9 "
+
+`Ivan @Ivanlef0u
+
+[ Exploit ]  A New CVE-2015-0057 Exploit Technology https://www.blackhat.com/docs/asia-16/materials/asia-16-Wang-A-New-CVE-2015-0057-Exploit-Technology.pdf https://www.blackhat.com/docs/asia-16/materials/asia-16-Wang-A-New-CVE-2015-0057-Exploit-Technology-wp.pdf
+
+﻿"CVE-2015-0057 漏洞（win32k UAF）新的利用技术， BlackHat Asia 2016 会议 Slides：  https://t.co/p7aCh8AdR1  Paper:  https://t.co/E8Zo7CtVPx"
+
+Giuseppe `N3mes1s` @gN3mes1s
+
+[ Firmware ]  A Tour Beyond BIOS Launching a STM to Monitor SMM - https://firmware.intel.com/sites/default/files/A_Tour_Beyond_BIOS_Launching_STM_to_Monitor_SMM_in_EFI_Developer_Kit_II.pdf and STM source code - https://github.com/jyao1/STM
+
+﻿"在当前的 UEFI 架构中， SMM 驱动被加载进 SMRAM， 而 SMRAM 相关的攻击日渐增多，所以有必要监控 SMM 驱动的行为。 这篇 Paper 介绍如何实现一个 STM 监控器，监控 SMM 驱动的行为：  https://t.co/GrvzlHaYVt  STM Github Repo：  https://t.co/XpbXl2fwin "
+
+Claud Xiao @claud_xiao
+
+[ iOS ]  The so called #SideStepper attack (by CheckPoint) is totally not worth to consider. Slides is here (don't read it!): https://www.blackhat.com/docs/asia-16/materials/asia-16-Bashan-Enterprise-Apps-Bypassing-The-iOS-Gatekeeper.pdf
+
+﻿"企业 Apps - 绕过 iOS Gatekeeper， 来自 BlackHat Asia 2016 会议 ︰ https://t.co/8HBUB6QuSq"
+
+Claud Xiao @claud_xiao
+
+[ iOS ]  Potential security problems introduced by iOS hot patching SDKs, episode 2: https://www.fireeye.com/blog/threat-research/2016/04/rollout_or_not_the.html (by @ jxiej)
+
+﻿"iOS 远程 Hot Patch 的利与弊（2）， 来自 FireEye Blog： https://t.co/hmFUjfIy6L"
+
+Alex Balan @Jaymzu
+
+[ IoTDevice ]  Quanta LTE routers: backdoor, backdoor accounts, RCE, weak WPS, hardcoded ssh key and the list goes on #iotsecurity https://pierrekim.github.io/blog/2016-04-04-quanta-lte-routers-vulnerabilities.html
+
+﻿"广达（Quanta） LTE 路由器存在多个安全漏洞（包括后门账户，硬编码密钥， RCE 漏洞， 弱 WPS PIN 等）： https://t.co/8lno4ZauQh"
+
+Binni Shah @binitamshah
+
+[ Linux ]  The initcall mechanism : https://github.com/0xAX/linux-insides/blob/master/Concepts/initcall.md //linux-inside series cont'd cc: @ 0xAX
+
+﻿"Linux 内核 Initcall 的实现机制 ︰ https://t.co/EeYpRR1Zlj "
+
+Binni Shah @binitamshah
+
+[ Linux ]  bcc/BPF : Dynamic Tracing Tools for Linux : https://iovisor.github.io/bcc/ ; ply (Github) : https://github.com/iovisor/ply cc: @ brendangregg
+
+﻿"Linux 动态 Trace 工具, Blog︰ https://t.co/is2SCvsQCn  Github Repo: https://t.co/X7HmeH8jfm "
+
+Evilcry_ @Blackmond_
+
+[ Linux ]  Mounting Bitlocker Volumes Under Linux - http://blog.airbuscybersecurity.com/post/2016/01/Mounting-Bitlocker-Volumes-Under-Linux
+
+﻿"在 Linux 系统挂载 Bitlocker 卷： https://t.co/9lQQmmPKoO"
+
+Threatpost @threatpost
+
+[ NetworkDevice ]  Cisco 'high severity' flaw lets #malware bypass FirePower firewall - http://ow.ly/10hdO7
+
+﻿"Cisco FirePower 防火墙存在高危漏洞，恶意软件可以利用该漏洞绕过防火墙， 来自 ThreatPost 的报道： https://t.co/Y9FGdJoXWp"
+
+Binni Shah @binitamshah
+
+[ Others ]  MIT turns Wi-Fi Into Indoor GPS : http://spectrum.ieee.org/tech-talk/telecom/wireless/mit-turns-wifi-into-indoor-gps
+
+﻿"把 WiFi 变成室内 GPS ︰ https://t.co/UXTnsibFWD"
+
+patchguard @patchguard
+
+[ Others ]  ACTIVE DETECTION AND ESCAPE OF DYNAMIC BINARY INSTRUMENTATION https://www.blackhat.com/docs/asia-16/materials/asia-16-Sun-Break-Out-Of-The-Truman-Show-Active-Detection-And-Escape-Of-Dynamic-Binary-Instrumentation.pdf
+
+﻿"主动检测与动态二进制插桩的逃逸， 来自 BlackHat Asia 2016 会议： https://t.co/HMqasmh5ul"
+
+J Wolfgang Goerlich @jwgoerlich
+
+[ Others ]  Reading @ GRC_Ninja on the Cisco Talos Blog: Research Spotlight: Enabling Evil for Pocket Change http://blog.talosintel.com/2016/04/enabling-evil.html?utm_source=twitterfeed&utm_medium=twitter&utm_campaign=Feed:+feedburner/Talos+(Talos+Blog)&m=1
+
+﻿"域名打折与犯罪活动之间的联系， 来自 Talos Blog: https://t.co/dJCeAcU6wm"
+
+Binni Shah @binitamshah
+
+[ Others ]  PS4-dlclose : Fully implemented dlclose exploit for PS4 w/ included linux loader: https://github.com/kR105/PS4-dlclose ,Details : http://wololo.net/2016/04/02/release-fully-operational-dlclose-exploit-linux-for-ps4-by-kr105/
+
+﻿"PS4 1.76 dlclose Exploit， 内置 Linux Loader， Github Repo: https://t.co/CX3namVXwR  细节 : https://t.co/CcamQuiV0H"
+
+Alvaro Muñoz @pwntester
+
+[ Popular Software ]  Groovy, Scala and other JVM languages are as vulnerable as Java https://github.com/pwntester/JVMDeserialization #javadeser -> #jvmdeser #LetTheHungerGamesBegin
+
+﻿"JVM 反序列化漏洞 PoC： Groovy，Scala ： https://t.co/VFznLhaqPC "
+
+Full Disclosure @SecLists
+
+[ Popular Software ]  [SE-2012-01] Broken security fix in IBM Java 7/8 http://goo.gl/fb/njfLIN #FullDisclosure
+
+﻿"Broken security fix in IBM Java 7/8， 来自 FullDisclosure 公告： https://t.co/6PlTz2OP76 "
+
+MWR Labs @mwrlabs
+
+[ Popular Software ]  New advisory! An UNC NTLM Relay issue @ nmonkee found in SAGE ERP 1000 during a security assessment! https://labs.mwrinfosecurity.com/advisories/sage-erp-1000/
+
+﻿"MWR Labs 在测试 SAGE ERP 1000 系统时发现了一个 UNC NTLM Relay 漏洞： https://t.co/RiL7zNTuHK"
+
+securxcess @securxcess
+
+[ ThreatIntelligence ]  The dangers of bad cyber threat intelligence programs - Help Net Security http://ow.ly/10g7Gm
+
+﻿"烂威胁情报程序的危险： https://t.co/GfOikYiyOB"
+
+Hacker Fantastic @hackerfantastic
+
+[ Tools ]  Very handy binary visualisation tool "biteye" & "vix" http://actinid.org/vix/
+
+﻿"二进制可视化工具 biteye & vix ： https://t.co/KFDKSWFrrv"
+
+PythonArsenal @PythonArsenal
+
+[ Tools ]  Eli.Decode - tool to decode obfuscated shellcodes using the Unicorn engine https://github.com/DeveloppSoft/Eli.Decode
+
+﻿"Eli.Decode - 基于 Unicorn 引擎反混淆 Shellcode 的工具， Github Repo： https://t.co/kZVzc4hGSD "
+
+bugcrowd @Bugcrowd
+
+[ Web Security ]  [POC-Writeup] Obtaining Login Tokens for an Outlook, Office or Azure Account – via @ fin1te http://bgcd.co/1S3XNLv
+
+﻿"获取 Outlook、Office、Azure 账户的登陆 Token: https://t.co/fIzTpuYWBR"
+
+securxcess @securxcess
+
+[ Windows ]  EXD: An attack surface for Microsoft Office | Fortinet Blog http://ow.ly/10g8Vx
+
+﻿"EXD 文件: Microsoft Office 的一个攻击界面， 来自 Fortinet Blog： https://t.co/R7kjDxansc"
