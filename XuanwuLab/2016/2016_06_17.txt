@@ -1,0 +1,176 @@
+Peter Pi @heisecode
+
+[ Android ]  Nice! Google increased Android reward for bugs filed after 6.1! And thanks Google named me as the top researcher! https://security.googleblog.com/2016/06/one-year-of-android-security-rewards.html
+
+﻿" Google 对最近一年 Android 漏洞奖励计划的总结： https://t.co/4Yadh3VxVV"
+
+Lorenzo Franceschi-B @lorenzoFB
+
+[ Attack ]  "Guccifer2" hacker claims responsibility for DNC hack, dumps Trump documents. https://guccifer2.wordpress.com/2016/06/15/dnc/
+
+﻿" 黑客 Guccifer2 声称是自己黑了 DNC（民主党委员会）的服务器，而且还发了一些文档截图证明： https://t.co/gM82RFfpg8 "
+
+Nicolas Krassas @Dinosn
+
+[ Browser ]  ZDI-16-365: Microsoft Internet Explorer s_DestroyLinkCallback Use-After-Free Remote Code Execution Vulnerability http://www.zerodayinitiative.com/advisories/ZDI-16-365/
+
+﻿"IE s_DestroyLinkCallback UAF（CVE-2016-0200），来自 ZDI 公告： https://t.co/m0FguVoQEs"
+
+Nicolas Krassas @Dinosn
+
+[ Browser ]  Chrome GPU Process MailboxManagerImpl Double Read https://packetstormsecurity.com/files/137504/GS20160616153455.tgz
+
+﻿"Chrome 浏览器 GPU 进程 MailboxManagerImpl Double Read 漏洞，来自 Project Zero Issue 780: https://bugs.chromium.org/p/project-zero/issues/detail?id=780  "
+
+Nicolas Krassas @Dinosn
+
+[ Browser ]  ZDI-16-368: Microsoft Edge JavaScript map Method Out-Of-Bounds Write Remote Code Execution Vulnerability http://www.zerodayinitiative.com/advisories/ZDI-16-368/
+
+﻿" Edge 浏览器 JavaScript map 方法越界写漏洞，来自 ZDI 公告，发现者为 lokihardt： https://t.co/Rncm8QftoP"
+
+Tanvi @TanviHacks
+
+[ Browser ]  Check out this experimental Contextual Identity feature released on Firefox Nighty: https://blog.mozilla.org/tanvi/2016/06/16/contextual-identities-on-the-web/
+
+﻿" Firefox 在 Nighty 版本中增加了一个实验性的上下文标识功能 ︰ https://t.co/EbJusy3erV"
+
+Adrian Colyer @adriancolyer
+
+[ Cloud ]  What's the opposite of a sandbox? Shielded execution: protecting apps from an untrusted OS http://blog.acolyer.org/2016/06/16/shielding-applications-from-an-untrusted-cloud-with-haven https://t.co/AvIRmsxsUr
+
+﻿" 基于 Intel SGX，防护非可信云端运行的应用： https://t.co/rC8dh7vMO5 https://t.co/AvIRmsxsUr"
+
+ 
+HITBSecConf @HITBSecConf
+
+[ Conference ]  Videos from the #HITB2016AMS #CommSec track are now online! More videos coming soon - https://www.youtube.com/playlist?list=PLmv8T5-GONwR_nTZuUyHN3AhIAOchFbU0 (RTs greatly appreciated)
+
+﻿" HITB 2016 阿姆斯特丹会议的视频上线了： https://t.co/iJ3zEuOy02 "
+
+Iván @aszy
+
+[ Defend ]  Practical Control-Flow Integrity http://www.cse.psu.edu/~gxt29/paper/BEN_NIU_Dissertation.pdf
+
+﻿" Practical Control-Flow Integrity，来自美国里海大学的 Paper： https://t.co/XvIqOp9Vgh"
+
+Enno Rey @Enno_Insinuator
+
+[ Detect ]  Detecting Lateral Movement in APTs ～Analysis Approach on Windows Event Logs~ https://www.first.org/resources/papers/conf2016/FIRST-2016-105.pdf [PDF] #DFIR https://t.co/mvFcomDf7I
+
+﻿" 通过分析 Windows 事件日志的方法检测 APT 攻击中的横向渗透，来自 FIRST 会议： https://t.co/y04wM2cADT   https://t.co/mvFcomDf7I"
+
+ 
+qwertyoruiop @qwertyoruiopz
+
+[ iOS ]  https://ghostbin.com/paste/qw8z7 - GasGauge double free race condition 0day exploit for iOS 9.3.3b and lower
+
+﻿" 黑客 Luca Todesco 公开了一个 iOS 9.3.3b 版本的 GasGauge Double Free 竞争条件 0Day： https://t.co/P82w2EdL6V-GasGauge  据报道，该 0Day 之所以被公开是因为 iOS 10 已经补掉了这个漏洞，所以在 iOS 10 上用该漏洞越狱已经不再可能： http://www.cnbeta.com/articles/511277.htm "
+
+Binni Shah @binitamshah
+
+[ Linux ]  Linux Assembly : http://asm.sourceforge.net/howto/Assembly-HOWTO.pdf (pdf)
+
+﻿" 汇编语言在 Linux 系统中的使用︰ https://t.co/mXgr0Q6key "
+
+Binni Shah @binitamshah
+
+[ Linux ]  My First 10 Minutes On a Server - Primer for Securing Ubuntu : http://www.codelitt.com/blog/my-first-10-minutes-on-a-server-primer-for-securing-ubuntu/ (lvl - 1*)
+
+﻿" 安装完 Ubuntu Server 后，花 10 分钟做好安全加固︰ https://t.co/3RztrufCmM  "
+
+ZENEDGE @ZENEDGEprotect
+
+[ Linux ]  ZENEDGE Open Sources Linux Kernel Extension for Cybersecurity http://hubs.ly/H02W9XX0 https://t.co/80vKNMx2zm
+
+﻿"ZENEDGE 开源了一个用于网络控制的 Linux 内核扩展，可以在 HTTP 负载均衡后面阻断 IP 黑名单： https://t.co/IsUT2kQxku https://t.co/80vKNMx2zm "
+
+ 
+Nicolas Krassas @Dinosn
+
+[ NetworkDevice ]  Cisco wireless kits are affected by a critical bug but no fix is available http://securityaffairs.co/wordpress/48436/hacking/cisco-wireless-kits-bug.html
+
+﻿" 思科无线套件存在一个严重的漏洞，可以通过特殊构造的 HTTP 请求远程攻击，以 ROOT 身份执行代码，而且可以盗用用户的 Cookie，目前没有可用的补丁： https://t.co/angZawJnsw"
+
+MWR Labs @mwrlabs
+
+[ NetworkDevice ]  Second advisory from @ j0hn__f, default SSH keys on DDN's SFA products with the private keys publicly available :D https://labs.mwrinfosecurity.com/advisories/ddn-default-ssh-keys/
+
+﻿" DDN 存储设备存在默认 SSH 密钥，来自 MWR Labs 的公告︰ https://t.co/f3uT7gUqwz   还有一个固件更新过程存在的漏洞： https://labs.mwrinfosecurity.com/advisories/ddn-insecure-update-process/ "
+
+Palo Alto Networks @PaloAltoNtwks
+
+[ Others ]  Download your own go-to guide for the latest in #cybersecurity: “Network Security Management for Dummies" http://bit.ly/1UapMLF
+
+﻿" 网络安全防御指南，来自 Palo Alto 的电子书：  https://t.co/A0JBtxPKfN"
+
+Binni Shah @binitamshah
+
+[ Others ]  How to write a compiler : http://orangejuiceliberationfront.com/how-to-write-a-compiler/
+
+﻿"如何写一个编译器︰ https://t.co/toJ5pi8WyP"
+
+Timothy D. Morgan @ecbftw
+
+[ Others ]  Advisory: HTTP Header Injection in Python urllib http://blog.blindspotsecurity.com/2016/06/advisory-http-header-injection-in.html (still unfixed in at least some distros). #SSRF
+
+﻿" Python urllib HTTP Header 注入漏洞： https://t.co/6wHnBhKP7n  该漏洞在一些发行版中至今未修复"
+
+HD Moore [afk] @hdmoore
+
+[ Others ]  BadTunnel attack outlined in the DarkReading article (Hurray for details! Similar to the non-local Potato attack): http://www.darkreading.com/vulnerabilities---threats/windows-badtunnel-attack-hijacks-network-traffic/d/d-id/1325875
+
+﻿" BadTunnel 攻击是如何劫持网络流量的，来自 DarkReading 的报道︰ https://t.co/ROlQIhWJMm"
+
+Derek Callaway @decalresponds
+
+[ Others ]  Spy in the Sandbox #whitepaper-track browser's mouse & keyboard behavior w/#JavaScript+#AES side-channel https://bit.ly/1YrUHb8 #encryption
+
+﻿" 《The Spy in the Sandbox: Practical Cache Attacks in JavaScript and their Implications》，浏览器中的缓存边信道攻击， Paper： https://t.co/74DsSpV9wF "
+
+Anders Fogh @anders_fogh
+
+[ Others ]  @ HITBSecConf New blog post [Technical] #HITB2016AMS slides comments: Cache side channel attacks: https://cyber.wtf/2016/06/16/cache-side-channel-attacks-cpu-design-as-a-security-problem/
+
+﻿" CPU 设计上的缓存边信道攻击问题 ︰ https://t.co/lqdAHu792H"
+
+AdobeSecurity @AdobeSecurity
+
+[ Popular Software ]  #Adobe #Flash Player #security updates available (APSB16-18) - details @ http://adobe.ly/1UxWkTn
+
+﻿"Adobe Flash 发布补丁公告(APSB16-18)，本次更新共修复了 36 个漏洞： https://t.co/rSORsrypjo "
+
+Binni Shah @binitamshah
+
+[ Programming ]  BASH Programming : http://tldp.org/HOWTO/Bash-Prog-Intro-HOWTO.html#toc10
+
+﻿"BASH 编程教程 ︰ https://t.co/V1vgUWkLLC"
+
+Nicolas Krassas @Dinosn
+
+[ Protocol ]  Hacking Facebook Accounts with just a phone number through the SS7 protocol http://securityaffairs.co/wordpress/48421/hacking/hacking-facebook-accounts-ss7.html
+
+﻿" 仅需要一个手机号，就可以通过 SS7 协议劫持 Facebook 账号，来自 SecurityAffairs 的报道： https://t.co/x05KTswEWw "
+
+Nicolas Krassas @Dinosn
+
+[ Sandbox ]  Summary of recent Anti-Sandbox Tricks http://joe4security.blogspot.com/2016/06/summary-of-recent-anti-sandbox-tricks.html
+
+﻿" 最近几个月出现的沙盒对抗技术总结，来自 JoeSecurity： https://t.co/aY2cts934Y "
+
+jsoo @_jsoo_
+
+[ Tools ]  Helios - All-in-one Java reverse engineering tool https://github.com/helios-decompiler/Helios
+
+﻿" Helios - Java 逆向工具，自带反编译器： https://t.co/aMhvqXGxNA"
+
+veit @fenceposterror
+
+[ Web Security ]  My slides from #securityfest and #area41 are online. https://speakerdeck.com/luh2/the-tale-of-a-fameless-but-widespread-vulnerability
+
+﻿" 名气不大，但是传播范围很广的一类漏洞 - Cross-Site Script Inclusion (XSSI)： https://t.co/tUDXy7z2wO"
+
+Nicolas Krassas @Dinosn
+
+[ Windows ]  The Windows PowerShell Cheat Sheet is now available! http://hackerhurricane.blogspot.com/2016/06/the-windows-powershell-cheat-sheet-is.html
+
+﻿"Windows PowerShell Logging 手册： https://t.co/fQL2sdmoAO"
