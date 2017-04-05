@@ -1,0 +1,150 @@
+Marco Grassi @marcograss
+
+[ Android ]  [CVE-2016-2443] Qualcomm MSM debug fs kernel arbitrary write - https://marcograss.github.io/security/android/cve/2016/05/03/cve-2016-2443-msm-kernel-arbitrary-write.html
+
+﻿"高通 MSM debugfs 内核任意地址写漏洞（CVE-2016-2443）： https://t.co/QiuOJmBFPd"
+
+Nicolas Krassas @Dinosn
+
+[ Android ]  Linux IPC router binding any port as a control port (CVE-2016-2059) https://www.codeaurora.org/linux-ipc-router-binding-any-port-control-port-cve-2016-2059
+
+﻿"Linux IPC Router 绑定任意端口为控制端口 (CVE-2016-2059)， 漏洞公告：  https://t.co/iGFLE9TqaQ"
+
+Nicolas G @_qll_
+
+[ Browser ]  Finally finished my master's thesis on "Attacking Browser Extensions" → http://nicolas.golubovic.net/thesis/master.pdf repository with test suite follows shortly
+
+﻿" 攻击浏览器的扩展（Firefox/Chrome）： https://t.co/RuUuvz6DaF "
+
+rotlogix @rotlogix
+
+[ Exploit ]  [Blog] ARM Exploit Exercises - https://rotlogix.com/2016/05/03/arm-exploit-exercises/
+
+﻿"ARM 缓冲区溢出 Exploit 练习： https://t.co/A58P9DqzjN"
+
+Binni Shah @binitamshah
+
+[ Linux ]  linux-injector : Utility for injecting executable code into a running process on x86/x64 Linux : https://github.com/dismantl/linux-injector
+
+﻿"linux-injector - 向正在运行的 x86/x64 Linux 进程注入可执行代码的工具︰ https://t.co/VTblnmtmzh"
+
+Arrigo Triulzi @cynicalsecurity
+
+[ Linux ]  Linux kernel BPF JIT spray PoC (requires insecure ko load), update of 2012 PoC for start page address randomisation. https://github.com/01org/jit-spray-poc-for-ksp
+
+﻿"Linux 内核 BPF JIT Spray PoC（要求有驱动加载权限）： https://t.co/XzPLVBVomP  作者在论坛上发了一个帖子： https://forums.grsecurity.net/viewtopic.php?f=7&t=4463 "
+
+Nicolas Krassas @Dinosn
+
+[ Malware ]  Threat Spotlight: Spin to Win...Malware http://blog.talosintel.com/2016/05/spin-to-win-malware.html
+
+﻿"Spin to Win(博彩机小游戏)恶意软件， 来自 Talos Blog： https://t.co/odIGj2Tmfo"
+
+TrendLabs @TrendLabs
+
+[ Malware ]  New post: Lost Door RAT: Accessible, Customizable Attack Tool http://bit.ly/1pYvYxj @ TrendMicro
+
+﻿"Lost Door RAT - 可访问、可自定义的攻击工具， 来自 Trend Micro Blog： https://t.co/jSwPQktXzR  "
+
+Daniel Bilar @daniel_bilar
+
+[ MalwareAnalysis ]  Fast DGA generation with Miasm sandbox https://www.lexsi.com/securityhub/gfast-dga-generation-with-miasm/?lang=en [4 methods; Locky ransomware; see also https://twitter.com/daniel_bilar/status/720354658120650752 ]
+
+﻿" 以 Locky 勒索软件为例谈如何自动化地生成 DGA 域名（基于 Miasm 沙盒）： https://t.co/3N0sIrqsQJ   还有两篇文章可以参考：  https://t.co/FPjULhVKdw  https://t.co/fVnGmajtYT "
+
+Nicolas Krassas @Dinosn
+
+[ OpenSourceProject ]  CVE-2016-3627 CVE-2016-3705: libxml2: stack overflow in xml validator (parser) http://seclists.org/fulldisclosure/2016/May/10
+
+﻿"libxml2 2.9.3 版本 xml 验证器栈溢出漏洞（CVE-2016-3627 CVE-2016-3705）：  https://t.co/RoE7I7SH6U"
+
+Mike_Mimoso @Mike_Mimoso
+
+[ OpenSourceProject ]  . #OpenSSL patches padding oracle attack bug. https://threatpost.com/openssl-patches-two-high-severity-vulnerabilities/117792/ via @ threatpost
+
+﻿"OpenSSL 昨天发布补丁更新，其中修复了两个严重级别漏洞，一个 ASN.1 encoder 内存破坏漏洞，一个 AES-NI CBC MAC 检查时的 Padding Oracle Bug： https://t.co/2Y3KsKrPXn    有人做了一个检测这个 Padding Oracle Bug 的网站： https://filippo.io/CVE-2016-2107/ "
+
+Chris Rohlf @chrisrohlf
+
+[ Others ]  RAP won't protect against. Incorrect code emission bugs in JITs in some situations. Page 14 https://github.com/struct/research/blob/master/Attacking_Clientside_JIT_Compilers_Paper.pdf
+
+﻿"攻击客户端 JIT 编译器： https://t.co/SP4YoinTli"
+
+Chris Rohlf @chrisrohlf
+
+[ Others ]  Heres a look at the future of JIT attacks (as my 2011 mind saw it) http://blogs.technet.com/b/srd/archive/2011/06/14/ms11-044-jit-compiler-issue-in-net-framework.aspx and http://bugs.sun.com/bugdatabase/view_bug.do?bug_id=7056380
+
+﻿"MS11-044 .NET 框架 JIT 编译器的 RCE 漏洞（2011 年）： https://t.co/dRo4Di6CDP  JVM 虚拟机的一个 Crash Bug:  https://t.co/3GFFRfZjhP"
+
+Nicolas Krassas @Dinosn
+
+[ Others ]  Crafting your way through JSON Web Tokens https://www.notsosecure.com/crafting-way-json-web-tokens/
+
+﻿"Crafting your way through JSON Web Tokens(JWT) - JWT 方式在保护资源时不够安全， JWT 签名所用的密钥可被穷举：  https://t.co/ysWdVTAT8W"
+
+Threatpost @threatpost
+
+[ Others ]  Google has flipped the switch on default HTTPS support for Blogspot sites -http://ow.ly/4nocWQ
+
+﻿"Google 为 Blogspot 网站开启默认 HTTPS： https://t.co/3LGdXU76ui"
+
+Evi1m0 @Hi_Evi1m0
+
+[ Others ]  我发布了新文章：《wafCheck.py DEMO - Hook urllib2 / requests》 http://www.n0tr00t.com/2016/05/03/wafCheck_demo.html
+
+﻿" wafCheck.py DEMO - Hook urllib2/requests：  https://t.co/mMvv418plj"
+
+Francisco Alonso @revskills
+
+[ Others ]  GitLab CVE-2016-4340. Privilege escalation via "impersonate" feature https://about.gitlab.com/2016/05/02/cve-2016-4340-patches/
+
+﻿"GitLab "身份模拟"特性存在提权漏洞（CVE-2016-4340）： https://t.co/Iy25W7z8BM "
+
+Full Disclosure @SecLists
+
+[ Pentest ]  New BlackArch Linux ISOs (2016.04.28) and Installer released http://goo.gl/fb/q7Xozv #FullDisclosure
+
+﻿" 为安全研究和渗透测试人员定制的 BlackArch Linux 新版本发布： https://t.co/7cHlhYzghV "
+
+Haifei Li @HaifeiLi
+
+[ Popular Software ]  @ natashenka I used to debug Flash exploit by inserting "trace" line by line, it's a fun at that time! ref: https://sites.google.com/site/zerodayresearch/smashing_the_heap_with_vector_Li.pdf.
+
+﻿"Smashing the Heap with Vector - Flash 高级利用技术: https://t.co/WAaq6m9fRo。"
+
+Nicolas Krassas @Dinosn
+
+[ Popular Software ]  Acunetix WVS 10 Remote Command Execution https://packetstormsecurity.com/files/136886/acunetixwvs10-exec.txt
+
+﻿"Acunetix WVS 10 SYSTEM 权限远程命令执行： https://t.co/TJ8z40GTn3"
+
+ryan huber @ryanhuber
+
+[ Popular Software ]  CVE-2016–3714 - remote code execution in ImageMagick https://medium.com/@ rhuber/imagemagick-is-on-fire-cve-2016-3714-379faf762247#.hwa5glazr
+
+﻿"ImageMagick 远程代码执行漏洞（CVE-2016-3714）， ImageMagick 是一款流行的图像处理、合成、编辑软件，广泛用于 Web 服务中： https://t.co/cFFFocQFLI "
+
+FireEye @FireEye
+
+[ ReverseEngineering ]  Deobfuscating #Python Bytecode http://bddy.me/1W4vV0K #malware https://t.co/kckZpgyWM8
+
+﻿" Python 字节码反混淆， FireEye 最近发现了一种新的混淆样本，通过在字节码级别混淆 py2exe 生成的字节码，防止反编译回 py 脚本： https://t.co/uSoInc4oQi  https://t.co/kckZpgyWM8"
+
+ 
+Tamir Bahar @tmr232
+
+[ Tools ]  New version of IDA IPython is out https://github.com/james91b/ida_ipython/releases/tag/0.5 Still looking for help porting to Linux and OSX.
+
+﻿"IDA IPython 0.5 版本： https://t.co/64CX52q03b。"
+
+Hacker Fantastic @hackerfantastic
+
+[ Tools ]  SysPersist - a SYSTEM persistence service for Win32 https://github.com/mdsecresearch/Publications/raw/master/tools/SysPersist.zip via @ MDSecLabs
+
+﻿"SysPersist - Win32 SYSTEM 持久性服务实现 DEMO 源码： https://t.co/ArhMAeINs5 "
+
+Threatpost @threatpost
+
+[ Windows ]  Windows 10 Anniversary Update is beginning of the end for SHA-1 on Microsoft platforms. https://threatpost.com/microsoft-sha-1-deprecation-final-countdown-begins/117783/
+
+﻿"Windows 10 年度更新标志着 SHA-1 结束的开始， 使用 SHA-1 签名的证书的网站， 在 IE 和 Edge 浏览器上将不再显示绿锁标记：  https://t.co/qEQfLXSvnX"
