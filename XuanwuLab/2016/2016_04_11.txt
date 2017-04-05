@@ -1,0 +1,127 @@
+Symantec @symantec
+
+[ Attack ]  Taiwan targeted with back door #Trojan disguised as antivirus company websites. Learn more: http://symc.ly/1XpoRta https://t.co/7LdD9HaR8V
+
+﻿"台湾遭到 Dripion 后门攻击， Dripion 的 C&C 服务器伪装成反病毒公司的网站 ︰ https://t.co/2wFOmDWTVH https://t.co/7LdD9HaR8V"
+
+ 
+TROOPERS Conference @WEareTROOPERS
+
+[ Defend ]  Very cool talk & results. Similar approach (2009): https://www.ernw.de/wp-content/uploads/ERNW_Newsletter_29_Data_Leakage_Prevention_signed_en.pdf https://twitter.com/quine/status/719197831597268997
+
+﻿"数据泄露保护 - 评估实践， 来自 ERNW 2009 年的一份文档 ︰ https://t.co/aAf8yg1WfF https://t.co/mCgPRzQUUd"
+
+Summit Route @SummitRoute
+
+[ Detect ]  I've open-sourced all the code for what Summit Route originally was supposed to be (an end-point protection product) https://summitroute.com/blog/2016/04/10/SREPP_code_dump/
+
+﻿"Summit Route 公司的终端防护产品开源了： https://t.co/SbEg3ZTkbE   客户端： https://github.com/SummitRoute/srepp_client   服务端： https://github.com/SummitRoute/srepp_server "
+
+Nicolas Krassas @Dinosn
+
+[ IoTDevice ]  Be careful Amazon is selling products infected with malware http://securityaffairs.co/wordpress/46170/malware/amazon-products-infected-with-malware.html
+
+﻿"小心，亚马逊卖的摄像头和监控设备内置恶意软件，来自 SecurityAffairs 的报道： https://t.co/il6d3owoC2"
+
+Binni Shah @binitamshah
+
+[ Linux ]  Professional Linux Kernel Architecture : http://www.lancaster.ac.uk/undergrad/stanev/References/Professional%20Linux%20Kernel%20Architecture.pdf (pdf | 8 Mb)
+
+﻿"Professional Linux Kernel Architecture（书） ︰ https://t.co/y9pOO9v3KG "
+
+Binni Shah @binitamshah
+
+[ Linux ]  Spinlocks : Synchronization primitives in the Linux kernel (Part 1) : https://github.com/0xAX/linux-insides/blob/master/SyncPrim/sync-1.md cc: @ 0xAX //linux-insides* series cont'd
+
+﻿"Linux-Insides 系列文章 - 同步原语之自旋锁 ︰  https://t.co/lgl06xXdig  "
+
+Vitaly Nikolenko @vnik5287
+
+[ Linux ]  vmware + (linux < 4.0) = root? https://lkml.org/lkml/2016/4/5/480. I don't know the root cause but it runs with a user-space pointer...
+
+﻿"Linux 内核 perf_event_open() 可能存在的一个安全问题， 影响所有 3.2 ～ 4 内核版本： https://t.co/9o6D404khj "
+
+Denis Laskov @it4sec
+
+[ Malware ]  Permanent PAGE_GUARD flag to prevent in-memory analysis https://securityintelligence.com/unraveling-zeus-maples-stealth-loader/
+
+﻿"ZeuS.Maple 木马利用 Permanent PAGE_GUARD 标志对抗内存分析： https://t.co/XeIUqRJ5rF"
+
+Binni Shah @binitamshah
+
+[ Malware ]  Camouflage in Malware : from Encryption to Metamorphism : http://ijcsns.org/07_book/201208/20120813.pdf (pdf) #back2back
+
+﻿"恶意软件中的伪装技术 ︰ 从加密到变形， 来自 2012 年的一篇 Paper ︰ https://t.co/ok8Yvg6mVo  "
+
+Jonathan Salwan @JonathanSalwan
+
+[ MalwareAnalysis ]  Slides of our talk about Dynamic Binary Analysis and Obfuscated Codes at @ sth4ck 2016 http://triton.quarkslab.com/files/sthack2016-rthomas-jsalwan.pdf
+
+﻿"动态二进制分析与代码混淆，其中作者还介绍了一个分析框架 Triton， 来自 St'Hack 2016 会议： https://t.co/DOpxQt6iFi "
+
+Binni Shah @binitamshah
+
+[ MalwareAnalysis ]  Reverse Engineering by Crayon: Game Changing Hypervisor Based Malware Analysis and Visualization : http://www.blackhat.com/presentations/bh-usa-09/QUIST/BHUSA09-Quist-RevEngCrayon-SLIDES.pdf (Slides) #bhusa09
+
+﻿"基于 Hypervisor 的恶意软件分析和可视化，来自 BlackHat 2009 会议的演讲 ︰ https://t.co/5voju3RT2E "
+
+zl @quine
+
+[ Others ]  Our slides (me + @ aloria) from #bhasia are up at https://speakerdeck.com/quine/the-kitchens-finally-burned-down-dlp-security-bakeoff
+
+﻿"厨房最终还是被烧毁了： DLP 安全研究， 来自 BlackHat Asia 2016 会议： https://t.co/gdiQuzXmKk"
+
+Dan Luu @danluu
+
+[ Others ]  Another month, another CPU bug that lets VMs attack their hosts https://lists.debian.org/debian-security/2016/03/msg00084.html https://twitter.com/danluu/status/686241276472082432
+
+﻿"AMD 微码更新，修复了一个 CPU Bug，该 Bug 可以被虚拟机用来攻击 Host 机： https://t.co/P1Pya5yjz1 https://t.co/KGZieZ2YEm "
+
+Binni Shah @binitamshah
+
+[ ReverseEngineering ]  Reverse Engineering Malware (Part 1) : https://www.exploit-db.com/docs/18810.pdf (pdf)
+
+﻿"恶意软件逆向 (Part 1)，作者为 Arunpreet Singh: https://t.co/t8ZL55OuVp "
+
+Sarah Jamie Lewis @SarahJamieLewis
+
+[ Tools ]  OnionScan has now been released: https://github.com/s-rah/onionscan - Start Fixing & Happy Hacking. https://t.co/mRAjMr1VL9
+
+﻿"OnionScan - 洋葱网络服务漏洞扫描工具: https://t.co/UmhDPEg10P   https://t.co/mRAjMr1VL9"
+
+ 
+Masato Kinugawa @kinugawamasato
+
+[ Web Security ]  Blogged! / Abusing docmode inheritance: EasyXDM 2.4.19 DOMXSS http://mksben.l0.cm/2016/04/easyxdm-xss-docmode-inheritance.html (English) http://masatokinugawa.l0.cm/2016/04/easyxdm-xss-docmode-inheritance.html (日本語)
+
+﻿"滥用 docmode 继承 ︰ EasyXDM 2.4.19 DOMXSS： （英文版）： https://t.co/yxrsSm9pmo  （日文版）：  https://t.co/XDlNX5AvoZ  "
+
+WebAppWhisperer @snyff
+
+[ Web Security ]  My slides on "Web security" from last Ruxmon: https://s3.amazonaws.com/pentesterlab-others/web_security.pdf
+
+﻿"PentesterLab 在上届 Ruxmon 会议的演讲：《Web 应用安全》: https://t.co/oiLYxM1ziB"
+
+vaping priest @stdlib
+
+[ Web Security ]  and, likewise, Web NFC! https://w3c.github.io/web-nfc/
+
+﻿"W3C Web NFC API 社区草案：  https://t.co/2bOHLI8AoV"
+
+FireF0X @hFireF0X
+
+[ Windows ]  Windows 10 RS1 build 14316 fixed IIS based uac bypass. Only legit InetMgr.exe allowed to run&amp;autoelevate from inetsrv directory now.
+
+﻿"Windows 10 RS1 Build 14316 修复了一个基于 IIS 的 UAC Bypass。现在只有合法的 InetMgr.exe 才允许从 inetsrv 目录执行和提取"
+
+FireF0X @hFireF0X
+
+[ Windows ]  New syscalls of Windows10 RS1 14316 -> https://raw.githubusercontent.com/hfiref0x/SyscallTables/master/Binary/syscalls.txt RegistryTransaction object and corresponding API set.
+
+﻿"Windows 10 RS1 Build 14316 最新的系统调用列表： https://t.co/k1zwxS8WlZ "
+
+Binni Shah @binitamshah
+
+[ WirelessSecurity ]  Reverse engineering a Digital Two way Radio : https://www.youtube.com/watch?v=cE4f6JaBfSI cc: @ travisgoodspeed
+
+﻿"逆向数字双向无线电， 来自 Troopers 会议，Youtube 视频 ︰ https://t.co/dakeibaohV  "
