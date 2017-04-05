@@ -1,0 +1,140 @@
+packet storm @packet_storm
+
+[ Android ]  Android IOMX getConfig/getParameter Information Disclosure https://packetstormsecurity.com/files/136632 #exploit
+
+﻿"Android IOMX getConfig/getParameter 信息泄漏漏洞（CVE-2016-2417）， 来自 Project Zero Issue 711: https://bugs.chromium.org/p/project-zero/issues/detail?id=711  "
+
+Binni Shah @binitamshah
+
+[ Android ]  iOS & Android vulnerable to 2FA attack - How Anywhere Computing Just Killed Two-Factor Authentication (2FA) : https://docs.google.com/viewer?url=http%3A%2F%2Ffc16.ifca.ai%2Fpreproceedings%2F24_Konoth.pdf (pdf)
+
+﻿"随着越来越多的手机应用实现了跨平台同步，双因素认证所依赖的隔离环境在逐步减弱。这篇 Paper 谈这类应用是如何 Kill 掉双因素认证机制的 : https://t.co/XUQqRAS0cC    还有一篇文章参考： http://www.few.vu.nl/~vvdveen/bandroid.html "
+
+Jóseph Mlodzìanowskì @cedoxX
+
+[ Attack ]  Mumblehard spam-spewing botnet floored German CERT contacting admins of infected linux servers ~ http://m.theregister.co.uk/2016/04/07/mumblehard_spam_botnet_takedown/
+
+﻿"ESET 与 CyS-CERT、乌克兰网警合作，成功结束掉了 Mumblehard Botnet 的所有的攻击活动： https://t.co/vyvf3wCj5F  ESET 的分析报告： http://www.welivesecurity.com/2016/04/07/mumblehard-takedown-ends-army-of-linux-servers-from-spamming/ "
+
+andreasgal @andreasgal
+
+[ Browser ]  Tofino, Mozilla's new experimental desktop browser based on Chromium/Electron (following in @ Brave's footsteps): https://medium.com/project-tofino/browsers-innovators-dilemma-and-project-tofino-ef634c6164f0#.skrqr83w9
+
+﻿"Mozilla Tofino 项目 - Mozilla 对浏览器的新探索，Github 上介绍这个项目是浏览器交互实验︰ https://t.co/l1PrCXrcnm   Github Repo： https://github.com/mozilla/tofino "
+
+.mario @0x6D6172696F
+
+[ Browser ]  WebRTC Test Landing Page http://mozilla.github.io/webrtc-landing/
+
+﻿"Mozilla WebRTC 实现 Demo 页面：  https://t.co/XdJ6C36QzB"
+
+Nicolas Krassas @Dinosn
+
+[ iOS ]  If You Can't Break Crypto, Break the Client: Recovery of Plaintext iMessage Data https://www.bishopfox.com/blog/2016/04/if-you-cant-break-crypto-break-the-client-recovery-of-plaintext-imessage-data/
+
+﻿"破不了加密算法，那就攻击客户端： iMessage 明文数据恢复： https://t.co/eu45AFJeqR"
+
+Juan Carlos Jiménez @Palantir555
+
+[ IoTDevice ]  I’m writing a series of posts on basic Reverse Engineering of embedded systems :) Part 1 - Hunting for Debug Ports: http://jcjc-dev.com/2016/04/08/reversing-huawei-router-1-find-uart/
+
+﻿"嵌入式设备逆向之寻找华为 HG 533 路由器的调试端口︰ https://t.co/tiucLJrrce"
+
+Nicolas Krassas @Dinosn
+
+[ Malware ]  Nuclear Drops Tor Runs and Hides http://blog.talosintel.com/2016/04/nuclear-tor.html
+
+﻿"Talos 一直在监控 Nuclear Exploit Kit 的变化，最近他们发现了一个会释放 Tor 客户端的样本：  https://t.co/NaEIGfOBGA"
+
+EFF @EFF
+
+[ Network ]  WordPress is automatically turning on HTTPS encryption for every site they host, thanks to @ letsencrypt: https://en.blog.wordpress.com/2016/04/08/https-everywhere-encryption-for-all-wordpress-com-sites/
+
+﻿"WordPress 将为它宿主的所有的网站自动启用 HTTPS 加密 ︰ https://t.co/xKiw2TiFVE"
+
+Binni Shah @binitamshah
+
+[ NetworkDevice ]  Over 135 million modems (ARRIS (Motorola)) vulnerable to denial-of-service flaw : http://www.securityforrealpeople.com/2016/04/arris-motorola-surfboard-modem.html ,More : http://seclists.org/fulldisclosure/2016/Apr/8
+
+﻿"ARRIS SURFboard 6141 有线 Modem 存在 CSRF 漏洞，未授权用户即可使路由器重启。1.35 亿设备受影响 ︰ https://t.co/gdqVGfVO6f    FullDisclosure 的公告 ︰ https://t.co/WBqd5Npo5Q"
+
+Binni Shah @binitamshah
+
+[ Others ]  Writing your own Parser : http://resources.infosecinstitute.com/writing-your-own-parser/
+
+﻿"如何写一个 Parser， 来自 InfoSec 2013 年的一篇 Blog ︰ https://t.co/Ws8kVgqbED"
+
+Binni Shah @binitamshah
+
+[ Others ]  Japan To Begin Testing Fingerprints As 'Currency' : http://the-japan-news.com/news/article/0002859676 > Did I hear hackers cheering up ?
+
+﻿"日本正在测试指纹支付 :  https://t.co/2uCZBni48d "
+
+.mario @0x6D6172696F
+
+[ Others ]  NoScript 2.9.0.11 is out, fixes several XSS filter bypasses caused by a broken build script. One of them: &lt;b onbeforescriptexecute=alert(1)&gt;
+
+﻿"NoScript 2.9.0.11 修复了由错误的 Build 脚本引入的 XSS Filter Bypass 漏洞，其中一个 ︰ <b onbeforescriptexecute=alert(1) > "
+
+Binni Shah @binitamshah
+
+[ Pentest ]  Metasploit Unleashed : https://community.rapid7.com/docs/DOC-2227 ( *pdf)
+
+﻿"Metasploit 框架文档中心， 来自 Rapid7 ︰ https://t.co/IIK9uGeVKg  "
+
+Nicolas Krassas @Dinosn
+
+[ Popular Software ]  A Look Into Adobe Flash Player CVE-2016-1019 Zero-Day Attack http://blog.trendmicro.com/trendlabs-security-intelligence/look-adobe-flash-player-cve-2016-1019-zero-day-vulnerability/
+
+﻿"Adobe Flash Player CVE-2016-1019 0Day 攻击分析， 来自 TrendMicro Blog： https://t.co/ZEkRV2mUgA"
+
+Nicolas Krassas @Dinosn
+
+[ ReverseEngineering ]  Reverse engineering the popular 555 timer chip (CMOS version) http://www.righto.com/2016/04/teardown-of-cmos-555-timer-chip-how.html
+
+﻿"LMC555 定时器芯片逆向 （CMOS 版本）：  https://t.co/YtlXdoauEN"
+
+Nicolas Krassas @Dinosn
+
+[ Tools ]  Framework for Making Environmental Keyed Payloads https://github.com/Genetic-Malware/Ebowla
+
+﻿"Ebowla - 环境键控的 Payload 生成框架， Github Repo： https://t.co/aXgFVy5Q3h  作者在Infiltrate 会议的演讲： https://github.com/Genetic-Malware/Ebowla/raw/master/Infiltrate_2016_Morrow_Pitts_Genetic_Malware.pdf  "
+
+jim fear @snare
+
+[ Tools ]  Voltron with WinDbg/CDB support (using PyKD by @ ussrhero) is on GitHub now. https://github.com/snare/voltron https://t.co/I2vRnoKwmW
+
+﻿"Voltron - 调试器的 UI 扩展，用于提高调试器的用户体验。现在支持 Windbg/CDB 了：  https://t.co/mvmZpAIHt1 https://t.co/I2vRnoKwmW"
+
+ 
+Kacper Szurek @KacperSzurek
+
+[ Web Security ]  #Monstra 3.0.1 Privilege Escalation #CVE-2014-9257 http://security.szurek.pl/monstra-301-privilege-escalation.html They fix it after sarimkiani Full Disclosure on github
+
+﻿"Monstra CMS（内容管理系统）3.0.1 版本提权漏洞（CVE-2014-9257）， 附 PoC： https://t.co/43qRORyG4y"
+
+Full Disclosure @SecLists
+
+[ Web Security ]  [CVE-2016-3972]DotCMS Directory traversal vulnerability http://goo.gl/fb/3R71Tm #FullDisclosure
+
+﻿"DotCMS 3.5 Beta 版目录遍历漏洞（CVE-2016-3972）， 来自 FullDisclosure 公告： https://t.co/lNlwFFingD "
+
+Nicolas Krassas @Dinosn
+
+[ Web Security ]  Google UI-Redressing Bug That Discloses The User's Email Address http://blog.mazinahmed.net/2016/03/google-ui-redressing-bug-that-discloses-email-addresses.html
+
+﻿"Google Blogger 存在 UI 矫正的 Bug，攻击者可以借此获取用户的邮箱地址： https://t.co/r8wV7ImZ8H"
+
+Jóseph Mlodzìanowskì @cedoxX
+
+[ Windows ]  How to Run Ubuntu on latest Windows 10 Insider Preview Build 14316 http://thehackernews.com/2016/04/how-to-run-ubuntu-on-windows-10.html #Ubuntu #Security
+
+﻿"如何在 Windows 10 Insider Preview Build 14316 版本运行 Ubuntu， 来自 TheHackerNews： https://t.co/6wDRuFqZYz  "
+
+FireF0X @hFireF0X
+
+[ Windows ]  Leo Davidson UAC autoelevation method extended, simple, no need any "injects" http://www.kernelmode.info/forum/viewtopic.php?f=11&t=3643&p=28249#p28249 w7-RS1 #uacme https://t.co/T9D439TsxE
+
+﻿"Leo Davidson 的 UAC Bypass 方法， 来自 KernelMode 论坛： https://t.co/B1y0MqbB5a   https://t.co/T9D439TsxE"
+
+ 
