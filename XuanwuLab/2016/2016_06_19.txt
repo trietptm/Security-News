@@ -1,0 +1,124 @@
+Keystone Engine @keystone_engine
+
+[ Android ]  Strongdb is a new GDB plugin using ARM assembler of Keystone for #Android debugging! https://github.com/cx9527/strongdb https://t.co/m6h4QUkoKj
+
+﻿"Strongdb - 用于辅助调试 Android Native 的 GDB UI 插件，使调试 Native 程序时有更友好的界面：  https://t.co/G8W6UUcETR https://t.co/m6h4QUkoKj"
+
+ 
+Binni Shah @binitamshah
+
+[ Attack ]  Deconstructing The DAO Attack: A Brief Code Tour : http://vessenes.com/deconstructing-thedao-attack-a-brief-code-tour/ ,Cached : http://goo.gl/gOAs0M
+
+﻿" 以太币去中心化组织 TheDao 被黑，超 5000 万美元以太币被盗， Vessenes 从代码角度的分析︰ https://t.co/LBC2xhjzmi  对 Exploit 的分析： http://hackingdistributed.com/2016/06/18/analysis-of-the-dao-exploit/ "
+
+Full Disclosure @SecLists
+
+[ Browser ]  CVE-2016-0199 / MS16-063: MSIE 11 garbage collector attribute type confusion http://goo.gl/fb/dk4dDv #FullDisclosure
+
+﻿" IE 11 浏览器 GC 属性类型混淆漏洞 PoC（CVE-2016-0199/MS16-063）： https://t.co/pHF3KAdlEX "
+
+Jason Geffner @JasonGeffner
+
+[ Debug ]  Debug Java via Python! Both pyspresso and JavaJournal are now available for download via https://github.com/CrowdStrike/pyspresso and https://pypi.python.org/pypi/pyspresso
+
+﻿" pyspresso - 基于 Python 的一个 Java 调试框架， GitHub Repo： https://t.co/q6FeQh7LUx   Python 库下载：  https://t.co/bawgL3czxe"
+
+the grugq @thegrugq
+
+[ Detect ]  Acceleration of Statistical Detection of 0day Malware in the Memory Dump Using CUDA-enabled GPU HW HT: @ semibogan http://arxiv.org/abs/1606.04662
+
+﻿" 基于启用 CUDA 的 GPU，从内存 DUMP 中检测 0Day 恶意软件， Paper： https://t.co/0GmVHlTeiL"
+
+Evilcry_ @Blackmond_
+
+[ Hardware ]  CPU DB - An exhaustive database of microprocessor characteristics for researchers: http://cpudb.stanford.edu/
+
+﻿"CPU DB - 一份非常详细的 CPU 数据库，来自斯坦福大学 ︰ https://t.co/g1HMlXawJK"
+
+Comsecuris @Comsecuris
+
+[ Hardware ]  Slides for our #Samsung baseband research presented @ reconmtl: https://comsecuris.com/slides/recon2016-breaking_band.pdf
+
+﻿" Samsung 基带实现中的安全漏洞及利用，来自 RECon 会议: https://t.co/eteRJQJ48W "
+
+Marco Grassi @marcograss
+
+[ iOS ]  This was the xpc code in 9.2 using the untrusted index directly, between 9.3.1 and 9.2 it got fixed (dunno exactver) https://t.co/FTFtsTzUHR
+
+﻿" iOS 9.2 版本的 XPC 模块代码直接使用了一个不可信的索引， marcograss 的 Blog： https://marcograss.github.io/security/apple/xpc/2016/06/17/containermanagerd-xpc-array-oob.html "
+
+ 
+Randy Olson @randal_olson
+
+[ MachineLearning ]  A list of 16+ free #MachineLearning books: https://hackerlists.com/free-machine-learning-books/ #DataScience #BigData https://t.co/tZ93wYd0ZO
+
+﻿"16 本免费的机器学习电子书 ︰ https://t.co/lvnPcUZX7E  "
+
+ 
+Binni Shah @binitamshah
+
+[ macOS ]  Shooting the OSX El Capitan Kernel Like a Sniper : https://speakerdeck.com/flankerhqd/shooting-the-osx-el-capitan-kernel-like-a-sniper (Slides)
+
+﻿" Shooting the OSX El Capitan Kernel Like a Sniper（像狙击手一样攻击 OS X 内核），来自腾讯科恩实验室 Flanker 和陈良在 RECon 会议的演讲︰ https://t.co/rLQ3YkVvXP  "
+
+Johannes Bader @viql
+
+[ Malware ]  Wrote a blog post about #Proslikefan, a comprehensive Javascript-based malware with domain generation algorithm #dga https://johannesbader.ch/2016/06/proslikefan
+
+﻿" JavaScript 蠕虫 Proslikefan DGA 分析： https://t.co/Airm5atIj3  "
+
+McAfee Labs @McAfee_Labs
+
+[ Mitigation ]  #Microsoft's June patch kills potential CFG bypass. We provide a deep look into the code. http://intel.ly/1WSjDcH https://t.co/hqCqxphyAU
+
+﻿" 微软本月的补丁中修复了一个潜在的 CFG Bypass 漏洞，来自 McAfee Blog 的分析：  https://t.co/LOwcP5uYhH https://t.co/hqCqxphyAU"
+
+ 
+HD Moore @hdmoore
+
+[ Network ]  Fun with BadTunnel (http://xlab.tencent.com/en/2016/06/17/BadTunnel-A-New-Hope/) -> Metasploit PR https://github.com/rapid7/metasploit-framework/pull/6990
+
+﻿" 《BadTunnel - 跨网段劫持广播协议》： http://drops.wooyun.org/papers/16925   HD Moore 在 Metasploit 中添加的 BadTunnel 攻击模块：  https://t.co/euXj3kpcxX"
+
+HD Moore @hdmoore
+
+[ Network ]  Additional BadTunnel PoCs: Wait-and-Respond (for NAT): https://gist.github.com/hdm/041641b6896779ebb77e04a578001c28 + Spam-Local (direct LAN attack): https://gist.github.com/hdm/8825b88f7c266b605c0973b1664898bf
+
+﻿" HD Moore 为 BadTunnel 写的两个攻击模块， NetBIOS Brute NAT: https://t.co/xBVrPEDQtf  NetBIOS Brute Local︰ https://t.co/SOLXQwwnnU"
+
+Binni Shah @binitamshah
+
+[ Others ]  JPEG 101 - How does JPEG work? : http://arjunsreedharan.org/post/146070390717/jpeg-101-how-does-jpeg-work
+
+﻿"JPEG 压缩算法是如何工作的: https://t.co/S9GH8rrCa8"
+
+Full Disclosure @SecLists
+
+[ Popular Software ]  [CVE-2016-1014] Escalation of privilege via executable (un)installers of… http://goo.gl/fb/vhSXop #FullDisclosure
+
+﻿" Adobe Flash Player 安装包文件存在 DLL 劫持漏洞（CVE-2016-1014）： https://t.co/JG9VX3Ingp "
+
+Binni Shah @binitamshah
+
+[ Popular Software ]  Writing a 0patch for Acrobat Reader's Use-After-Free Vulnerability CVE-2016-1077 : http://0patch.blogspot.in/2016/06/writing-0patch-for-acrobat-readers-use.html https://t.co/0MfXBkRucu
+
+﻿" 为 Acrobat Reader CVE-2016-1077 漏洞写一个 Zero Patch: https://t.co/9hJv3IID2p "
+
+ 
+Nicolas Krassas @Dinosn
+
+[ Tools ]  Esh - Statistical Similarity of Binaries http://www.binsim.com/
+
+﻿"Esh - 二进制代码相似性比较工具： https://t.co/Uihp4lluEF"
+
+Eric Zimmerman @EricRZimmerman
+
+[ Tools ]  Just in time for the weekend, Registry Explorer v0.8.1 is released!! Plugin support and TONS more!! https://binaryforay.blogspot.com/2016/06/registry-explorer-0810-released.html #DFIR
+
+﻿" 注册表查看工具 Registry Explorer 更新 0.8.1 版本： https://t.co/c7ACgOK7zX"
+
+James Forshaw @tiraniddo
+
+[ Windows ]  Download link for my slides for my #reconmtl 2016 presentation on Windows Processes, Process Failure Modes https://drive.google.com/file/d/0B5sMkPVXQnfPaVB6T2N3Mk5UX28/view
+
+﻿" 来自 James Forshaw 在 RECon 会议的演讲《Process Failure Modes》，主要讲 Windows 进程创建相关的 API 及安全漏洞： https://t.co/yzNT6eO5dU "
