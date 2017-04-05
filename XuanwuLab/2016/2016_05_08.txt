@@ -1,0 +1,155 @@
+Jeff Vander Stoep @jeffvanderstoep
+
+[ Android ]  How to test your script/binary in the same security context as a regular third party app (UID/GID/SELinux-domain): http://jeffvanderstoep.blogspot.com/2016/01/android-how-to-run-executable-from-adb.html
+
+﻿" 在测试脚本和二进制程序时，如何通过 adb 让测试程序以沙箱内的环境和权限运行：  https://t.co/AfsYXvPl0z"
+
+Alaeddine Mesbahi @3asm_
+
+[ Android ]  Now blog post on the better ways to pentest Android apps (filesystem, dynamic, static ...) http://buff.ly/1WONaSR
+
+﻿" Android APP 渗透测试的第一步 - 搭建环境、反编译、API 监控、文件系统监控、Java 调试： https://t.co/j78BI4Lpgc"
+
+Threatpost @threatpost
+
+[ Attack ]  . #Stuxnet 2010 bugs among most targeted flaws identified in @ Microsoft #SIR https://threatpost.com/old-exploits-die-hard-says-microsoft-report/117918/
+
+﻿"上周四微软发布威胁情报报告，报告中提到，旧 Exploit 难以根除，新 Exploit 即将来袭： https://t.co/6gTHxNvys7  报告下载： http://download.microsoft.com/download/E/8/B/E8B5CEE5-9FF6-4419-B7BF-698D2604E2B2/Microsoft_Security_Intelligence_Report_Volume_20_English.pdf "
+
+securxcess @securxcess
+
+[ Attack ]  IT threat evolution in Q1 2016 - Securelist http://ow.ly/4ntXd2
+
+﻿"Kaspersky 发布《2016 年第一季度威胁趋势报告》：  https://t.co/fucunkTVYM"
+
+Bart @bartblaze
+
+[ Backdoor ]  I've made a Github repo with a collection of #PHP backdoors. For educational/testing purposes only. Includes tools. https://github.com/bartblaze/PHP-backdoors
+
+﻿"PHP-backdoors - PHP 后门收集， GitHub Repo https://t.co/CXA7C6H9TN"
+
+4B5F5F4B @4b5f5f4b
+
+[ Browser ]  @ oldfresher 's exploit for CVE-2015-6764 is awesome, I added some comments to help newbies to understand it.https://github.com/4B5F5F4B/Exploits/tree/master/CVE-2015-6764
+
+﻿"KK 为 oldfresher 的 v8 利用代码（CVE-2015-6764）加了注释，方便新手理解。oldfresher 用此漏洞参加的 Pwn2Own Mobile 2015 比赛： https://t.co/DH3tLq1aRO"
+
+Nasko Oskov @nasko
+
+[ Browser ]  Slowly, but surely reducing Chromium attack surface: https://groups.google.com/a/chromium.org/forum/#!topic/blink-dev/lyuWXZ_1kXo. Thanks @ meacer!
+
+﻿"Blink（Chromium）项目将要禁止通过 <a> 标签、window.open、window.location 打开 view-source， 来自 Blink 邮件组 ︰ https://t.co/P1ygXO13n9 "
+
+jsoo @_jsoo_
+
+[ Conference ]  The slides for xKungFoo 2016 https://drive.google.com/folderview?id=0B_thUFNIy8TdZjhNczBxNEl3MkU&usp=sharing
+
+﻿"xKungFoo 2016 会议 Slides:  https://t.co/XdCTvrJWDP "
+
+jsoo @_jsoo_
+
+[ Conference ]  The slides for 0Con 2016 https://drive.google.com/folderview?id=0B_thUFNIy8TdcnhrMVJmREowU3M&usp=sharing
+
+﻿"0Con 2016 会议 Slides： https://t.co/v476okwji5 "
+
+jsoo @_jsoo_
+
+[ Conference ]  The slides for 2016京·聚沙龙 is out. https://drive.google.com/folderview?id=0B_thUFNIy8TdX3F6NUFCYnlZbU0&usp=sharing
+
+﻿"2016 京·聚沙龙会议 Slides： https://t.co/6NXW6rsc7x"
+
+Francisco Alonso @revskills
+
+[ iOS ]  iOS HTTP cache analysis for abusing APIs and forensics https://blog.silentsignal.eu/2016/05/06/ios-http-cache-analysis-for-abusing-apis-and-forensics/
+
+﻿"iOS API 与取证 - 有些 APP 使用 NSURLRequest 处理 HTTP 请求，而 NSURLRequest 会将数据写入缓存： https://t.co/6XmspbU9es "
+
+PartyTime.EXE @PartyTimeDotEXE
+
+[ IoTDevice ]  Slides from my @ thotcon talk on @ esp8266 psionics / embedded exploitation are up at https://speakerdeck.com/jsandin/the-complete-esp8266-psionics-handbook thanks to folks who attended!!
+
+﻿"Exploit ESP8266 SOC 嵌入式平台， Slides： https://t.co/5OEH6X16Ch!!"
+
+hasherezade @hasherezade
+
+[ Malware ]  My new post for @ Malwarebytes - about evolution of #7ev3n #ransomware : https://blog.malwarebytes.org/threat-analysis/2016/05/7ev3n-ransomware/
+
+﻿" 7ev3n 勒索软件进化新版本，名叫 '7ev3n-HONE$T'，来自 MalwareBytes 的分析: https://t.co/n8WA8PJTRb"
+
+securxcess @securxcess
+
+[ Malware ]  Dridex Botnet Hacked for the Third Time in Three Months http://ow.ly/4nu8Oj
+
+﻿"黑客攻破 Dridex 的僵尸网络，将 Locky 勒索软件替换为 'Stupid Locky' 文本文件。 这是近 3 个月内 Dridex 僵尸网络第三次被攻击： https://t.co/VQXYkmFpBu"
+
+PhysicalDrive0 @PhysicalDrive0
+
+[ Malware ]  New #Fareit Variant Analysis http://blog.fortinet.com/post/new-fareit-variant-analysis
+
+﻿"以窃取信息为目的的 Fareit 家族新变种样本分析，来自 Fortinet Blog： https://t.co/239U3EDxcf"
+
+Christopher Soghoian @csoghoian
+
+[ Network ]  Surprisingly easy-to-read white paper from @ ptsecurity on the number of ways you can be spied on by hacking SS7. http://www.ptsecurity.com/upload/ptcom/SS7_WP_A4.ENG.0036.01.DEC.28.2014.pdf
+
+﻿"来自 PtSecurity 的 SS7 Hacking Report： https://t.co/p19HldaF9t"
+
+Martin Probst @martin_probst
+
+[ OpenSourceProject ]  Heads up: I'm implementing context aware auto-escaping in Angular 2 to protect your apps from XSS bugs. See https://github.com/angular/angular/issues/8511
+
+﻿" Angular 框架正在实现上下文感知的 Auto-Escape 功能，用于解决 APP XSS 的问题： https://t.co/SjYbr8und0"
+
+Nicolas Krassas @Dinosn
+
+[ Others ]  Return of the Rhino: a new Java Deserialization Gadget https://codewhitesec.blogspot.com/2016/05/return-of-rhino-old-gadget-revisited.html
+
+﻿"Rhino 的回归 - 作者在 JRE 的 Rhino 脚本引擎代码中发现了很多存在反序列化漏洞的类： https://t.co/KRuB5kXz4Z  之前推送过作者在 Infiltrate 会议关于这个话题的演讲： http://www.slideshare.net/codewhitesec/java-deserialization-vulnerabilities-the-forgotten-bug-class  另外，这个 Rhino 脚本引擎之前经常被用于逃逸 JVM 沙箱"
+
+Nicolas Krassas @Dinosn
+
+[ Others ]  Security & Pentesting Resources http://in-addr.nl/security-links.php
+
+﻿"安全领域多个方向的资料链接收集，包括二进制、CTF、加密、取证、Windows、Linux 等： https://t.co/oj7FAY2JhL"
+
+Frank Denis @jedisct1
+
+[ Others ]  Inside Dropbox’ Magic Pocket https://blogs.dropbox.com/tech/2016/05/inside-the-magic-pocket/
+
+﻿"Dropbox 自己开发了一套 'Magic Pocket' 存储系统，不再使用 AWS，这篇 Blog 谈 Magic Pocket 的架构： https://t.co/b5BdjH01GK"
+
+Francisco Alonso @revskills
+
+[ Others ]  Phrack is back! http://phrack.org/issues/69/1.html
+
+﻿"停更 4 年多的 Phrack 终于更新了：  https://t.co/vlsgMHzfed"
+
+Joseph Cox @josephfcox
+
+[ Popular Software ]  Burn your Lenovo spyware; burn it all https://twitter.com/ProfWoodward/status/728619985275392000
+
+﻿"联想修复解决方案中心（Lenovo Solution Center）的提权漏洞（CVE-2016-1876）： https://t.co/U33N2hpJdA  联想的公告： https://support.lenovo.com/us/zh/product_security/len_4326 "
+
+undamned @therealundamned
+
+[ Programming ]  If you write embedded C code and aren't familiar with how or why to use "volatile," here is a great read: http://www.barrgroup.com/Embedded-Systems/How-To/C-Volatile-Keyword
+
+﻿" 如果你写过 C 代码，并且对 'volatile' 关键词不太熟悉，不知道什么时候用，可以读读这篇 ︰ https://t.co/qxKJseQcSQ"
+
+Jerry Gamblin @JGamblin
+
+[ Tools ]  Fierce - A Python rewrite of the classic DNS reconnaissance tool. http://ow.ly/KOHc3000W7Q
+
+﻿"Fierce - Python 写的一个 DNS 探测工具，可以根据域名获取非连续的 IP 区间： https://t.co/NxzaArTZLz"
+
+argp @_argp
+
+[ Tools ]  Btw, we (ppl at CENSUS) are working on supporting latest Android's jemalloc in shadow (https://github.com/CENSUS/shadow).
+
+﻿"Census Shadow - Firefox/jemalloc 堆利用瑞士军刀，之前推送过这个工具，该工具目前正在考虑支持 Android jemalloc：  https://t.co/9S29bI73IL "
+
+Andrea Allievi @aall86
+
+[ Windows ]  Cool API! :) https://twitter.com/JohnLaTwC/status/728617071328645120
+
+﻿" Windows 8 以上版本可以通过调用 SetProcessMitigationPolicy() API 控制相应的安全策略： https://t.co/v2dWCCALDe  MSDN： https://msdn.microsoft.com/en-us/library/windows/desktop/hh769088%28v=vs.85%29.aspx "
