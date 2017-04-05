@@ -1,0 +1,99 @@
+Ingmar Steen @iksteen
+
+[ Challenges ]  Released pwnypack 0.8.0, lots of changes and now supports @ keystone_engine https://ced.pwned.systems/misc-pwnypack-0-8-0.html
+
+﻿" CTF 工具套件 PwnyPack 更新 0.8.0 版本，本次加入对 Keystone 引擎的支持： https://t.co/NvgfO2uLhJ"
+
+Broslavsky Oleg @yalegko
+
+[ Crypto ]  Slides for our talk about white-box HMAC @ phdays #PHDays http://www.slideshare.net/yalegko/whitebox-hmac-make-your-cipher-secure-to-whitebox-attacks
+
+﻿" 白盒 HMAC - 使加密实现能够对抗白盒攻击，来自 PHDays 会议： https://t.co/NjLE9PGPba "
+
+Nicolas Krassas @Dinosn
+
+[ Detect ]  How RTF malware evades static signature-based detection http://www.fireeye.com/blog/threat-research/2016/05/how_rtf_malware_evad.html
+
+﻿"RTF 恶意样本是如何逃逸基于签名的静态检测的，来自 FireEye Blog： https://t.co/d4cuR8f6Rz"
+
+Daniel Bilar @daniel_bilar
+
+[ Hardware ]  Instructive: GSM/GPRS traffic interception for pen testers [OpenBSC/BTS] by @ NCCGroupInfosec https://www.nccgroup.trust/uk/about-us/newsroom-and-events/blogs/2016/may/gsmgprs-traffic-interception-for-penetration-testing-engagements/ https://t.co/K00FazFIh1
+
+﻿" GSM/GPRS 流量劫持测试，来自 NCC Groups Blog： https://t.co/UpvGw5zaJo https://t.co/K00FazFIh1"
+
+ 
+Scott J Roberts @sroberts
+
+[ Mac OS X ]  Really enjoyed sharing Hipster DFIR on OSX at @ bsidescincy. Here's my slides (as promised): https://speakerdeck.com/sroberts/hipster-dfir-on-osx-bsidescincy
+
+﻿" OS X 系统数字取证与应急响应工具， 来自 BsidesCincy 会议的一篇演讲 ︰ https://t.co/pPEzpTgZ8a"
+
+Nicolas Krassas @Dinosn
+
+[ Mac OS X ]  ZDI-16-352: (Pwn2Own) Apple Safari GraphicsContext Use-After-Free Remote Code Execution Vulnerability http://www.zerodayinitiative.com/advisories/ZDI-16-352/
+
+﻿"ZDI-16-352: Apple Safari GraphicsContext UAF（CVE-2016-1859）， KeenLab 团队用此漏洞参加的 Pwn2Own，来自 ZDI 的公告：  https://t.co/LTWg8tCEiN"
+
+Nicolas Krassas @Dinosn
+
+[ Malware ]  Malware Mystery: JS/Nemucod Downloads Legitimate Installer https://blogs.mcafee.com/mcafee-labs/malware-mystery-jsnemucod-downloads-legitimate-installer/
+
+﻿"恶意软件之谜︰ JS/Nemucod 下载了一个合法的 Notepad++ 安装包，来自 McAfee Blog： https://t.co/qbM5c9zla3"
+
+Giuseppe `N3mes1s` @gN3mes1s
+
+[ Malware ]  Bolek: Leaked Carberp KBot Source Code Complicit in New Phishing Campaigns http://phishme.com/bolek-leaked-carberp-kbot-source-code-complicit-new-phishing-campaigns/
+
+﻿" 泄露的 Carberp KBot 源码被用于钓鱼攻击： https://t.co/DFpWHVxqIX"
+
+Casey Smith @subTee
+
+[ MalwareAnalysis ]  Example Exec/Load shellcode via windbg/cdb #DFIR .dvalloc 1000 .readmem C:\calc.bin {address} LC4 r eip={address} https://t.co/xu9MmLyHS3
+
+﻿" WinDbg/cdb 支持 .dvalloc 命令，可以用于分配内存，利用该命令和 .readmem 可以更方便地在调试器中分析 Shellcode， MSDN 对 .dvalloc 的介绍： https://msdn.microsoft.com/en-us/library/windows/hardware/ff562434%28v=vs.85%29.aspx ：  https://t.co/xu9MmLyHS3"
+
+ 
+Jeremiah Grossman @jeremiahg
+
+[ Others ]  My @ issala slides from today’s preso, "InfoSec’s Credibility Crisis is also our Biggest Opportunity” http://www.slideshare.net/jeremiahgrossman/infosecs-credibility-crisis-is-also-our-biggest-opportunity-62244586
+
+﻿" 信息安全的信任危机也是我们最大的机遇： https://t.co/3aL2cG6Kyh"
+
+scriptjunkie @scriptjunkie1
+
+[ Others ]  .@ __suto @ HaifeiLi Not to mention a history of executing arbitrary command lines from PDF's silently https://blog.didierstevens.com/2010/03/29/escape-from-pdf/
+
+﻿" Escape From PDF，来自 Didier Stevens 2010 年的一篇 Blog： https://t.co/QERPuFjthy "
+
+[TechnoPandas] @techpandas
+
+[ Others ]  Disabling #Intel ME / AMT on the fly! #PTResearch Slides and Video from #PHDays https://github.com/ptresearch/me-disablement
+
+﻿" 如何禁用 Intel AMT（主动管理技术），来自 Ptsecurity 在 PHDays 会议上的演讲： https://t.co/ssoEP8akEV"
+
+Nicolas Krassas @Dinosn
+
+[ Web Security ]  Backdoor in Fake Joomla! Core Files https://blog.sucuri.net/2016/05/unexpected-backdoor-fake-core-files.html
+
+﻿" Sucuri Labs 在一个被黑的网站中发现 Joomla database.php 文件中藏有后门： https://t.co/Vf2JK2BopM"
+
+Binni Shah @binitamshah
+
+[ Windows ]  Kerberoasting (Part 1 ) : https://room362.com/post/2016/kerberoast-pt1/
+
+﻿" 枚举 Windows SPN（Service Principal Names）， Part 1: https://t.co/ShANmSLjxy ; Part 2： https://room362.com/post/2016/kerberoast-pt2/?utm_source=feedburner&;utm_medium=twitter&utm_campaign=Feed%3A+Room362com+%28Room362.com%29   Part 3： https://room362.com/post/2016/kerberoast-pt3/ "
+
+Matt Nelson @enigma0x3
+
+[ Windows ]  Slides for the presentation at @ BsidesBoston by myself and @ harmj0y are here: http://www.slideshare.net/enigma0x3/up-is-down-black-is-white-using-sccm-for-wrong-and-right-62256337 & Demo here: https://youtu.be/-ZlQKyh0EGs
+
+﻿" Using and Abusing SCCM（Windows 系统中心配置管理器）︰ https://t.co/6xTT9MUkRo  Demo ︰ https://t.co/0kTOCHBUp2   之前推送过该作者关于该议题的演讲《利用 SCCM 部署恶意软件》： http://www.slideshare.net/enigma0x3/red-team-upgrades-using-sccm-for-malware-deployment-57117235  "
+
+Chad Tilbury @chadtilbury
+
+[ Windows ]  Windows 10 Security Overview http://bit.ly/1R270Dj https://t.co/iT5UzoTwFE
+
+﻿"Windows 10 安全性概述，介绍了 Windows 10 新引入的以及继承下来的所有安全特性： https://t.co/CE8v3MuZzA https://t.co/iT5UzoTwFE"
+
+ 
