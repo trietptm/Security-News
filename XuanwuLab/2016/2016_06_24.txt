@@ -1,0 +1,120 @@
+Nicolas Krassas @Dinosn
+
+[ Android ]  An automated NFC fuzzing framework for Android devices. https://github.com/mit-ll/LL-Fuzzer
+
+﻿"LL-Fuzzer - Android 设备 NFC Fuzz 框架： https://t.co/8VxtRHPq7Z"
+
+Theori @theori_io
+
+[ Browser ]  Researchers at Theori published an analysis of Internet Explorer 11 VBScript Memory Corruption (with PoC exploit) http://theori.io/research/cve-2016-0189
+
+﻿" IE vbscript.dll 内存破坏漏洞（CVE-2016-0189）的补丁分析： https://t.co/N6KsQbE30o"
+
+Itai Grady @ItaiGrady
+
+[ Browser ]  My "Protecting browsers’ secrets in a domain environment" talk @ BsidesTLV #Mimikatz #MicrosoftATA http://www.slideshare.net/ItaiGrady/protecting-browsers-secrets-in-adomainenvironment via @ SlideShare
+
+﻿" 如何保护好浏览器存储的各网站凭据信息： https://t.co/OFlneLlgwJ  刚好，mimikatz 更新了新版本，支持通过 DPAPI 解密 Chrome 存储的密钥了： https://github.com/gentilkiwi/mimikatz/releases "
+
+4B5F5F4B @4b5f5f4b
+
+[ Browser ]  Proof of concept for CVE-2016-1649, lokihardt's libangle bug. https://github.com/4B5F5F4B/PoCs/blob/master/CVE-2016-1649/PoC.html
+
+﻿" Chrome 浏览器 libangle 缓冲区溢出 RCE 漏洞的 PoC（CVE-2016-1649），漏洞最早由 lokihardt 发现，该 PoC 由 KK 提供： https://t.co/z5rUx7SZE9"
+
+Binni Shah @binitamshah
+
+[ Linux ]  The Definitive Guide to Linux System Calls : http://blog.packagecloud.io/eng/2016/04/05/the-definitive-guide-to-linux-system-calls/#
+
+﻿"Linux 系统调用权威指南 ︰ https://t.co/UwfclgrDIw"
+
+Unit 42 @Unit42_Intel
+
+[ Malware ]  #Unit42 tracks #Elirks variants in Japan and uncovers similarities to previous #malware attacks http://bit.ly/28OZmzL
+
+﻿" Palo Alto 对最近追踪到的 Elirks 变种样本的分析： https://t.co/tvx1yc0g8S "
+
+Mike_Mimoso @Mike_Mimoso
+
+[ Malware ]  Botnet delivering millions of spam messages carrying #Locky #ransomware https://threatpost.com/necurs-botnet-is-back-updated-with-smarter-locky-variant/118883/ via @ threatpost
+
+﻿" Necurs Botnet 带着一个新版本的 Locky 勒索软件变种归来，来自 ThreatPost 的报道： https://t.co/iLpiQefcEK"
+
+FireEye @FireEye
+
+[ MalwareAnalysis ]  Automatically extracting obfuscated strings from #malware using FireEye Labs Obfuscated String Solver (FLOSS) http://bddy.me/28Qes8A
+
+﻿" 通过 FireEye 的 FLOSS 工具，自动化地从恶意软件中提取混淆后的字符串： https://t.co/5Aj4IAsk6u "
+
+Nicolas Krassas @Dinosn
+
+[ Mitigation ]  From ROP to LOP bypassing Control FLow Enforcement http://marcoramilli.blogspot.com/2016/06/from-rop-to-lop-bypassing-control-flow.html
+
+﻿" 从 ROP 到绕过 Intel CFE（Control FLow Enforcement）：  https://t.co/sJbYqNjoU5"
+
+Iván @aszy
+
+[ Mitigation ]  How to Make ASLR Win the Clone Wars: Runtime Re-Randomization http://www.cc.gatech.edu/~klu38/publications/runtimeaslr-ndss16.pdf
+
+﻿" ASLR 缓解措施的有效性在进程克隆时（fork）会大打折扣，这篇 Paper 提出了运行时再次随机化技术来解决这个问题： https://t.co/vqeza7xRjd"
+
+PHR34K @unpacker
+
+[ Obfuscation ]  Locky JS and URL Revealer http://www.kahusecurity.com/2016/locky-js-and-url-revealer/
+
+﻿" 实现一个 Web Proxy（URL Revealer），就可以监控混淆后的 JS 所有请求的 URL： https://t.co/dWvWNyGgDU"
+
+Nicolas Krassas @Dinosn
+
+[ OpenSourceProject ]  Unpatched Remote Code Execution Flaw Exists in Swagger https://threatpost.com/unpatched-remote-code-execution-flaw-exists-in-swagger/118867/
+
+﻿" 开源 API 框架 Swagger 存在一个未修复的远程代码执行漏洞，来自 ThreatPost 的报道： https://t.co/RRcmzsr6vI   Rapid7 Blog 的一篇漏洞分析文章： https://community.rapid7.com/community/infosec/blog/2016/06/23/r7-2016-06-remote-code-execution-via-swagger-parameter-injection-cve-2016-5641 "
+
+Threatpost @threatpost
+
+[ Others ]  .@ letsencrypt celebrates milestone, issues 5 millionth certificate - https://wp.me/p3AjUX-uV2 http://ow.ly/gju1301yM3i
+
+﻿" Let's Encrypt 表示：截至目前，已经签发了 500 万份证书： https://t.co/xrAkuCDRQ1 https://t.co/vfKDdFodhr"
+
+Binni Shah @binitamshah
+
+[ Pentest ]  Reversing File-less attack - Meterpreter through Powershell : http://malwarenailed.blogspot.in/2016/06/reversing-file-less-attack-meterpreter.html https://t.co/ZgYf6oRacR
+
+﻿" 基于 Metasploit、借助 PowerShell 实现的无文件型攻击: https://t.co/DKVNQym8NP https://t.co/ZgYf6oRacR"
+
+ 
+Nils Juenemann @totally_unknown
+
+[ Popular Software ]  New phpMyAdmin version released. Fixes 1x RCE, 14x XSS and other vulnerabilities not found by @ NCCGroupInfosec https://www.phpmyadmin.net/news/2016/6/23/phpmyadmin-401016-44157-and-463-are-released/
+
+﻿" phpMyAdmin 更新新版本，修复了 1 个 RCE、14 个 XSS 漏洞： https://t.co/ujFowiU1dw "
+
+Binni Shah @binitamshah
+
+[ Tools ]  Writeup on Backdoor Factory preprocessor usage/writing, NSIS 3.0 CRC32 bypass example : http://secureallthethings.blogspot.in/2016/06/bdf-preprocessor-and-going-forward.html cc @ midnite_runr
+
+﻿" Backdoor Factory (BDF) 工具的预处理器介绍，通过预处理器用户可以扩展 BDF 的功能，写一个自己定制的插件︰ https://t.co/svfMGF8Iit "
+
+Nicolas Krassas @Dinosn
+
+[ Tools ]  Certigo -- user-friendly command-line utility to examine and validate certificates in a variety of formats https://github.com/square/certigo
+
+﻿"Certigo — 用于检查和验证证书信息的命令行工具，Go 语言编写： https://t.co/eIEGY0FSeB"
+
+Binni Shah @binitamshah
+
+[ Web Security ]  Hacking Uber : https://labs.integrity.pt/articles/uber-hacking-how-we-found-out-who-you-are-where-you-are-and-where-you-went/
+
+﻿" Hacking Uber ︰ https://t.co/7VNTapU7W1"
+
+Nicolas Krassas @Dinosn
+
+[ Web Security ]  XSS in Mobile Devices http://brutelogic.com.br/blog/xss-in-mobile-devices/
+
+﻿" 移动设备中的 XSS 漏洞，来自 BruteLogic： https://t.co/hM6AVCQuOK "
+
+Pranav Hivarekar @HivarekarPranav
+
+[ Web Security ]  Delete any video from Facebook ... I was even able to delete Mark Zuck's videos. ? http://www.pranavhivarekar.in/2016/06/23/facebooks-bug-delete-any-video-from-facebook/ #bugbounty #facebook #infosec
+
+﻿" 可以从 Facebook 删除任意视频的一个 Bug： https://t.co/IucWTxwknc  "
