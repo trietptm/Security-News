@@ -1,0 +1,133 @@
+Nikolaos Chrysaidos @virqdroid
+
+[ Android ]  android-n-preview-3 to android-n-preview-4 AOSP changelog - http://www.androidpolice.com/android_aosp_changelogs/android-n-preview-3-to-android-n-preview-4-AOSP-changelog.html
+
+﻿" Android-N-Preview 3 到 Android-N-Preview 4 版本的 Changelog： https://t.co/6Qsl3iMlwC"
+
+John Kozyrakis @ikoz
+
+[ Android ]  Well, that didn't take long. Android apps no longer able to load non-NDK platform libraries http://android-developers.blogspot.co.uk/2016/06/android-changes-for-ndk-developers.html https://twitter.com/ikoz/status/719667103020802052
+
+﻿" Android NDK 开发的一些变化，如： Native Code 中不再能够调用私有 API： https://t.co/9HGUSQbk7w https://t.co/fmP7fHNq0t"
+
+Nicolas Krassas @Dinosn
+
+[ Android ]  Google Play Hit with Rash of Auto-Rooting Malware https://threatpost.com/google-play-hit-with-rash-of-auto-rooting-malware/118938/
+
+﻿" Google Play 应用市场上潜伏的一款自动化 Root 型恶意软件 - LevelDropper，来自 ThreatPost 的报道： https://t.co/coDY0CE8CM"
+
+Daniel Bilar @daniel_bilar
+
+[ Attack ]  Ransomware attack against Office 365, 57% of orgs received malicious file http://www.avanan.com/resources/attack-on-office-365-corporate-users-with-zero-day-ransomware-virus [Cerber bad news https://twitter.com/daniel_bilar/statuses/740138610305978368?tw_i=740138610305978368&tw_e=permalink&tw_p=archive ]
+
+﻿" 针对 Office 365 用户的大规模勒索软件攻击：  https://t.co/5nD3zQx3zy   https://t.co/iTu7XSQ7W4 "
+
+Francisco Alonso @revskills
+
+[ Browser ]  Headless Chromium very useful for fuzzing purposes (no Xvfb) https://chromium.googlesource.com/chromium/src/+/master/headless/README.md
+
+﻿" 无前台界面的 Chromium 构建教程，对于 Fuzz 很有用： https://t.co/ic5Lk24f83"
+
+Masato Kinugawa @kinugawamasato
+
+[ Browser ]  no UI #XSS vector, inspired by @ BenHayak vector :D <div style=writing-mode:tb;overflow:scroll onscroll=alert(1)> https://jsfiddle.net/a7p7okzv/
+
+﻿" 一个没有 UI 的 XSS 攻击向量： https://t.co/SWfFnbf4Wl"
+
+kkotowicz @kkotowicz
+
+[ Browser ]  Reflections on trusting CSP http://blog.kotowicz.net/2016/06/reflections-on-trusting-csp.html
+
+﻿" 关于 CSP 的一些思考：新的 CSP 特性一定会带来新的 Bypass 方法： https://t.co/NFabi0eEal  "
+
+Theori @theori_io
+
+[ Browser ]  Patch analysis of MS16-063 for Internet Explorer 11 JScript Memory Corruption (with proof-of-concept exploit) http://theori.io/research/jscript9_typed_array
+
+﻿" jscript9.dll TypedArray MS16-063 的补丁分析: https://t.co/GH1NRn6HDO"
+
+Andrey Bazhan @AndreyBazhan
+
+[ Debug ]  How to get user-mode stacks of WOW64 processes in kernel-mode debugging mode #WinDbg #DbgKit #DbgTricks http://www.andreybazhan.com/how-to-get-user-mode-stacks-of-wow64-processes-in-kernel-mode-debugging-mode.html
+
+﻿" 如何在内核态调试时获取 WOW64 进程的用户态调用栈： https://t.co/B8QJOFTvVY"
+
+Sean Metcalf @PyroTek3
+
+[ Detect ]  Use #MicrosoftATA or write an IDS rule based on the #MS14068 exploit traffic. https://adsecurity.org/?p=763 https://twitter.com/TalBeerySec/status/747565789243379713
+
+﻿" 检测 MS14-068 PyKEK 攻击数据包： https://t.co/07jWpHuj69 https://t.co/Ag5RELr1mr"
+
+Nicolas Krassas @Dinosn
+
+[ Detect ]  Auditing CSP headers with Burp and ZAP http://blog.gosecure.ca/2016/06/28/auditing-csp-headers-with-burp-and-zap/
+
+﻿" 利用 Burp 和 ZAP 工具审计 CSP Headers 的安全性： https://t.co/PiPrsL92bA"
+
+Atte Kettunen @attekett
+
+[ Fuzzing ]  Need something to hack with during summer? Try contributing some libFuzzer target functions for greater good: https://github.com/ouspg/libfuzzerfication
+
+﻿" libfuzzerfication - 一个基于 Docker 的 Fuzz 库，目的是让 Fuzz 更简单 ︰ https://t.co/bvFDJklhPC"
+
+Tencent's Xuanwu Lab @XuanwuLab
+
+[ Hardware ]  Our BadBarcode page: http://xlab.tencent.com/badbarcode/. No new domain name, no logo, just a page:-). #BadBarcode
+
+﻿" 玄武实验室专门为记录 BadBarcode 漏洞写的一个网页︰ https://t.co/ersjV1OSS7 "
+
+HD Moore @hdmoore
+
+[ Industry News ]  Cisco to Acquire Waltham Cybersecurity Firm CloudLock for $293M http://bostinno.streetwise.co/2016/06/28/cisco-announces-plans-to-acquire-cloudlock-for-293m/ via @ BostInno
+
+﻿"思科以 2.93 亿美元收购了英国的一家安全公司 CloudLock： https://t.co/ixdMGKPZHc "
+
+securxcess @securxcess
+
+[ Malware ]  Locky is Back Asking for Unpaid Debts « Threat Research Blog | FireEye Inc http://ow.ly/NXxE301Glch
+
+﻿" Locky 勒索软件回来追债了，来自 FireEye Blog： https://t.co/lxh5MNvDQ3"
+
+Nicolas Krassas @Dinosn
+
+[ Network ]  Sucuri spotted a large botnet of CCTV devices involved in DDoS attacks http://securityaffairs.co/wordpress/48807/iot/cctv-devices-ddos.html
+
+﻿"Sucuri 发现了一个由网络摄像头组成的 DDoS 攻击网络： https://t.co/zEw4E8KBh2"
+
+Nicolas Krassas @Dinosn
+
+[ Popular Software ]  Note about security of RESTEasy services https://0ang3el.blogspot.ru/2016/06/note-about-security-of-resteasy-services.html
+
+﻿" RESTEasy 服务的安全性研究笔记： https://t.co/5JPKYCJcRR"
+
+Nicolas Krassas @Dinosn
+
+[ Popular Software ]  Vulnerability Spotlight: LibreOffice RTF Vulnerability http://blog.talosintel.com/2016/06/vulnerability-spotlight-libreoffice-rtf.html
+
+﻿" LibreOffice RTF 文件解析 UAF 漏洞（CVE-2016-4324），来自 Talos Blog： https://t.co/TAGU2KEEec"
+
+Tavis Ormandy @taviso
+
+[ SecurityProduct ]  New blog post on the Symantec vulnerabilities we're releasing today, including wormable remote code execution bugs. http://googleprojectzero.blogspot.com/2016/06/how-to-compromise-enterprise-endpoint.html
+
+﻿" Symantec 企业终端防护软件的漏洞及利用，包括一个蠕虫 RCE 漏洞，来自 Project Zero Blog： https://t.co/4cq3w3FUaz"
+
+Tavis Ormandy @taviso
+
+[ SecurityProduct ]  Multiple remote memory corruption vulns in all Symantec/Norton antivirus products, including stack buffer overflows https://bugs.chromium.org/p/project-zero/issues/detail?id=823
+
+﻿" Symantec 安全产品在读取 PPT 文件时，非对齐的缓存文件流会触发栈缓冲区溢出，来自 Project Zero 823： https://t.co/cFYmeMNKLx   一共 7 个漏洞： https://bugs.chromium.org/p/project-zero/issues/list?q=label:Vendor-Symantec "
+
+Wallarm @wallarm
+
+[ Web Security ]  SSRF bible updated a little. Redis tricks with SLAVEOF and MIGRATE added https://docs.google.com/document/d/1v1TkWZtrhzRLy0bYXBcdLUedXGb9njTNIJXa3u9akHM
+
+﻿" SSRF（服务端请求伪造）圣经： https://t.co/rBDoc31suF"
+
+Core Security @CoreSecurity
+
+[ Windows ]  MS16-039 – “Windows 10” 64 bits Integer Overflow exploitation by using GDI objects http://hubs.ly/H03sm310 https://t.co/MGVJuxKeK2
+
+﻿" 利用 GDI 对象实现 Windows 10 win32kbase.sys 整数溢出漏洞的利用（MS16-039/CVE-201-0165）： https://t.co/GLC4fFZlxy https://t.co/MGVJuxKeK2"
+
+ 
