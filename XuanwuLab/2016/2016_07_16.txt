@@ -1,0 +1,103 @@
+Jared Greenhill @jared703
+
+[ Attack ]  This is an excellent article on CN APT - http://icitech.org/wp-content/uploads/2016/07/ICIT-Brief-China-Espionage-Dynasty.pdf #DFIR
+
+﻿" ICIT 对中国 APT 间谍组织的调查报告： https://t.co/x5WdhAT5m8 "
+
+jsoo @_jsoo_
+
+[ Attack ]  Reverse engineering DUBNIUM –Stage 2 payload analysis - https://blogs.technet.microsoft.com/mmpc/2016/07/14/reverse-engineering-dubnium-stage-2-payload-analysis/
+
+﻿" DUBNIUM APT 行动中的 Payload 分析，来自微软 Blog： https://t.co/t3sxA4eDq7"
+
+Nicolas Krassas @Dinosn
+
+[ Backdoor ]  Microsoft silently kills dev backdoor that boots Linux on locked-down Windows RT slabs http://www.theregister.co.uk/2016/07/15/windows_fix_closes_rt_unlock_loophole/
+
+﻿"微软悄悄地补了一个 Windows RT 平板的开发后门： https://t.co/n7bmDmf4HZ"
+
+.mario @0x6D6172696F
+
+[ Browser ]  Another day, another single-parameter MSIE11 XSS filter bypass. This one is hilarious - enjoy: https://html5sec.org/xssfilter/entities
+
+﻿" IE11 XSS Filter Bypass PoC︰ https://t.co/5qQ1vRVrVz"
+
+Soroush Dalili @irsdl
+
+[ Browser ]  XSS in XML - exploitation demo to run an external JS in full DOM: http://sdl.me/XSSDemo/xss-xml-frames.html
+
+﻿" XSS in XML - 在 DOM 中运行外部 JS 代码: https://t.co/42gqNp51zb"
+
+Masato Kinugawa @kinugawamasato
+
+[ Browser ]  Blogged! I wrote about CVE-2016-3212. / Abusing XSS Filter: One ^ leads to XSS http://masatokinugawa.l0.cm/2016/07/xxn-caret.html (日本語) http://mksben.l0.cm/2016/07/xxn-caret.html (英語)
+
+﻿" 滥用 IE XSS Filter - '^' 导致的 XSS（CVE-2016-3212）： https://t.co/0YTvdHRQCd "
+
+Burp Suite @Burp_Suite
+
+[ Browser ]  Blog post: Executing non-alphanumeric JavaScript without parenthesis http://blog.portswigger.net/2016/07/executing-non-alphanumeric-javascript.html
+
+﻿" 不依赖圆括号，让浏览器执行非字母、数字组成的 JavaScript： https://t.co/Wval9N75WK"
+
+John Regehr @johnregehr
+
+[ Detect ]  Towards Efficient Dynamic Integer Overflow Detection on ARM Processors http://wurster.ca/glenn/publications/BlackBerry-Integer_Overflow-2016.pdf
+
+﻿" ARM 处理器整数溢出运行时动态检测技术， Paper： https://t.co/UUtQuzlrDJ"
+
+Open Source Security @oss_security
+
+[ Fuzzing ]  Multiple Bugs in OpenBSD Kernel: Hi All, As part of NCC Group’s Project Triforce, a generic syscall fuzzing ... http://bit.ly/29LdpcI
+
+﻿"NCC Group 研究员通过 Syscall Fuzz 的方法在 OpenBSD 内核中发现了多个漏洞：  https://t.co/UpVQxbyn71 "
+
+Marco Grassi @marcograss
+
+[ Fuzzing ]  .@ zer0mem & me #shakacon2016 slides - 50 Shades of Fuzzing - https://speakerdeck.com/marcograss/50-shades-of-fuzzing … #win32k #VMware @ shakacon https://t.co/iW5smyyqkp
+
+﻿" 50 Shades of Fuzzing（VMware、Win32k），来自科恩实验室研究员在 ShakaCon 会议的演讲： https://speakerdeck.com/marcograss/50-shades-of-fuzzing "
+
+ 
+Nicolas Krassas @Dinosn
+
+[ macOS ]  OS X exploitable kernel NULL dereference in CoreCaptureResponder due to unchecked return value https://bugs.chromium.org/p/project-zero/issues/detail?id=777
+
+﻿"OS X CoreCaptureResponder 返回值未检查导致的空指针引用漏洞（CVE-2016-1803）， Project Zero Issue 777： https://t.co/RYzirgtpbe"
+
+संसार दोष @WanderingGlitch
+
+[ macOS ]  OS X 10.11.4 is now up: https://opensource.apple.com/release/os-x-10114/
+
+﻿"OS X 10.11.4 版本的源码︰ https://t.co/ohApcD21x0"
+
+Binni Shah @binitamshah
+
+[ macOS ]  m-cli : Swiss Army Knife for Mac OS X : https://github.com/rgcr/m-cli
+
+﻿"m-cli - Mac OS X 系统的瑞士军刀: https://t.co/NtxmDZy79J"
+
+PHR34K @unpacker
+
+[ Malware ]  Still Sexy: Password Stealing Malware http://www.invincea.com/2016/07/still-sexy-password-stealing-malware/
+
+﻿"依然性感的密码窃取恶意软件： https://t.co/V3qGiVX6up"
+
+Andrey Karpov @Code_Analysis
+
+[ OpenSourceProject ]  Checking the Source Code of #FlashDevelop with PVS-Studio. http://www.viva64.com/en/b/0412/ #csharp #dotnet #pvsstudio #tools https://t.co/i1dAJ7W3AK
+
+﻿"用 PVS-Studio 分析 FlashDevelop 的源码： https://t.co/UYLIHzAp0j  https://t.co/i1dAJ7W3AK"
+
+ 
+PythonArsenal @PythonArsenal
+
+[ Tools ]  pe-tools - to analyse PE32/PE64 binaries and to extract VB 5/6 headers and Visual Basic p-code functions. https://github.com/SekoiaLab/pe-tools
+
+﻿" pe-tools - PE 文件分析工具，可以提取 VB p-code 函数：  https://t.co/v005W3yJ9a"
+
+Thomas Chopitea @tomchop_
+
+[ Tools ]  Oletools now parses obfuscated objects in RTF files. Thanks @ decalage2 ! https://github.com/decalage2/oletools #DFIR
+
+﻿"Oletools - 解析和分析 OLE2 和 Office 文件格式的工具，主要用于恶意样本分析： https://t.co/tOXeZ8Cf8T"
