@@ -1,0 +1,145 @@
+Nicolas Krassas @Dinosn
+
+[ Attack ]  Ex-Citibank IT bloke wiped bank's core routers, will now spend 21 months in the clink http://www.theregister.co.uk/2016/07/27/citibank_network_wipe_man_jailed/
+
+﻿"前花旗银行 IT 员工清空了核心路由器： https://t.co/kUWSA0aT7K "
+
+Haifei Li @HaifeiLi
+
+[ Browser ]  Some interesting RCE bugs in Qihoo360 Secure Browsers: http://webcache.googleusercontent.com/search?q=cache:EzbVUe9O3R8J:www.wooyun.org/bugs/wooyun-2010-0170984+&cd=1&hl=en http://webcache.googleusercontent.com/search?q=cache:QSX8osHVm90J:www.wooyun.org/bugs/wooyun-2016-0172781+&cd=2&hl=en http://webcache.googleusercontent.com/search?q=cache:-UONmS2PCmcJ:www.wooyun.org/bugs/wooyun-2016-0174114+&cd=5&hl=en
+
+﻿"Qihoo360 安全浏览器的几个有趣的历史漏洞，来自 WooYun，但现在只能在 Google 快照里看了: https://t.co/Wuw7WbBjAP https://t.co/KWkxVK9utF https://t.co/hcu4oC2lkw"
+
+x64dbg @x64dbg
+
+[ Debug ]  New blog post: Control flow graph http://x64dbg.com/blog/2016/07/27/Control-flow-graph.html #x64dbg #blog
+
+﻿" 基于 x64dbg 的控制流图分析： https://t.co/LVpKvEEslU "
+
+emdel @emd3l
+
+[ Detect ]  Our USENIX Security paper "Micro-Virtualization Memory Tracing to Detect and Prevent Spraying Attacks" is up: http://goo.gl/d7g3nT 1/2
+
+﻿" 利用微虚拟化内存跟踪技术检测 Heap Spray︰ https://t.co/f7QV3TgFFi "
+
+Binni Shah @binitamshah
+
+[ Detect ]  Membrane : A Posteriori Detection of Malicious Code Loading by Memory Paging Analysis : http://www.crysys.hu/~pek/pubs/Pek+16ESORICS.pdf (pdf)
+
+﻿" Membrane - 通过分析内存页，检测恶意代码的加载行为︰ https://t.co/SduZde6mAn "
+
+Nicolas Krassas @Dinosn
+
+[ Hardware ]  Airbus Is Making Drone Killers http://www.theregister.co.uk/2016/07/27/airbus_designs_drone_killers/
+
+﻿"空中客车公司正在制作 '无人机杀手'，可以检测 10 公里以内的一般商业无人机，并且可以干扰无人机的通信： https://t.co/cjtFXRXeQr"
+
+Nicolas Krassas @Dinosn
+
+[ IoTDevice ]  Reverse Engineering a Wi-Fi Smart Plug: Home-baked encryption and hidden debug protocols https://www.softscheck.com/en/reverse-engineering-tp-link-hs-110-wi-fi-smart-plug
+
+﻿"逆向 TP-Link HS-110 Wi-Fi 智能电源插头（包括其自定义加密和调试协议）： https://t.co/tYRsLjAXye"
+
+Nicolas Krassas @Dinosn
+
+[ Linux ]  Linux: arbitrary memory read on arm/arm64 via perf_event_open() https://bugs.chromium.org/p/project-zero/issues/detail?id=822
+
+﻿"ARM/ARM64 Linux 内核 perf_event_open 任意内存读，来自 Project Zero Issue 822： https://t.co/qOdLZpXbKc"
+
+Project Zero Bugs @ProjectZeroBugs
+
+[ Linux ]  Reference count leak in apparmor securityfs aa_fs_seq_hash_show https://code.google.com/p/google-security-research/issues/detail?id=812
+
+﻿" Linux 内核 apparmor securityfs aa_fs_seq_hash_show 引用计数泄漏漏洞，来自 Project Zero Issue 812： https://t.co/RF53d87dAs"
+
+Liang Chen @chenliang0817
+
+[ macOS ]  WindowServer: The privilege chameleon on macOS (Part 2): http://keenlab.tencent.com/en/2016/07/28/WindowServer-The-privilege-chameleon-on-macOS-Part-2/#more @ fuyubin1993 @ marcograss with video https://www.youtube.com/watch?v=TvxEClEZtxc
+
+﻿" WindowServer - macOS 系统中的特权变色龙，本周一推送的是 Part 1，今天是 Part 2。来自腾讯科恩实验室 Blog，作者为陈良︰ https://t.co/UWfZjqDvYw  视频 Demo： https://t.co/UbAGpGeNJp"
+
+Unit 42 @Unit42_Intel
+
+[ Malware ]  #Unit42 discovers remote spying #trojan leaked on #malware discussion forums http://bit.ly/2aAD5dd #SpyNote #Android @ Unit42_Intel
+
+﻿" 最近，Palo Alto 在恶意软件讨论论坛发现了一个 Android 远控木马 SpyNote： https://t.co/V4toQqd9wl "
+
+Kafeine @kafeine
+
+[ Malware ]  The "AdGholas" malvertising : steganography & files whitelist to hide in plain sight https://www.proofpoint.com/us/threat-insight/post/massive-adgholas-malvertising-campaigns-use-steganography-and-file-whitelisting-to-hide-in-plain-sight https://t.co/Zj8zm0R6g4
+
+﻿" AdGholas 组织发起的大规模攻击行动，甚至用上了隐写技术与文件白名单技术，来自 ProofPoint 的分析：  https://t.co/OctrmsXBkR "
+
+ 
+Iván @aszy
+
+[ MalwareAnalysis ]  A Survey of Stealth Malware Attacks, Mitigation Measures, and Steps Toward Autonomous Open World Solutions http://arxiv.org/pdf/1603.06028.pdf
+
+﻿" 隐蔽的恶意软件攻击技术调查，以及相关的对抗措施： https://t.co/AFbBPdrWgQ"
+
+Binni Shah @binitamshah
+
+[ Network ]  Thick Client Proxying - Part 6: How HTTP(s) Proxies Work : https://parsiya.net/blog/2016-07-28-thick-client-proxying---part-6-how-https-proxies-work/ https://t.co/cb34SFe7E9
+
+﻿" Hipchat 中的 HTTPS 代理是如何工作的︰ https://t.co/BZXDYUVLNn "
+
+ 
+Nicolas Krassas @Dinosn
+
+[ OpenSourceProject ]  Vuln: PHP '_gdContributionsAlloc()' Function Integer Overflow Vulnerability http://www.securityfocus.com/bid/92080
+
+﻿" PHP '_gdContributionsAlloc()' 函数整数溢出漏洞，来自 SecurityFocus 的公告： https://t.co/1OkhxYpHOS"
+
+Nicolas Krassas @Dinosn
+
+[ OpenSourceProject ]  Beame.io SDK provides you with easy-to-use tools access a device without a public ipaddress, with SSL. https://github.com/beameio/beame-sdk
+
+﻿"Beame.io SDK 提供了一种轻松访问远程设备的能力，无需公有 IP 地址：  https://t.co/n86AmIWsPg"
+
+Binni Shah @binitamshah
+
+[ Others ]  Exploiting PHP Format String Bugs the Easy Way : https://jmpesp.org/blog/index.php/2016/07/28/exploiting-php-format-string-bugs-the-easy-way/
+
+﻿"用一种简单的方式实现 PHP 格式化字符串漏洞的利用︰ https://t.co/21A91sHRTw"
+
+Binni Shah @binitamshah
+
+[ Others ]  Scanning the Darkweb (for Onion Services) w/ Python - Onionscan : http://www.automatingosint.com/blog/2016/07/dark-web-osint-with-python-and-onionscan-part-one/ cc @ jms_dot_py
+
+﻿" 用 Python Onionscan 工具扫描暗网（DarkWeb）: https://t.co/wAsgsHjchR "
+
+Binni Shah @binitamshah
+
+[ Popular Software ]  LastPass : Design flaw in communication between privileged and unprivileged components : https://bugs.chromium.org/p/project-zero/issues/detail?id=884
+
+﻿"LastPass 特权组件和非特权组件之间通信过程中的设计缺陷，来自 Project Zero Issue 884︰ https://t.co/Z4j2GXZBL6"
+
+Nicolas Krassas @Dinosn
+
+[ SecurityProduct ]  Defeating Antivirus Real-time Protection From The Inside https://breakdev.org/defeating-antivirus-real-time-protection-from-the-inside/
+
+﻿" 从内部出发逃逸 BitDefender 的实时防护： https://t.co/L7Euwqp8Dy"
+
+the grugq @thegrugq
+
+[ Tools ]  RT @ steaIth: Updated my openssh alternative https://github.com/stealth/crash to build with new openssl 1.1.0 API
+
+﻿" crash - 具有强加密功能的类 SSH shell 工具，可以作为 OpenSSH 的替代品： https://t.co/bkaslA9C4O "
+
+Giuseppe `N3mes1s` @gN3mes1s
+
+[ Windows ]  Protect derived domain credentials with Credential Guard - https://technet.microsoft.com/en-us/itpro/windows/keep-secure/credential-guard
+
+﻿" Windows 10 企业版通过凭据保护特性，保护派生的域控凭据，来自微软 Blog： https://t.co/v2wRZVoOhR"
+
+Giuseppe `N3mes1s` @gN3mes1s
+
+[ Windows ]  Launch Windows programs from "Bash on Ubuntu on Windows" (WSL) - https://github.com/xilun/cbwin
+
+﻿" cbwin 工具 - 从 Windows 的 Ubuntu 环境中启动 Windows 进程： https://t.co/UT2iSSqFyy"
+
+Lucas Leong @_wmliang_
+
+[ Windows ]  Preventing Exploits in Microsoft Office Documents Through Content Randomization https://cs.gmu.edu/~astavrou/research/DocRandom_RAID15.pdf
+
+﻿" 通过内容随机化对抗 Microsoft Office Exploits： https://t.co/WJ8jIM01dC"
