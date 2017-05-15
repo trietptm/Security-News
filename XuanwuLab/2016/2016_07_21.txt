@@ -1,0 +1,175 @@
+Comsecuris @Comsecuris
+
+[ Android ]  First post on our brand new blog: Samsung baseband RE tools release https://comsecuris.com/blog/posts/shannon
+
+﻿" 上个月推送过《Samsung 基带实现中的安全漏洞及利用》，这次作者把相关的逆向工具也开源了： https://t.co/NLAyDwJTAL  https://github.com/comsecuris/shannonRE "
+
+jsoo @_jsoo_
+
+[ Attack ]  List of pseudo-APT campaigns - http://www.kernelmode.info/forum/viewtopic.php?f=16&t=4423 by @ hFireF0X
+
+﻿" KernelMode 论坛的用户 EP_X0FF 整理了一份 '伪 APT' 攻击行动列表： https://t.co/6xSwP2B00J  并且表示会持续更新"
+
+Nicolas Krassas @Dinosn
+
+[ Detect ]  Detecting Spoofed Messages Using Clock Skew https://www.schneier.com/blog/archives/2016/07/detecting_spoof_1.html
+
+﻿" 利用时钟偏差检测发往汽车 ECU 的欺骗消息： https://t.co/BVvCiC0ipA"
+
+Martijn Grooten @martijn_grooten
+
+[ Detect ]  We just published a paper by FireEye's Ankit Anubhav on some recent evasion tricks used by malware. https://www.virusbulletin.com/virusbulletin/2016/07/journey-evasion-enters-behavioural-phase/
+
+﻿" VirusBulletin 对最近的恶意软件检测逃逸技巧的总结： https://t.co/dEvfZH0Eie"
+
+argp @_argp
+
+[ Fuzzing ]  Choronzon, our (CENSUS) evolutionary knowledge-based fuzzer, has just been released as open source software: https://census-labs.com/news/2016/07/20/choronzon-public-release/
+
+﻿" 去年 12 月份的 ZeroNights 会议上， Census Lab 公开了自己基于知识库的 fuzzer - Choronzon，但代码直到昨天才公开︰ https://t.co/FiBuL5Ld8H"
+
+NCC Group @NCCGroupInfosec
+
+[ Hardware ]  NCC Group Blog:The Automotive Threat Modeling Template - https://www.nccgroup.trust/uk/about-us/newsroom-and-events/blogs/2016/july/the-automotive-threat-modeling-template/ #cybersecurity #automotive #IoT
+
+﻿" 汽车威胁建模模板，来自 NCC Group： https://t.co/oWbWVNEv5O "
+
+juraj somorovsky @jurajsomorovsky
+
+[ Hardware ]  Curious case of Rowhammer: Flipping Secret Exponent Bits using Timing Analysis. https://eprint.iacr.org/2016/618
+
+﻿"Rowhammer 的一个奇特案例 - 用时序分析的方法以可控的方式在内存中的密钥中实现位反转： https://t.co/yT2cXbcIg5"
+
+Matt Suiche @msuiche
+
+[ Industry News ]  I just published “InfoSec: Top acquirers and top start-ups” https://medium.com/p/infosec-top-acquirers-and-top-start-ups-cabc0ea7f74a
+
+﻿" 信息安全行业的顶级收购公司和创业公司： https://t.co/bGmNB54FNn"
+
+Nicolas Krassas @Dinosn
+
+[ iOS ]  Hacking Apple devices with just a Message exploiting the CVE-2016-4631 http://securityaffairs.co/wordpress/49542/hacking/hacking-apple-cve-2016-4631.html
+
+﻿" 一条短消息黑掉你的苹果设备（CVE-2016-4631），该 ImageIO 的漏洞已经被修复： https://t.co/Oc0jABHl1q "
+
+รՇﻉ۷ﻉ ɭ๏г๔ @stevelord
+
+[ Linux ]  Porting Python to GRUB: “Networking without an operating system” http://j.mp/29Gx1P4
+
+﻿" 把 Python 移植到 GRUB 中 - 没有操作系统的网络： https://t.co/K5JD446OIk"
+
+Nicolas Krassas @Dinosn
+
+[ macOS ]  ZDI-16-434: Apple OS X AppleIntelBDWGraphics Memory Corruption Privilege Escalation Vulnerability http://www.zerodayinitiative.com/advisories/ZDI-16-434/
+
+﻿"ZDI-16-434︰ Apple OS X AppleIntelBDWGraphics 内存破坏提权漏洞： https://t.co/u51wRo1Z9k"
+
+Nicolas Krassas @Dinosn
+
+[ macOS ]  ZDI-16-435: Apple OS X WindowServer Heap-Buffer Overflow Privilege Escalation Vulnerability http://www.zerodayinitiative.com/advisories/ZDI-16-435/
+
+﻿"ZDI-16-435︰ Apple OS X WindowServer 堆缓冲区溢出提权漏洞： https://t.co/AmFqEWYFe4"
+
+Nicolas Krassas @Dinosn
+
+[ macOS ]  ZDI-16-436: Apple OS X IOPMrootDomain Memory Corruption Privilege Escalation Vulnerability http://www.zerodayinitiative.com/advisories/ZDI-16-436/
+
+﻿"ZDI-16-436︰ Apple OS X IOPMrootDomain 内存破坏提权漏洞： https://t.co/crJOfQOBS6"
+
+Nicolas Krassas @Dinosn
+
+[ macOS ]  ZDI-16-438: Apple OS X DspFuncLib Use-After-Free Privilege Escalation Vulnerability http://www.zerodayinitiative.com/advisories/ZDI-16-438/
+
+﻿"ZDI-16-438︰ Apple OS X DspFuncLib UAF 提权漏洞： https://t.co/w2jrWKksX1"
+
+Nicolas Krassas @Dinosn
+
+[ macOS ]  Vulnerability Spotlight: Apple Remote Code Execution With Image Files http://blog.talosintel.com/2016/07/vulnerability-spotlight-apple-remote.html
+
+﻿" Talos 团队研究员发现了 OS X 操作系统图片格式处理相关的 5 个 RCE 漏洞： http://blog.talosintel.com/2016/07/apple-image-rce.html "
+
+Unit 42 @Unit42_Intel
+
+[ Malware ]  #Unit42 Technical Walkthrough: Office Test persistence method used in recent #Sofacy attacks http://bit.ly/29LvmIy
+
+﻿" Sofacy 攻击组织使用一种称为 'Office Test' 的方法实现对用户的持久控制，每当用户打开一个 Office 文档时，他们的木马就会被加载执行，来自 Palo Alto 的分析： https://t.co/3LmDN8VZtp "
+
+PHR34K @unpacker
+
+[ Malware ]  Third time (un)lucky – improved Petya is out https://blog.malwarebytes.com/threat-analysis/2016/07/third-time-unlucky-improved-petya-is-out/
+
+﻿" 那个劫持 Boot 分区的勒索软件 Petya 最近又更新了： https://t.co/9oZntChZdz"
+
+PHR34K @unpacker
+
+[ Malware ]  The evolution of the Retefe banking Trojan https://blog.avast.com/the-evolution-of-the-retefe-banking-trojan
+
+﻿" Avast Blog 对 Retefe 木马进化过程的分析： https://t.co/sNdeOgpQ1d  "
+
+Enno Rey @Enno_Insinuator
+
+[ Network ]  Fr. #TR14 @ WEareTROOPERS #IPv6 Security Summit: "Why IPv6 Security Is So Hard" https://www.troopers.de/media/filer_public/42/1a/421a0a30-0a35-486a-b25e-7eea27f18ef7/troopers14-why_ipv6_security_is_so_hard-structural_deficits_of_ipv6_and_their_implications-enno_rey.pdf [PDF] #IETF96 https://t.co/tgo4sjU12z
+
+﻿" 为什么保障 IPv6 安全性那么困难： https://t.co/qvoNpJUAjH  https://t.co/tgo4sjU12z"
+
+ 
+Nicolas Krassas @Dinosn
+
+[ Network ]  Mitigating the HTTPoxy Vulnerability with NGINX https://www.nginx.com/blog/mitigating-the-httpoxy-vulnerability-with-nginx/
+
+﻿" Httpoxy 漏洞以及 Nginx 服务器是如何缓解该漏洞的： https://t.co/bHTMzXrcDJ "
+
+hanno @hanno
+
+[ OpenSourceProject ]  if you're using matrixssl you want to update http://www.matrixssl.org/blog/releases/matrixssl_3_8_4 can be remotely crashed, maybe exploitable (probably double free)
+
+﻿" MatrixSSL 更新 3.8.4 版本，本次更新修复了多个漏洞： https://t.co/mek0r4kG7h "
+
+Iván @aszy
+
+[ Others ]  discovRE: Efficient Cross-Architecture Identification of Bugs in Binary Code https://www.internetsociety.org/sites/default/files/blogs-media/discovre-efficient-cross-architecture-identification-bugs-binary-code.pdf
+
+﻿"discovRE - 在二进制代码中高效地识别已知漏洞（支持多种架构）： https://t.co/oUFpOtXnxO "
+
+Mark Russinovich @markrussinovich
+
+[ Others ]  We've published the REST API guidelines we use for our services across Microsoft: http://dev.office.com/blogs/rest-api-design-guidelines
+
+﻿" 微软在 GitHub 上公开了一份《REST API 设计指南》︰ https://t.co/MouN9aeac1  https://github.com/Microsoft/api-guidelines/blob/master/Guidelines.md "
+
+Threatpost @threatpost
+
+[ Popular Software ]  .@ Oracle patches 276 vulnerabilities - 50% remotely exploitable - w/ July Critical Patch Update #CPU - http://ow.ly/o0lz302qNVD
+
+﻿" Oracle 发布严重漏洞补丁更新，本次修复了 276 个漏洞，超过一半可远程利用，来自 ThreatPost 的报道： https://t.co/w7pKNnG41T  来自 Oracle 的官方公告： http://www.oracle.com/technetwork/security-advisory/cpujul2016-2881720.html "
+
+Nicolas Krassas @Dinosn
+
+[ Popular Software ]  [papers] - Exploiting Apache James Server 2.3.2 https://www.exploit-db.com/docs/40123.pdf
+
+﻿" Exploit Apache James Mail Server 2.3.2： https://t.co/NP03wX055k"
+
+Artem I. Baranov @artem_i_baranov
+
+[ Popular Software ]  Analysis of CVE-2016-4203 - Adobe Acrobat and Reader CoolType Handling Heap Overflow Vulnerability https://blog.fortinet.com/2016/07/20/analysis-of-cve-2016-4203-adobe-acrobat-and-reader-cooltype-handling-heap-overflow-vulnerability
+
+﻿" Adobe Acrobat Reader CoolType 堆溢出漏洞分析（CVE-2016-4203），来自 Fortinet Blog： https://t.co/2S7s9XUXP1"
+
+Lucas Leong @_wmliang_
+
+[ Tools ]  PANDA - Platform for Architecture-Neutral Dynamic Analysis https://github.com/moyix/panda
+
+﻿" 跨平台的动态分析框架 Panda： https://t.co/9x6V4tXkD4"
+
+Capstone Engine @capstone_engine
+
+[ Tools ]  w0w, MongoDB has a nice web-based interactive disassembler built on top of Capstone! https://github.com/mongodb-labs/disasm https://t.co/9i7FRAO3FC
+
+﻿" MongoDB 新实现了一个基于 Web 的交互式反汇编工具，该工具基于 Capstone： https://t.co/I3GNhOFsKb "
+
+ 
+Nicolas Krassas @Dinosn
+
+[ Windows ]  Microsoft tweaks TCP stack in Windows Server and Windows 10 http://www.theregister.co.uk/2016/07/20/microsoft_tcp_changes/
+
+﻿"微软调整了 Windows Server 和 Windows 10 的 TCP 网络栈： https://t.co/yTh7G922N7"
