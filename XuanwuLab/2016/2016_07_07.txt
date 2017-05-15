@@ -1,0 +1,222 @@
+Scott Bauer @ScottyBauer1
+
+[ Android ]  Android Security July PoCs: CVE-2016-3797: http://goo.gl/Ts63GG 3794: http://goo.gl/3nLvzg 3813: http://goo.gl/VduZpw
+
+﻿"Android 7 月份的漏洞 PoC， CVE-2016-3797: https://t.co/Z5IPuJ9ESG  CVE-2016-3794: https://t.co/2nQ8ANttZH  CVE-2016-3813: https://t.co/FsJlr55V14  作者还公开了其他一些 PoC： https://github.com/ScottyBauer/Android_Kernel_CVE_POCs "
+
+JP Aumasson @veorq
+
+[ Android ]  Breaking Into the KeyStore: A Practical Forgery Attack Against Android KeyStore http://eprint.iacr.org/2016/677
+
+﻿" 针对 Android 密钥库（KeyStore）的伪造攻击： https://t.co/86u65neEwY"
+
+Chia-Chih Wu @chiachih_wu
+
+[ Android ]  Five More Critical @ MediaTek Kernel Vuls Identified by @ C0RETeam: CVE-2016-3770~3774 (from Google's July Update https://source.android.com/security/bulletin/2016-07-01.html)
+
+﻿" Android 发布 7 月份补丁公告： https://t.co/WnVxAqsI0n  三星也发布了本月的漏洞公告： http://security.samsungmobile.com/smrupdate.html#SMR-JUL-2016 "
+
+NCC Group @NCCGroupInfosec
+
+[ Android ]  NCC Group's Justin Taft credited for Priv Esc Vuln in Graphics Driver (CVE-2016-2067) in all Android from CAF - https://www.codeaurora.org/privilege-escalation-vulnerability-graphics-driver-cve-2016-2067
+
+﻿" Android GPU 驱动的一个逻辑错误，导致只读内存映射成可读写内存(CVE-2016-2067)，漏洞公告： https://t.co/PsrBytF2mp"
+
+André Moulu @andremoulu
+
+[ Android ]  Samsung Android JACK ASLR bypass and privilege escalation by p0 https://bugs.chromium.org/p/project-zero/issues/detail?id=795 https://bugs.chromium.org/p/project-zero/issues/detail?id=796
+
+﻿"三星 Android JACK 音频服务 ASLR Bypass，Project Zero Issue 795： https://t.co/jURJHlshSe   JACK 音频服务提权，Issue 796： https://t.co/hxlyHaFcvP"
+
+TrendLabs @TrendLabs
+
+[ Attack ]  New post: BEBLOH Expands to Japan in Latest Spam Attack http://bit.ly/29vlweo @ TrendMicro
+
+﻿" BEBLOH 银行木马从欧洲转战日本，来自 TrendMicro Blog： https://t.co/Cy7qB0XLOz "
+
+Daniel Cid @danielcid
+
+[ Attack ]  Details on the Realstatistics[.](info|pro) campaign: https://blog.sucuri.net/2016/07/joomla-wordpress-affected-by-realstatistics-infection-campaign-distributing-randsomware-malware.html Thousands of sites infected and distributing ransonware
+
+﻿" Realstatistics 攻击运动 - 近两周，数以千计的 Joomla 和 Wordpress 网站被攻击︰ https://t.co/Hl6bcWeHzD  "
+
+Nicolas Krassas @Dinosn
+
+[ Attack ]  Trillian Blog and Forums pwned, emails + salted MD5s stolen https://www.trillian.im/help/trillian-blog-and-forums-security-incident/
+
+﻿" 即时通讯软件 Trillian 的博客和论坛被黑，电子邮件和 MD5 密码 Hash 泄漏： https://t.co/tk8ACKs21K"
+
+Binni Shah @binitamshah
+
+[ Browser ]  Firefox - Same-Origin Policy bypass (CVE-2015-7188) : http://blog.bentkowski.info/2016/07/firefox-same-origin-policy-bypass-cve.html
+
+﻿" Firefox 同源策略绕过漏洞(CVE-2015-7188): https://t.co/O8eRKYbUXU"
+
+Enno Rey @Enno_Insinuator
+
+[ Cloud ]  Hardening #OpenStack Cloud Platforms against Compute Node Compromises http://seclab.cs.sunysb.edu/seclab/pubs/asiaccs16.pdf [PDF] https://t.co/4hJfoDSmoR
+
+﻿" 加固 OpenStack 云平台，防止计算节点被攻破， Paper： https://t.co/ZTPWWlLP0q  https://t.co/4hJfoDSmoR  "
+
+ 
+Facebook Open Source @fbOpenSource
+
+[ Hardware ]  Introducing OpenCellular: An open source wireless access platform. https://code.facebook.com/posts/1754757044806180/
+
+﻿" OpenCellular - Facebook 开源的一款无线接入平台： https://t.co/QBW9x7ZeOR"
+
+Nicolas Krassas @Dinosn
+
+[ Linux ]  [CVE-2016-4794/6162] Two linux kernel bugs https://marcograss.github.io/security/linux/2016/07/06/two-linux-kernel-bugs.html
+
+﻿" 两个 Linux 内核漏洞 PoC（CVE-2016-4794/6162）： https://t.co/kVCGTVBH2i"
+
+Marc-Etienne M.Lévei @marc_etienne_
+
+[ macOS ]  There's a OS X (ahem macOS) backdoor around dumping and stealing keychain. Downloader is distributed in a ZIP file http://www.welivesecurity.com/2016/07/06/new-osxkeydnap-malware-hungry-credentials/
+
+﻿" OSX/Keydnap - 专门偷密钥的一个 OS X 后门软件： https://t.co/cNT7aP5niY"
+
+Virus Bulletin @virusbtn
+
+[ Malware ]  New paper: New Keylogger on the Block, by Sophos's Gabor Szappanos https://www.virusbulletin.com/virusbulletin/2016/07/new-keylogger-block/ https://t.co/n8Tvzxn2Fl
+
+﻿" Virus Bulletin 对 KeyBase 木马的分析： https://t.co/3XJEVq2lt5 https://t.co/n8Tvzxn2Fl"
+
+ 
+Binni Shah @binitamshah
+
+[ MalwareAnalysis ]  Loffice - Analyzing malicious documents using WinDbg : https://thembits.blogspot.in/2016/06/loffice-analyzing-malicious-documents.html
+
+﻿" Loffice - 用 WinDbg 分析恶意文档样本︰ https://t.co/xQnz5PHk6i"
+
+angel_killah @angel_killah
+
+[ MalwareAnalysis ]  zer0m0n v1.0 (compatible with cuckoo 2.0) : https://github.com/angelkillah/zer0m0n last release before official integration @ cuckoosandbox @ skier_t
+
+﻿"zer0m0n - Cuckoo Sandbox 的内核驱动，提供恶意软件执行过程中内核分析的功能︰ https://t.co/lto36QPLCC  "
+
+Jóseph Mlodzìanowskì @cedoxX
+
+[ Network ]  The internet is big, and so is the internet routing protocol of choice: BGP #Visualizing #BGP @ mattlfinn ~ https://engasylum.net/2016/07/03/visualizing-bgp/
+
+﻿" BGP 可视化： https://t.co/u4OwbFQK24"
+
+WooYun Drops @wooyunsec
+
+[ Others ]  Application of Signature and Encryption Vulnerability Detecting Burp Plug-In http://en.wooyun.io/2016/07/01/55.html
+
+﻿" 签名加密破除 - burp 插件在 app 接口 fuzz 中的运用，来自乌云 Drops： http://drops.wooyun.org/web/17042 "
+
+⚛ Melvin Lammerts @swept
+
+[ Others ]  http://bugbounty.fail - A collection of the weirdest and funniest bug bounty reports out there. Dear @ CiPHPerCoder, I feel sorry for you.
+
+﻿" bugbounty.fail - 该网站收集了各种各样奇奇怪怪的 Bug Bounty 漏洞报告： http://bugbounty.fail/ "
+
+NCC Group @NCCGroupInfosec
+
+[ Others ]  NCC Group Blog: An open source ransomware simulator - understand the potential impact - https://www.nccgroup.trust/uk/about-us/newsroom-and-events/blogs/2016/july/ransomware-how-vulnerable-is-your-system/ #ransomware by @ dntbug
+
+﻿"NCC Group 开源了一个勒索软件模拟器，方便大家了解勒索软件的实现原理： https://t.co/zmCorIb3Dc  "
+
+Binni Shah @binitamshah
+
+[ Others ]  The Design and Implementation of the Tor Browser : https://www.torproject.org/projects/torbrowser/design/
+
+﻿" Tor 浏览器的设计与实现︰ https://t.co/sXJxmxzPZr"
+
+Troy Hunt @troyhunt
+
+[ Others ]  Just blogged: Everything you need to know about loading a free Let's Encrypt certificate into an Azure website http://ift.tt/29h5xLb
+
+﻿"怎样加载一个免费的 Lets Encrypt 证书到 Azure 网站： https://t.co/uF3hQJG0kZ"
+
+TROOPERS Conference @WEareTROOPERS
+
+[ Others ]  Continuous Security in the DevOps World: https://jvehent.github.io/continuous-security-talk/#/, via @ jvehent https://t.co/HCWulBSdpe
+
+﻿" Mozilla 是如何在开发运维中一直保证安全性的︰ https://t.co/tYuvzwcebP  https://t.co/HCWulBSdpe"
+
+ 
+Quequero @quequero
+
+[ Pentest ]  Leveraging MS16-032 with #PowerShell Empire: https://warroom.securestate.com/leveraging-ms16-032-powershell-empire/ https://t.co/ZEcdBbPxNR
+
+﻿" 利用 PowerShell Empire 框架攻击 MS16-032 漏洞︰ https://t.co/ZJqLHOiysf https://t.co/ZEcdBbPxNR"
+
+ 
+Full Disclosure @SecLists
+
+[ Popular Software ]  CVE ID Request : OpenFire multiple vulnerabilities http://goo.gl/fb/vIkb8I #FullDisclosure
+
+﻿" 实时协作服务器 OpenFire 被曝多个漏洞，来自 FullDisclosure 公告： https://t.co/czcwGaac1S "
+
+Nicolas Krassas @Dinosn
+
+[ Popular Software ]  Vuln: Oracle Java SE and JRockit CVE-2016-3427 Remote Security Vulnerability http://www.securityfocus.com/bid/86421
+
+﻿" Oracle Java SE and JRockit CVE-2016-3427 远程安全漏洞，来自 SecurityFocus 的公告： https://t.co/sxCjgvfYAv"
+
+securxcess @securxcess
+
+[ Popular Software ]  Apache Update: TLS Certificate Authentication Bypass with HTTP/2 (CVE-2016-4979) - SANS Internet Storm Center http://ow.ly/N549301XVR3
+
+﻿"Apache 版本更新，本次更新修复了一个 HTTP/2 TLS 证书验证绕过漏洞(CVE-2016-4979)： https://t.co/M9hrtDbst0"
+
+Full Disclosure @SecLists
+
+[ Popular Software ]  Putty (beta 0.67) DLL Hijacking Vulnerability http://goo.gl/fb/6LLLg0 #FullDisclosure
+
+﻿" Putty (beta 0.67) DLL 劫持漏洞，来自 FullDisclosure 公告： https://t.co/JJkSwWI1J6 "
+
+Keystone Engine @keystone_engine
+
+[ Tools ]  Webasm is a web-based tool to encode/decode instructions using Keystone & @ capstone_engine! https://github.com/pmarkowsky/webasm https://t.co/xHjbTsfR6S
+
+﻿"Webasm - 基于 Keystone 和 Capstone，提供汇编和反汇编功能的 Web 工具：  https://t.co/QVJs28ax4x https://t.co/xHjbTsfR6S"
+
+ 
+James Forshaw @tiraniddo
+
+[ Tools ]  Added a few new features to OleViewDotNet including Python filters for the tree viewer. https://github.com/tyranid/oleviewdotnet https://t.co/HX6iKMSg9g
+
+﻿" OleViewDotNet - 集成 OleView 和 Test Container 为一个工具： https://t.co/z8oYDoK70O https://t.co/HX6iKMSg9g"
+
+ 
+Jóseph Mlodzìanowskì @cedoxX
+
+[ Tools ]  Scansploit - Tool for Injecting Malicious Payloads Into Barcodes (code128, QRCodes, DataMatrix and EAN13) -- http://www.kitploit.com/2016/06/scansploit-tool-for-injecting-malicious.html
+
+﻿"Scansploit - 向条形码（Barcode）中注入恶意 Payload 的工具 (code128，QRCodes，DataMatrix 和 EAN13)： https://t.co/TDgZqOrrOF"
+
+Binni Shah @binitamshah
+
+[ Tools ]  How to write an emulator (CHIP-8 interpreter) : http://www.multigesture.net/articles/how-to-write-an-emulator-chip-8-interpreter/
+
+﻿" 怎样编写一个模拟器︰ https://t.co/1EPZ5uSMx3"
+
+Black @pentestit
+
+[ Tools ]  #LaZagne project 1.3 for #Windows with fewer bugs & smaller binary now available - https://github.com/AlessandroZ/LaZagne/releases
+
+﻿" LaZagne - 用于提取各软件保存密码的工具（Windows），如 IE、Firefox： https://t.co/c6whhAJ8VS"
+
+Binni Shah @binitamshah
+
+[ Web Security ]  Cookie Shadow Path Injection : https://c0nradsc0rner.wordpress.com/2016/07/06/cookie-shadow-path-injection/
+
+﻿" Cookie Shadow Path Injection︰ https://t.co/n9mmsmkVgs"
+
+Florian Roth @cyb3rops
+
+[ Windows ]  Overview Windows logons - when do reusable credentials remain on destination systems? Guide: https://technet.microsoft.com/en-us/library/mt631193.aspx#T0E_BM https://t.co/kgqSS9pxbW
+
+﻿"  微软文档《保证特权访问的安全性》︰ https://t.co/5Zyzb6N4F7 https://t.co/kgqSS9pxbW"
+
+ 
+Igor Korkin @Igorkorkin
+
+[ Windows ]  GuardMon disables PatchGuard on Windows 10 x64 using VT-x. details & code - http://igorkorkin.blogspot.com/2016/06/monitoring-controlling-kernel-mode.html video demo - http://youtube.com/watch?v=PUcBtd0fZeA
+
+﻿"GuardMon - 利用 Intel VT-x 禁用 Windows 10 x64 PatchGuard： https://t.co/mtcgUJExkv 视频 Demo： https://t.co/BzudiS3baz"
